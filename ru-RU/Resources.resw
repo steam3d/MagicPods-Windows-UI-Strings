@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -181,7 +181,7 @@
     <value>Ничего</value>
   </data>
   <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>If you choose automatic, the app will try to detect exactly what music you are playing at the moment. If you are listening to music or a video, the app will pause it for you. Otherwise the app will decrease the volume.</value>
+    <value>Если вы выберете автоматически, приложение попытается понять какой тип аудио вы слушаете. Если вы слушаете музыку или видео, приложение остановит воспроизведение, в других случаях просто убавит звук.</value>
   </data>
   <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
     <value>Воспроизведение приостанавливается, когда вы достаете один AirPods из уха или останавливается, когда вы достаете оба AirPods.</value>
