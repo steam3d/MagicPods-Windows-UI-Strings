@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>İşlem bağlantısı kesildi. «Hayır» seçeneği uygulamayı kapatacak. Yeniden bağlan?</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods bulunamadı. AirPods'un bu cihazla eşleştiğinden emin olun ve uygulamayı yeniden başlatın.</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Cihazınız Bluetooth Low Energy'yi desteklemiyor.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>Airpods'ta {0}% şarj kaldı. AirPods'u şarj edin.</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Uyarı</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Açılır pencere ekranı</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Pencereyi göster</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>iPhone'daki gibi, kutuyu açtığınızda açılır pencere ekranını göster.</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Sinyal</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Pencere boyutu</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Küçük</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Orta</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Büyük</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Ayarları Sıfırla</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Uygulamayı kapat</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Kulak bulma</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>Bir AirPods kulağa takılı değiş</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Oynat/Durdur</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Sesi azalt</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>İkisi Birden (Sesi azalt + Oynat/Durdur)</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Hiçbir şey</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Otomatik seçilirse, uygulama ne tür bir şey çalındığını tespit etmeye çalışacak. Ses veya video çalıyorsa, uygulama sizin için durduracak. Yoksa uygulama sesi kısacak.</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Bir AirPods'u çıkardığınızda çalma duracak veya ikisini birden çıkardığınızda çalma sona erecek.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>İle</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Diğer</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Düşük ses gecikmesi</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Premiere Pro ve Audition'da kullanışlı. Açtıktan sonra AirPods'un tekrar bağlanması gerekir. Batarya tüketimini arttırabilir.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Yardım al</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Sorun bildir</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Hata ayıklama günlüğü</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Sorunlar bildir</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Hata ayıklamayı etkinleştir</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Airpods ara</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Maksimum</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Minimum</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Canlı sinyal</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>Airpods radyo sinyali ile tespit edilebilir. Minimum sinyali, canlı sinyalin ortalama değeri olarak ayarlayın.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Hızlı arama</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>AirPods arama süresini kısaltır. Etrafta başka kimsenin AirPods kullanmadığından emin olduğunuzda açın.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Ayarlar</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Başlangıç</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Başlangıçta çalıştır</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Bunu, Görev Yöneticisindeki Başlangıç sekmesinden etkinleştirebilir veya devre dışı bırakabilirsiniz.</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Başlangıç, grup politikası tarafından devre dışı bırakıldı veya bu cihazda desteklenmiyor.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Sistem tepsisi simgesi</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Simgeyi gizle</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Değişiklikleri uygulamak için programları yeniden başlatın.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>AirPods şarjını simgede göster</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>AirPods bağlandığında, sistem tepsisi simgesi sol ve sağ kulaklığınızın ortalama şarjını gösterecektir. Simge dakikada bir güncellenir.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Batarya simgesi</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Analog</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Dijital</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Başlangıcı etkinleştir</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Batarya durumunu görmek için kutuyu açın veya AirPods'u bağlayın</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>AirPods bağlantısı kesildi</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Ayarlar</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Çıkış</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Yardım</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Batarya bilgisi</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Genel ayarlar</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Deneysel özellikler</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>MagicPods'u kapat</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Destek</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Uygulama kapatılacak ve bütün fonksiyonlar devre dığı bırakılacak.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>MagicPods'u kapat?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Kulağınızdan bir AirPods'u çıkardığınızda ses azalır, her iki AirPods'u çıkardığınızda / taktığınızda eski haline döner.</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Desteklenin cihazlar listesi</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>AirPods arama alanı</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Pencere görünmüyorsa, içinde AirPods olan kutuyu açın ve animasyon görünene kadar kaydırıcıyı yavaşça sağa kaydırın.</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Arama alanı nedir?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>İpucu</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>65'ten büyük bir değer ayarlamayın. Bazı durumlarda, animasyon yanlışlıkla görünebilir.</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Uyarı</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Deneysel özellikler herkes için çalışmayabilir ve bazı durumlarda uygulama veya AirPods çökebilir.</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Bağlantı eylemleri</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Bazen AirPods bağlandığında ve kutu açıkken pil simgesi yanıp sönebilir.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>«Bağlan» butonunu göster</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Açılır pencerede «Bağlan» butonunu göster veya gizle. Düğmeye basmak AirPods'u bağlayacaktır.</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Otomatik olarak bağlan</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Sağ veya sol AirPods'u kutudan çıkardığınızda otomatik olarak AirPods'a bağlanın.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>AirPods bağlantısı kesildi</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Otomatik oynat</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>AirPods bağlandıktan sonra «Oynat» komutunu gönder.</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Açık oynatıcı yoksa, Windows komutu dikkate almaz.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Tüm ayarlar sıfırlanacaktır. Devam etmek istiyor musun?</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Evet, ayarları sıfırla</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>İpucu</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Kullanımınıza bağlı olarak, değeri {0} olarak ayarlamanızı öneririz.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Uygula</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Hatırlatma</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>AirPods'a bağlanılamadı. Manuel olarak bağlanmayı deneyin.</value>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>Kulağınızdan bir AirPods'u çıkardığınızda çalma duraklatılır ve ses seviyesi azalır veya her iki AirPods'u çıkardığınızda durur ve ses eski haline döner.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>AirPods'u, Windows Bluetooth cihazları listesine ekle</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods, AirPods Gen 1-2, AirPods Pro ve PowerBeats Pro'yu destekler.</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>AirPods kutusunu bilgisayara olabildiğince yaklaştırıp kutuyu açın.</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Sonraki</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Arama alanı - bilgisayarınızın açık bir AirPods kutusu arayacağı alan.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+</root>

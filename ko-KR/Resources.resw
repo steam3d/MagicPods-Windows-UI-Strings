@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>데스크톱 프로세스에 대한 연결이 끊어졌습니다. 다시 연결하시겠습니까? «아니오»를 누르면 앱을 종료합니다.</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>Airpods이 발견되지 않았어요. 에어팟이 장치와 페어링되었는지 확인하고 앱을 다시 시작해주세요.</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>PC가 저전력 Bluetooth를 지원하지 않아요.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>AirPods의 남은 배터리 {0}%. AirPods을 충전해주세요</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>경고</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>팝업 창</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>창 표시</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>케이스를 열 때, iPhone에서처럼 팝업을 표시하거나 숨겨요.</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>신호</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>창 크기</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>작게</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>중간</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>크게</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>설정 초기화</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>앱 종료</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>착용 감지</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>airpods 한개를 뺐을 때</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>재생/일시 정지</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>볼륨 줄이기</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>둘다 (소리 줄이기 + 재생/일시 정지)</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>없음</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>자동을 선택하면 앱이 현재 재생중인 음악을 정확히 감지하려고 시도합니다. 음악이나 동영상을 듣고있는 경우 앱이 일시 중지합니다. 그렇지 않으면 앱이 볼륨을 줄입니다.</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>한 개의 AirPods을 빼면 재생이 일시 정지되고 두 개의 AirPods을 빼면면 재생이 중지 돼요.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>볼륨</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>기타</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>낮은 오디오 지연</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Premiere Pro 또는 Audition에서 작동할 때 유용해요. 옵션을 켠 후 AirPods을 다시 연결해야 해요. 배터리 소모량을 증가시킬 수 있어요.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>도움말</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>문제 신고</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>디버그 로그</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>문제들 신고</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>디버그 활성화</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Airpods 찾기</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>최대</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>최소</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>라이브 신호</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>이 AirPods은 신호 반경에서 감지될 수 있어요. 최소 신호를 라이브 신호의 평균 값으로 설정해주세요.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>빠른 검색</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>AirPods의 검색 시간을 단축할 수 있어요. 주변에 다른 에어팟이 없을 때 켜주세요.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>시작 프로그램</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>시작 프로그램 사용</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>작업 관리자의 시작 프로그램 탭에서 이 설정을 변경할 수 있어요.</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>그룹 정책에 의해 시작 프로그램이 비활성화되었거나 이 장치에서 지원되지 않아요.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>시스템 트레이 아이콘</value>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>아이콘 숨기기</value>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>적용하려면 앱을 다시 시작 해주세요.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>아이콘에 AirPods 배터리 상태 표시</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>AirPods이 연결되면 시스템 트레이 아이콘에 양쪽 AirPods의 평균 배터리 잔량을 표시 해요. 매 분마다 아이콘은 업데이트 돼요.</value>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>배터리 아이콘</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>아날로그</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>디지털</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>시작프로그램 활성화</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>케이스를 열거나 AirPods 연결시
+배터리 잔량 확인</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>AirPods 연결 끊김</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>나가기</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>도움</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>아니오</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>예</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>배터리 정보</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>기본 설정</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>실험적 기능</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>MagicPods 닫기</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>지원</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>응용 프로그램이 종료되고 모든 기능이 비활성화되어요.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>MagicPods를 종료하시겠습니까?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>귀에서 하나의 AirPods를 제거하면 볼륨이 감소하거나 양쪽 AirPod를 제거 / 장착하면 볼륨이 복원돼요.</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>지원되는 플레이어 목록</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>AirPods 검색 범위</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>팝업이 나타나지 않으면 AirPods 케이스를 열고 애니메이션이 나타날 때까지 검색 범위를 높여요.</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>검색 범위이란 무엇인가요?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>팁</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>65보다 큰 값을 설정하지 말아주세요. 애니메이션이 오작동 할 수 있어요.</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>경고</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>실험적 기능이 모든 사람에게 작동하지 않을 수 있어요. 앱 또는 AirPods이 충돌 할 수 있어요.</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>연결 동작</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>가끔 에어팟이 연결되고 케이스가 열리면 배터리 아이콘이 깜박일 수 있어요.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>«연결» 버튼 표시</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>팝업에서 «연결» 버튼을 표시하거나 숨길 수 있어요. «연결» 버튼을 누르면 AirPods이 연결되어요.</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>자동 연결</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>케이스에서 오른쪽 또는 왼쪽 AirPods를 꺼내면 AirPods에 자동으로 연결되어요.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>AirPods 연결이 중지됨</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>자동 재생</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>AirPods를 연결 한 후 «Play» 명령을 보내요.</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>열려있는 플레이어가없는 경우 Windows는 명령을 무시해요.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>모든 설정이 초기화되어요. 계속 하시겠습니까?</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>예, 설정을 재설정합니다.</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>팁</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>사용량에 따라 값을 {0}으로 설정하는 것이 좋아요.</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>적용</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>상기하지 않아요</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>AirPods에 연결하지 못했어요. 수동으로 연결해주세요.</value>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>귀에서 하나의 AirPods을 제거하면 재생을 일시 중지하고 볼륨 감소되어요. 양쪽 AirPods을 모두 제거하면 재생을 중지되고 볼륨이 복원됩니다.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Windows Bluetooth 장치 목록에 AirPods 추가</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods는 AirPods Gen 1-2, AirPods Pro 및 PowerBeats Pro를 지원해요.</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>AirPods을 컴퓨터에 가깝게 가져와서 케이스를 열어요.</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>검색 범위 - 컴퓨터가 열려있는 AirPods 케이스를 검색할 반경이에요.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>AirPods 검색중</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>창 위치</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>왼쪽 상단 모서리</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>오른쪽 상단 모서리</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>가운데</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>왼쪽 하단 모서리</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>오른쪽 하단 모서리</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>오디오</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>오디오 출력 자동 변경</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>양쪽 에어팟이 귀에 있지 않을때 기본 스피커로 출력을 변경해요.</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>기본 스피커 선택</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>장치를 사용할 수 없거나 제거됨</value>
+  </data>
+</root>
