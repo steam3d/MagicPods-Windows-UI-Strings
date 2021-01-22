@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_LostConnection" xml:space="preserve">
-    <value>데스크톱 프로세스에 대한 연결이 끊어졌습니다. 다시 연결하시겠습니까? «아니오»를 누르면 앱을 종료합니다.</value>
+    <value>데스크톱 프로세스에 대한 연결이 끊어졌습니다.«아니오»를 누르면 앱을 종료합니다. 다시 연결 하시겠습니까?</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>Airpods이 발견되지 않았어요. 에어팟이 장치와 페어링되었는지 확인하고 앱을 다시 시작해주세요.</value>
@@ -459,5 +459,11 @@
   </data>
   <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
     <value>장치를 사용할 수 없거나 제거됨</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>Microsoft Visual C ++ 2015 Redistributable 설치를 완료하려면 다음과 같이 하십시오. 설치 후 MagicPods를 재시작 하세요.</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>더 알아보기</value>
   </data>
 </root>
