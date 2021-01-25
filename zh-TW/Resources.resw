@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -125,7 +125,7 @@
     <value>無法搜尋到 AirPods。請確定您已經先將 AirPods 與此電腦完成配對後，再重新啟動此應用程式。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>您的電腦不支援藍牙低功耗模式（藍牙 4.0 以上版本）</value>
+    <value>您的電腦不支援藍牙低功耗模式（藍牙 4.0 以上版本）。</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% 電量偏低，請替您的 AirPods 充電。</value>
@@ -230,7 +230,7 @@
     <value>開機時自動執行</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>您可以在「工作管理員」的「開機」活頁標籤中啟用或停用此服務</value>
+    <value>您可以在「工作管理員」的「開機」活頁標籤中啟用或停用此服務。</value>
   </data>
   <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
     <value>開機自動執行功能已被群組原則停用，或者此裝置無法支援。</value>
