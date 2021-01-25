@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -124,10 +124,10 @@
     <value>AirPods wurden nicht gefunden. Überprüfe, ob die AirPods gekoppelt sind und starte die App neu.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Dein PC unterstützt kein Bluetooth Low Energy</value>
+    <value>Dein PC unterstützt kein Bluetooth Low Energy.</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% Akku verbleibend. Lade deine AirPods auf</value>
+    <value>{0}% Akku verbleibend. Lade deine AirPods auf.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Warnung</value>
@@ -262,7 +262,7 @@
     <value>Wenn die AirPods verbunden sind zeigt das Icon den durchschnittlichen Batteriestand beider AirPods an. Es aktualisiert jede Minute.</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Batterieicon</value>
+    <value>Batterie icon</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>Analog</value>
@@ -274,7 +274,7 @@
     <value>Autostart aktivieren</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
-    <value>Öffne das Case oder verbinde deine AirPods, um den Batteriestand anzuzeigen.</value>
+    <value>Öffne das Case oder verbinde deine AirPods, um den Batteriestand anzuzeigen</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods getrennt</value>
@@ -367,7 +367,7 @@
     <value>Verbindet sich automatisch mit deinen AirPods, sobald du einen aus dem Case nimmst.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods </value>
+    <value>AirPods wurden nicht mehr verbunden</value>
   </data>
   <data name="Settings_Connection_Text5.Header" xml:space="preserve">
     <value>Automatische Wiedergabe</value>
@@ -400,7 +400,7 @@
     <value>Verbindung zu den AirPods fehlgeschlagen. Versuche eine manuelle Verbindung.</value>
   </data>
   <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
-    <value>Die Wiedergabe wird pausiert, wenn du einen AirPod aus dem Ohr nimmst oder gestoppt, wenn du beide entfernst. </value>
+    <value>Die Wiedergabe wird pausiert, wenn du einen AirPod aus dem Ohr nimmst oder gestoppt, wenn du beide entfernst.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Füge AirPods zu deinen Bluetooth Geräten in Windows hinzu</value>
