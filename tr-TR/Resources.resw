@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -422,10 +422,10 @@
     <value>AirPods'u, Windows Bluetooth cihazları listesine ekle</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods, AirPods Gen 1-2, AirPods Pro ve PowerBeats Pro'yu destekler.</value>
+    <value>MagicPods, AirPods Gen 1-2, AirPods Pro ve PowerBeats Pro'yu destekler</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>AirPods kutusunu bilgisayara olabildiğince yaklaştırıp kutuyu açın.</value>
+    <value>AirPods kutusunu bilgisayara olabildiğince yaklaştırıp kutuyu açın</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Sonraki</value>
