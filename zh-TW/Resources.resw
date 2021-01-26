@@ -427,4 +427,46 @@
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>關閉</value>
   </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>正在搜尋 AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>視窗位置</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>左上角</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>右上角</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>畫面中央</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>左下角</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>右下角</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>音效</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>自動切換音效輸出</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>當兩耳的 AirPods 皆從耳朵取下時，自動切換音效輸出裝置從 AirPods 至預設的喇叭。</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>選擇預設喇叭</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>裝置無法使用或已被移除</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>若需啟用此功能，請安裝 Microsoft Visual C ++ 2015 可轉散發套件後，再重新啟動 MagicPods。</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>更多資訊</value>
+  </data>
 </root>
