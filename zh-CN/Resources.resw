@@ -362,8 +362,7 @@
     <value>显示“连接”按钮</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>显示或隐藏弹窗动画中的“连接”按钮。
-点击该按钮将与 AirPods 进行连接。</value>
+    <value>显示或隐藏弹窗动画中的“连接”按钮，通过点击该按钮与 AirPods 进行连接。</value>
   </data>
   <data name="Settings_Connection_Text4.Header" xml:space="preserve">
     <value>自动连接</value>
@@ -460,5 +459,11 @@
   </data>
   <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
     <value>设备不可用或已移除</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>进一步了解</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>需要安装 Microsoft Visual C ++ 2015 Redistributable，在安装完毕后请重启 MagicPods。</value>
   </data>
 </root>
