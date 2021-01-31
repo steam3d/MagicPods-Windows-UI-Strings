@@ -165,4 +165,80 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>Sair</value>
   </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>A reprodução é pausada quando você remove um lado dos AirPods ou é interrompida quando você remove ambos os lados dos AirPods.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>Em</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Outros</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Baixa latência de áudio</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Útil quando utilizado com o Premiere Pro ou o Audition. Requer reconectar os AirPods após ativação do recurso. Pode aumentar o consumo de bateria.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Reportar problema</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Reportar problemas</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Procurar Airpods</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Busca rápida</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Configurações</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Executar ao inicializar</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Você pode habilitar ou desabilitar este recurso na aba Inicializar do Gerenciador de Tarefas.</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Inicialização desabilitada por política de grupo, ou não suportada neste dispositivo.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Ícone na área de notificação do sistema</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Ocultar ícone</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Exibir ou esconder a janela pop-up como em um iPhone, quando você abrir o estojo.</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>Um airpods fora da orelha</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Se você escolher automático, o app vai tentar detectar exatamente qual música você está tocando no momento. Se você está escutando a uma música ou vídeos, o app vai pausar ele para você. Caso contrário o app irá diminuir o volume.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Reduz o tempo de busca dos AirPods. Ative quando tiver certeza quem mais ninguém ao redor está usando AirPods.</value>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Conexão ao processo desktop perdida. Responder "Não" irá fechar o app. Reconectar?</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Janela pop-up</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Mostrar janela</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Tamanho da janela</value>
+  </data>
 </root>
