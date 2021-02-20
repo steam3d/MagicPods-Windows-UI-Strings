@@ -127,7 +127,7 @@
     <value>您的设备不支持蓝牙低能耗模式（需蓝牙4.0以上版本）。</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% 电量剩余，请及时为您的 AirPods 充电。</value>
+    <value>电量剩余{0}% ，请及时为您的 AirPods 充电。</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
@@ -169,7 +169,7 @@
     <value>不采取任何操作</value>
   </data>
   <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>如果您选择“自动”，应用将尝试对您正在播放的媒体类型进行检测。如果您恰在聆听音乐或收看视频，应用会自动为您暂停。否则将降低音量。</value>
+    <value>如果您选择“自动”，应用将尝试检测您正在播放的媒体类型。如果您正在聆听音乐或收看视频，应用会自动为您暂停。否则将降低音量。</value>
   </data>
   <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
     <value>降低百分比</value>
