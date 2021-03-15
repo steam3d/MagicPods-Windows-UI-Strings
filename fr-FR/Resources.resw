@@ -160,7 +160,7 @@
     <value>Play/Pause</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
-    <value>Diminuer le volume</value>
+    <value>Baisser le volume</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
     <value>Les deux (Diminuer le volume + Play/Pause)</value>
@@ -181,7 +181,7 @@
     <value>Faible latence audio</value>
   </data>
   <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
-    <value>Utile lorsque vous travaillez dans Premiere Pro ou Audition. Nécessite de reconnecter les AirPod après leur mise sous tension. Cela peut augmenter la consommation de la batterie.</value>
+    <value>Utile lorsque vous travaillez dans Premiere Pro ou Audition. Nécessite de reconnecter les AirPods après leur mise sous tension. Cela peut augmenter la consommation de la batterie.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
     <value>Obtenir de l'aide</value>
@@ -262,7 +262,8 @@
     <value>Activer le démarrage</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
-    <value>Ouvrez le boîtier ou connectez-vous aux AirPods pour regarder le niveau de la batterie</value>
+    <value>Ouvrez le boîtier ou connectez-vous aux AirPods
+pour voir le niveau de la batterie</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods déconnectés</value>
@@ -295,7 +296,7 @@
     <value>Taille de la fenêtre</value>
   </data>
   <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
-    <value>La lecture se met en pause quand un AirPods est retiré ou s'arrete quand les deux AirPods sont retirés.</value>
+    <value>La lecture se met en pause quand un AirPods est retiré ou s'arrête quand les deux AirPods sont retirés.</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
     <value>Information sur la batterie</value>
@@ -334,7 +335,7 @@
     <value>Si la fenêtre ne s'affiche pas, ouvrez l'habitacle avec les AirPods à l'intérieur et déplacez délicatement le slider sur la droite jusqu'à ce que l'animation apparaisse.</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
-    <value>Quel est le rayon de recherche</value>
+    <value>Quel est le rayon de recherche ?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>Conseil</value>
@@ -422,5 +423,47 @@
   </data>
   <data name="Status_Search.Text" xml:space="preserve">
     <value>Recherche des AirPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Support</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Position de la fenêtre</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Centre</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Sélectionner le périphérique par défaut</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Appareil non disponible ou supprimé</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>En apprendre plus</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Changement automatique du périphérique de sortie</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>En haut à gauche</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>En haut à droite</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>En bas à gauche</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>En bas à droite</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>Pour activer l'installation de Microsoft Visual C ++ 2015 Redistributable. Redémarrer MagicPods après l'installation.</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Changer la sortie audio des AirPods au périphérique de sortie par défaut quand les deux AirPods sont retirés.</value>
   </data>
 </root>
