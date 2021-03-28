@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,367 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Процес з'єднання з робочим столом невдалий. Відповідь "Ні" закриє додаток. Повторити з'єднання?</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods не знайдено. Переконайтесь, що вони спаровані з приладом та перезапустіть додаток.</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Ваш комп'ютер не підтримує Bluetooth з низьким енергоспоживанням.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% заряду залишилось в AirPods. Зарядіть свої AirPods.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Попередження</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Спливаюче вікно</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Показати вікно</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Сигнал</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Розмір вікна</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Малий</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Середній</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Великий</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Скинути налаштування</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Закрити додаток</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Розпізнавання вуха</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Грати/Пауза</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Зменшити гучність</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Жодної дії</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Програвання стає на паузу, коли ви витягуєте один навушник, або ж зупиняється, якщо витягуєте обидва AirPods.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>На</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Інше</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Низька затримка звуку</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Отримати допомогу</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Повідомити про проблему</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Журнал помилок</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Повідомити про проблему</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Включити налагодження</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Шукати AirPods</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Макс.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Мін.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Поточний сигнал</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Швидкий пошук</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Налаштування</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Автозапуск</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Запускати при запуску системи</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Ви можете увімкнути чи вимкнути це у вкладці Автозавантаження у Диспетчері завдань.</value>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Приховати піктограму</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Перезапустіть додаток для застосування.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Показувати піктограму зарядки AirPods</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Піктограма в області сповіщень</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Піктограма батареї</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Аналоговий</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Цифровий</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Увімкнути автозапуск додатку</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Відкрийте кейс або приєднайтесь до AirPods,
+аби побачити рівень заряду батареї</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>AirPods від'єднано</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Налаштування</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Вихід</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Допомога</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Ні</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Так</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Загальні налаштування</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Експериментальні функції</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Закрити MagicPods</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Закрити MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Закрити</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Скасувати</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Перелік програвачів, які підтримуються</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Радіус пошуку AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Якщо вікно не з'являється, тоді відкрийте кейс із навушниками всередині та повільно переміщуйте повзунок вправо допоки не з'явиться анімація.</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Що таке радіус пошуку?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Підказка</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Попередження</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Дії при під'єднанні</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Інколи, коли AirPods під'єднані, а кейс відкритий, то піктограма батареї може блимати.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Показувати кнопку "Під'єднати"</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Авто під'єднання</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Показувати та ховати спливаюче вікно так, як на iPhone, коли ви відкриваєте кейс.</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>Один навушник витягнуто</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>Обидві дії (Зменшити гучність + Грати/Пауза)</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Якщо ви оберете автоматично, то додаток спробує визначити тип аудіо, який ви слухаєте на разі. Якщо ви слухаєте музику чи дивитесь відео, то додаток поставить їх на паузу. У іншому випадку додаток просто зменшить гучність.</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Корисне, коли працюєш у Premiere Pro або Audition. Вимагає повторного приєднання AirPods після ввімкнення цього. Може збільшитися використання заряду батареї.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>AirPods перестали під'єднуватися</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Автоматичне програвання</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>Надсилати команду "Грати" після під'єднання AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Всі налаштування будуть скинені. Бажаєте продовжити?</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Так, скинути налаштування</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Підказка</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Застосувати</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Не нагадувати</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Не вдалося приєднати AirPods. Спробуйте під'єднатися вручну.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Додати AirPods до списку Bluetooth приладів Windows</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>Додаток MagicPods підтримує AirPods Gen 1-2, AirPods Pro та PowerBeats Pro</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Наступне</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Радіус пошуку - це радіус, у якому ваш комп'ютер шукатиме відкритий кейс AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Закрити</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>Триває пошук AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Розташування вікна</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Верхній лівий кут</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Верхній правий кут</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>По центру</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Нижній лівий кут</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Нижній правий кут</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Аудіо</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Вибрати динаміки за замовчуванням</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Прилад не доступний чи видалений</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>Для використання встановіть Microsoft Visual C ++ 2015 Redistributable. Перезапустіть MagicPods після встановлення.</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Детальніше</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>Пошук AirPods буде відбуватися по радіо сигналу. Задайте значення "Мін." рівним середньому показнику значення "Поточний сигнал".</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Зменшує тривалість пошуку AirPods. Вмикайте, якщо впевнені, що ніхто окрім вас у приміщенні не використовує AirPods.</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Автозавантаження відключене груповою політикою або не підтримується на даному приладі.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Коли AirPods під'єднані, піктограма в області сповіщень показуватиме середнє значення заряду правого та лівого навушника. Значення піктограма оновлюється щохвилини.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Інформація про батарею</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Підтримка</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Додаток закриється та всі функції відключаться.</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Гучність зменшується, якщо ви виймаєте з вуха один навушник, або відновлюється, коли ви виймаєте / вставляєте обидва AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Не встановлюйте значення більшим за 65. У деякий випадках анімація може з'являтися випадково.</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Експериментальні функції можуть працювати не у всіх, а в окремих випадках можуть бути збої у роботі додаток чи навушників.</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Показувати чи ховати кнопку "Під'єднати" на спливаючому вікні. Натискання кнопки під'єднає AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Автоматично під'єднуватися до AirPods, коли ви виймаєте правий чи лівий навушник з кейсу.</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Якщо немає відкритих програвачів, Windows проігнорує команду.</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Зважаючи на ваше користування, рекомендуємо встановити значення на {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>Програвання стає на паузу та гучність зменшується, коли ви виймаєте один навушник з вуха, або зупиняється і гучність відновлюється, коли ви виймаєте обидва навушники.</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Піднесіть кейс ваших AirPods якомога ближче до комп'ютера та відкрийте його</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Автоматично змінювати аудіо вихід</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Перемикати звук з AirPods на динаміки за замовчування, коли обидва навушники витягнуті з вух.</value>
+  </data>
 </root>
