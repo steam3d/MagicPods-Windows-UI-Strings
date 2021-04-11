@@ -469,4 +469,43 @@
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
     <value>更多資訊</value>
   </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>VoiceOver 通知</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>連線 AirPods 並將其設為音訊輸出裝置時，VoiceOver 會推播通知。</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>VoiceOver 設定</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>選擇語音</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>僅可朗讀一種語言。</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>沒有可用的語音或未選擇</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>試聽選擇的語音</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>朗讀</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>選擇可以使用 VoiceOver 傳送通知的應用程式</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>並非列表中的所有應用程式都可以發送通知，某些應用程式可能不在列表中。</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>全部啟用 VoiceOver 通知</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>顯示所有應用程式</value>
+  </data>
 </root>
