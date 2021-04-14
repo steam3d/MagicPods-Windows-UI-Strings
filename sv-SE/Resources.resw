@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,406 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Inställningar</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Uppstart</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Kör vid uppstart</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Du kan aktivera eller inaktivera detta i Uppstartsfliken i Aktivitetshanteraren.</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Uppstart är inaktiverat genom gruppolicy alternativt stöder inte din enhet detta.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Ikon i aktivitetsfältet</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Göm ikon</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Varning</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Pop-up fönster</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Visa fönster</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Visa och dölj pop-up, på samma sätt som när du öppnar eutiet nära en iPhone.</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Signalstyrka</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Fönsterstorlek</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Liten</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Medel</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Stor</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Återställ inställningar</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Stäng program</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Öronavkänning</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Spela/pausa</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Sänk volym</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>Både och (Sänk volymen + Spela/pausa)</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Inget</value>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Starta om programmet för att tillämpa.</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Uppspelningen stoppas när du tar ut ena eller båda utav dina AirPods ur örat.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>Av</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Annat</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Minimal ljudfördröjning</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Användbart vid arbete i Premiere Pro eller Audition. Kräver att du återansluter dina AirPods efter att dom sätts på. Kan öka batteriförbrukning.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Få hjälp</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Felrapport</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Felsökningslogg</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Felrapport</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Aktivera felsökning</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Sök efter AirPods</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Maxmialt</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Minimalt</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Snabbsökning</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Aktuell signalstyrka</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Batteriikon</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Digitalt</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Aktivera uppstart</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Öppna laddningseuti eller anslut
+till dina AirPods för att visa batteristyrka</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>Anslutning förlorad till AirPods</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Inställningar</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Avsluta</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Hjälp</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Nej</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Batteriinformation</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Allmänna inställningar</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Experimentella inställningar</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Stäng MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Support</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Vill du avsluta MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Stäng</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Volymen sänks när du tar ut en hörlur ur örat samt återställer volymen när båda hörlurar tas bort/sätts in.</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Spelare som stöds</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Sökområde AirPods</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Vad är sökområdet?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Värde över 65 kan i vissa fall göra att animeringen visas av misstag.</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Varning</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Experimentella funktioner kanske inte fungerar för alla, risk för instabilitet.</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Anslutningsåtgärder</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Påminn inte</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Tip</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Visa «Connect» knapp</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Visa/göm «Connect» knapp i pop-up fönster. Tryck på knappen resulterar i att AirPods ansluts till datorn.</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Automatisk anslutning</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Anslut automatiskt till AirPods när någon utav hörlurarna tas ut ur laddningsetuiet.</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Automatiskt uppspelning</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>Skicka «Play» efter anslutning av AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Om det inte finns några öppna spelarfönster kommer kommandot att ignoreras.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Ja, återställ alla inställningar</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Tips</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Baserat på användning rekomenderas att detta värde sätts till {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Tillämpa</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Analogt</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Din dator stödjer inte Bluetooth low energy (BLE).</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% batteristyrka kvar i AirPods. Du behöver ladda dina AirPods.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>En AirPod ute ur örat</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>Radiodetektering kan aktiveras för dina airpods. Ställ in ett minsta snittvärde för detektering av radiosignaler.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Kortar ner söktiden för AirPods. Aktivera endast när du är säker på att ingen annan i närheten använder AirPods.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Visa laddningsstatus på ikonen</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Det gick inte att ansluta AirPods. Försök ansluta manuellt.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Lägg till AirPods till Windows inbyggda lista över Bluetoothenheter</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods stödjer AirPods generation 1-2, AirPods Pro samt PowerBeats Pro</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>För ditt AirPod-etui så nära datorn som möjlighet och öppna locket</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Nästa</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Stäng</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>Söker efter AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Fönsterposition</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Högst upp vänster hörn</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Högst upp höger hörn</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Mitten</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Längst ned vänster hörn</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Längst ned höger hörn</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Ljud</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Automatiskt växling av ljudutgång</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Välj standardhögtalare</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Enheten är inte tillgänglig alternativt borttagen</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>För att aktivera behöver Microsoft Visual C ++ 2015 Redistributable installeras. MagicPods behöver startas om efter installationen.</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Läs mer</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>VoiceOver notifikationer</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Konfigurera</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>VoicOver inställningar</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Välj röst</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Lyssna på texten med vald röst</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Ingen röst har blivit vald, alternativt är rösten inte tillgänglig</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Prata</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>VoiceOver notifikation från dessa avsändare</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Alla applikationer i listan kan inte skicka notifikationer, vissa applikationer saknas i listan.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>VoiceOver för alla notifikationer</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Visa alla program</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>När dina AirPods är anslutna kommer ikonen i aktivitetsfältet att visa ett snitt av batteristyrkan för både vänster och höger hörlur. Uppdateras varje minut.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Programmet kommer att avslutas och alla funktioner inaktiveras.</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Om fönstret inte visas öppna etuiet med bägge hörlurar inuti samt flytta reglaget långsamt till höger tills det att animeringern visas.</value>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>Uppspelningen pausas och volymen sänks när du tar ut en hörlur från örat. Uppspelning stoppas helt och volymen återställs om bägge hörlurar tas ut.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Sökradius - hur brett din dator ska söka efter öppna AirPod-eutier.</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Byt automatiskt ljudutgång från AirPods till standardhögtalare när bägge AirPods plockas ut ur öronen.</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>VoiceOver notifierar när AirPods är anslutna och vald som ljudutgång.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Uppläsaren kan endast läsa text som är samma språk som har valts.</value>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Anslutning till systemprocess förlorad. «No» innebär att programmet stängs. Vill du återansluta?</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>Kunde inte hitta AirPods. Säkerställ att dina AirPods är ihopparade med din dator, starta sedan om programmet.</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>När automatik är aktiverad kommer programmet att försöka detektera vilken typ av musik du lyssnar på vid det givna tillfället. Om du lyssnar på musik eller tittar på ett videoklipp så kommer programmet att pausa åt dig. I andra fall ko annatvolymen att sänkas.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Batteriikonen kan eventuellt blinka när dina AirPods är anslutna och etuiet är öppet.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>Anslutningen till AirPods stoppades</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Alla inställningar kommer att återställas. Är du säker på att du vill fortsätta?</value>
+  </data>
 </root>
