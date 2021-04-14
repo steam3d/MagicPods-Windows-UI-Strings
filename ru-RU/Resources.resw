@@ -466,4 +466,40 @@
   <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
     <value>Чтобы использовать установите Microsoft Visual C ++ 2015 Redistributable. Перезапустите MagicPods после установки.</value>
   </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Озвучивать уведомления</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Выберите голос</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Диктор может зачитывать текст только на одном языке.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Голос не выбран или не доступен</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Проговорить</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Озвучивать уведомления от этих приложений</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Озвучивать все уведомления</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Показать все приложения</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>Озвучивать уведомления когда AirPods подключены и выбраны в качества устройства вопроизведения.</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Настроить</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Проговорить текст выбранным голосом</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Не все приложения из списка могут отправлять уведомления, некоторые приложения могут отсуствовать в списке.</value>
+  </data>
 </root>
