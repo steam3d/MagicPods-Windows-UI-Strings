@@ -519,4 +519,10 @@ to watch battery level</value>
   <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
     <value>Show all apps</value>
   </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>VoiceOver can't get access to notifications. Please open «Privacy and notifications»‎, allow notifications access, and turn on VoiceOver again.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Privacy and notifications</value>
+  </data>
 </root>
