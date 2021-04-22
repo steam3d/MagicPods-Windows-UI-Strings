@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_LostConnection" xml:space="preserve">
-    <value>La connexion a été perdue. Répondre «Non» fermera l'application. Voulez-vous réessayer ?</value>
+    <value>La connexion a été perdu. Répondre « Non » fermera l'application. Voulez-vous réessayer ?</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>Les AirPods n'ont pas été trouvés. Assurez-vous que les AirPods sont couplés à cet appareil et redémarrez l'application.</value>
+    <value>Les AirPods n'ont pas été trouvé. Assurez-vous que les AirPods sont jumelés à cet appareil et redémarrez l'application.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>Votre PC ne prend pas en charge le Bluetooth à basse énergie (BLE).</value>
@@ -130,7 +130,7 @@
     <value>{0}% de charge restant. Chargez vos AirPods.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
-    <value>Attention</value>
+    <value>Avertissement</value>
   </data>
   <data name="Settings_Popup_Text3.Header" xml:space="preserve">
     <value>Signal</value>
@@ -157,7 +157,7 @@
     <value>Un Airpods hors de l'oreille</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
-    <value>Play/Pause</value>
+    <value>Lecture/Pause</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
     <value>Baisser le volume</value>
@@ -465,5 +465,53 @@ pour voir le niveau de la batterie</value>
   </data>
   <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
     <value>Changer la sortie audio des AirPods au périphérique de sortie par défaut quand les deux AirPods sont retirés.</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Configurer</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Aucune voix sélectionnée ou disponible</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Écoutez le texte avec la voix sélectionnée</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Parler</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Notifications VoiceOver de ces applications</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Pas toutes les applications de cette liste peuvent envoyer des notifications, certaines applications peuvent ne pas être dans cette liste.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>VoiceOver toutes les notifications</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Afficher toutes les applications</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Configuration de VoiceOver</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Notifications VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Choisissez une voix</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Ajouter une nouvelle voie</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Confidentialité et notifications</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>La fonctionnalité « Notification VoiceOver » est désactivée, impossible d'accéder aux notifications. Veuillez ouvrir « Confidentialité et notifications », autoriser l'accès aux notifications, puis activer « Notification VoiceOver ».</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>VoiceOver annonce les notifications lorsque les AirPods sont connectés et définis comme périphérique de sortie audio.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>L'annonceur peut lire le texte dans une seule langue.</value>
   </data>
 </root>
