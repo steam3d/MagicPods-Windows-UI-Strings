@@ -466,4 +466,52 @@
   <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
     <value>需要安装 Microsoft Visual C ++ 2015 Redistributable，在安装完毕后请重启 MagicPods。</value>
   </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>添加一个新的声音</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>旁白提醒</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>显示所有应用</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>选取一种语音</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>朗读员只能用一种语言读文字。</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>朗读</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>旁白设置</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>当AirPods链接并作为音频输出设备时旁白将进行提醒。</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>旁白从这些应用发送的提醒</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>并非列表中的所有应用程序都可以发送通知，有些应用程序可能不在列表中。</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>没有选择或可用的语音</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>用选定的声音聆听文本阅读</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>旁白所有提醒</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>隐私与提醒</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>“旁白提醒”功能已关闭，没有访问提醒权限，请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开“旁白提醒”。</value>
+  </data>
 </root>
