@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,217 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>Oba (Zmniejsz głośność + Wznów/Zatrzymaj odtwarzanie)</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Jeśli wybierzesz tryb automatyczny, aplikacja będzie starać się wykryć odtwarzaną muzykę. Jeśli słuchasz muzyki lub oglądasz film, aplikacja wstrzyma odtwarzanie za Ciebie. W innym przypadku aplikacji zmniejszy głośność w systemie.</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Niskie opóźnienie dźwięku</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Przydatne podczas pracy w programach typu Premiere Pro/Audition. Funkcja wymaga ponownego połączenia się z AirPodsami po jej włączeniu. Możliwe zwiększone zużycie baterii.</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Zgłoś błędy</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Otwórz etui lub połącz się z AirPods'ami
+aby zobaczyć stan baterii</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Aplikacja zostanie zamknięta, a cała funkcjonalność wyłączona.</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Twój komputer nie wspiera technologii BLE.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>Pozostało {0}% baterii w AirPodsach. Podłącz je do ładowania.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Ostrzeżenie</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Okno pop-up</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Sygnał</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Wielkość okna</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Duża</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Średnia</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Mała</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Przywróć domyślne</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Zamknij</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>Gdy jedna słuchawka jest poza uchem</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Wznów/Zatrzymaj odtwarzanie</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Zmniejsz głośność</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Nic nie rób</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Odtwarzanie zostanie wstrzymane, kiedy wyjmiesz co najmniej jedną słuchawkę z ucha.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Pozostałe opcje</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Uzyskaj pomoc</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Zgłoś błąd</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Dziennik logów</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Włącz tryb debugowania</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Szukaj AirPods'ów</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Maks.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Min.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Szybkie wyszukiwanie</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Zmniejsza czas wyszukiwania AirPods'ów. Włącz tylko gdy nikt w pobliżu nie używa innych AirPods'ów.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Ustawienia</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Uruchamianie</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Możesz włączyć lub wyłączyć tą funkcję w zakładce Uruchamianie w Menadżerze zadań.</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Uruchom z systemem</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Automatyczne uruchamianie zablokowane przez polisę lub nie jest wspierane na tym urządzeniu.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Ikona zasobnika</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Ukryj</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Wymaga ponownego uruchomienia aplikacji.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Pokazuj stan naładowania AirPodsów</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Gdy AirPods'y są połączone, ikona w zasobniku systemowym będzie pokazywać średnie naładowanie słuchawek. Ikona aktualizuje swój stan co minutę.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Wygląd ikony baterii</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Zamknij</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Analogowy</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Cyfrowy</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Włącz uruchamianie z systemem</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>AirPods'y rozłączone</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Ustawienia</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Pomoc</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Nie</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Tak</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Stan baterii</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Ogólne ustawienia</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Funkcje eksperymentalne</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Zamknij MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Wsparcie</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Zamknąć MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Zamknij</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Połączenie z usługą utracone. Odpowiedź «Nie» zamknie aplikację. Połączyć ponownie?</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>Nie udało się znaleźć AirPods'ów. Upewnij się, że są połączone z tym urządzeniem i uruchom ponownie aplikację.</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Włącz</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Włącza pokazywanie i chowanie okienka pop-up podobnego do tego w iOS, uruchamianego przy otwarciu etui.</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Wykrywanie ucha</value>
+  </data>
 </root>
