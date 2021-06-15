@@ -279,7 +279,7 @@
     <value>Batarya simgesi</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analog</value>
+    <value>Görsel</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Dijital</value>
@@ -288,7 +288,8 @@
     <value>Başlangıcı etkinleştir</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
-    <value>Batarya durumunu görmek için kutuyu açın veya AirPods'u bağlayın</value>
+    <value>Batarya durumunu görmek için kutuyu açın
+veya AirPods'u bağlayın</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods bağlantısı kesildi</value>
@@ -438,5 +439,92 @@
   </data>
   <data name="Status_Search.Text" xml:space="preserve">
     <value>AirPods aranıyor</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Yeni ses ekle</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Sol üst köşe</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Orta</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Sol alt köşe</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Sağ alt köşe</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Ses</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Ses çıkış aygıtını otomatik olarak değiştir</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Varsayılan ses çıkış aygıtını seçin</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Aygıt hazır değil veya çıkarıldı</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Daha fazlasını öğrenin</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Ayarla</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Sesli geri bildirim ayarları</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Bir ses tonu seçin</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Seslendirme sadece tek bir dili destekler.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Ses tonu bulunamadı veya seçilmedi</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Seçilen ses tonu ile metni dinle</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Dinle</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Listedeki tüm uygulamalar bildirim gönderemeyebilir, bazı uygulamalar listede olmayabilir.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Tüm bildirimleri sesli geri bildir</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Tüm uygulamaları göster</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Pencere konumu</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Sağ üst köşe</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Gizlilik ve bildirimler</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Her iki AirPods kulağımda değilken varsayılan ses aygıtına geçiş yap.</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>Bu seçeneği aktif etmek için Microsoft Visual C++ 2015 Redistributable yüklü olmalıdır. Yükleme sonrası MagicPods'u yeniden başlatın.</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>Sesli geri bildirim, AirPods her bağlandığında sesli geri bildirimde bulunacak.</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Sesli geri bildirim</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Bu kaynaklardan gelen bildirimleri sesli olarak geri bildir</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>"Sesli geri bildirim" özelliği devre dışı, bildirimlere erişilemiyor. Lütfen Gizlilik ve bildirimler bölümünü açın, bildirimlere izin verin, ardından "Sesli geri bildirim" seçeneğini aktif edin.</value>
   </data>
 </root>
