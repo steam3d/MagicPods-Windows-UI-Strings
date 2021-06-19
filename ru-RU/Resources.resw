@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -513,5 +513,11 @@
   </data>
   <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
     <value>Добавить новый голос</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Подключение отменено</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Подключение отменено</value>
   </data>
 </root>
