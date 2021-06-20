@@ -102,7 +102,7 @@ para ver el nivel de bateria</value>
     <value>Un airpod esta fuera de la oreja</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
-    <value>Play/Pause</value>
+    <value>Reproducir/Pausar</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
     <value>Bajar volumen</value>
@@ -359,7 +359,7 @@ para ver el nivel de bateria</value>
     <value>Agregue AirPods a la lista de dispositivos Bluetooth de Windows</value>
   </data>
   <data name="Dialog_LostConnection" xml:space="preserve">
-    <value>Conexion al proceso de escritorio ha sido perdida. Respondiendo "NO" cerrara la aplicacion. Reconectar?</value>
+    <value>La conexión al proceso de escritorio se ha perdido. Respondiendo "No" cerrará la aplicación ¿Desea reconectar?</value>
   </data>
   <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
     <value>Ventajoso cuando esta utilizando Premiere Pro o Audition. Esto requiere reconectar los AirPods desde de prender la opcion. Es posible que se note un incremento en el consumo de la bateria.</value>
@@ -374,7 +374,7 @@ para ver el nivel de bateria</value>
     <value>No todas las aplicaciones de la lista pueden enviar notificaciones, es posible que algunas aplicaciones no estén en la lista.</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods no encontrados. Asegurese que los AirPods estan descubiertos en este dispositivo y reinicie la aplicacion.</value>
+    <value>AirPods no encontrados. Asegúrese que los AirPods están emparejados a este dispositivo y reinicie la aplicación.</value>
   </data>
   <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
     <value>Habilite la depuracion de eventos</value>
@@ -400,7 +400,7 @@ para ver el nivel de bateria</value>
     <value>Centro</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% de carga en los AirPods. Cargue sus AirPods.</value>
+    <value>{0}% de carga restante en los AirPods. Cargue sus AirPods.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -416,7 +416,7 @@ para ver el nivel de bateria</value>
     <value>Esquina izquierda inferior</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>Muestre o esconda la pantalla emergente como en el Iphone, cuando abre el case.</value>
+    <value>Muestre o esconda la pantalla emergente como en el IPhone, cuando abre el estuche de carga.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
     <value>Icono del system tray</value>
@@ -468,5 +468,11 @@ para ver el nivel de bateria</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
     <value>Escuche el texto con la voz seleccionada</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Conexión cancelada</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Otros AirPods se encuentran conectados, por favor desconéctelos previamente.</value>
   </data>
 </root>
