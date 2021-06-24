@@ -290,7 +290,7 @@
     <value>展示弹窗</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>当你打开充电盒时，展示（或隐藏）弹窗动画，就像在iPhone上一样。</value>
+    <value>当你打开充电盒时，像在iPhone上一样展示（或隐藏）弹窗动画。</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>弹窗大小</value>
@@ -516,5 +516,8 @@
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>链接取消</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>已经连接其他AirPods，请先断开。</value>
   </data>
 </root>
