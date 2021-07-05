@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,421 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Funcționalitățile experimentale s-ar putea să nu funcționeze pentru toată lumea, iar în unele cazuri aplicația sau AirPods-urile se pot bloca.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Toată configurările vor fi resetate. Sigur doriți să continuați?</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Conectarea la AirPods nu a reușit. Încercați să le conectați manual.</value>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>Redarea se suspendă și volumul este diminuat atunci când eliminați o cască dintr-o ureche, sau aceasta ia sfârșit și volumul este restabilit când îndepărtați ambele căști.</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Schimbare automată a ieșirii audio</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Schimbarea ieșirii audio de la AirPods la difuzorul implicit atunci când ambele căști AirPods nu se află în urechea dvs.</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Dispozitiv indisponibil sau înlăturat</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>Naratorul anunță notificările atunci când AirPods sunt conectate și configurate ca dispozitiv de ieșire audio.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Notificări Narator de la aceste surse</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Funcționalitatea "Notificări Narator" este dezactivată, nu putem obține acces la notificări. Vă rugăm deschideți "Confidențialitate și notificări", oferiți acces la notificări și activați "Notificări Narator".</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>Bateria AirPods-urilor dvs. este la {0}%. Încărcați-vă AirPods-urile.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Conexiunea cu procesul desktop pierdută. Dacă alegeți „Nu” aplicația se va închide. Doriți să vă reconectați?</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>PC-ul dvs. nu este compatibil cu Bluetooth pentru energie scăzută.</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Atenție</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Fereastră pop-up</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Afișați fereastra</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Afișați sau ascundeți fereastra pop-up ca pe un iPhone atunci când deschideți carcasa.</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Semnal</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Mărimea ferestrei</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Mică</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Medie</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Mare</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Resetați configurările</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Închideți aplicația</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Detectare ureche</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>Un AirPod înafara urechii</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Redare/Suspendare</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Reducere sunet</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>Ambele (Reducere sunet + Redare/Suspendare)</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Niciuna</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Ieșire</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>Cu</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Altele</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Audio cu latență scăzută</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Obțineți ajutor</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Raportați o problemă</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Registre depanare</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Raportați o problemă</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Activați modul de depanare</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Căutați AirPods</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Maximum</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Minimum</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Semnal în direct</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Căutare rapidă</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Reduce timpul de căutare a AirPods-urilor. Activați atunci când sunteți sigur/ă că nimeni din împrejurimi nu folosește AirPods.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Configurări</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Pornire</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Deschiere la pornire</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Puteți activa sau dezactiva această setare în fila Pornire din Managerul de activități.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Pictogramă în bara de activități</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Asunde pictograma</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Reporniți aplicația pentru a aplica.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Afișați simbolul de încărcare al AirPods-urilor pe pictogramă</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Simbol baterie</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Analog</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Digital</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Deschideți la pornire</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Deschideți carcasa sau conectați AirPods-urile
+pentru a verifica nivelul bateriei</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>AirPods-uri deconectate</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Configurări</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Ajutor</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Nu</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Da</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Informații baterie</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Configurări generale</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Caracteristici experimentale</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Închideți MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Asistență</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Închideți MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Închideți</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Infirmați</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Acțiuni la conectare</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Atunci când AirPods-urile sunt conectate și carcasa este deschisă simbolul baterie poate începe să clipească.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Arată butonul «Conectați»</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Afișați sau ascundeți butonul "Conectați" de pe fereastra pop-up. Apăsând pe buton vă veți conecta AirPods-urile.</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Auto-conectare</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Conectați-vă automat la AirPods atunci când o cască este scoasă din carcasă.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>AirPods-urile nu se mai conectează</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Redare automată</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>Transmiteți comanda «Redare» atunci când vă conectați la AirPods.</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Lista furnizorilor suportați</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Arie de căutare AirPods-uri</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Care este aria de căutare?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Sfat</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Nu alegeți o valoare mai mare de 65. În unele cazuri animația poate să apară accidental.</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Atenție</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Dacă nu există furnizori de conținut, Windows va ignora comanda.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Da, resetează configurările</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Sfat</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Având în vedere statisticile de utilizare ale dvs., vă recomandăm să setați valoarea la {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Aplicați</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Nu îmi aminti</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Adăugați AirPods în lista de dispozitive Bluetooth din Windows</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods funcționează cu AirPods Generația 1 și 2, AirPods Pro, AirPods Max și PowerBeats Pro</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Aduceți carcasa AirPods-urilor cât se poate de aproape de computer și deschideți-o</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Următorul</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Arie de căutare - aria în care computerul dvs. va căuta o carcasă AirPods deschisă.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Închideți</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>Căutare AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Poziția ferestrei</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Colțul din stânga-sus</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Colțul din dreapta-sus</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Centru</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Colțul din stânga-jos</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Colțul din dreapta-jos</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods-urile dvs. nu au fost găsite. Verificați că v-ați conectat AirPods-urile la acest dispozitiv și reporniți aplicația.</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Util atunci când lucrați în aplicații precum Premiere Pro sau Audition. Necesită reconectarea AirPods-urilor după activare. Poate crește consumul bateriei.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>AirPods-urile pot fi detectate prin semnal radio. Configurați nivelul minim de semnal precum valoare medie a semnalului în direct.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Alegeți difuzorul implicit</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Dacă selectați automat, aplicația va încerca să detecteze muzica pe care o redați la acel moment. Dacă ascultați muzică sau redați un videoclip, aplicația va suspenda redarea pentru dvs. În caz contrar, va reduce sonorul.</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Redarea este suspendată atunci când înlăturați un AirPod din ureche sau sfârșește atunci când le înlăturați pe amândouă.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Când AirPods-urile sunt conectate, pictograma din bara de activități va afișa nivelul mediu de încărcare al căștilor. Pictograma se va actualiza în fiecare minut.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Deschiderea la pornire este dezactivată prin politicile de grup sau nu este disponibilă pe acest dispozitiv.</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Aplicația se va închide și toate funcționalitățile vor fi dezactivate.</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>Pentru a activa instalați Microsoft Visual C ++ 2015 Redistributable. Reporniți MagicPods după instalare.</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Află mai multe</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Configurează</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Alegeți o voce</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Naratorul poate citi textul doar într-o singură limbă.</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Notificări Narator</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Configurări Narator</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Nicio voce selectată sau disponibilă</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Ascultați textul cu vocea aleasă</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Vorbește</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Nu toate aplicațiile din această listă pot trimite notificări, unele aplicații pot să nu fie incluse în listă.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Utilizați Naratorul pentru toate notificările</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Afișați toate aplicațiile</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Confidențialitate și notificări</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Adăugați o voce nouă</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Conexiune anulată</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Celelalte AirPods sunt deja conectate, deconectați-le mai întâi.</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Volumul este redus când înlăturați un AirPod dintr-o ureche și se restabilește când înlăturați / utilizați ambele căști.</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Dacă fereastra nu apare, deschideți carcasa cu AirPods-urile înăuntru și incrementați ușor valoarea de pe glisorul de sus până când se afișează animația.</value>
+  </data>
 </root>
