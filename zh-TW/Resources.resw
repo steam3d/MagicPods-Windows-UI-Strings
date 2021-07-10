@@ -517,4 +517,10 @@
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>「VoiceOver 通知」功能已關閉，無法存取通知權限。請先開啟「隱私權與通知」允許存取您的通知，然後再開啟「VoiceOver 通知」。</value>
   </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>連接取消</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>您連接了其它的Airpods，請先斷開連接。</value>
+  </data>
 </root>
