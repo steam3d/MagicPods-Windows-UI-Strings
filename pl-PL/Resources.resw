@@ -271,4 +271,208 @@ aby zobaczyć stan baterii</value>
   <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
     <value>Wykrywanie ucha</value>
   </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Live Sygnał</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Lewy dolny róg</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Lista obsługiwanych programów</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Promień wyszukiwania od AirPods</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Jaki jest promień wyszukiwania?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Wskazówki</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Nie ustawiaj wartości powyżej 65. W niektórych przypadkach wyskakujące okienko pojawia się przypadkowo.</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Ostrzeżenie</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Funkcje eksperymentalne mogą nie działać dla wszystkich, a aplikacja lub słuchawki AirPod mogą ulec awarii.</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Ustawienia połączenia</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Pokaż przycisk „Połącz”</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Pokaż lub ukryj przycisk „Połącz” w wyskakującym okienku. Po naciśnięciu przycisku AirPods są połączone.</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Połączenie automatyczne</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Automatycznie łączy się z AirPods, gdy tylko wyjmiesz jeden z etui.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>AirPods przestały się łączyć</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Automatyczne odtwarzanie</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Jeśli nie ma otwartych graczy, system Windows zignoruje polecenie.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Wszystkie ustawienia zostaną zresetowane. Czy chcesz kontynuować?</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Tak, zresetuj</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Wskazówek</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Zastosować</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Nie pamiętać</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Dodaj AirPods do swoich urządzeń Bluetooth w systemie Windows</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods obsługuje AirPods Gen 1-2, AirPods Pro, AirPods Max i PowerBeats Pro</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Przytrzymaj etui AirPods blisko komputera i otwórz je</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Dalej</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Promień wyszukiwania — promień, w którym komputer będzie wyszukiwał AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Zamknąć</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>Wyszukiwanie AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Pozycja okna</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Lewy górny róg</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Prawy górny róg</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Środek</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Prawy dolny róg</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Automatyczne przełączanie wyjścia audio</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Wybierz standardowy głośnik</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Urządzenie zostało usunięte lub jest niedostępne</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>Zainstaluj pakiet redystrybucyjny Microsoft Visual C ++ 2015, aby korzystać z tej funkcji. Następnie należy ponownie uruchomić MagicPods.</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Zobacz więcej</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Powiadomienia VoiceOver</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Konfiguruj</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Konfiguruj VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Wybierz głos</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Mówca może czytać tekst tylko w jednym języku.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Nie wybrano lub nie ma dostępnego głosu</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Odsłuchaj tekst w wybranym głosie</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Mów</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Nie wszystkie aplikacje na liście mogą wysyłać powiadomienia, niektóre aplikacje mogą nie znajdować się na liście.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Wszystkie powiadomienia przez VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Pokaż wszystkie aplikacje</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Prywatność i powiadomienia</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Dodaj nowy głos</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Połączenie anulowane</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Inne AirPods są już podłączone, najpierw je odłącz.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>Airpody można wykryć za pomocą sygnału radiowego. Ustaw minimalny sygnał na średnią wartość sygnału na żywo.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Głośność zmniejsza się po wyjęciu jednego AirPods z ucha lub przywraca się po wyjęciu / założeniu obu AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Jeśli nie widzisz wyskakującego okienka, otwórz etui za pomocą AirPods i przesuń suwak w prawo, aż się pojawi.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Czasami, gdy AirPods są podłączone, a obudowa jest otwarta, ikona baterii miga.</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>Wysyła polecenie odtwarzania po podłączeniu AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Na podstawie Twojego użycia sugerujemy wartość o {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Połączenie z AirPods nie powiodło się. Wypróbuj połączenie ręczne.</value>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>Odtwarzanie jest wstrzymywane po wyjęciu AirPod z ucha lub zatrzymuje się po wyjęciu obu.</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Wyjmując oba AirPods, zmień źródło dźwięku na standardowy głośnik.</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>VoiceOver ogłaszaj powiadomienia, gdy AirPods są podłączone i ustawione jako urządzenie wyjściowe audio.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Powiadomienia VoiceOver od tych nadawców</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Funkcja powiadomień VoiceOver jest wyłączona i nie ma dostępu do powiadomień. Otwórz „Prywatność i powiadomienia”, zezwól na dostęp do powiadomień, a następnie aktywuj „Powiadomienie VoiceOver”.</value>
+  </data>
 </root>
