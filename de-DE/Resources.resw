@@ -274,7 +274,8 @@
     <value>Autostart aktivieren</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
-    <value>Öffne das Case oder verbinde deine AirPods, um den Batteriestand anzuzeigen.</value>
+    <value>Öffne das Case oder verbinde deine AirPods, 
+um den Batteriestand anzuzeigen</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods getrennt</value>
@@ -486,5 +487,38 @@
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
     <value>Hör dir den Text mit der ausgewählten Stimme an</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Konfigurieren</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>VoiceOver Konfiguration</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Nicht alle Anwendungen aus der Liste können Benachrichtigungen senden, einige Anwendungen sind möglicherweise nicht in der Liste enthalten.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>VoiceOver alle Benachrichtigungen</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Zeige alle Apps</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Datenschutz und Benachrichtigungen</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Verbindung abgebrochen</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>VoiceOver kündigt Benachrichtigungen an, wenn AirPods verbunden und als Audioausgabegerät festgelegt sind.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Die Funktion "VoiceOver-Benachrichtigung" ist deaktiviert und kann nicht auf die Benachrichtigungen zugreifen. Bitte öffnen Sie «Datenschutz und Benachrichtigungen»‎, erlauben Sie den Zugriff auf Benachrichtigungen und aktivieren Sie dann "VoiceOver-Benachrichtigung".</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Eine neue Stimme hinzufügen</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Andere AirPods sind bereits verbunden, bitte trennen Sie diese zuerst.</value>
   </data>
 </root>
