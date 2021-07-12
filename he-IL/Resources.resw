@@ -68,4 +68,43 @@
     <value>%{0} סוללה נישארו בAirPods. טען את הAirPods.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>הצג חלון</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>אוֹת</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>קָטָן</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>בינוני</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>גדול</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>אפס הגדרות</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>סגור אפליקציה</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>אזהרה</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>חלון קופץ</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>גודל חלון</value>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>החיבור לתהליך שולחן העבודה אבד. תשובה «לא» תסגור את האפליקציה. להתחבר מחדש?</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>הצג או הסתר חלון קופץ כמו ב- iPhone כשאתה פותח את הcase.</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>אם תבחר אוטומטית, האפליקציה תנסה לזהות בדיוק איזו מוזיקה אתה מנגן כרגע. אם אתה מאזין למוזיקה או לסרטון, האפליקציה תשהה את זה עבורך. אחרת האפליקציה תפחית את עוצמת הקול.</value>
+  </data>
 </root>
