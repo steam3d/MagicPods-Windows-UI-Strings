@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,421 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>Cả hai (Giảm âm lượng + Tiếp tục/Tạm dừng)</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Nếu bạn chọn tự động, ứng dụng sẽ nhận biết chính xác bài hát nào bạn đang bật. Nếu bạn đang nghe nhạc hoặc xem video, ứng dụng sẽ tạm dừng cho bạn. Ngoài ra ứng dụng sẽ giảm âm lượng.</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Hữu dụng khi bạn làm việc với Premiere Pro hoặc Audition. Cần phải kết nối lại AirPods sau khi bật. Điều này có thể làm AirPods tốn pin hơn.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Giảm thời gian tìm kiếm AirPods. Bật chức năng này lên nếu bạn chắc chắn rằng không ai xung quanh bạn sử dụng AirPods.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Hiển thị AirPods đang sạc trên biểu tượng</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Khi AirPods được kết nối, biểu tượng ở khay hệ thống sẽ hiển thị lượng pin trung bình trên hai bên tai nghe. Cập nhật theo từng phút.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Ứng dụng sẽ được đóng và mọi chức năng sẽ bị tắt.</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Âm lượng sẽ bị giảm khi bạn ngắt kết nối một bên AirPods khỏi tai, hoặc sẽ khôi phục lại âm lượng khi ngắt kết nối / đeo cả hai bên AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Nếu cửa sổ không hiên lên hãy mở nắp hộp với hai bên AirPods đặt ở bên trong và kéo thanh trượt cho đến khi cửa sổ hiện lên.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Một vài trường hợp khi AirPods được kết nối và hộp tai nghe được mở, biểu tượng pin có thể nhấp nháy.</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Hiển thị hoặc ẩn phím Kết nối khi cửa sổ pop-up mở. Nhấn vào nút sẽ kết nối với AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Dựa trên sử dụng của bạn, chúng tôi đề xuất chỉnh thông số xuống {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>Trình chơi nhạc sẽ tạm dừng và âm lượng sẽ giảm xuống khi bạn ngắt kết nối một bên AirPods, hoặc dừng lại và âm lượng sẽ được khôi phục khi bạn ngắt kết nối cả hai bên AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Góc dưới bên phải</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Âm thanh</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Phát hiện tai nghe đeo trên tai</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>Một bên AirPods đã được ngắt kết nối</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Giảm âm lượng</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Tiếp tục/Tạm dừng</value>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Kết nối đến PC đã mất. Chọn "Không" sẽ đóng ứng dụng. Bạn muốn kết nối lại chứ?</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>Không thể tìm thấy AirPods. Hãy chắc chắn rằng AirPods đã được kết nối đến thiết bị này và thử khởi động lại ứng dụng.</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>PC của bạn không hỗ trợ Bluetooth năng lượng thấp.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>AirPods của bạn còn {0} pin. Hãy sạc AirPods của bạn.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Cảnh báo</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Cửa sổ pop-up</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Hiện cửa sổ</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Hiện hoặc ẩn cửa sổ pop-up như trên iPhone, khi bạn mở nắp hộp.</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Tín hiệu</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Kích cỡ cửa sổ</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Nhỏ</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Vừa</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Lớn</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Khôi phục cài đặt</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Đóng ứng dụng</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Không</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Nhạc sẽ được tạm dừng khi bạn ngắt kết nối một bên AirPods hoặc sẽ dừng hẳn khi bạn ngắt kết nối cả hai bên AirPods.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>Mức</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Khác</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Đỗ trễ âm thanh thấp</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Cần hỗ trợ</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Báo cáo vấn đề</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Nhật ký sửa lỗi</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Báo cáo vấn đề</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Bật Debug</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Tìm kiến AirPods</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Cao nhất</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Thấp nhất</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Đang tìm kiếm</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Tìm kiếm nhanh</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Cài đặt</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Khởi động cùng Windows</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Chạy ứng dụng khi khởi động Windows</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Bạn có thể bật hoặc tắt chức năng này trong tab Startup trong Task Manager.</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Khởi động cùng Windows bị tắt bởi group policy, hoặc nó không hỗ trợ trên thiết bị này.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Biểu tượng trên khay hệ thống</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Ẩn biểu tượng</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Khởi động lại để áp dụng.</value>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Biểu tượng pin</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>AirPods có thể tìm thấy. Hãy thiết lập năng lượng thấp.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Cổ điển</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Hiện đại</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Kích hoặt khởi động cùng Windows</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Mở nắp hộp hoặc kết nối AirPods
+để kiểm tra mức pin</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>AirPods đã ngắt kết nối</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Cài đặt</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Thoát</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Trợ giúp</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Không</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Có</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Thông tin pin</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Cài đặt chung</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Các tính năng</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Đóng MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Hỗ trợ</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Đóng MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Đóng</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Huỷ</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Danh sách các trình phát được hỗ trợ</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Bán kính tìm kiếm AirPods</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Thế nào là bán kính tìm kiếm?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Gợi ý</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Đừng đặt giá trị này trên 65. Trong một vài trường hợp cửa sổ sẽ hiện lên không theo ý muốn.</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Cảnh báo</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Một vài tính năng có thể không làm việc, và trong một vài trường hợp ứng dụng hoặc AirPods có thể bị thoát.</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Kết nối</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Hiển thị biểu tượng kết nối</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Tự động kết nối</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Tự động kết nối với AirPods khi bạn lấy AirPods ra khỏi hộp.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>AirPods ngừng kết nối</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Tự động chơi nhạc</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>Chơi nhạc ngay khi kết nối AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Nếu không có bất cứ trình chơi nhạc nào Windows sẽ bỏ qua lệnh chơi nhạc.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Mọi cài đặt sẽ được thiết lập lại. Bạn vẫn muốn tiếp tục chứ?</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Có, khôi phục mọi cài đặt</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Gợi ý</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Áp dụng</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Không nhắc lại</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Kết nối tới AirPods thất bại. Hãy thử kết nối thủ công.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Thêm AirPods vào danh sách kết nối Bluetooth của Windows</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods hỗ trợ AirPods thế hệ 1-2, AirPods Pro, AirPods Max và PowerBeats Pro</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Mang AirPods của bạn lại gần nhất có thể và mở nắp hộp</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Tiếp tục</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Bán kính tìm kiếm - bán kính mà PC của bạn tìm AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Đóng</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>Tìm kiếm AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Vị trí cửa sổ</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Góc trên bên trái</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Góc trên bên phải</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Chính giữa</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Góc trái bên dưới</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Tự động chuyển nguồn ra âm thanh</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Chuyển đầu ra âm thanh AirPods về mặc định khi cả hai bên AirPods được ngắt kết nối.</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Chọn đầu ra âm thanh mặc định</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Thiết bị không sẵn sàng hoặc đã bị gỡ bỏ</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>Để kích hoạt hãy cài đặt Microsoft Visual C ++ 2015 Redistributable. Khởi động lại AirPods sau khi cài đặt.</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Tìm hiểu thêm</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Thông báo VoiceOver</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>VoiceOver sẽ thông báo khi AirPods được kết nối và thiết lập đầu ra âm thanh mặc đinh.</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Thiết lập</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Thiết lập VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Chọn một giọng nói</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Trình đọc chỉ có thể đọc văn bản ở một ngôn ngữ.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Không có giọng nói nào được chọn hoặc đang khả dụng</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Nghe văn bản bằng giọng nói đã chọn</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Nói</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Thông báo VoiceOver từ những người gửi</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Không phải ứng dụng nào trong danh sách dưới đây có thể thông báo, một vài ứng dụng có thể không được liệt kê trong danh sách.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Tất cả thông báo VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Hiển thị tất cả ứng dụng</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Tính năng "Thông báo VoiceOver" đã tắt, không thể thông báo. Xin hãy mở "Riêng tư và Thông báo", cho phép truy cập thông báo, sau đó kích hoạt "Thông báo VoiceOver".</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Riêng tư và thông báo</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Thêm giọng nói mới</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Huỷ kết nối</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Một AirPods khác đã được kết nối, xin hãy ngắt kết nối trước.</value>
+  </data>
 </root>
