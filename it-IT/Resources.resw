@@ -427,4 +427,46 @@ per controllare il livello della batteria</value>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>Configura</value>
   </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Notifiche VoiceOver da questi mittenti</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Aggiungi una nuova voce</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Non tutte le applicazioni dell'elenco possono inviare notifiche, alcune applicazioni potrebbero non essere presenti nell'elenco.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>La funzione "Notifica di VoiceOver" è disattivata, non è possibile accedere alle notifiche. Si prega di aprire «Privacy e notifiche»‎, consentire l'accesso alle notifiche, quindi attivare "Notifica VoiceOver".</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Configurazione VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Seleziona una voce</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Il lettore può leggere il testo in una sola lingua.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Nessuna voce selezionata o disponibile</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Ascolta il testo con la voce selezionata</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Ascolta</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Tutte le notifiche di VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Vedi tutte le App</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Privacy e notifiche</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>VoiceOver annuncia le notifiche quando le AirPods sono collegate e impostate come dispositivo di uscita audio.</value>
+  </data>
 </root>
