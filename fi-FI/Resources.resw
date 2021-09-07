@@ -65,7 +65,7 @@
     <value>Korvan tunnistus</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>% Latusta jäljellä vasemmassa AirPodsissa. Lataa AirPodsisi.</value>
+    <value>{0}% Latusta jäljellä vasemmassa AirPodsissa. Lataa AirPodsisi.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
