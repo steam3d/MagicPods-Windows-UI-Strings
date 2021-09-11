@@ -534,4 +534,10 @@ to watch battery level</value>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>Other AirPods are already connected, please disconnect them first.</value>
   </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>For the best user experience, we recommend that you enable startup. You can do this from the «Startup» tab in Task Manager.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Startup «MagicPods Service» disabled</value>
+  </data>
 </root>
