@@ -516,7 +516,7 @@ veya AirPods'u bağlayın</value>
     <value>Bu seçeneği aktif etmek için Microsoft Visual C++ 2015 Redistributable yüklü olmalıdır. Yükleme sonrası MagicPods'u yeniden başlatın.</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>Sesli geri bildirim, AirPods her bağlandığında sesli geri bildirimde bulunacak.</value>
+    <value>AirPods her bağlandığında ve ses çıkış aygıtı olarak ayarlandığında sesli geri bildirimde bulunacak.</value>
   </data>
   <data name="Settings_Audio_Text4.Header" xml:space="preserve">
     <value>Sesli geri bildirim</value>
@@ -529,5 +529,14 @@ veya AirPods'u bağlayın</value>
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>Bağlantı kesildi</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Diğer Airpods hali hazırda bağlı, lütfen önce onun bağlantısını kesin.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>En iyi kullanıcı deneyimi için, başlatmayı etkinleştirmenizi öneririz. Bunu Görev Yöneticisi'ndeki «Başlangıç» sekmesinden yapabilirsiniz.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Başlangıç «MagicPods Servisi» devre dışı bırakıldı</value>
   </data>
 </root>
