@@ -475,4 +475,10 @@ hogy ellenőrizze az akkumulátor töltöttségét</value>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>Csatlakozás visszavonva</value>
   </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>«MagicPods Service» Windowssal induló folyamat kikapcsolva</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>A legjobb felhasználói élmény érdekében, javasoljuk, hogy engedélyezd az automata indulást. Ezt a Feladatkezelő «Startup» menüpontjánál tudod aktiválni.</value>
+  </data>
 </root>
