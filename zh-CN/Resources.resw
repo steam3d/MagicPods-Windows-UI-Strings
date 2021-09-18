@@ -520,4 +520,10 @@
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>已经连接其他AirPods，请先断开。</value>
   </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>为获得最佳使用体验，建议您在任务管理器的“启动”选项卡里启用对本应用的开机自启。</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>MagicPods Service 的开机自启已被禁止</value>
+  </data>
 </root>
