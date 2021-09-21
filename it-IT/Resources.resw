@@ -469,4 +469,13 @@ per controllare il livello della batteria</value>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
     <value>VoiceOver annuncia le notifiche quando le AirPods sono collegate e impostate come dispositivo di uscita audio.</value>
   </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Connessione annullata</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Ci sono altre AirPods collegate, scollegale prima di connetterne altre.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Avvio di «MagicPods Service» disattivato</value>
+  </data>
 </root>
