@@ -118,8 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_LostConnection" xml:space="preserve">
-    <value>連線到桌面處理程序失敗，是否要重新連線？
-點選「否」將會關閉程式。</value>
+    <value>連線到桌面處理程序失敗，點選「否」將會關閉程式。是否要重新連線？</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>無法搜尋到 AirPods。請確定您已經先將 AirPods 與此電腦完成配對後，再重新啟動此應用程式。</value>
@@ -363,8 +362,7 @@
     <value>顯示「連線」按鈕</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>顯示或隱藏在提示動畫視窗的「連線」按鈕。
-點選此按鈕將會與 AirPods 連線。</value>
+    <value>顯示或隱藏在提示動畫視窗的「連線」按鈕。點選此按鈕將會與 AirPods 連線。</value>
   </data>
   <data name="Settings_Connection_Text4.Header" xml:space="preserve">
     <value>自動連線</value>
@@ -522,5 +520,11 @@
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>您已經與其它的 AirPods 連線，請先中斷連線。</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>為了最佳使用者體驗，我們建議您啟用開機時啟動。您可以在工作管理員中的「開機」頁面啟用。</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>開機時啟動「MagicPods」服務已停用</value>
   </data>
 </root>
