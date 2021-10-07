@@ -540,4 +540,13 @@ to watch battery level</value>
   <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
     <value>Startup «MagicPods Service» disabled</value>
   </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>Infinite search</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>Couldn't find AirPods</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>Follow this guide to fix the problem.</value>
+  </data>
 </root>
