@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,71 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Mali</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Srednji</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Veliki</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Poništi podešavanja</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% baterije preostalo. Molim napunite Vaš Airpods.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Iskačući prozor</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Prikaži prozor</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Prikaži ili sakrij iskačući prozor kao na iPhone, kada se otvori kućište.</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Signal</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Veličina prozora</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Pusti/Pauziraj</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Smanji zvuk</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Ništa</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Ostalo</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Potraži pomoć</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Izlaz</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Upozorenje</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Zatvori aplikaciju</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods nisu pronađene. Proverite da li su uparene sa uređajem i ponovo pokrenite aplikaciju.</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Detekcija uha</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>Jedna slušalica je izvan uha</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Sadržaj se pauzira kada izvadite jednu AirPods slušalicu ili stopira kada izvadite obe AirPods slušalice.</value>
+  </data>
 </root>
