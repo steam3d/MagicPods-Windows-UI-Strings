@@ -107,4 +107,57 @@
   <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
     <value>אם תבחר אוטומטית, האפליקציה תנסה לזהות בדיוק איזו מוזיקה אתה מנגן כרגע. אם אתה מאזין למוזיקה או לסרטון, האפליקציה תשהה את זה עבורך. אחרת האפליקציה תפחית את עוצמת הקול.</value>
   </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>זיהוי אוזן</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>הנגינה מושהת כאשר אתה מוריד אוזנייה אחת, או נעצרת כאשר אתה מוריד את שניהם.</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>אחר</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>שימושי כאשר עובדים בPremiere Pro או Audition. צריך לחבר מחדש את האוזניות אחרי הדלקה. יתכן וזה יצרוך יותר סוללה.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>עזרה</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>דווח על תקלה</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>דווח תקלות</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>חפש אוזניות</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>מקסימום</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>מינימום</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>חיפוש מהיר</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>נגן/עצור</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>כלום</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>הפעל איתור באגים</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>אות חי</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>מפחית את הזמן לחיפוש אוזניות. הפעל כאשר אתה בטוח שאין אף אחד בסביבה שמשתמש באוזניות (אירפודס).</value>
+  </data>
 </root>
