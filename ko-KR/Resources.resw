@@ -520,4 +520,19 @@
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>다른 AirPods이 이미 연결되어 있어요, 다른 AirPods을 연결 취소한 후 다시 연결해주세요.</value>
   </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>&lt;MagicPods Service&gt; 비활성화 됨</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>무한히 반복되는 검색</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>에어팟을 찾을 수 없어요</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>문제를 해결하기 위해 지침을 따라주세요.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>최고의 사용자 경험을 위하여 저희는 시작프로그램 사용을 추천해요. 작업 관리자의 시작 프로그램 탭에서 이 설정을 변경할 수 있어요.</value>
+  </data>
 </root>
