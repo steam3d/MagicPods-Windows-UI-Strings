@@ -520,4 +520,19 @@ pour voir le niveau de la batterie</value>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
     <value>Suivez ce guide pour résoudre le problème.</value>
   </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Connexion annulée</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Une autre paire d'AirPods est déjà connectée, veuillez la déconnecter.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>Pour une expérience utilisateur optimale, nous vous recommandons d'activer le démarrage. Vous pouvez le faire à partir de l'onglet "Démarrage" du Gestionnaire des tâches.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Démarrage "Service MagicPods" désactivé</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>Recherche infinie</value>
+  </data>
 </root>
