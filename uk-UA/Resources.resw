@@ -421,4 +421,73 @@
   <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
     <value>Перемикати звук з AirPods на динаміки за замовчування, коли обидва навушники витягнуті з вух.</value>
   </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Додати новий голос</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Сповіщення VoiceOver</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Налаштувати</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Налаштування VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Вибрати голос</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Немає вибраного або доступного голосу</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Прослухайте текст вибраним голосом</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Озвучити</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Озвучувати сповіщення від цих додатків</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Озвучувати усі сповіщення</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Показати всі програми</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Конфіденційність та повідомлення</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Підключення скасовано</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Інші AirPods вже підключені, будь ласка, відключіть спочатку їх.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>Для найкращого досвіду використання рекомендуємо увімкнути автозавантаження. Ви можете зробити це на вкладці «Автозавантаження» у диспетчері завдань.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Автозавантаження «MagicPods Service» вимкнено</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>Нескінченний пошук</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>Не вдалося знайти AirPods</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>Щоб вирішити цю проблему, дотримуйтесь цієї інструкції.</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>VoiceOver оголошує сповіщення, коли AirPods підключено та встановлено як пристрій виведення звуку.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Диктор може прочитати текст лише однією мовою.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Не всі програми зі списку можуть надсилати сповіщення, деякі програми можуть не відображатися в списку.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Функція «Озвучувати сповіщення» вимкнена, немає доступу до сповіщень. Будь ласка, відкрийте «Конфіденційність та сповіщення», дозвольте доступ до сповіщень, а потім увімкніть «Озвучувати сповіщення».</value>
+  </data>
 </root>
