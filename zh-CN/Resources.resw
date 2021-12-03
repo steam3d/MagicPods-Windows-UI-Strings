@@ -521,7 +521,7 @@
     <value>已经连接其他AirPods，请先断开。</value>
   </data>
   <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
-    <value>为获得最佳使用体验，建议您在任务管理器的“启动”选项卡里启用对本应用的开机自启。</value>
+    <value>为获得最佳用户体验，我们建议您启用自动启动。 您可以从任务管理器中的“启动”选项卡执行此操作。</value>
   </data>
   <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
     <value>启动项“MagicPods Service”已禁用</value>
@@ -531,5 +531,8 @@
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
     <value>参考这个指南来尝试解决问题</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>扩大搜索范围</value>
   </data>
 </root>
