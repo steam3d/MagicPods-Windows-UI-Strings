@@ -136,7 +136,7 @@
     <value>"VoiceOver通知"がオフになっていて、通知にアクセスできません。 «プライバシーと通知»を開き、通知へのアクセスを許可してから、"VoiceOver通知"をオンにしてください。</value>
   </data>
   <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
-    <value>どちらかのAirPodsイヤホンが充電ケースから取り出されると自動的に接続されます。</value>
+    <value>左右いずれかのAirPodsイヤホンが充電ケースから取り出されると、AirPodsへ自動的に接続されます。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>あなたのコンピューターはBluetooth低消費電力モード（Bluetooth 4.0以上のバージョン）をサポートしていません。</value>
@@ -199,7 +199,7 @@
     <value>問題を報告する</value>
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
-    <value>レコードを外す</value>
+    <value>デバッグログ</value>
   </data>
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>フィードバック</value>
@@ -304,13 +304,13 @@
     <value>サポートされているプレーヤーリスト</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
-    <value>AirPodsサーチ半径</value>
+    <value>AirPods 検索範囲</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>充電ケースを開けてイヤホンを含めて、動画ウィンドウが表示されない場合は、スライドバーを右に調整してください。動画が正常に表示されるまで調整してください。</value>
+    <value>AirPodsが収納された充電ケースを開いてアニメーションが表示されない場合、アニメーションが表示されるまでスライダーを右に動かしてください。</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
-    <value>どのような検索半径ですか？</value>
+    <value>検索範囲とは？</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>ヒント</value>
@@ -362,25 +362,25 @@
     <value>AirPodsに接続できません。手動で接続してみてください。</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>AirPodsからWindows Bluetoothデバイスリストを追加します</value>
+    <value>WindowsのBluetoothデバイス一覧にAirPodsをを追加します</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>AirPodsの充電ケースをできるだけあなたのパソコンに近づけて開けてください</value>
+    <value>AirPodsの充電ケースをパソコンに近づけ、ケースを開いてください</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
     <value>はい、設定を初期化します</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
-    <value>次のステップ</value>
+    <value>次へ</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
-    <value>検索半径：充電ケースAirPodsのスキャン範囲がオープンしました。</value>
+    <value>検索範囲：コンピューターが開いた充電ケースを検索する範囲。</value>
   </data>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>閉じる</value>
   </data>
   <data name="Status_Search.Text" xml:space="preserve">
-    <value>AirPodsを探しています</value>
+    <value>AirPodsを検索しています</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
     <value>ウィンドウの位置</value>
@@ -401,7 +401,7 @@
     <value>右下</value>
   </data>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
-    <value>効果音</value>
+    <value>オーディオ</value>
   </data>
   <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
     <value>AirPods dの両イヤホンが耳から取り外されると、自動的にオーディオ出力装置がAirPodsから予め設定されたスピーカーに切り替わります。</value>
@@ -461,7 +461,7 @@
     <value>他のAirPodsがすでに接続されています。最初に他のAirpodsの接続を切断してください。</value>
   </data>
   <data name="Settings_Audio_Text2.Header" xml:space="preserve">
-    <value>自動的にサウンド出力を切り替えます</value>
+    <value>自動的にオーディオ出力を切り替える</value>
   </data>
   <data name="Dialog_LostConnection" xml:space="preserve">
     <value>デスクトップへの接続が解除されました。「いいえ」を選択するとアプリケーションを閉じます。再接続しますか？</value>
