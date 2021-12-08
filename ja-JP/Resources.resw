@@ -109,10 +109,10 @@
     <comment>Changed</comment>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
-    <value>一つの言語だけ朗読できます。</value>
+    <value>一つの言語だけ読み上げることができます。</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>このアプリケーションは閉じられます。すべての機能は停止されます。</value>
+    <value>アプリケーションが閉じられ、すべての機能が無効になります。</value>
   </data>
   <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
     <value>一つのイヤホンを外すと音量を下げたり、二つのイヤホンを外して音量を復元したりします。</value>
@@ -124,16 +124,16 @@
     <value>65以上の値を設定しないでください。場合によっては、アニメーションのヒントウィンドウが意外に現れるかもしれません。</value>
   </data>
   <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>実験機能は正常に動作しないかもしれません。いくつかの場合、このアプリケーションまたはAirPodsに問題が発生する可能性があります。</value>
+    <value>試験的な機能はすべての人に役立つとは限らず、場合によっては、アプリまたはAirPodsがクラッシュする可能性があります。</value>
   </data>
   <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
     <value>AirPodsが接続して充電ケースが開いている場合、電池のグラフが点滅する場合があります。</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>ポップアップウィンドウの「接続」ボタンを表示または非表示にします。このボタンを押すと、AirPodsと接続します。</value>
+    <value>ポップアップウィンドウの «接続» ボタンを表示または非表示にします。このボタンを押すと、AirPodsと接続します。</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>「Voice Over通知」機能が終了しましたので、通知権限にアクセスできません。まず「プライバシーと通知」を開いて、あなたの通知にアクセスできるようにしてください。その後、「VoiceOver通知」を開きます。</value>
+    <value>"VoiceOver通知"がオフになっていて、通知にアクセスできません。 «プライバシーと通知»を開き、通知へのアクセスを許可してから、"VoiceOver通知"をオンにしてください。</value>
   </data>
   <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
     <value>どちらかのAirPodsイヤホンが充電ケースから取り出されると自動的に接続されます。</value>
@@ -237,7 +237,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
-    <value>通知エリアの図示を隠す</value>
+    <value>通知エリアのアイコンを隠す</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
@@ -245,7 +245,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>電池圖示</value>
+    <value>バッテリーアイコン</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>バッテリを表示</value>
@@ -283,7 +283,7 @@
     <value>一般設定</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>実験機能</value>
+    <value>試験的な機能</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>MagicPodsを閉じる</value>
@@ -325,7 +325,7 @@
     <value>一連の動作</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
-    <value>「接続」ボタンを表示します</value>
+    <value>«接続»ボタンを表示する</value>
   </data>
   <data name="Settings_Connection_Text4.Header" xml:space="preserve">
     <value>オートコネクト</value>
@@ -343,7 +343,7 @@
     <value>プレーヤーを開けていないとWindowsはこのコマンドを無視します。</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
-    <value>設定値はすべてプリセットに設定されます。本当に続けますか？</value>
+    <value>すべての設定が初期化されます。初期化しますか？</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>ヒント</value>
@@ -386,19 +386,19 @@
     <value>ウィンドウの位置</value>
   </data>
   <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
-    <value>左上角</value>
+    <value>左上</value>
   </data>
   <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
-    <value>右上角</value>
+    <value>右上</value>
   </data>
   <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
     <value>画面中央</value>
   </data>
   <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
-    <value>左下角</value>
+    <value>左下</value>
   </data>
   <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
-    <value>右下角</value>
+    <value>右下</value>
   </data>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>効果音</value>
@@ -413,13 +413,13 @@
     <value>デバイスが使用できないか、または削除されました</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
-    <value>もっと知っています</value>
+    <value>もっと見る</value>
   </data>
   <data name="Settings_Audio_Text4.Header" xml:space="preserve">
-    <value>Voice Overお知らせ</value>
+    <value>Voice Over通知</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>ケーブルAirPodsを接続してメッセージ出力装置に設定すると、Voice Overがプッシュしてお知らせします。</value>
+    <value>AirPodsが接続され、オーディオ出力デバイスとして設定されると、VoiceOverが通知をアナウンスします。</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>設定</value>
@@ -437,7 +437,7 @@
     <value>文章を選択した音声で試聴します</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
-    <value>朗読する</value>
+    <value>読み上げる</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
     <value>Voice Overを使って通知を転送できるアプリケーションを選択します</value>
@@ -455,10 +455,10 @@
     <value>音声を追加</value>
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>接続のキャンセル</value>
+    <value>接続がキャンセルされました</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>他のAirpodsに接続しました。まず接続を切ってください。</value>
+    <value>他のAirPodsがすでに接続されています。最初に他のAirpodsの接続を切断してください。</value>
   </data>
   <data name="Settings_Audio_Text2.Header" xml:space="preserve">
     <value>自動的にサウンド出力を切り替えます</value>
