@@ -59,14 +59,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>電池残量が{0}%です　AirPodsを充電してください。</value>
+    <value>バッテリー残量が{0}%です　AirPodsを充電してください。</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Text2.Header" xml:space="preserve">
     <value>ウィンドウを表示</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>充電ケースの開閉を行うと、iPhoneのようにポップアップウィンドウが表示または非表示に切り替わります。</value>
+    <value>ケースを開いたときに、iPhoneのようにポップアップウィンドウを表示します。</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>ウィンドウサイズ</value>
@@ -75,21 +75,21 @@
     <value>耳の探知</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
-    <value>同時に(音量を下げる+再生/一時停止)</value>
+    <value>両方 (音量を下げる + 再生/一時停止)</value>
   </data>
   <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>自動を選択すると、アプリケーションは現在再生されているメッセージの種類を検出します。音楽を聴いているか、映画を見ているか、アプリケーションが一時停止します。そうでないと音量を下げます。</value>
+    <value>自動を選択した場合、アプリは現在再生している音楽を正確に検出しようとします。 音楽やビデオを聴いている場合は、一時停止します。 それ以外の場合、音量を下げます。</value>
   </data>
   <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
     <value>最大値</value>
     <comment>Not used</comment>
   </data>
   <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>AirPodsは無線信号で検出できます。最小値は「即時信号」の平均値を設定してください。</value>
+    <value>AirPodsは無線信号で検出できます。最小値はライブ信号の平均値を設定してください。</value>
     <comment>Not used</comment>
   </data>
   <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
-    <value>AirPodsを探す時間を減らす。この機能は近くに他の人がAirPodsを使っていないと確認した場合に有効になります。</value>
+    <value>AirPodsを探す時間を減らします。周りの人がAirPodsを使用していないことが確実な場合に有効にしてください。</value>
   </data>
   <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
     <value>この機能を有効にするには、Microsoft Visual C++2015配布キットをインストールして、MagicPodsを再起動してください。</value>
@@ -99,13 +99,13 @@
     <comment>Not used</comment>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>この設定を「タスクマネージャー」の「スタートアップ」タブで有効または無効にできます。</value>
+    <value>この設定をタスクマネージャーのスタートアップ タブで有効または無効にできます。</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
     <value>アプリケーションを再起動して変更を適用します。</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>AirPodsを接続すると、通知エリアの図にAirPodsの耳の平均電力量が左右されます。毎分更新されます。</value>
+    <value>AirPodsが接続されている場合、システムトレイアイコンに左右のヘッドホンの平均充電量が表示されます。 アイコンは毎分更新されます。</value>
     <comment>Changed</comment>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
@@ -115,28 +115,28 @@
     <value>アプリケーションが閉じられ、すべての機能が無効になります。</value>
   </data>
   <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
-    <value>一つのイヤホンを外すと音量を下げたり、二つのイヤホンを外して音量を復元したりします。</value>
+    <value>片方のAirPodsを耳から外すと音量が下がり、両方のAirPodsを取り外し/装着すると元に戻ります。</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
-    <value>リスト内のすべてのアプリケーションは通知を送信することができません。一部のアプリケーションはリストにないかもしれません。</value>
+    <value>リストのすべてのアプリケーションが通知を送信できるわけではありません。一部のアプリケーションはリストに含まれていない可能性があります。</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>65以上の値を設定しないでください。場合によっては、アニメーションのヒントウィンドウが意外に現れるかもしれません。</value>
+    <value>65を超える値を設定しないでください。アニメーションが誤って表示される場合があります。</value>
   </data>
   <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
     <value>試験的な機能はすべての人に役立つとは限らず、場合によっては、アプリまたはAirPodsがクラッシュする可能性があります。</value>
   </data>
   <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>AirPodsが接続して充電ケースが開いている場合、電池のグラフが点滅する場合があります。</value>
+    <value>AirPodsが接続されていてケースが開いている場合、バッテリーアイコンが点滅することがあります。</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>ポップアップウィンドウの «接続» ボタンを表示または非表示にします。このボタンを押すと、AirPodsと接続します。</value>
+    <value>ポップアップウィンドウの 「接続」 ボタンを表示または非表示にします。このボタンを押すと、AirPodsと接続します。</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>"VoiceOver通知"がオフになっていて、通知にアクセスできません。 «プライバシーと通知»を開き、通知へのアクセスを許可してから、"VoiceOver通知"をオンにしてください。</value>
   </data>
   <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
-    <value>左右いずれかのAirPodsイヤホンが充電ケースから取り出されると、AirPodsへ自動的に接続されます。</value>
+    <value>左右いずれかのAirPodsイヤホンが充電ケースから取り出されると、AirPodsへ自動的に接続します。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>あなたのコンピューターはBluetooth低消費電力モード（Bluetooth 4.0以上のバージョン）をサポートしていません。</value>
@@ -160,13 +160,13 @@
     <value>大</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>設定を初期化する</value>
+    <value>設定の初期化</value>
   </data>
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>アプリケーションを閉じる</value>
   </data>
   <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>耳から片方のAirPodsを外す場合</value>
+    <value>耳から片方のAirPodsが外された場合</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
     <value>再生/一時停止</value>
@@ -175,13 +175,13 @@
     <value>音量を下げる</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>アクションなし</value>
+    <value>なにもしない</value>
   </data>
   <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
-    <value>一つのイヤホンを外すと、一時停止するか、二つのイヤホンを外して再生を停止します。</value>
+    <value>片方のAirPodsを外すと再生が一時停止し、両方のAirPodsを外すと再生が停止します。</value>
   </data>
   <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>比率を下げる</value>
+    <value>下げた時の音量</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>その他</value>
@@ -190,26 +190,26 @@
     <value>低遅延</value>
   </data>
   <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
-    <value>Premiere ProやAuditionを組み合わせると良い効果があります。有効にすると、再度AirPodsに接続する必要があります。この機能はバッテリーの消費量を増やすことができます。</value>
+    <value>Premiere ProやAuditionを組み合わせると良い効果がありますが、バッテリーの消費量が増える可能性があります。有効にすると、AirPodsを再接続する必要があります。</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
     <value>ヘルプ</value>
   </data>
   <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
-    <value>問題を報告する</value>
+    <value>問題を報告</value>
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>デバッグログ</value>
   </data>
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>フィードバック</value>
+    <value>問題を報告</value>
   </data>
   <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
     <value>デバッグを有効にする</value>
     <comment>Not used</comment>
   </data>
   <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>AirPodsを検索</value>
+    <value>AirPodsを探す</value>
     <comment>Not used</comment>
   </data>
   <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
@@ -217,51 +217,51 @@
     <comment>Not used</comment>
   </data>
   <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>即時信号</value>
+    <value>ライブ信号</value>
     <comment>Not used</comment>
   </data>
   <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
     <value>クイック検索</value>
   </data>
   <data name="Settings_Startup_Text1.Text" xml:space="preserve">
-    <value>起動オプション</value>
+    <value>スタートアップ</value>
   </data>
   <data name="Settings_Startup_Text2.Header" xml:space="preserve">
     <value>起動時に自動実行</value>
   </data>
   <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
-    <value>ブート自動実行機能はグループ原則で停止されています。またはこの装置はサポートできません。</value>
+    <value>グループポリシーによってスタートアップが無効になっているか、このデバイスではサポートされていません。</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
     <value>システムトレイアイコン</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
-    <value>通知エリアのアイコンを隠す</value>
+    <value>アイコンを隠す</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>通知エリア図にAirPodsの電気量を表示します</value>
+    <value>システムトレイのアイコンにAirPodsのバッテリー残量を表示</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
     <value>バッテリーアイコン</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>バッテリを表示</value>
+    <value>アナログ</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>電力量を表示</value>
+    <value>デジタル</value>
   </data>
   <data name="Status_ButtonStartup.Content" xml:space="preserve">
     <value>起動時に自動実行</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
-    <value>充電ケースを開けたり、AirPodsと接続したりします
-を選択します</value>
+    <value>バッテリー残量を確認するためには
+ケースを開けるか、AirPodsに接続してください</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
-    <value>Airpodsの接続が解除されました</value>
+    <value>AirPodsの接続が解除されました</value>
   </data>
   <data name="Status_Settings.Content" xml:space="preserve">
     <value>設定</value>
@@ -271,10 +271,10 @@
     <value>ヘルプ</value>
   </data>
   <data name="Text_No" xml:space="preserve">
-    <value>「いいえ」</value>
+    <value>いいえ</value>
   </data>
   <data name="Text_Yes" xml:space="preserve">
-    <value>はい、</value>
+    <value>はい</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
     <value>バッテリー情報</value>
@@ -301,10 +301,10 @@
     <value>キャンセル</value>
   </data>
   <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
-    <value>サポートされているプレーヤーリスト</value>
+    <value>サポートされているプレーヤーのリスト</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
-    <value>AirPods 検索範囲</value>
+    <value>AirPodsの検索範囲</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
     <value>AirPodsが収納された充電ケースを開いてアニメーションが表示されない場合、アニメーションが表示されるまでスライダーを右に動かしてください。</value>
@@ -322,25 +322,25 @@
     <value>閉じる</value>
   </data>
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>一連の動作</value>
+    <value>接続時の動作</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
-    <value>«接続»ボタンを表示する</value>
+    <value>「接続」ボタンを表示する</value>
   </data>
   <data name="Settings_Connection_Text4.Header" xml:space="preserve">
     <value>オートコネクト</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPodsは接続を中断しました</value>
+    <value>AirPodsが接続されていません</value>
   </data>
   <data name="Settings_Connection_Text5.Header" xml:space="preserve">
     <value>自動再生</value>
   </data>
   <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
-    <value>AirPodsの接続が成功したら自動的に「再生」コマンドを送ります。</value>
+    <value>AirPodsを接続した後、«再生»コマンドを送信します。</value>
   </data>
   <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
-    <value>プレーヤーを開けていないとWindowsはこのコマンドを無視します。</value>
+    <value>開いているプレーヤーがない場合、Windowsはコマンドを無視します。</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>すべての設定が初期化されます。初期化しますか？</value>
@@ -349,23 +349,23 @@
     <value>ヒント</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>あなたの使用状況によって、値を{0}に設定することを提案します</value>
+    <value>使用状況に基づいて、値を{0}に設定することをお勧めします</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>適用</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>リマインダを無効にする</value>
+    <value>リマインドを無効にする</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPodsに接続できません。手動で接続してみてください。</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>WindowsのBluetoothデバイス一覧にAirPodsをを追加します</value>
+    <value>WindowsのBluetoothデバイスリストにAirPodsを追加します</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>AirPodsの充電ケースをパソコンに近づけ、ケースを開いてください</value>
+    <value>AirPodsケースをコンピューターにできるだけ近づけて開きます</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
     <value>はい、設定を初期化します</value>
@@ -374,13 +374,13 @@
     <value>次へ</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
-    <value>検索範囲：コンピューターが開いた充電ケースを検索する範囲。</value>
+    <value>検索範囲:コンピューターが開いているAirPodsケースを検索する半径。</value>
   </data>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>閉じる</value>
   </data>
   <data name="Status_Search.Text" xml:space="preserve">
-    <value>AirPodsを検索しています</value>
+    <value>AirPodsを探しています</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
     <value>ウィンドウの位置</value>
@@ -404,34 +404,34 @@
     <value>オーディオ</value>
   </data>
   <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
-    <value>AirPods dの両イヤホンが耳から取り外されると、自動的にオーディオ出力装置がAirPodsから予め設定されたスピーカーに切り替わります。</value>
+    <value>両方のAirPodsが耳から取り外された場合に、オーディオをAirPodsからデフォルトのスピーカーに切り替えます。</value>
   </data>
   <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>プリセットスピーカーを選択</value>
+    <value>デフォルトスピーカーを選択</value>
   </data>
   <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
     <value>デバイスが使用できないか、または削除されました</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
-    <value>もっと見る</value>
+    <value>もっと詳しく知る</value>
   </data>
   <data name="Settings_Audio_Text4.Header" xml:space="preserve">
-    <value>Voice Over通知</value>
+    <value>Voice Over 通知</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>AirPodsが接続され、オーディオ出力デバイスとして設定されると、VoiceOverが通知をアナウンスします。</value>
+    <value>AirPodsが接続され、オーディオ出力デバイスとして設定されると、VoiceOverが通知を読み上げます。</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>設定</value>
   </data>
   <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
-    <value>Voice Over設定</value>
+    <value>Voice Overの設定</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
     <value>音声を選択</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
-    <value>利用可能な音声がないか、または選択されていません</value>
+    <value>利用可能な音声がないか、選択されていません</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
     <value>文章を選択した音声で試聴します</value>
@@ -440,10 +440,10 @@
     <value>読み上げる</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
-    <value>Voice Overを使って通知を転送できるアプリケーションを選択します</value>
+    <value>VoiceOverが通知を読み上げるアプリケーションを選択</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
-    <value>すべてVoice Overを有効にします</value>
+    <value>すべてVoice Over 通知を有効にします</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
     <value>すべてのアプリケーションを表示</value>
@@ -458,7 +458,7 @@
     <value>接続がキャンセルされました</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>他のAirPodsがすでに接続されています。最初に他のAirpodsの接続を切断してください。</value>
+    <value>他のAirPodsがすでに接続されています。最初に他のAirPodsの接続を切断してください。</value>
   </data>
   <data name="Settings_Audio_Text2.Header" xml:space="preserve">
     <value>自動的にオーディオ出力を切り替える</value>
@@ -470,7 +470,7 @@
     <value>AirPodsが見つかりませんでした。このコンピューターとAirPodsの接続を確認して、アプリケーションを再起動してください。</value>
   </data>
   <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
-    <value>一つのイヤホンを外すと、再生を停止し、音量を下げるか、二つのイヤホンを外すと再生を停止し、音量を復元する。</value>
+    <value>片方のAirPodsを耳から外すと再生を一時停止、または音量を下げます。両方のAirPodsを外すと再生を停止し音量を元に戻します。</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>MagicPodsは第1世代と第2世代のAirPods、AirPods Pro、AirPods Max、PowerBeats Pro をサポートしています</value>
@@ -482,12 +482,12 @@
     <value>最適なユーザー体験のために、スタートアップ設定を有効にすることをお勧めします。「タスクマネージャー」の「スタートアップ」タブから設定を変更できます。</value>
   </data>
   <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>「MagicPods Service」のスタートアップ設定が無効です</value>
+    <value>«MagicPods Service»のスタートアップが無効になっています</value>
   </data>
   <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
     <value>継続的に検索する</value>
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
-    <value>次の提案に従い問題を修正する。</value>
+    <value>このガイドに従って問題を解決してください。</value>
   </data>
 </root>
