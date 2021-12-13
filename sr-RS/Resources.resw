@@ -125,4 +125,231 @@
   <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
     <value>Sadržaj se pauzira kada izvadite jednu AirPods slušalicu ili stopira kada izvadite obe AirPods slušalice.</value>
   </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Pri pokretanju je ugašeno od politike grupe, ili nije podržano na ovom uredjaju.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Kada su AirPods konektovane, ikona u sistemskoj paleti će pokazati prosjek baterije na vašoj lijevoj i desnoj slušalici. Ikona se osvježava svake minute.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Opšte postavke</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Eksperimentalne mogućnosti</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Zatvori MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Podrška</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Aplikacija će biti zatvorena i sve funkcije će biti onemogućene.</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Glasnoća će se smanjiti kada izvadite jednu Airpod iz vašeg uha, i vratiti kada izvadite/ubacite obje slušalice.</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Ako se prozor ne pojavi kada otvorite maskicu od AirPods, povucite klizac desno dok se animacija nepojavi.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Ponekad kada su AirPods povezane i maskica otvorena, baterijska ikona može bljeskati.</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>Pošalje se komanda «Pusti» odmah nakon što se spoje AirPods.</value>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Veza sa kompjuterskim procesom je izgubljena. Odgovori «Ne» će zatvoriti program. Ponovo poveži?</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Tvoj PC ne podržava niskoenergetski Bluetooth.</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>Oboje (Smanjiti zvuk + Pustiti/Pauzirati)</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Ako izabereš automatsko, aplikacija će pokušati detektovari tačno muziku koju puštaš tog momenta. Ako slušaš muziku ili video, aplikacija će ga pauzirati. U suprotnom aplikacija će samo smanjiti glasnoću.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>Za</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Smanjeno kašnjenje zvuka</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Korisno kada radite u Premiere Pro ili Audition. Potrebno ponovo povezivanje nakon paljenja. Može povećati trošenje baterije.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Prijavi problem</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Debug log</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Prijavi Probleme</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Uključi Debug</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Traži Airpods</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Maks</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Minimum</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Signal uživo</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>Airpods mogu biti detektovane radio signalom. Stavi najmanji signal na srednju vrijednost signala uživo.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Brzo pretraživanje</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Smanjuje vrijeme traženja AirPods. Uključite kada ste sigurni da niko oko vas ne koristi AirPods.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Postavke</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Pokretanje</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Pokreni pri pokretanju</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Ikone sistemske palete</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Sakrij ikonu</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Restartuj aplikaciju da primjenis.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Pokaži bateriju AirPods na ikoni</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Ikona za bateriju</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Analogna</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Digitalna</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Omogući pri pokretanju</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Otvori kutijicu od AirPods ili se poveži sa njima
+da vidiš procenat baterije</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Postavke</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>AirPods nisu konektovane</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Pomoć</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Ne</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Da</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Info o bateriji</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Zatvori MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Zatvori</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Odustani</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Lista podržanih plejera</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Radijus traženja AirPods</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Šta je radius traženja?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Savjet</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Nemojte staviti vrijednost veću od 65. U nekim slučajevima, animacija se može pojaviti slučajno.</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Upozorenje</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Eksperimentalne mogućnosti možda neće raditi za sviju, u nekim slučajevima, aplikacija ili AirPods se mogu srušiti.</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Akcije za povezivanje</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Pokaži «Poveži» dugme</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Pokaži ili sakri «Poveži» dugme u pop-up prozoru. Ako pritisnete dugme AirPods će se spojiti.</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Automatsko povezivanje</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Automatski se povežite na AirPods kada ih izvadite iz maskice.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>AirPods su se prestale spajati</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Automatski pusti</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Ako nema otvorenih plejera, Windows će ignorisati komandu.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Sve postavke će biti resetovane. Želiš li nastaviti?</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Da, resetuj postavke</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Savjet</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Na osnovu vašeg korištenja, preporučujemo da postavite valutu na {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Primjeni</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Nemoj napominjati</value>
+  </data>
 </root>
