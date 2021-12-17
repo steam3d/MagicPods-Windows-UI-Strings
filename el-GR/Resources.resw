@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,436 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>Ταυτόχρονα(Μείωση έντασης + Αναπαραγωγή/Παύση)</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Σήμα</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Το κομμάτι θα κάνει παύση εάν αφαιρεθεί από τα αυτιά το ένα AirPod ή θα σταματήσει εάν αφαιρεθούν και τα δυο.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>Κατά</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Υπόλοιπες Ρυθμίσεις</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Επικοινωνήστε μαζί μας</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Αναφορά σφάλματος</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Λειτουργεία αποσφαλμάτωσης</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Αναφορά σφαλμάτων</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Ενεργοποίηση Αποσφαλμάτωσης</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Αναζήτηση Airpods</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Μέγιστη</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Ελάχιστη</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Ζωντανή Σύνδεση</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Γρήγορη αναζήτηση</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Ρυθμίσεις</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Το άνοιγμα κατά την εκκίνηση απενεργοποιήθηκε λόγο πολιτικής απορρήτου ή δεν υποστηρίζεται σε αυτήν τη συσκευή.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Εικονίδιο γραμμής εργασιών</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Κρύψιμο εικονιδίου</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Θα πρέπει να γίνει επανεκκίνηση της εφαρμογής για να εφαρμοστού οι νέες ρυθμίσεις.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Εμφάνιση εικονιδίου φόρτισης των AirPods</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Όταν τα AirPods είναι συνδεδεμένα, το εικονίδιο γραμμής εργασιών θα εμφανίσει την μέση τιμή του δεξιού και του αριστερού ακουστικού. Το εικονίδιο ενημερώνεται ανά ένα λεπτό.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Εικονίδιο μπαταρίας</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Αναλογικό</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Ψηφιακό</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Ενεργοποίηση εκκίνησης</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Ανοίξτε την θήκη ή συνδέστε τα AirPods
+για εμφάνιση ποσοστού μπαταρίας</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>Τα AirPods αποσυνδέθηκαν</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Ρυθμίσεις</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Έξοδος</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Βοήθεια</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Όχι</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Ναι</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Εμφάνιση ποσοστού μπαταρίας</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Γενικές Ρυθμίσεις</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Πειραματικές Ρυθμίσεις</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Κλείσιμο MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Υποστήριξη</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Ή εφαρμογή θα κλείσει και όλες οι λειτουργίες θα απενεργοποιηθούν.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Κλείσιμο MagicPods;</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Κλείσιμο</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Άκυρο</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Λίστα με υποστηριζόμενες εφαρμογές αναπαραγωγής</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Ακτίνα αναζήτησης AirPods</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Τί είναι η ακτίνα αναζήτησης;</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Συμβουλή</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Μην θέσετε τιμή μεγαλύτερη του 65. Σε κάποιες περιπτώσεις, το εφέ μπορεί να εμφανίζετε ξαφνικά.</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Προειδοποίηση</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Ενέργειες σύνδεσης</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Κάποιες φορές όταν τα AirPods είναι συνδεδεμένα και η θήκη ανοιχτή, το εικονίδιο της μπαταρίας μπορεί να εμφανιστεί αστραπιαία.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Προβολή του κουμπιού &lt;&lt;Σύνδεσης&gt;&gt;</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Αυτόματη Σύνδεση</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Αυτόματη σύνδεση με τα AirPods όταν αφαιρεθεί ένα από τα δύο AirPods από την θήκη.</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>Τα AirPods σταμάτησαν να συνδέονται</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Αυτόματη αναπαραγωγή</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Εάν δεν υπάρχουν ανοιχτά παράθυρα αναπαραγωγής ,δεν θα γίνει τίποτα.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Ναι, επαναφορά ρυθμίσεων</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Συμβουλή</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Βασισμένοι στην χρήση σας , προτείνεται η τιμή {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Εφαρμογή</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Να μην γίνει υπενθύμιση</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Προσθήκη των AirPods στην λίστα Bluetooth των Windows</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>Η εφαρμογή MagicPods υποστηρίζει AirPods 1ης ή 2ης γενιάς, AirPods Max και PowerBeats Pro</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Πλησιάστε στον υπολογιστή όσο περισσότερο γίνεται την θήκη των AirPods και ανοίξτε την</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Επόμενο</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Κλείσιμο</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>Γίνεται αναζήτηση των AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Περιοχή προβολής αναδυόμενου παραθύρου</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Επάνω αριστερή γωνία</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Επάνω δεξιά γωνία</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Κέντρο</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Ο υπολογιστής δεν υποστηρίζει Bluetooth χαμηλής ενέργειας.</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Προσοχή</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Αναδυόμενο παράθυρο</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Προβολή παραθύρου</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Μέγεθος παραθύρου</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Μικρό</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Μεσαίο</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Μεγάλο</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Επαναφορά Ρυθμίσεων</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Ανίχνευση Αυτιού</value>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Η σύνδεση με τον υπολογιστή χάθηκε. Πατήστε &lt;&lt;Όχι για να κλίσει η εφαρμογή. Επανασύνδεση;</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>Τα AirPods δεν βρέθηκαν. Ελέγξτε ότι τα AirPods έχουν συνδεθεί στην συσκευή και επανεκκινήστε την εφαρμογή.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>Το επίπεδο της μπαταρίας των AirPods είναι {0}. Παρακαλώ φορτώστε τα AirPods.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Κρύψιμο ή εμφάνιση αναδυόμενου παραθύρου όπως στο iPhone, όταν ανοίγει η θήκη.</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Κλείσιμο εφαρμογής</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>Ένα airpod εκτός αυτιού</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Αναπαραγωγή/Παύση</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Μείωση της έντασης</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Κανένα</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Επιλογή προεπιλεγμένης συσκευής εξόδου ήχου</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Η συσκευή έχει αφαιρεθεί ή δεν είναι διαθέσιμη</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Περισσότερες πληροφορίες</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Ανάγνωση ειδοποιήσεων</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Διαμόρφωση</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Διαμόρφωση ανάγνωσης</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Διαλέξτε φωνή</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Ο εκφωνητής θα διαβάζει το κείμενο σε μόνο μία γλώσσα.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Δεν επιλέχτηκε φωνή ή η φωνή αυτή δεν είναι διαθέσιμη</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Ακούστε το κείμενο με την επιλεγμένη φωνή</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Εκφώνηση</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Ανάγνωση όλων των ειδοποιήσεων</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Προβολή όλων των εφαρμογών</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Ρυθμίσεις ειδοποιήσεων</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Προσθήκη νέας φωνής</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Η σύνδεση ακυρώθηκε</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Ένα ζευγάρι AirPods είναι ήδη συνδεδεμένα , παρακαλώ αποσυνδέστε τα πρώτα.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>Για καλύτερη εμπειρία χρήσης, προτείνετε την ενεργοποίηση κατά την εκκίνηση. Αυτό γίνετε από το μενού εκκίνησης των Windows.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Το άνοιγμα κατά την εκκίνηση των MagicPods είναι απενεργοποιημένο</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>Επανάληψη αναζήτησης</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>Ακολουθήστε αυτόν τον οδηγό.</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Εάν επιλέξεις αυτόματα, η εφαρμογή θα προσπαθήσει να εντοπίσει αυτόματα τι μουσική αναπαράγεται την στιγμή αυτή. Εάν γίνεται αναπαραγωγή μουσικής η βίντεο, η εφαρμογή θα το θέσει αυτόματα σε παύση. Διαφορετικά η εφαρμογή θα μειώσει την ένταση.</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Ήχος χαμηλής συχνότητας</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Χρήσιμο κατά την χρήση του Premiere Pro ή του Audition. Απαιτεί επανασύνδεση των AirPods κατά την ενεργοποίηση του. Μπορεί να αυξήσει την κατανάλωση ενέργειας.</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>Τα airpods μπορεί να εντοπιστούν από ραδιοσυχνότητες. Ορίστε την μικρότερη συχνότητα για την καλύτερη ποιότητα της σύνδεσης.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Μειώνει τον χρόνο αναζήτησης των Airpods. Ενεργοποιήστε όταν είστε σίγουροι ότι δεν υπάρχουν άτομα με AirPods γύρο σας.</value>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Κατά την εκκίνηση</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Άνοιγμα κατά την εκκίνηση</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Μπορεί να γίνει ενεργοποίηση ή απενεργοποίηση στις Εφαρμογές εκκίνησης.</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Η ένταση θα μειωθεί όταν αφαιρεθεί το ένα AirPod από το αυτί, ή θα την επαναφέρει όταν αφαιρεθούν/φορεθούν και τα δύο AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Εάν το παράθυρο δεν εμφανιστεί ανοίξτε την θήκη με τα AirPods μέσα και απαλά σύρετε την μπάρα μέχρι να εμφανιστεί σωστά το εφέ.</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Οι πειραματικές λειτουργίες μπορεί να μην δουλέψουν για όλες τις συσκευές , και σε κάποιες περιπτώσεις, η εφαρμογή ή τα AirPods μπορεί να σταματήσουν να ανταποκρίνονται.</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Εμφάνιση ή κρύψιμο του κουμπιού &lt;&lt;Σύνδεσης&gt;&gt; σε αναδυόμενο παράθυρο. Πατώντας του κουμπί θα γίνει σύνδεση με τα AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>Εκκινεί την αναπαραγωγή μόλις συνδεθούν τα AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Θα γίνει επαναφορά όλων των ρυθμίσεων. Θέλετε να συνεχίσετε;</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Σφάλμα σύνδεσης με τα AirPods. Δοκιμάστε να τα συνδέσετε χειροκίνητα.</value>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>Θα γίνει παύση του κομματιού και η ένταση θα μειωθεί όταν αφαιρεθεί το ένα AirPod από το αυτί, ή θα σταματήσει και θα γίνει επαναφορά της φωνής όταν αφαιρεθούν και τα δύο AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Ακτίνα αναζήτησης- η απόσταση όπου ο υπολογιστής θα αναζητήσει για ανοιχτή θήκη AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Κάτω αριστερή γωνία</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Κάτω δεξιά γωνία</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Ήχος</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Αυτόματη εναλλαγή εξόδου ήχου</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Εναλλαγή ήχου από τα AirPods στην προεπιλεγμένη συσκευή όταν και τα δύο AirPods αφαιρεθούν από τα αυτιά.</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>Για ενεργοποίηση χρειάζεται εγκατάσταση του Microsoft Visual C ++ 2015 Redistributable. Όταν τελειώσετε την εγκατάσταση επανεκκινήστε την MagicPods.</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>Θα γίνετε ανάγνωση των ειδοποιήσεων όταν τα AirPods είναι συνδεδεμένα και έχουν οριστεί ως έξοδος ήχου.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Ανάγνωση ειδοποιήσεων από τις παρακάτω εφαρμογές</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Δεν έχουν ειδοποιήσεις όλες οι παρακάτω εφαρμογές, κάποιες εφαρμογές μπορεί να μην είναι στην λίστα.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Η λειτουργεία "Ανάγνωση ειδοποιήσεων" είναι απενεργοποιημένη, καθώς δεν έχει πρόσβαση στις ειδοποιήσεις. Πηγαίντε στις ρυθμίσεις ειδοποιήσεων και ανοίξτε το "VoiceOver notification".</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>Τα AirPods δεν βρέθηκαν</value>
+  </data>
 </root>
