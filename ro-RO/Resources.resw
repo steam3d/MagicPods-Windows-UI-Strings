@@ -390,7 +390,7 @@ pentru a verifica nivelul bateriei</value>
     <value>Audio</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods-urile dvs. nu au fost găsite. Verificați că v-ați conectat AirPods-urile la acest dispozitiv și reporniți aplicația.</value>
+    <value>AirPods-urile dvs. nu au fost găsite. Verificați dacă v-ați conectat AirPods-urile la acest dispozitiv și reporniți aplicația.</value>
   </data>
   <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
     <value>Util atunci când lucrați în aplicații precum Premiere Pro sau Audition. Necesită reconectarea AirPods-urilor după activare. Poate crește consumul bateriei.</value>
@@ -474,5 +474,20 @@ pentru a verifica nivelul bateriei</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
     <value>Dacă fereastra nu apare, deschideți carcasa cu AirPods-urile înăuntru și incrementați ușor valoarea de pe glisorul de sus până când se afișează animația.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>Pentru o experiență cât mai bună, recomandăm activarea la pornire. Puteți face acest lucru din fila „Pornire” din Managerul de activități.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Deschiderea „Serviciului MagicPods” la pornire dezactivată</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>Căutare fără sfârșit</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>Nu a fost găsită nicio pereche AirPods</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>Urmați acest ghid pentru a rezolva problema.</value>
   </data>
 </root>
