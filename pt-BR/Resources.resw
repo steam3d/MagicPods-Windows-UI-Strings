@@ -151,7 +151,7 @@
     <value>Detecção de Orelha</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
-    <value>Play/Pause</value>
+    <value>Jogar/Pausa</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
     <value>Diminuir Volume</value>
@@ -281,7 +281,7 @@
     <value>Analogico</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digital</value>
+    <value>digitalizar</value>
   </data>
   <data name="Status_ButtonStartup.Content" xml:space="preserve">
     <value>Habilitar inicialização</value>
@@ -478,5 +478,74 @@ para assistir o nível da bateria</value>
   <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
     <value>Muchas Gracias por favor</value>
     <comment>Not used</comment>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>Não consegui encontrar AirPods</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Falha na atualização da carga da bateria</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>O VoiceOver anuncia notificações quando os AirPods estiverem conectados e definidos como o dispositivo de saída de áudio.</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Configurar</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Configuração de VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Escolha uma voz</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>O locutor pode ler o texto em apenas um idioma.</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Ouça o texto com a voz selecionada</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Falar</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Notificações de voz desses remetentes</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Narração de todas as notificações</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Mostre todos os aplicativos</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>Para a melhor experiência do usuário, recomendamos que você habilite a inicialização. Você pode fazer isso na guia "Startup" no Gerenciador de Tarefas.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Startup "MagicPods Service" desativado</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>Siga este guia para corrigir o problema.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Nenhuma voz selecionada ou disponível</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Nem todos os aplicativos da lista podem enviar notificações, alguns aplicativos podem não estar na lista.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>O recurso "Notificação de Voz" está desligado, não pode ter acesso às notificações. Abra "Privacidade e notificações", permita o acesso às notificações e, em seguida, ative a "notificação de Voz".</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Privacidade e notificações</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Adicione uma nova voz</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Conexão cancelada</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Outros AirPods já estão conectados, por favor desconecte-os primeiro.</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>Busca infinita</value>
   </data>
 </root>
