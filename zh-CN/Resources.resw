@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_LostConnection" xml:space="preserve">
-    <value>无法连接到系统进程，点击“否”将关闭应用。是否尝试重新连接？</value>
+    <value>无法连接到桌面进程，单击“否”将关闭应用。是否尝试重新连接？</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>未能找到 AirPods，请确保 AirPods 已经与您的设备成功配对后重启应用再进行尝试。</value>
+    <value>未能找到 AirPods。请确保 AirPods 与此设备配对，并重启应用程序。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>您的设备不支持蓝牙低能耗模式（需蓝牙4.0以上版本）。</value>
+    <value>您的设备不支持蓝牙低能耗模式。</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>电量剩余{0}% ，请及时为您的 AirPods 充电。</value>
@@ -211,7 +211,7 @@
     <value>实时信号</value>
   </data>
   <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>AirPods 可被无线信号检测，请将“最小强度”设置为“实时信号”的平均值。</value>
+    <value>无线耳机可以被无线电信号探测到。请将最小信号设置为实时信号的平均值。</value>
   </data>
   <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
     <value>快速搜索</value>
@@ -241,13 +241,13 @@
     <value>隐藏图标</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>应用重启后生效。</value>
+    <value>重新启动应用程序以应用。</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
     <value>在任务栏图标中显示 AirPods 电量</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>在 AirPods 成功连接之后，使任务栏图标显示 AirPods 左、右耳的平均电量。每分钟更新一次。</value>
+    <value>当 AirPods 连接时，系统托盘图标将显示您左右耳机的平均电量。图标每分钟更新一次。</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
     <value>电量显示样式</value>
@@ -262,7 +262,7 @@
     <value>开机自启动</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
-    <value>打开充电盒或者与 AirPods 进行连接
+    <value>打开充电盒或连接到 AirPods
 以查看电池电量</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
@@ -290,7 +290,7 @@
     <value>展示弹窗</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>当你打开充电盒时，像在iPhone上一样展示（或隐藏）弹窗动画。</value>
+    <value>当您打开充电盒时，像在 iPhone 上一样展示（或隐藏）弹窗动画。</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>弹窗大小</value>
@@ -314,7 +314,7 @@
     <value>支持</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>MagicPods 关闭后，所有应用内功能都将无法使用。</value>
+    <value>应用程序将被关闭，所有功能将被禁用。</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>关闭 MagicPods？</value>
@@ -350,7 +350,7 @@
     <value>警告</value>
   </data>
   <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>实验功能可能并不会正常工作，在某些情况下，甚至可能导致应用或者 AirPods 发生故障。</value>
+    <value>实验功能可能并不适用于所有用户，在某些情况下，应用程序或 AirPods 可能会崩溃。</value>
   </data>
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
     <value>连接操作</value>
@@ -410,7 +410,7 @@
     <value>将 AirPods 添加到配对的蓝牙设备中</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods 支持 AirPods 1-2代、AirPods Pro、AirPods Max 与PowerBeats Pro</value>
+    <value>MagicPods 支持 AirPods 1-2 代、AirPods Pro、AirPods Max 和 PowerBeats Pro</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>请将 AirPods 充电盒尽可能近地靠近您的电脑并打开</value>
@@ -530,9 +530,9 @@
     <value>无法找到AirPods</value>
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
-    <value>参考这个指南来尝试解决问题</value>
+    <value>参考这个手册来尝试解决问题。</value>
   </data>
   <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
-    <value>扩大搜索范围</value>
+    <value>穷举搜索</value>
   </data>
 </root>
