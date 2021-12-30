@@ -163,4 +163,331 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>יְצִיאָה</value>
   </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>הבא</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>רדיוס חיפוש - הרדיוס שבו המחשב יחפש מארז AirPods פתוח.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>קרוב</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>חיפוש ב-AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>מיקום חלון</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>פינה שמאלית עליונה</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>פינה ימנית עליונה</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>מרכז</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>פינה שמאלית תחתונה</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>פינה ימנית תחתונה</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>שמע</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>בחר רמקולי ברירת מחדל</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>ההתקן אינו זמין או מוסר</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>למד עוד</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>התראות על VoiceOver</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>הגדרות</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>הפעל בעת האתחול</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>איירפודס אחת מחוץ לאוזן</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>האזנה לטקסט באמצעות הקול הנבחר</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>בחירת קול</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>לא נבחר קול או זמין</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>לדבר</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>הודעות VoiceOver משולחים אלה</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>בכמה</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>יומן רישום של איתור באגים</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>באפשרותך להפוך זאת לזמין או ללא זמין בכרטיסיה הפעלה במנהל המשימות.</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>הפוך אתחול לזמין</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>פתח/י או התחבר/י ל-AirPods
+כדי לצפות ברמת הסוללה</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>לא כל היישומים מהרשימה יכולים לשלוח הודעות, ייתכן שיישומים מסוימים לא יהיו ברשימה.</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>תכונות ניסיוניות</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>VoiceOver כל העדכונים</value>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>הפעלה</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>אתחול אינו זמין על-ידי מדיניות קבוצתית או שאינו נתמך בהתקן זה.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>סמל מגש מערכת</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>סמל 'הסתר'</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>הפעל מחדש יישומים כדי להחיל.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>הצג טעינת AirPods בסמל</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>היישום ייסגר וכל הפונקציות יושבתו.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>הצג את כל האפליקציות</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>כאשר ה-AirPods מחוברות, סמל מגש המערכת יציג את הטעינה הממוצעת של האוזניות השמאליות והיניות. עדכון סמלים בכל דקה.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>סמל סוללה</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>אנלוגי</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>דיגיטלי</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>ה-AirPods מנותקות</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>הגדרות</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>עזרה</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>לא</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>כן</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>פרטי סוללה</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>הגדרות כלליות</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>סגור את ה-MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>תמיכה</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>לסגור את "מג'יקפודס"?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>קרוב</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>ביטל</value>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>עוצמת הקול פוחתת בעת הסרת AirPods אחת מהאוזן, או שחזור בעת הסרה/אוורור של שתי ה-AirPods.</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>רשימת שחקנים נתמכים</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>רדיוס חיפוש של AirPods</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>מהו רדיוס חיפוש?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>תשר</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>אזהרה</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>פעולות חיבור</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>לפעמים כאשר ה-AirPods מחוברות והמארז פתוח, סמל הסוללה עשוי להבהב.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>הצג את לחצן «התחבר»</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>הצג או הסתר את לחצן «התחבר» בחלון המוקפץ. לחיצה על הכפתור תחבר את ה-AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>התחברות אוטומטית</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>ה-AirPods הפסיקו להתחבר</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>הפעלה אוטומטית</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>שלח את הפקודה «הפעל» לאחר חיבור ה-AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>אם אין שחקנים פתוחים, Windows יתעלם מהפקודה.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>כן, אפס הגדרות</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>תשר</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>בהתבסס על השימוש שלך, מומלץ להגדיר את הערך {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>החל</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>אל תזכיר</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>חיבור ה-AirPods נכשל. נסה להתחבר באופן ידני.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>הוספת AirPods לרשימת התקני Bluetooth של Windows</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>ה-MagicPods תומכות ב-AirPods Gen 1-2, AirPods Pro, AirPods Max ו-PowerBeats Pro</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>פרטיות והודעות</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>הוספת קול חדש</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>החיבור בוטל</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>AirPods אחרות כבר מחוברות, אנא נתק אותן תחילה.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>הפעלה «שירות MagicPods» מושבת</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>אם החלון אינו מופיע פתוח את המארז עם AirPods בפנים והחלק את המחוון בצורה חלקה ימינה עד שההנפשה תופיע.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>התכונה "הודעת VoiceOver" מבוטלת, לא ניתן לקבל גישה להתראות. נא פתח «פרטיות והודעות», אפשר גישה להודעות ולאחר מכן הפעל את "הודעת VoiceOver".</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>אל תגדיר ערך גדול מ- 65. במקרים מסוימים, ההנפשה עשויה להופיע בטעות.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>לקבלת חוויית המשתמש הטובה ביותר, מומלץ להפוך את האתחול לזמין. באפשרותך לעשות זאת מהכרטיסיה «הפעלה» במנהל המשימות.</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>ייתכן שתכונות ניסיוניות לא יפעלו עבור כולם, ובמקרים מסוימים האפליקציה או ה-AirPods עלולות לקרוס.</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>לא היתה אפשרות למצוא את ה-AirPods</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>התחבר/י אוטומטית ל-AirPods בשעת ההפסקה של ה-AirPods ימינה או שמאלה מהמארז.</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>חיפוש אינסופי</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>פעל לפי מדריך זה כדי לפתור את הבעיה.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>כל ההגדרות יאופסו. האם ברצונך להמשיך?</value>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>ההפעלה מושהית ועוצר הקול פוחת בעת הסרת AirPods אחת מהאוזן, או עצירות ונפח האחסון משחזר בעת הסרת שתי ה-AirPods.</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>קרב את מארז ה-AirPods קרוב ככל האפשר למחשב ופתח אותו</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>החלפת פלט שמע של מיתוג אוטומטי</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>העבירו את השמע מ-AirPods לרמקולי ברירת מחדל כאשר שתי ה-AirPods מחוץ לאוזן.</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>כדי להפוך את ההתקנה של Microsoft Visual C ++ 2015 לזמינה להפצה מחדש. הפעל מחדש את MagicPods לאחר ההתקנה.</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>VoiceOver מכריזים על התראות כאשר ה-AirPods מחוברות ומוגדרות כהתקן פלט השמע.</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>המנך עוצמה</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>להגדיר</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>שניהם (המנך עוצמה + נגן/עצור)</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>השהיית שמע נמוכה</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>תצורת VoiceOver</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>ניתן לזהות את ה-Airpods באמצעות אות רדיו.  הגדר את האות המינימלי לערך הממוצע של אות חי.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>הקריין יכול לקרוא את הטקסט בשפה אחת בלבד.</value>
+  </data>
 </root>
