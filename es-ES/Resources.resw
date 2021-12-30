@@ -475,4 +475,19 @@ para ver el nivel de bateria</value>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>Otros AirPods se encuentran conectados, por favor desconéctelos previamente.</value>
   </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Startup «MagicPods Service» desactivado</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>Para la mejor experiencia de usuario, le recomendamos que active el inicio. Puede hacerlo desde la pestaña «inicio» en el administrador de tareas.</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>La búsqueda infinita</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>No pudo encontrar AirPods</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>Siga esta guía para solucionar el problema.</value>
+  </data>
 </root>
