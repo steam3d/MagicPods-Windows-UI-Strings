@@ -475,4 +475,19 @@ aby zobaczyć stan baterii</value>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>Funkcja powiadomień VoiceOver jest wyłączona i nie ma dostępu do powiadomień. Otwórz „Prywatność i powiadomienia”, zezwól na dostęp do powiadomień, a następnie aktywuj „Powiadomienie VoiceOver”.</value>
   </data>
+  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+    <value>Aby zapewnić najlepsze wrażenia użytkownika, zalecamy włączenie uruchamiania. Możesz to zrobić z zakładki «Uruchamianie» w Menedżerze zadań.</value>
+  </data>
+  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
+    <value>Uruchamianie «MagicPods Service» wyłączone</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+    <value>Nieskończone wyszukiwanie</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+    <value>Nieskończone wyszukiwanieNieznajdź AirPods</value>
+  </data>
+  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+    <value>Postępuj zgodnie z tym przewodnikiem, aby rozwiązać problem.</value>
+  </data>
 </root>
