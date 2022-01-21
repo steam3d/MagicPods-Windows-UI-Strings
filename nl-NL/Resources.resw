@@ -461,7 +461,7 @@ om het batterijniveau te bekijken</value>
     <value>Apparaat niet beschikbaar of verwijderd</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
-    <value>Alleprogramma's laten zien</value>
+    <value>Alle programma's laten zien</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
     <value>Kies een stem</value>
@@ -491,7 +491,7 @@ om het batterijniveau te bekijken</value>
     <value>Om in te schakelen installeer Microsoft Visual C ++ 2015 Redistributable. Start MagicPods na installatie opnieuw op.</value>
   </data>
   <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
-    <value>Voice-over instellingen</value>
+    <value>VoiceOver instellingen</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
     <value>De stem kan de tekst maar in één taal lezen.</value>
@@ -506,7 +506,7 @@ om het batterijniveau te bekijken</value>
     <value>Er is geen stem geselecteerd of beschikbaar</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
-    <value>Voice-over meldingen van deze programma's</value>
+    <value>VoiceOver meldingen van deze programma's</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
     <value>Niet alle programma's van deze lijst kunne meldingen sturen, sommige programma's staan mogelijk niet in deze lijst.</value>
@@ -534,5 +534,29 @@ om het batterijniveau te bekijken</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
     <value>Voice-over bericht wanneer AirPods zijn verbonden en zijn ingesteld als luidspreker.</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Taal</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Licht</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Donker</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Gebruik apparaat instellingen</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Gebruik systeemtaal</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>Scherm thema</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Thema</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>Programma instellingen</value>
   </data>
 </root>
