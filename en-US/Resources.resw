@@ -573,4 +573,13 @@ to watch battery level</value>
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>Application settings</value>
   </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>These headphones do not support some features.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Limited functionality</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>AirPods capability</value>
+  </data>
 </root>
