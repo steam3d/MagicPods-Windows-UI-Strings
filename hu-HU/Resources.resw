@@ -284,7 +284,7 @@
     <value>Adja hozzá az AirPods-ot a Windows Bluetooth eszközök listájához</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>A MagicPods támogatja az AirPods 1-2 generációt, AirPods Pro, AirPods Max és PowerBeats Prót</value>
+    <value>A MagicPods támogatja a legtöbb AirPods és Beats fül- és fejhallgatókat</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Hozza az AirPods dobozát a közel a számítógépéhez, majd nyissa ki</value>
@@ -513,5 +513,11 @@ hogy ellenőrizze az akkumulátor töltöttségét</value>
   </data>
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>Rendszerbeállítás használata</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>Ez a fejhallgató nem támogat bizonyos funkciókat.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Korlátozott funcionalitás</value>
   </data>
 </root>
