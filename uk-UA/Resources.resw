@@ -317,7 +317,7 @@
     <value>Додати AirPods до списку Bluetooth приладів Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>Додаток MagicPods підтримує AirPods Gen 1-2, AirPods Pro, AirPods Max та PowerBeats Pro</value>
+    <value>Додаток MagicPods підтримує більшість моделей AirPods та Beats</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Наступне</value>
@@ -513,5 +513,11 @@
   </data>
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>Налаштування програми</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>Ці навушники не підтримують деякі можливості.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Обмежена функціональність</value>
   </data>
 </root>
