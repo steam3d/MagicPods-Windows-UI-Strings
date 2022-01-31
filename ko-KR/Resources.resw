@@ -124,7 +124,7 @@
     <value>AirPods이 발견되지 않았어요. AirPods이 장치와 페어링되었는지 확인하고 앱을 다시 시작해주세요.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>PC가 저전력 Bluetooth를 지원하지 않아요.</value>
+    <value>사용자의 PC는 저전력 Bluetooth를 지원하지 않습니다.</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>AirPods의 남은 배터리 {0}%. AirPods을 충전해주세요.</value>
@@ -139,7 +139,7 @@
     <value>창 표시</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>케이스를 열 때, iPhone에서처럼 팝업을 표시하거나 숨겨요.</value>
+    <value>케이스를 열 때 iPhone에서처럼 팝업을 표시하거나 숨깁니다.</value>
   </data>
   <data name="Settings_Popup_Text3.Header" xml:space="preserve">
     <value>신호</value>
@@ -184,7 +184,7 @@
     <value>자동을 선택하면 앱이 현재 재생중인 음악을 정확히 감지하려고 시도합니다. 음악이나 동영상을 듣고있는 경우 앱이 일시 중지합니다. 그렇지 않으면 앱이 볼륨을 줄입니다.</value>
   </data>
   <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
-    <value>한 개의 AirPods을 빼면 재생이 일시 정지되고 두 개의 AirPods을 빼면 재생이 중지 돼요.</value>
+    <value>귀에서 한 쪽 에어팟을 제거하면 재생이 일시 정지되며 모든 에어팟을 제거하면 재생이 중지됩니다.</value>
   </data>
   <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
     <value>볼륨</value>
@@ -196,7 +196,7 @@
     <value>낮은 오디오 지연</value>
   </data>
   <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
-    <value>Premiere Pro 또는 Audition에서 작동할 때 유용해요. 옵션을 켠 후 AirPods을 다시 연결해야 해요. 배터리 소모량을 증가시킬 수 있어요.</value>
+    <value>Premiere Pro 또는 Audition의 사용 상황에서 유용합니다. 기능의 활성화 이후 에어팟을 다시 연결해야 합니다. 배터리 소모량이 증가될 수 있습니다.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
     <value>도움말</value>
@@ -205,7 +205,7 @@
     <value>문제 신고</value>
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
-    <value>디버그 로그</value>
+    <value>디버그 기록</value>
   </data>
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>문제 신고</value>
@@ -226,13 +226,13 @@
     <value>라이브 신호</value>
   </data>
   <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>이 AirPods은 신호 반경에서 감지될 수 있어요. 최소 신호를 라이브 신호의 평균 값으로 설정해주세요.</value>
+    <value>라디오 신호를 통해 에어팟을 감지할 수 있습니다. 최소 신호를 라이브 신호의 평균 값으로 설정해주십시오.</value>
   </data>
   <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
     <value>빠른 검색</value>
   </data>
   <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
-    <value>AirPods의 검색 시간을 단축할 수 있어요. 주변에 다른 에어팟이 없을 때 켜주세요.</value>
+    <value>에어팟의 검색 시간을 단축할 수 있습니다. 주변에 다른 에어팟이 없을 때 사용하십시오.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>설정</value>
@@ -244,7 +244,7 @@
     <value>시작 프로그램 사용</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>작업 관리자의 시작 프로그램 탭에서 이 설정을 변경할 수 있어요.</value>
+    <value>작업 관리자의 시작프로그램 탭에서 이 설정을 변경할 수 있습니다.</value>
   </data>
   <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
     <value>그룹 정책에 의해 시작 프로그램이 비활성화되었거나 이 장치에서 지원되지 않아요.</value>
@@ -262,7 +262,7 @@
     <value>아이콘에 AirPods 배터리 상태 표시</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>AirPods이 연결되면 시스템 트레이 아이콘에 양쪽 AirPods의 평균 배터리 잔량을 표시 해요. 매 분마다 아이콘은 업데이트 돼요.</value>
+    <value>에어팟이 연결되면 시스템 트레이 아이콘에 양쪽 에어팟 배터리 잔량의 평균치를 표시합니다. 배터리 정보는 1분마다 업데이트됩니다.</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
     <value>배터리 아이콘</value>
@@ -277,7 +277,7 @@
     <value>시작프로그램 활성화</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
-    <value>케이스를 열거나 AirPods 연결시
+    <value>케이스를 열거나 에어팟 연결 시
 배터리 잔량 확인</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
@@ -326,7 +326,7 @@
     <value>취소</value>
   </data>
   <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
-    <value>귀에서 하나의 AirPods를 제거하면 볼륨이 감소하거나 양쪽 AirPod를 제거 / 장착하면 볼륨이 복원돼요.</value>
+    <value>한쪽 에어팟를 제거하면 음향 크기가 감소하고 양쪽 에어팟을 제거하거나 장착하면 음향 크기가 복원됩니다.</value>
   </data>
   <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
     <value>지원되는 플레이어 목록</value>
@@ -344,46 +344,46 @@
     <value>팁</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>65보다 큰 값을 설정하지 말아주세요. 애니메이션이 오작동 할 수 있어요.</value>
+    <value>65보다 큰 값을 설정할 경우 특정 상황에서 애니메이션의 재생에 문제가 발생할 수 있습니다.</value>
   </data>
   <data name="Settings_Connection_Text1.Text" xml:space="preserve">
     <value>경고</value>
   </data>
   <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>실험적 기능이 모든 사람에게 작동하지 않을 수 있어요. 앱 또는 AirPods이 충돌 할 수 있어요.</value>
+    <value>실험적 기능이 모든 경우에 작동하는 것은 아닙니다. 특정 상황에서는 프로그램이나 에어팟이 충돌할 수 있습니다.</value>
   </data>
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
     <value>연결 동작</value>
   </data>
   <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>가끔 에어팟이 연결되고 케이스가 열리면 배터리 아이콘이 깜박일 수 있어요.</value>
+    <value>에어팟이 연결되고 케이스가 열리면 배터리 아이콘이 깜박일 수 있습니다.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>«연결» 버튼 표시</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>팝업에서 «연결» 버튼을 표시하거나 숨길 수 있어요. «연결» 버튼을 누르면 AirPods이 연결되어요.</value>
+    <value>팝업에서 연결 버튼을 표시하거나 숨길 수 있습니다. 연결 버튼을 누르면 에어팟이 연결됩니다.</value>
   </data>
   <data name="Settings_Connection_Text4.Header" xml:space="preserve">
     <value>자동 연결</value>
   </data>
   <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
-    <value>케이스에서 오른쪽 또는 왼쪽 AirPods를 꺼내면 AirPods에 자동으로 연결되어요.</value>
+    <value>케이스에서 왼쪽 또는 오른쪽 에어팟을 꺼내면 자동으로 연결됩니다.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods 연결이 중지됨</value>
+    <value>에어팟 연결이 중지됨</value>
   </data>
   <data name="Settings_Connection_Text5.Header" xml:space="preserve">
     <value>자동 재생</value>
   </data>
   <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
-    <value>AirPods를 연결 한 후 «Play» 명령을 보내요.</value>
+    <value>에어팟이 연결되면 재생 명령을 보냅니다.</value>
   </data>
   <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
-    <value>열려있는 플레이어가 없는 경우 Windows는 명령을 무시해요.</value>
+    <value>실행 중인 플레이어가 없는 경우 윈도우는 명령을 무시합니다.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
-    <value>모든 설정이 초기화되어요. 계속 하시겠습니까?</value>
+    <value>모든 설정이 초기화됩니다. 계속하시겠습니까?</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
     <value>예, 설정을 재설정합니다</value>
@@ -392,7 +392,7 @@
     <value>팁</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>사용량에 따라 값을 {0}으로 설정하는 것이 좋아요</value>
+    <value>사용량에 따라 설정합니다. {0}으로 설정하는 것을 추천합니다.</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>적용</value>
@@ -404,28 +404,28 @@
     <value>AirPods에 연결하지 못했어요. 수동으로 연결해주세요.</value>
   </data>
   <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
-    <value>귀에서 하나의 AirPods을 제거하면 재생을 일시 중지하고 볼륨 감소되어요. 양쪽 AirPods을 모두 제거하면 재생을 중지되고 볼륨이 복원됩니다.</value>
+    <value>귀에서 한쪽 에어팟을 제거하면 재생이 일시 중지되고 음향 크기가 감소됩니다. 양쪽 에어팟을 모두 제거하면 재생을 중지하고 음향 크기가 복구됩니다.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Windows Bluetooth 장치 목록에 AirPods 추가</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods는 AirPods Gen 1-2, AirPods Pro, AirPods Max 및 PowerBeats Pro를 지원해요</value>
+    <value>MagicPods는 대부분의 에어팟과 비츠 헤드폰을 지원합니다.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>AirPods을 컴퓨터에 가깝게 가져와서 케이스를 열어요</value>
+    <value>에어팟 케이스를 컴퓨터 근처에 두고 케이스를 엽니다.</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>다음</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
-    <value>검색 범위 - 컴퓨터가 열려있는 AirPods 케이스를 검색할 반경이에요.</value>
+    <value>검색 범위 - 컴퓨터가 열려 있는 에어팟 케이스를 검색할 범위입니다.</value>
   </data>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>닫기</value>
   </data>
   <data name="Status_Search.Text" xml:space="preserve">
-    <value>AirPods 검색중</value>
+    <value>에어팟 검색중</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
     <value>창 위치</value>
@@ -452,16 +452,16 @@
     <value>오디오 출력 자동 변경</value>
   </data>
   <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
-    <value>양쪽 에어팟이 귀에 있지 않을때 기본 스피커로 출력을 변경해요.</value>
+    <value>모든 에어팟이 착용되지 않았을 경우 기본 스피커로 출력이 변경됩니다.</value>
   </data>
   <data name="Settings_Audio_Text3.Header" xml:space="preserve">
     <value>기본 스피커 선택</value>
   </data>
   <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
-    <value>장치를 사용할 수 없거나 제거됨</value>
+    <value>장치가 사용할 수 없는 상태이거나 제거되었습니다.</value>
   </data>
   <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Microsoft Visual C ++ 2015 Redistributable 설치를 완료하려면 다음과 같이 하십시오. 설치 후 MagicPods를 재시작 하세요.</value>
+    <value>Microsoft Visual C ++ 2015 Redistributable의 설치 후 MagicPods의 재시작이 필요합니다.</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
     <value>더 알아보기</value>
@@ -482,10 +482,10 @@
     <value>음성 선택</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>AirPods가 연결 후 오디오 출력 장치로 설정되었을 시 VoiceOver가 알림을 줘요.</value>
+    <value>에어팟이 연결되고 오디오 출력 장치로 설정되면 VoiceOver 알림이 작동합니다.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
-    <value>음성은 한 종류의 언어의 텍스트만 읽을 수 있어요.</value>
+    <value>음성 알림 기능은 한 가지 언어의 텍스트로만 읽을 수 있습니다.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
     <value>다음 응용 프로그램에서 발송된 VoiceOver 알림</value>
@@ -494,7 +494,7 @@
     <value>모든 알림 VoiceOver</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
-    <value>모든 응용 프로그램 보여주기</value>
+    <value>모든 응용 프로그램 표시</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
     <value>듣기</value>
@@ -509,31 +509,31 @@
     <value>연결 취소됨</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
-    <value>다음 문장을 선택된 음성으로 들어보세요</value>
+    <value>문장을 선택된 음성으로 청취합니다.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
-    <value>리스트에 있는 모든 응용 프로그램이 알림을 보낼 수 있는 것은 아니며, 몇몇 응용 프로그램은 리스트에 없을 수도 있어요.</value>
+    <value>목록에 있는 모든 응용 프로그램이 알림을 보낼 수 있는 것은 아니며 몇몇 응용 프로그램은 목록에 없을 수도 있습니다.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>알림에 접근 할 수 없어 "VoiceOver 알림" 기능이 종료되었어요. &lt;알림 개인 정보 설정&gt;에서 알림 접근을 허용 한 후 "VoiceOver 알림"을 다시 실행해주세요.</value>
+    <value>알림에 접근할 수 없어 VoiceOver 알림 기능이 종료되었습니다. 윈도우의 알림 개인 정보 설정에서 접근을 허용 한 후 VoiceOver 알림을 다시 실행하십시오.</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>다른 AirPods이 이미 연결되어 있어요, 다른 AirPods을 연결 취소한 후 다시 연결해주세요.</value>
+    <value>다른 에어팟이 이미 연결되어 있습니다. 먼저 기존의 연결을 해제하십시오.</value>
   </data>
   <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>&lt;MagicPods Service&gt; 비활성화 됨</value>
+    <value>MagicPods 서비스의 시작프로그램 설정이 비활성화되었습니다.</value>
   </data>
   <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
-    <value>무한히 반복되는 검색</value>
+    <value>무한 검색</value>
   </data>
   <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
     <value>에어팟을 찾을 수 없어요</value>
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
-    <value>문제를 해결하기 위해 지침을 따라주세요.</value>
+    <value>다음의 지침을 따르면 문제를 해결할 수 있습니다.</value>
   </data>
   <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
-    <value>최고의 사용자 경험을 위하여 저희는 시작프로그램 사용을 추천해요. 작업 관리자의 시작 프로그램 탭에서 이 설정을 변경할 수 있어요.</value>
+    <value>최고의 사용자 경험을 위해 시작프로그램으로 등록하는 것을 권장합니다. 작업 관리자의 시작프로그램 탭에서 해당 설정을 변경할 수 있습니다.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>라이트</value>
@@ -557,6 +557,15 @@
     <value>시스템 언어 사용</value>
   </data>
   <data name="Settings_AppSettings.Text" xml:space="preserve">
-    <value>앱 설정</value>
+    <value>응용프로그램 설정</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>이 헤드폰의 몇몇 기능은 지원하지 않습니다.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>제한된 기능</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>에어팟 호환</value>
   </data>
 </root>
