@@ -407,7 +407,7 @@ um den Batteriestand anzuzeigen</value>
     <value>Füge AirPods zu deinen Bluetooth Geräten in Windows hinzu</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods unterstützt AirPods der ersten &amp; zweiten Generation, AirPods Pro, AirPods Max und PowerBeats Pro</value>
+    <value>MagicPods unterstützt die meisten AirPods und Beats Kopfhörer</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Halte dein AirPods Case nah an deinen PC und öffne es</value>
@@ -535,5 +535,26 @@ um den Batteriestand anzuzeigen</value>
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
     <value>Befolgen Sie die Anleitung um das Problem zu beheben.</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Systemsprache verwenden</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Sprache</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>System-Theme verwenden</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Eingeschränkte Funktionalität</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>AirPods Kompatibilität</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>Diese Kopfhörer unterstützen einige Funktionen nicht.</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>Anwendungseinstellungen</value>
   </data>
 </root>
