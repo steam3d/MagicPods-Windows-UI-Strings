@@ -371,7 +371,7 @@
     <value>Thêm AirPods vào danh sách kết nối Bluetooth của Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods hỗ trợ AirPods thế hệ 1-2, AirPods Pro, AirPods Max và PowerBeats Pro</value>
+    <value>MagicPods hỗ trợ đa phần các đời tai nghe AirPods và Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Mang AirPods của bạn lại gần nhất có thể và mở nắp hộp</value>
@@ -386,7 +386,7 @@
     <value>Đóng</value>
   </data>
   <data name="Status_Search.Text" xml:space="preserve">
-    <value>Tìm kiếm AirPods</value>
+    <value>Đang tìm AirPods</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
     <value>Vị trí cửa sổ</value>
@@ -416,7 +416,7 @@
     <value>Thiết bị không sẵn sàng hoặc đã bị gỡ bỏ</value>
   </data>
   <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Để kích hoạt hãy cài đặt Microsoft Visual C ++ 2015 Redistributable. Khởi động lại AirPods sau khi cài đặt.</value>
+    <value>Để kích hoạt hãy cài đặt Microsoft Visual C ++ 2015 Redistributable. Khởi động lại MagicPods sau khi cài đặt.</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
     <value>Tìm hiểu thêm</value>
@@ -489,5 +489,38 @@
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
     <value>Làm theo hướng dẫn này để khắc phục sự cố.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Sáng</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Tối</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>Chủ đề cửa sổ</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Ngôn ngữ</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Dùng ngôn ngữ hệ thống</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Chủ đề</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Theo chủ đề hệ thống</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>Cài đặt ứng dụng</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>Tai nghe này không hỗ trợ một vài tính năng.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Giới hạn chức năng</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>Khả năng của AirPods</value>
   </data>
 </root>
