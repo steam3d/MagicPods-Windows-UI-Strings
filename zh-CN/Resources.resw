@@ -410,7 +410,7 @@
     <value>将 AirPods 添加到配对的蓝牙设备中</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods 支持 AirPods 1-2 代、AirPods Pro、AirPods Max 和 PowerBeats Pro</value>
+    <value>MagicPods支持绝大多数的AirPods和Beats系列耳机</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>请将 AirPods 充电盒尽可能近地靠近您的电脑并打开</value>
@@ -530,7 +530,7 @@
     <value>无法找到AirPods</value>
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
-    <value>参考这个手册来尝试解决问题。</value>
+    <value>尝试参考这个指引以解决问题。</value>
   </data>
   <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
     <value>穷举搜索</value>
@@ -558,5 +558,11 @@
   </data>
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>应用设定</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>这些耳机可能不支持部分功能特性。</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>仅部分功能可用</value>
   </data>
 </root>
