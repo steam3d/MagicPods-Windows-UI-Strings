@@ -145,13 +145,13 @@ para ver el nivel de bateria</value>
     <comment>Not used</comment>
   </data>
   <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
-    <value>Busqueda rapida</value>
+    <value>Búsqueda rápida</value>
   </data>
   <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
-    <value>Reduce el tiempo de busqueda de los AirPods. Prenda esta opcion cuando este seguro que no hay nada cerca usando los AirPods.</value>
+    <value>Reduce el tiempo de búsqueda de los AirPods. Encienda esta opción sólo cuando nadie cerca este usando AirPods.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>Configuracion</value>
+    <value>Configuración</value>
     <comment>Not used</comment>
   </data>
   <data name="Settings_Startup_Text1.Text" xml:space="preserve">
@@ -257,7 +257,7 @@ para ver el nivel de bateria</value>
     <value>Los AirPods finzalizaron la conexion</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Salida</value>
+    <value>Salir</value>
   </data>
   <data name="Settings_Connection_Text5.Header" xml:space="preserve">
     <value>Auto-reproducción</value>
@@ -278,7 +278,7 @@ para ver el nivel de bateria</value>
     <value>No se pudo conectar los AirPods. Intente conectarlos manualmente.</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>Los MagicPods son compatibles con AirPods Gen 1-2, AirPods Pro, AirPods Max y PowerBeats Pro</value>
+    <value>Los MagicPods son compatibles con la mayoría de auriculares AirPods y Beats</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Siguiente</value>
@@ -362,7 +362,7 @@ para ver el nivel de bateria</value>
     <value>La conexión al proceso de escritorio se ha perdido. Respondiendo "No" cerrará la aplicación ¿Desea reconectar?</value>
   </data>
   <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
-    <value>Ventajoso cuando esta utilizando Premiere Pro o Audition. Esto requiere reconectar los AirPods desde de prender la opcion. Es posible que se note un incremento en el consumo de la bateria.</value>
+    <value>Ventajoso cuando esta utilizando Premiere Pro o Audition. Esto requiere reconectar los AirPods luego de activar esta opción. Es posible que se note un incremento en el consumo de la batería.</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>La aplicacion sera cerrada y todas las funciones seran deshabilitadas.</value>
@@ -489,5 +489,38 @@ para ver el nivel de bateria</value>
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
     <value>Siga esta guía para solucionar el problema.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Claro</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Oscuro</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Usar tema del sistema</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>Tema de la ventana</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Usar idioma del sistema</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>Ajustes de la aplicación</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>Este modelo de auricular no soporta algunas características.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Funcionalidad limitada</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>Capacidad de los AirPods</value>
   </data>
 </root>
