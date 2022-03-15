@@ -365,7 +365,7 @@ pour voir le niveau de la batterie</value>
     <value>Auto-connexion</value>
   </data>
   <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
-    <value>Connecte automatiquement les AirPods quand l'AirPods droit ou gauche et en-dehors de l'habitacle.</value>
+    <value>Connection automatique des AirPods lorsque l'AirPod gauche ou droit est sortie du boitier.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>Les AirPods ne se connectent plus</value>
@@ -407,7 +407,7 @@ pour voir le niveau de la batterie</value>
     <value>Ajoute les Airpods à la liste des appareils Bluetooth</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods supporte les Airpods Gen 1 &amp; 2, AirPods Pro, AirPods Max et les PowerBeats Pro</value>
+    <value>MagicPods supporte la majorité des AirPods et des écouteurs Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Rapprochez autant que possible l'habitacle des AirPods de votre ordinateur et ouvrez le</value>
@@ -558,5 +558,11 @@ pour voir le niveau de la batterie</value>
   </data>
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>Paramètres de l'application</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>Ces écouteurs ne prennent pas en charge certaines fonctionnalités.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Fonctionnalité limitée</value>
   </data>
 </root>
