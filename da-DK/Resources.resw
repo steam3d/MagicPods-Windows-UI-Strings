@@ -250,7 +250,7 @@ for at se batteriniveau</value>
     <value>Automatisk afspilning</value>
   </data>
   <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
-    <value>Send kommandoen «Play", når airpoderne er tilsluttet.</value>
+    <value>Send kommandoen «Play", når AirPods'ene er tilsluttet.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>Alle indstillinger nulstilles. Vil du fortsætte?</value>
@@ -269,7 +269,7 @@ for at se batteriniveau</value>
     <value>Må ikke minde</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Føje AirPods til listen over Windows Bluetooth-enheder</value>
+    <value>Føj AirPods til listen over Windows Bluetooth-enheder</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Bring dit AirPods-etui så tæt på din computer som muligt, og åbn det</value>
@@ -455,7 +455,7 @@ for at se batteriniveau</value>
     <value>Afspilningen afbrydes midlertidigt, og lydstyrken afbrydes, når du fjerner en AirPods fra øret, eller stopper, og lydstyrken gendannes, når du fjerner begge AirPods.</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods understøtter AirPods Gen 1-2, AirPods Pro, AirPods Max og PowerBeats Pro</value>
+    <value>MagicPods understøtter de fleste AirPods og Beats høretelefoner</value>
   </data>
   <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
     <value>Skift lyd fra AirPods til standardhøjttalere, når begge AirPods er ude af øret.</value>
@@ -489,5 +489,38 @@ for at se batteriniveau</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>Funktionen "VoiceOver-meddelelse" er slået fra, kan ikke få adgang til notifikationer. Åbn "Beskyttelse af personlige oplysninger og meddelelser", tillad adgang til meddelelser, og slå derefter "VoiceOver-meddelelse" til.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Lys</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Mørk</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Brug systemets tema</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>Vindue tema</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Sprog</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Brug systemets sprog</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>Program indstillinger</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>Denne høretelefon understøtter ikke visse funktioner.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Begrænset funktionalitet</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>AirPods evner</value>
   </data>
 </root>
