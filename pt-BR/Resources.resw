@@ -394,7 +394,7 @@ para assistir o nível da bateria</value>
     <value>Adicione AirPods à lista de dispositivos Bluetooth do Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>O MagicPods é compatível com AirPods Gen 1-2, AirPods Pro, AirPods Max e PowerBeats Pro</value>
+    <value>O MagicPods é compatível com a maioria dos AirPods e fones Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Traga o seu estojo AirPods o mais próximo possível do seu computador e abra-o</value>
@@ -547,5 +547,26 @@ para assistir o nível da bateria</value>
   </data>
   <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
     <value>Busca infinita</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Claro</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Escuro</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Usar tema do sistema</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Usar idioma do sistema</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Funcionalidade limitada</value>
   </data>
 </root>
