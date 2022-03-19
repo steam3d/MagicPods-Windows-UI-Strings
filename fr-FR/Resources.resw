@@ -407,7 +407,7 @@ pour voir le niveau de la batterie</value>
     <value>Ajoute les Airpods à la liste des appareils Bluetooth</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods supporte la majorité des AirPods et des écouteurs Beats</value>
+    <value>MagicPods supporte la majorite des AiPods et casques Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Rapprochez autant que possible l'habitacle des AirPods de votre ordinateur et ouvrez le</value>
@@ -560,9 +560,12 @@ pour voir le niveau de la batterie</value>
     <value>Paramètres de l'application</value>
   </data>
   <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
-    <value>Ces écouteurs ne prennent pas en charge certaines fonctionnalités.</value>
+    <value>Ces casques ne supportent pas certaines fonctionnalités.</value>
   </data>
   <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
-    <value>Fonctionnalité limitée</value>
+    <value>Fonctionnalités limités</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>Capacité des AirPods</value>
   </data>
 </root>
