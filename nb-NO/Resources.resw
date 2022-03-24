@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,367 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Tilbakestill Innstillingene</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>Lukk appen</value>
+  </data>
+  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+    <value>Registrer øre</value>
+  </data>
+  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
+    <value>En AirPod ute av øre</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+    <value>Spill av / Pause</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+    <value>Skru ned volumet</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+    <value>Begge (Skru ned volumet + Spill av / Pause)</value>
+  </data>
+  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
+    <value>Ingen</value>
+  </data>
+  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+    <value>Musikkavspillingen blir satt på pause når du fjerner en AirPod fra øret eller stopper når du fjerner begge AirPods.</value>
+  </data>
+  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
+    <value>Med</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Annet</value>
+  </data>
+  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+    <value>Lav lydforsinkelse</value>
+  </data>
+  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+    <value>Nyttig når du jobber i Premiere Pro eller Audition. Krever at du kobler AirPods til på nytt etter denne er aktivert. Kan øke batteriforbruket.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Få hjelp</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Rapporter et problem</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Feilsøkingslogg</value>
+  </data>
+  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
+    <value>Rapporter problemer</value>
+  </data>
+  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
+    <value>Aktiver Feilsøking</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
+    <value>Let etter AirPods</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
+    <value>Maks</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
+    <value>Minimum</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
+    <value>Direkte Signal</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
+    <value>AirPods kan ikke bli funnet via radiosignal. Sett minimum signal til gjennomsnittlig verdi av Live Signal.</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+    <value>Hurtigsøk</value>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+    <value>Reduserer letetiden for AirPods. Aktiver når du er sikker på at ingen andre rundt deg bruker AirPods.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Innstillinger</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text1.Text" xml:space="preserve">
+    <value>Oppstart</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Kjør ved oppstart</value>
+  </data>
+  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+    <value>Oppstart deaktivert av Gruppepolicy, eller ikke støttet på denne enheten.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Ikon i System Tray</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Skjul ikon</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Trer i kraft etter omstart av appen.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Vis AirPods Batteristatus på ikonet</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Batteriikon</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Analog</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Digital</value>
+  </data>
+  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+    <value>Aktiver Oppstart</value>
+  </data>
+  <data name="Status_Description.Text" xml:space="preserve">
+    <value>Åpne etui eller koble til AirPods 
+for å se batterinivå</value>
+  </data>
+  <data name="Status_Disconnected" xml:space="preserve">
+    <value>AirPods Frakoblet</value>
+  </data>
+  <data name="Status_Settings.Content" xml:space="preserve">
+    <value>Innstillinger</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Avslutt</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Hjelp</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Nei</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Batteriinfo</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Generelle Innstillinger</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Eksperimentelle funksjoner</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Lukk MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Kundestøtte</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Appen vil lukkes og alle funksjoner deaktivert.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Avslutte MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Avslutt</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+    <value>Liste over støttede avspillere</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>AirPods Søkeradius</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Øverst til høyre</value>
+  </data>
+  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
+    <value>Advarsel</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Nederst til venstre</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Nederst til høyre</value>
+  </data>
+  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
+    <value>Tilkoblingshandlinger</value>
+  </data>
+  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+    <value>Koble til automatisk</value>
+  </data>
+  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
+    <value>AirPods kobler ikke til</value>
+  </data>
+  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+    <value>Spill av automatisk</value>
+  </data>
+  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+    <value>Dersom ingen avspillere er åpne vil Windows ignorere kommandoen.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Alle innstillinger vil bli tilbakestilt. Ønsker du å fortsette?</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Tips</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Bruk</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Ikke minn meg på dette</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Kunne ikke koble til AirPods. Prøv tilkoblingen manuelt.</value>
+  </data>
+  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+    <value>Avspillingen blir automatisk satt på pause og volumet blir justert ned når du fjerner en AirPod fra øret, eller stopper og justerer tilbake volumet når du fjerner begge AirPods.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Legg AirPods til i listen over Bluetooth Enheter i Windows</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods støtter mesteparten av AirPods og Beats hodetelefoner</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Neste</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Søkeradius - Radiusen maskinen din vil lete innenfor etter et åpnet AirPods Etui.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Lukk</value>
+  </data>
+  <data name="Status_Search.Text" xml:space="preserve">
+    <value>Leter etter AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Vindusplassering</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Øverst til venstre</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Senter</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+    <value>Automatisk bytt lydutgang</value>
+  </data>
+  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
+    <value>Velg standard høyttalere</value>
+  </data>
+  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+    <value>Enhet ikke tilgjengelig eller fjernet</value>
+  </data>
+  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
+    <value>For å aktivere, installer Microsoft Visual C++ 2015 Redistributable. Start MagicPods på nytt etter installasjonen.</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Lær mer</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Dersom vinduet ikke vises, åpne etuiet med AirPods i og dra glideren til venstre eller høyre til animasjonen vises.</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Vis eller skjul "Koble Til" knappen på pop-up vindu. Ved å trykke på denne knappen, vil AirPods kobles til.</value>
+  </data>
+  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+    <value>Bytt lyd fra AirPods til standard høyttalere når begge AirPods er ute av ørene.</value>
+  </data>
+  <data name="Dialog_LostConnection" xml:space="preserve">
+    <value>Mistet tilkobling til skrivebordsprosessen. Koble til på nytt? ("Nei" vil lukke appen)</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Hva er søkeradius?</value>
+  </data>
+  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+    <value>Koble til AirPods automatisk når du tar venstre eller høyre AirPod ut av etuiet.</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>Kunne ikke finne AirPods. Vennligst kontroller at AirPods er sammenkoblet med denne enheten og start appen på nytt.</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Tips</value>
+  </data>
+  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+    <value>Sender "Spill Av" kommando etter AirPods er tilkoblet.</value>
+  </data>
+  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
+    <value>Dersom du velger Automatisk, vil appen prøve å oppdage nøyaktig hvilken musikk du spiller av. Om du hører på musikk eller ser på en video, vil appen pause det for deg. Ellers vil appen skru ned volumet.</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Ikke sett en verdi høyere enn 65. I visse tilfeller kan animasjonen vises ved feiltagelse.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Ja, tilbakestill innstillingene</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>.Du kan aktivere eller deaktivere denne under Oppstartsfanen i Oppgavebehandling.</value>
+  </data>
+  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
+    <value>Eksperimentelle funksjoner fungerer kanskje ikke for alle, og i noen tilfeller kan appen eller AirPods kræsje.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Når AirPods er tilkoblet, vil ikonet vise den gjennomsnittlige mengden strøm igjen på venstre og høyre AirPod. Ikonet oppdateres hvert minutt.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
+    <value>Noen ganger når AirPods er tilkoblet og etuiet er åpent, kan det hende batteriikonet blinker.</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Basert på ditt forbruk, anbefaler vi du setter verdien tilo {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+    <value>Volumet justeres ned når du fjerner en AirPod fra øret, og justeres tilbake når du fjerner / setter på begge AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Vis "Koble til" knapp</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Hold AirPods etuiet ditt så nærme maskinen som mulig og åpne det</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>PCen din støtter ikke Bluetooth Low Energy.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% strøm igjen på AirPods. Venligst lad dine AirPods.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Advarsel</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Pop-up vindu</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Vis vindu</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Vis eller skjul pop-up vindu som på iPhone når du åpner etuiet.</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>Signal</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Vindustørrelse</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Lite</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Middels</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Stort</value>
+  </data>
 </root>
