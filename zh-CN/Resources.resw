@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_LostConnection" xml:space="preserve">
-    <value>无法连接到桌面进程，单击“否”将关闭应用。是否尝试重新连接？</value>
+    <value>无法连接到桌面进程，是否尝试重新连接？单击“否”将退出MagicPods。</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>未能找到 AirPods。请确保 AirPods 与此设备配对，并重启应用程序。</value>
@@ -136,13 +136,13 @@
     <value>信号</value>
   </data>
   <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
-    <value>较小的</value>
+    <value>小</value>
   </data>
   <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
-    <value>中等的</value>
+    <value>中</value>
   </data>
   <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
-    <value>较大的</value>
+    <value>大</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>还原默认设置</value>
@@ -211,7 +211,7 @@
     <value>实时信号</value>
   </data>
   <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>无线耳机可以被无线电信号探测到。请将最小信号设置为实时信号的平均值。</value>
+    <value>AirPods可被无线电信号探测到。请将最小信号设置为实时信号的平均值。</value>
   </data>
   <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
     <value>快速搜索</value>
@@ -244,7 +244,7 @@
     <value>重新启动应用程序以应用。</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>在任务栏图标中显示 AirPods 电量</value>
+    <value>在任务栏中显示 AirPods 电量图标</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
     <value>当 AirPods 连接时，系统托盘图标将显示您左右耳机的平均电量。图标每分钟更新一次。</value>
@@ -253,7 +253,7 @@
     <value>电量显示样式</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>电池图标</value>
+    <value>图像显示</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>数字显示</value>
@@ -284,16 +284,16 @@
     <value>是</value>
   </data>
   <data name="Settings_Popup_Text1.Text" xml:space="preserve">
-    <value>弹窗动画</value>
+    <value>弹窗</value>
   </data>
   <data name="Settings_Popup_Text2.Header" xml:space="preserve">
-    <value>展示弹窗</value>
+    <value>显示弹窗</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>当您打开充电盒时，像在 iPhone 上一样展示（或隐藏）弹窗动画。</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
-    <value>弹窗大小</value>
+    <value>弹窗尺寸</value>
   </data>
   <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
     <value>后台音乐将在您取出一只AirPods时暂停，当您同时取出两只时将停止。</value>
@@ -332,19 +332,19 @@
     <value>受支持的播放器列表</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
-    <value>AirPods 搜索半径</value>
+    <value>AirPods 搜索范围</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
     <value>如果弹窗动画没有显示，保持 AirPods 位于充电盒中并且缓慢向右滑动滑块直至动画显示。</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
-    <value>什么是搜索半径？</value>
+    <value>什么是搜索范围？</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>提示</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>请勿将搜索半径值设定超过 65。在某些情况下，会导致弹窗动画意外出现。</value>
+    <value>请勿将搜索范围值设定超过 65。在某些情况下，会导致弹窗动画意外出现。</value>
   </data>
   <data name="Settings_Connection_Text1.Text" xml:space="preserve">
     <value>警告</value>
@@ -353,7 +353,7 @@
     <value>实验功能可能并不适用于所有用户，在某些情况下，应用程序或 AirPods 可能会崩溃。</value>
   </data>
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>连接操作</value>
+    <value>连接</value>
   </data>
   <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
     <value>偶尔会出现 AirPods 处于连接状态且充电盒为打开时，任务栏的电量图标会闪烁的情况。</value>
@@ -470,7 +470,7 @@
     <value>添加一个新的声音</value>
   </data>
   <data name="Settings_Audio_Text4.Header" xml:space="preserve">
-    <value>旁白提醒</value>
+    <value>播报通知</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>设置</value>
@@ -482,37 +482,37 @@
     <value>选取一种语音</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
-    <value>朗读员只能用一种语言读文字。</value>
+    <value>只能使用一种语言播报通知。</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
-    <value>朗读</value>
+    <value>试听</value>
   </data>
   <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
-    <value>旁白设置</value>
+    <value>播报通知设置</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>当AirPods链接并作为音频输出设备时旁白将进行提醒。</value>
+    <value>当 AirPods 连接并作为音频输出设备时将通过旁白进行提醒。</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
-    <value>旁白从这些应用发送的提醒</value>
+    <value>选取需要播报通知的应用</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
-    <value>并非列表中的所有应用程序都可以发送通知，有些应用程序可能不在列表中。</value>
+    <value>并非列表中的所有应用都可以播报通知，有些应用可能不在列表中。</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
-    <value>没有选择或可用的语音</value>
+    <value>没有选择声音或声音不可用</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
     <value>用选定的声音聆听文本阅读</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
-    <value>旁白所有提醒</value>
+    <value>播报所有应用通知</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>隐私与提醒</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>“旁白提醒”功能已关闭，没有访问提醒权限，请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开“旁白提醒”。</value>
+    <value>无访问提醒权限，“播报通知”已关闭。请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开“播报通知”。</value>
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>链接取消</value>
@@ -530,10 +530,10 @@
     <value>无法找到AirPods</value>
   </data>
   <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
-    <value>尝试参考这个指引以解决问题。</value>
+    <value>参考此手册来尝试解决问题。</value>
   </data>
   <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
-    <value>穷举搜索</value>
+    <value>持续搜索</value>
   </data>
   <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
     <value>程序语言</value>
@@ -560,7 +560,7 @@
     <value>应用设定</value>
   </data>
   <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
-    <value>这些耳机可能不支持部分功能特性。</value>
+    <value>这些耳机可能不支持部分功能。</value>
   </data>
   <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
     <value>仅部分功能可用</value>
