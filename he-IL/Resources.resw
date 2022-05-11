@@ -403,7 +403,7 @@
     <value>הוספת AirPods לרשימת התקני Bluetooth של Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>ה-MagicPods תומכות ב-AirPods Gen 1-2, AirPods Pro, AirPods Max ו-PowerBeats Pro</value>
+    <value>MagicPods תומכת ברוב אוזניות AirPods ו-Beats</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>פרטיות והודעות</value>
@@ -454,7 +454,7 @@
     <value>ההפעלה מושהית ועוצר הקול פוחת בעת הסרת AirPods אחת מהאוזן, או עצירות ונפח האחסון משחזר בעת הסרת שתי ה-AirPods.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>קרב את מארז ה-AirPods קרוב ככל האפשר למחשב ופתח אותו</value>
+    <value>קרב את מארז טעינת ה-AirPods קרוב ככל האפשר למחשב ופתח אותו</value>
   </data>
   <data name="Settings_Audio_Text2.Header" xml:space="preserve">
     <value>החלפת פלט שמע של מיתוג אוטומטי</value>
@@ -489,5 +489,38 @@
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
     <value>הקריין יכול לקרוא את הטקסט בשפה אחת בלבד.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>בהיר</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>כהה</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>השתמש בערכת נושא המערכת</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>ערכת נושא ווינדוס</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>שפה</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>השתמש בשפת המערכת</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>ערכת נושא</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>הגדרות אפליקציה</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>יכולות מוגבלות</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>האוזניות הללו אינן תומכות במספר יכולות.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>יכולות ה-AirPods</value>
   </data>
 </root>
