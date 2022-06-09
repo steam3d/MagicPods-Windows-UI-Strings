@@ -228,7 +228,7 @@
     <value>Προσθήκη των AirPods στην λίστα Bluetooth των Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>Η εφαρμογή MagicPods υποστηρίζει AirPods 1ης ή 2ης γενιάς, AirPods Max και PowerBeats Pro</value>
+    <value>Η εφαρμογή MagicPods υποστηρίζει σχεδόν όλα τα AirPods και Beats ακουστικά</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Πλησιάστε στον υπολογιστή όσο περισσότερο γίνεται την θήκη των AirPods και ανοίξτε την</value>
@@ -434,5 +434,38 @@
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Τα AirPods δεν βρέθηκαν</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Φωτεινό</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Σκοτεινό</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Χρήση θέματος συστήματος</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>Θέμα παραθύρου</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Γλώσσα</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Χρήση γλώσσα συστήματος</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Θέμα</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
+    <value>Τα ακουστικά σας δεν υποστηρίζουν ορισμένες λειτουργίες.</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
+    <value>Περιορισμένη λειτουργία</value>
+  </data>
+  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+    <value>Δυνατότητες AirPods</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>Ρυθμίσεις εφαρμογής</value>
   </data>
 </root>
