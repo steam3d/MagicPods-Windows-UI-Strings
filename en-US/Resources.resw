@@ -522,4 +522,52 @@ to watch battery level</value>
   <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
     <value>AirPods capability</value>
   </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>For the best user experience, we recommend that you enable startup.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Startup</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Touch to customize</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Multiple connection</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Two or more headphones connected, leave only one connected</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Connect</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Connecting</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Disconnecting</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Case</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Charge</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Hide</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Translate</value>
+  </data>
 </root>
