@@ -89,14 +89,11 @@
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>Veličina prozora</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Pusti/Pauziraj</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Smanji zvuk</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>Ništa</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Ostalo</value>
@@ -116,16 +113,13 @@
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>AirPods nisu pronađene. Proverite da li su uparene sa uređajem i ponovo pokrenite aplikaciju.</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Detekcija uha</value>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>Jedna slušalica je izvan uha</value>
-  </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>Sadržaj se pauzira kada izvadite jednu AirPods slušalicu ili stopira kada izvadite obe AirPods slušalice.</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Pri pokretanju je ugašeno od politike grupe, ili nije podržano na ovom uredjaju.</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
@@ -147,16 +141,13 @@
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>Aplikacija će biti zatvorena i sve funkcije će biti onemogućene.</value>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Glasnoća će se smanjiti kada izvadite jednu Airpod iz vašeg uha, i vratiti kada izvadite/ubacite obje slušalice.</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
     <value>Ako se prozor ne pojavi kada otvorite maskicu od AirPods, povucite klizac desno dok se animacija nepojavi.</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>Ponekad kada su AirPods povezane i maskica otvorena, baterijska ikona može bljeskati.</value>
-  </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Pošalje se komanda «Pusti» odmah nakon što se spoje AirPods.</value>
   </data>
   <data name="Dialog_LostConnection" xml:space="preserve">
@@ -165,19 +156,13 @@
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>Tvoj PC ne podržava niskoenergetski Bluetooth.</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Oboje (Smanjiti zvuk + Pustiti/Pauzirati)</value>
   </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>Ako izabereš automatsko, aplikacija će pokušati detektovari tačno muziku koju puštaš tog momenta. Ako slušaš muziku ili video, aplikacija će ga pauzirati. U suprotnom aplikacija će samo smanjiti glasnoću.</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>Za</value>
-  </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Smanjeno kašnjenje zvuka</value>
   </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Korisno kada radite u Premiere Pro ili Audition. Potrebno ponovo povezivanje nakon paljenja. Može povećati trošenje baterije.</value>
   </data>
   <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
@@ -189,34 +174,10 @@
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>Prijavi Probleme</value>
   </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>Uključi Debug</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>Traži Airpods</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>Maks</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>Minimum</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>Signal uživo</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>Airpods mogu biti detektovane radio signalom. Stavi najmanji signal na srednju vrijednost signala uživo.</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Brzo pretraživanje</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Smanjuje vrijeme traženja AirPods. Uključite kada ste sigurni da niko oko vas ne koristi AirPods.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
@@ -253,16 +214,12 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Digitalna</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Omogući pri pokretanju</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
     <value>Otvori kutijicu od AirPods ili se poveži sa njima
 da vidiš procenat baterije</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>Postavke</value>
-    <comment>Not used</comment>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods nisu konektovane</value>
@@ -288,7 +245,7 @@ da vidiš procenat baterije</value>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Odustani</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Lista podržanih plejera</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -318,19 +275,19 @@ da vidiš procenat baterije</value>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>Pokaži ili sakri «Poveži» dugme u pop-up prozoru. Ako pritisnete dugme AirPods će se spojiti.</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Automatsko povezivanje</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Automatski se povežite na AirPods kada ih izvadite iz maskice.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>AirPods su se prestale spajati</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Automatski pusti</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Ako nema otvorenih plejera, Windows će ignorisati komandu.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
@@ -355,14 +312,11 @@ da vidiš procenat baterije</value>
   <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
     <value>Доњи десни угао</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>Аутоматско пребацивање аудио излаза</value>
   </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Уређај није доступан или уклоњен</value>
-  </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Да бисте омогућили инсталацију програма Мицрософт Висуал Ц + + 2015 Редистрибутабле. Поново покрените МагицПодс након инсталације.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
     <value>Одаберите глас</value>
@@ -379,7 +333,7 @@ da vidiš procenat baterije</value>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Повезивање АирПод-а није успело. Покушајте да се повежете ручно.</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Репродукција се паузира и јачина се смањује када уклоните један АирПодс из уха, или се зауставља и јачина звука се враћа када уклоните оба АирПод-а.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
@@ -400,7 +354,7 @@ da vidiš procenat baterije</value>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Затворите</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Претраживање АирПодс-а</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
@@ -424,11 +378,8 @@ da vidiš procenat baterije</value>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>Аудио</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Пребаците звук са АирПодс-а на подразумеване звучнике када су оба АирПода ван уха.</value>
-  </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>Избор подразумеваних звучника</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
     <value>Учи више</value>
@@ -475,19 +426,16 @@ da vidiš procenat baterije</value>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>Остали АирПодс су већ повезани, молимо вас да их прво искључите.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>Почетна «МагицПодс Сервице» онемогућен</value>
-  </data>
-  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Бесконачна претрага</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Нисам могао да нађем АирПодс</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Следите овај водич да бисте решили проблем.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>За најбоље корисничко искуство препоручујемо да омогућите покретање. То можете да урадите са картице"Покретање" у управљачу задацима.</value>
   </data>
 </root>

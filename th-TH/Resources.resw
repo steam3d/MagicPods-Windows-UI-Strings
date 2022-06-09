@@ -82,11 +82,8 @@
   <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
     <value>ขนาดกลาง</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>ลดระดับเสียง</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>ไม่ทำ</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>อื่นๆ</value>
@@ -100,25 +97,13 @@
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>บันทึก ข้อผิดพลาด</value>
   </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>ค้นหา Airpods</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>ลดลง</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>สัญญาณสด</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>ค้นหาอย่างรวดเร็ว</value>
   </data>
   <data name="Settings_Startup_Text1.Text" xml:space="preserve">
     <value>เริ่มระบบ</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>การเริ่มต้นถูกปิดใช้งานโดยนโยบายการรักษาความปลอดภัยหรืออุปกรณ์นี้ไม่รองรับ</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
@@ -141,7 +126,7 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>ดิจิทัล</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>เปิดใช้งานเมื่อเริ่มระบบ</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
@@ -150,10 +135,6 @@
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods ถูกตัดการเชื่อมต่อ</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>ตั้งค่า</value>
-    <comment>Not used</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>ออก</value>
@@ -185,7 +166,7 @@
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>ยกเลิก</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>รายชื่อผู้เล่นที่รองรับ</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -206,25 +187,22 @@
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
     <value>การดำเนินการเชื่อมต่อ</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>บางครั้งเมื่อเชื่อมต่อ AirPods และเคสเปิดอยู่ ไอคอนแบตเตอรี่อาจกะพริบ</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>แสดงปุ่ม «เชื่อมต่อ»</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>เชื่อมต่ออัตโนมัติ</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>เชื่อมต่อกับ AirPods โดยอัตโนมัติเมื่อคุณถอด AirPods ด้านขวาหรือด้านซ้ายออกจากเคส</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>AirPods หยุดเชื่อมต่อ</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>เล่นอัตโนมัติ</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>หากไม่เปิด Windows จะไม่สนใจคำสั่ง</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
@@ -254,7 +232,7 @@
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>ปิด</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>กำลังค้นหา AirPods</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
@@ -275,10 +253,7 @@
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>ออดิโอ</value>
   </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>เลือกลำโพงเริ่มต้น</value>
-  </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>อุปกรณ์ไม่พร้อมใช้งานหรือถูกลบออก</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
@@ -320,13 +295,10 @@
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>คืนค่าการตั้งค่า</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>ปิดใช้งาน "บริการ MagicPods" เริ่มต้น</value>
-  </data>
-  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>การค้นหาที่ไม่มีที่สิ้นสุด</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>ไม่พบ AirPods</value>
   </data>
   <data name="Settings_Button2.Content" xml:space="preserve">
@@ -353,13 +325,10 @@
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>การตั้งค่าแอพพลิเคชั่น</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>ตรวจจับ ใบหู</value>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>เมื่อถอด AirPods หนึ่งข้างออกจากหู</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>ทั้งสองอย่าง (ลดระดับเสียง + เล่น/หยุดชั่วคราว)</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
@@ -375,13 +344,13 @@
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>ไม่พบ อุปกรณ์ ตรวจสอบให้แน่ใจว่า AirPods ได้ทำการจับคู่กับอุปกรณ์นี้แล้วรีสตาร์ทแอพ</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>เล่น/หยุดชั่วคราว</value>
   </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>มีประโยชน์เมื่อทำงานใน Premiere Pro หรือ Audition ต้องเชื่อมต่อ AirPods หลังจากเปิดเครื่อง อาจเพิ่มการใช้แบตเตอรี่</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>ลดเวลาในการค้นหา AirPods เปิดใช้งานเมื่อคุณแน่ใจว่าไม่มีการใช้ AirPods อยู่</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
@@ -391,10 +360,10 @@
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
     <value>หากหน้าต่างไม่ปรากฏขึ้น ให้เปิดเคสที่มี AirPods อยู่ข้างใน แล้วเลื่อนตัวเลื่อนไปทางขวาอย่างราบรื่นจนกว่าภาพเคลื่อนไหวจะปรากฏขึ้น</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>การเล่นจะหยุดชั่วคราวและระดับเสียงจะลดลงเมื่อคุณถอด AirPods หนึ่งข้างออกจากหูของคุณ หรือหยุดและระดับเสียงจะกลับคืนมาเมื่อคุณถอด AirPods ทั้งสองข้าง</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>สลับเสียงจาก AirPods เป็นลำโพงเริ่มต้นเมื่อ AirPods ทั้งคู่ไม่อยู่ในหู</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
@@ -403,9 +372,6 @@
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% แบตเตอรี่ที่เหลืออยู่ใน AirPods ชาร์จไฟ AirPods ของคุณ</value>
     <comment>{0} will be replaced with a number</comment>
-  </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>หากคุณเลือกอัตโนมัติ แอพจะพยายามตรวจจับว่าคุณกำลังเล่นเพลงอะไรอยู่ในขณะนี้ หากคุณกำลังฟังเพลงหรือวิดีโอ แอพจะหยุดชั่วคราวให้คุณ มิฉะนั้นแอพจะลดระดับเสียง</value>
   </data>
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>รายงานปัญหา</value>
@@ -423,21 +389,14 @@
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>เพิ่ม AirPods ในรายการอุปกรณ์ Windows Bluetooth</value>
   </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>เพื่อเปิดใช้งานการติดตั้ง Microsoft Visual C ++ 2015 Redistributable รีสตาร์ท MagicPods หลังจากติดตั้ง</value>
-  </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>AirPods อื่นๆ เชื่อมต่อแล้ว โปรดยกเลิกการเชื่อมต่อก่อน</value>
   </data>
   <data name="Dialog_LostConnection" xml:space="preserve">
     <value>การเชื่อมต่อกับเดสก์ท็อปหายไป จะปิดแอป หรือ เชื่อมต่อใหม่?</value>
   </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>การเล่นจะหยุดชั่วคราวเมื่อคุณถอด AirPods ข้างหนึ่งออก หรือหยุดเมื่อคุณถอด AirPods ทั้งสองข้าง</value>
-  </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>เปิดใช้งานการดีบัค</value>
-    <comment>Not used</comment>
   </data>
   <data name="Settings_Startup_Text2.Header" xml:space="preserve">
     <value>เรียกใช้เมื่อเริ่มต้น</value>
@@ -454,18 +413,11 @@
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
     <value>การประกาศสามารถอ่านข้อความในภาษาเดียวเท่านั้น</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>เพื่อประสบการณ์การใช้งานที่ดีที่สุด เราขอแนะนำให้คุณเปิดใช้งานการเริ่มต้นระบบ คุณสามารถทำได้จากแท็บ «เริ่มต้น» ในตัวจัดการงาน</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>แสดง หรือ ซ่อน หน้าต่างสถานะ ,เมื่อเปิดใช้งานอุปกรณ์</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>ลดลง</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>สูงสุด</value>
-    <comment>Not used</comment>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>คุณสามารถเปิดหรือปิดใช้งานสิ่งนี้ได้ในแท็บเริ่มต้นในหน้าต่างจัดการงาน</value>
@@ -473,7 +425,7 @@
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>แอปพลิเคชันจะถูกปิดและฟังก์ชันทั้งหมดจะถูกปิดใช้งาน</value>
   </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>ส่งคำสั่ง «เล่น» หลังจากเชื่อมต่อ AirPods</value>
   </data>
   <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
@@ -482,7 +434,7 @@
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
     <value>การแจ้งเตือน VoiceOver จากผู้ส่งเหล่านี้</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>ทำตามคำแนะนำนี้เพื่อแก้ไขปัญหา</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
@@ -491,21 +443,17 @@
   <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
     <value>ขนาดเล็ก</value>
   </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>ความไวในการตอบสนองต่อเสียง</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>สามารถตรวจจับ airpods ได้ด้วยสัญญาณวิทยุ ตั้งค่าสัญญาณขั้นต่ำเป็นค่าเฉลี่ยของสัญญาณสด</value>
-    <comment>Not used</comment>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
     <value>แสดงไอคอนชาร์จ AirPods</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>ระดับเสียงจะลดลงเมื่อคุณถอด AirPods หนึ่งข้างออกจากหูของคุณ หรือคืนกลับเมื่อคุณถอด/ใส่ AirPods ทั้งสองข้าง</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>สลับเอาต์พุตเสียงอัตโนมัติ</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">

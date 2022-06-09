@@ -150,37 +150,25 @@
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>关闭应用</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>入耳检测</value>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>从耳中取出一侧 AirPods 时</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>播放/暂停</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>降低音量</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>同时（降低音量 + 播放/暂停）</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>不采取任何操作</value>
-  </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>如果您选择“自动”，应用将尝试检测您正在播放的媒体类型。如果您正在聆听音乐或收看视频，应用会自动为您暂停。否则将降低音量。</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>降低百分比</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>其它</value>
   </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>低音频延迟</value>
   </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>在与 Premiere Pro 或 Audition 协作时显得非常实用。开启后需要重新连接 AirPods ，此功能可能会增加电量消耗。</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
@@ -195,28 +183,10 @@
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>报告问题</value>
   </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>启用调试</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>搜索 AirPods</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>最大强度</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>最小强度</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>实时信号</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>AirPods可被无线电信号探测到。请将最小信号设置为实时信号的平均值。</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>快速搜索</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>减少搜索 AirPods 所需的时间。在您确信附近没有其他人使用 AirPods 之后再启用这个功能。</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
@@ -231,7 +201,7 @@
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>您可以在“任务管理器”的“启动”选项卡中启用或禁用此功能。</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>开机自启动被组策略禁用，或者此设备不支持。</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
@@ -258,7 +228,7 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>数字显示</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>开机自启动</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
@@ -267,9 +237,6 @@
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods 已断开连接</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>设置</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>退出</value>
@@ -295,7 +262,7 @@
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>弹窗尺寸</value>
   </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>后台音乐将在您取出一只AirPods时暂停，当您同时取出两只时将停止。</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
@@ -325,10 +292,10 @@
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>取消</value>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>在您取出一只 AirPods 时降低音量，或者在您取出/戴上两只 AirPods 时恢复音量大小。</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>受支持的播放器列表</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -355,31 +322,28 @@
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
     <value>连接</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>偶尔会出现 AirPods 处于连接状态且充电盒为打开时，任务栏的电量图标会闪烁的情况。</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>显示“连接”按钮</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>显示或隐藏弹窗动画中的“连接”按钮，通过点击该按钮与 AirPods 进行连接。</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>自动连接</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>从充电盒取出一只 AirPods 时自动建立连接。</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>AirPods 已断开连接</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>自动播放</value>
   </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>与 AirPods 建立连接之后发送“播放”指令。</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>如果没有启动的播放器，Windows会忽略这条指令。</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
@@ -403,7 +367,7 @@
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>无法与AirPods 建立连接，请尝试手动连接。</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>在您取出一只 AirPods 时暂停播放并降低系统音量，或者在您取出两只 AirPods 时停止播放并恢复系统音量大小。</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
@@ -424,7 +388,7 @@
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>关闭</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>正在搜索 AirPods</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
@@ -448,23 +412,17 @@
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>音频</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>自动切换音频输出</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>当两只 AirPods 都不在耳内时将音频输出切换至默认扬声器。</value>
   </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>选择默认扬声器</value>
-  </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>设备不可用或已移除</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
     <value>进一步了解</value>
-  </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>需要安装 Microsoft Visual C ++ 2015 Redistributable，在安装完毕后请重启 MagicPods。</value>
   </data>
   <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
     <value>添加一个新的声音</value>
@@ -520,19 +478,16 @@
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>已经连接其他AirPods，请先断开。</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>为获得最佳用户体验，我们建议您启用自动启动。 您可以从任务管理器中的“启动”选项卡执行此操作。</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>启动项“MagicPods Service”已禁用</value>
-  </data>
-  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>无法找到AirPods</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>参考此手册来尝试解决问题。</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>持续搜索</value>
   </data>
   <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
@@ -559,13 +514,7 @@
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>应用设定</value>
   </data>
-  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
-    <value>这些耳机可能不支持部分功能。</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
-    <value>仅部分功能可用</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
     <value>AirPods 兼容性</value>
   </data>
 </root>

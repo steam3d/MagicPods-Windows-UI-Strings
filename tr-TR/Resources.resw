@@ -162,40 +162,28 @@
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>Uygulamayı kapat</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Kulak bulma</value>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>Bir AirPods kulağa takılı değiş</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Oynat/Durdur</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Sesi azalt</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>İkisi Birden (Sesi azalt + Oynat/Durdur)</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>Hiçbir şey</value>
-  </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>Otomatik seçilirse, uygulama ne tür bir şey çalındığını tespit etmeye çalışacak. Ses veya video çalıyorsa, uygulama sizin için durduracak. Yoksa uygulama sesi kısacak.</value>
-  </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>Bir AirPods'u çıkardığınızda çalma duracak veya ikisini birden çıkardığınızda çalma sona erecek.</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>İle</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Diğer</value>
   </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Düşük ses gecikmesi</value>
   </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Premiere Pro ve Audition'da kullanışlı. Açtıktan sonra AirPods'un tekrar bağlanması gerekir. Batarya tüketimini arttırabilir.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
@@ -210,34 +198,10 @@
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>Sorunlar bildir</value>
   </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>Hata ayıklamayı etkinleştir</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>Airpods ara</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>Maksimum</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>Minimum</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>Canlı sinyal</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>Airpods radyo sinyali ile tespit edilebilir. Minimum sinyali, canlı sinyalin ortalama değeri olarak ayarlayın.</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Hızlı arama</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>AirPods arama süresini kısaltır. Etrafta başka kimsenin AirPods kullanmadığından emin olduğunuzda açın.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
@@ -253,7 +217,7 @@
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>Bunu, Görev Yöneticisindeki Başlangıç sekmesinden etkinleştirebilir veya devre dışı bırakabilirsiniz.</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Başlangıç, grup politikası tarafından devre dışı bırakıldı veya bu cihazda desteklenmiyor.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
@@ -284,7 +248,7 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Dijital</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Başlangıcı etkinleştir</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
@@ -293,10 +257,6 @@ veya AirPods'u bağlayın</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods bağlantısı kesildi</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>Ayarlar</value>
-    <comment>Not used</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Çıkış</value>
@@ -337,10 +297,10 @@ veya AirPods'u bağlayın</value>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>İptal</value>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Kulağınızdan bir AirPods'u çıkardığınızda ses azalır, her iki AirPods'u çıkardığınızda / taktığınızda eski haline döner.</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Desteklenin cihazlar listesi</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -367,31 +327,28 @@ veya AirPods'u bağlayın</value>
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
     <value>Bağlantı eylemleri</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>Bazen AirPods bağlandığında ve kutu açıkken pil simgesi yanıp sönebilir.</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>«Bağlan» butonunu göster</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>Açılır pencerede «Bağlan» butonunu göster veya gizle. Düğmeye basmak AirPods'u bağlayacaktır.</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Otomatik olarak bağlan</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Sağ veya sol AirPods'u kutudan çıkardığınızda otomatik olarak AirPods'a bağlanın.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>AirPods bağlantısı kesildi</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Otomatik oynat</value>
   </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>AirPods bağlandıktan sonra «Oynat» komutunu gönder.</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Açık oynatıcı yoksa, Windows komutu dikkate almaz.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
@@ -416,7 +373,7 @@ veya AirPods'u bağlayın</value>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPods'a bağlanılamadı. Manuel olarak bağlanmayı deneyin.</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Kulağınızdan bir AirPods'u çıkardığınızda çalma duraklatılır ve ses seviyesi azalır veya her iki AirPods'u çıkardığınızda durur ve ses eski haline döner.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
@@ -437,7 +394,7 @@ veya AirPods'u bağlayın</value>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Kapat</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>AirPods aranıyor</value>
   </data>
   <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
@@ -458,13 +415,10 @@ veya AirPods'u bağlayın</value>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>Ses</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>Ses çıkış aygıtını otomatik olarak değiştir</value>
   </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>Varsayılan ses çıkış aygıtını seçin</value>
-  </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Aygıt hazır değil veya çıkarıldı</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
@@ -509,11 +463,8 @@ veya AirPods'u bağlayın</value>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Gizlilik ve bildirimler</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Her iki AirPods kulağımda değilken varsayılan ses aygıtına geçiş yap.</value>
-  </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Bu seçeneği aktif etmek için Microsoft Visual C++ 2015 Redistributable yüklü olmalıdır. Yükleme sonrası MagicPods'u yeniden başlatın.</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
     <value>AirPods her bağlandığında ve ses çıkış aygıtı olarak ayarlandığında sesli geri bildirimde bulunacak.</value>
@@ -533,19 +484,16 @@ veya AirPods'u bağlayın</value>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>Diğer Airpods hali hazırda bağlı, lütfen önce onun bağlantısını kesin.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>En iyi kullanıcı deneyimi için, başlatmayı etkinleştirmenizi öneririz. Bunu Görev Yöneticisi'ndeki «Başlangıç» sekmesinden yapabilirsiniz.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>Başlangıç «MagicPods Servisi» devre dışı bırakıldı</value>
-  </data>
-  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Sonsuz arama</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>AirPods bulunamadı</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Sorunu gidermek için bu kılavuzu izleyin.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
@@ -572,13 +520,7 @@ veya AirPods'u bağlayın</value>
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>Uygulama ayaları</value>
   </data>
-  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
-    <value>Bu kulaklıklar bazı özellikleri desteklemiyor.</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
-    <value>Sınırlı fonksiyonellik</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
     <value>AirPods kapasitesi</value>
   </data>
 </root>

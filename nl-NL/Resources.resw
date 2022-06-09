@@ -162,40 +162,28 @@
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>Programma sluiten</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Oor detectie</value>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>Eén AirPod uit het oor</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Spelen/Pauze</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Volume verminderen</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Beide (Volume verminderen + Afspelen/Pauze)</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>Geen</value>
-  </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>Als u kiest voor automatisch, zal het programma proberen te detecteren welke muziek u op dit moment afspeelt. Als u naar muziek of een video luistert, zal het programma deze voor u pauzeren. Anders zal het programma het volume verlagen.</value>
-  </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>Het afspelen wordt gepauzeerd als u één AirPod verwijdert of stopt als u beide AirPods verwijdert.</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>Door</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Andere</value>
   </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Lage audiovertraging</value>
   </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Nuttig bij het werken in Premiere Pro of Audition. Vereist opnieuw koppelen van de AirPods na het inschakelen. Dit kan het batterijverbruik verhogen.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
@@ -210,28 +198,10 @@
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>Meld een probleem</value>
   </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>Fouten logboek inschakelen</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>Zoek Airpods</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>Max.</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>Min.</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>Actueel signaal</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>De AirPods kunnen worden gedetecteerd door middel van een radiosignaal. Stel het minimum signaal in op de gemiddelde waarde van het signaal.</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Snel zoeken</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Verkort de zoektijd voor AirPods. Zet het aan als u er zeker van bent dat niemand anders in de buurt AirPods gebruikt.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
@@ -246,7 +216,7 @@
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>U kunt dit in- of uitschakelen in het tabblad Opstarten in Taakbeheer.</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Opstarten uitgeschakeld op basis van groepsbeleid of niet ondersteund op dit apparaat.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
@@ -273,7 +243,7 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Digitaal</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Opstarten</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
@@ -282,9 +252,6 @@ om het batterijniveau te bekijken</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods losgekoppeld</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>Instellingen</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Sluiten</value>
@@ -325,10 +292,10 @@ om het batterijniveau te bekijken</value>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Annuleren</value>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Het volume neemt af wanneer u één AirPod uit uw oor verwijdert of herstelt wanneer u beide AirPods verwijdert / toevoegt.</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Lijst van ondersteunde afspeelprogramma's</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -355,31 +322,28 @@ om het batterijniveau te bekijken</value>
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
     <value>Acties wanneer verbonden</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>Soms wanneer de AirPods zijn aangesloten en de behuizing is open, kan het batterijpictogram knipperen.</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Toon «Verbinden» knop</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>Toon of verberg de "Connect" knop in het pop-up venster. Als u op de knop drukt, worden de AirPods aangesloten.</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Automatisch verbinden</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Maak automatisch verbinding met AirPods wanneer u de rechter of linker AirPods uit de behuizing haalt.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>Verbinding met AirPods gestopt</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Automatisch spelen</value>
   </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Stuur het «Spelen»-commando na het verbinden met de AirPods.</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Als er geen programma is geopend dat geluid afspeelt zal Windows het commando negeren.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
@@ -403,7 +367,7 @@ om het batterijniveau te bekijken</value>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>De AirPods zijn niet aangesloten. Probeer handmatig te verbinden.</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Het afspelen wordt gepauzeerd en het volume neemt af wanneer u één AirPod uit uw oor verwijdert, of stopt en het volume wordt hersteld wanneer u beide AirPods verwijdert.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
@@ -424,7 +388,7 @@ om het batterijniveau te bekijken</value>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Sluit</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Zoeken naar AirPods</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
@@ -448,16 +412,13 @@ om het batterijniveau te bekijken</value>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>Geluid</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>Schakel automatisch geluidsuitgang</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Schakel het geluid over van AirPods naar standaard luidsprekers wanneer beide AirPods uit het oor zijn.</value>
   </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>Selecteer standaard luidsprekers</value>
-  </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Apparaat niet beschikbaar of verwijderd</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
@@ -487,9 +448,6 @@ om het batterijniveau te bekijken</value>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>Verbinding geannuleerd</value>
   </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Om in te schakelen installeer Microsoft Visual C ++ 2015 Redistributable. Start MagicPods na installatie opnieuw op.</value>
-  </data>
   <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
     <value>VoiceOver instellingen</value>
   </data>
@@ -511,7 +469,7 @@ om het batterijniveau te bekijken</value>
   <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
     <value>Niet alle programma's van deze lijst kunne meldingen sturen, sommige programma's staan mogelijk niet in deze lijst.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>Voor de beste gebruikerservaring bevelen we aan dat je kiest voor automatisch opstarten. Je kan dit doen via de «Opstarten» tab in Taakbeheer.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
@@ -520,16 +478,13 @@ om het batterijniveau te bekijken</value>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>Instelling 'Voice-over melding' is uitgeschakeld; geen toegang tot meldingen. Open «Privacy en meldingen», sta meldingen toe en schakel 'Voice-over melding' in.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>Opstarten «MagicPods Service» uitgeschakeld</value>
-  </data>
-  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Oneindig zoeken</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Kan AirPods niet vinden</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Volg deze handleiding om het probleem te verhelpen.</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
@@ -558,11 +513,5 @@ om het batterijniveau te bekijken</value>
   </data>
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>Programma instellingen</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
-    <value>Deze koptelefoons ondersteunen bepaalde features niet.</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
-    <value>Beperkte functionqliteit</value>
   </data>
 </root>

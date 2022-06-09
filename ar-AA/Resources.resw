@@ -107,31 +107,22 @@
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>أغلق التطبيق</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>كشف الأذن</value>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>سماعة واحدة خارج بالأذن</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>شغل/وقف</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>كٍلا (خفض الصوت + تشغيل/توقيف)</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>لا شيء</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>تخفيض الصوت</value>
-  </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>إذا اخترت الوضع الأوتوماتيكي, سيحاول التطبيق تحديد الموسيقى المشغلة في ذلك الوقت. لو كنت تستمع إلى موسيقى أو فيديو, يقوم التطبيق بإيقافها مؤقتا. أو سيقوم التطبيق بخفض مستوى الصوت.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>أخري</value>
   </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>زمن إستجابة قليل</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
@@ -145,21 +136,6 @@
   </data>
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>أبلاغ عن مشكلة</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>أقصي</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>أدنى</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>أشارة مباشرة</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>نسبة</value>
   </data>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>أغلق</value>

@@ -71,7 +71,7 @@
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>Du kan aktivera eller inaktivera detta i Uppstartsfliken i Aktivitetshanteraren.</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Uppstart är inaktiverat genom gruppolicy alternativt stöder inte din enhet detta.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
@@ -115,37 +115,31 @@
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>Stäng program</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Öronavkänning</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Spela/pausa</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Sänk volym</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Både och (Sänk volymen + Spela/pausa)</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>Inget</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
     <value>Starta om programmet för att tillämpa.</value>
   </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>Uppspelningen stoppas när du tar ut ena eller båda utav dina AirPods ur örat.</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>Av</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Annat</value>
   </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Minimal ljudfördröjning</value>
   </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Användbart vid arbete i Premiere Pro eller Audition. Kräver att du återansluter dina AirPods efter att dom sätts på. Kan öka batteriförbrukning.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
@@ -160,28 +154,8 @@
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>Felrapport</value>
   </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>Aktivera felsökning</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>Sök efter AirPods</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>Maxmialt</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>Minimalt</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Snabbsökning</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>Aktuell signalstyrka</value>
-    <comment>Not used</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
     <value>Batteriikon</value>
@@ -189,7 +163,7 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Digitalt</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Aktivera uppstart</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
@@ -198,10 +172,6 @@ till dina AirPods för att visa batteristyrka</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>Anslutning förlorad till AirPods</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>Inställningar</value>
-    <comment>Not used</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Avsluta</value>
@@ -239,10 +209,10 @@ till dina AirPods för att visa batteristyrka</value>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Avbryt</value>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Volymen sänks när du tar ut en hörlur ur örat samt återställer volymen när båda hörlurar tas bort/sätts in.</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Spelare som stöds</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -275,19 +245,19 @@ till dina AirPods för att visa batteristyrka</value>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>Visa/göm «Connect» knapp i pop-up fönster. Tryck på knappen resulterar i att AirPods ansluts till datorn.</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Automatisk anslutning</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Anslut automatiskt till AirPods när någon utav hörlurarna tas ut ur laddningsetuiet.</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Automatiskt uppspelning</value>
   </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Skicka «Play» efter anslutning av AirPods.</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Om det inte finns några öppna spelarfönster kommer kommandot att ignoreras.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
@@ -313,14 +283,7 @@ till dina AirPods för att visa batteristyrka</value>
     <value>{0}% batteristyrka kvar i AirPods. Du behöver ladda dina AirPods.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>En AirPod ute ur örat</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>Radiodetektering kan aktiveras för dina airpods. Ställ in ett minsta snittvärde för detektering av radiosignaler.</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Kortar ner söktiden för AirPods. Aktivera endast när du är säker på att ingen annan i närheten använder AirPods.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
@@ -345,7 +308,7 @@ till dina AirPods för att visa batteristyrka</value>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Stäng</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Söker efter AirPods</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
@@ -369,17 +332,11 @@ till dina AirPods för att visa batteristyrka</value>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>Ljud</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>Automatiskt växling av ljudutgång</value>
   </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>Välj standardhögtalare</value>
-  </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Enheten är inte tillgänglig alternativt borttagen</value>
-  </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>För att aktivera behöver Microsoft Visual C ++ 2015 Redistributable installeras. MagicPods behöver startas om efter installationen.</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
     <value>Läs mer</value>
@@ -427,13 +384,13 @@ till dina AirPods för att visa batteristyrka</value>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
     <value>Om fönstret inte visas öppna etuiet med bägge hörlurar inuti samt flytta reglaget långsamt till höger tills det att animeringern visas.</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Uppspelningen pausas och volymen sänks när du tar ut en hörlur från örat. Uppspelning stoppas helt och volymen återställs om bägge hörlurar tas ut.</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
     <value>Sökradius - hur brett din dator ska söka efter öppna AirPod-eutier.</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Byt automatiskt ljudutgång från AirPods till standardhögtalare när bägge AirPods plockas ut ur öronen.</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
@@ -447,12 +404,6 @@ till dina AirPods för att visa batteristyrka</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>Kunde inte hitta AirPods. Säkerställ att dina AirPods är ihopparade med din dator, starta sedan om programmet.</value>
-  </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>När automatik är aktiverad kommer programmet att försöka detektera vilken typ av musik du lyssnar på vid det givna tillfället. Om du lyssnar på musik eller tittar på ett videoklipp så kommer programmet att pausa åt dig. I andra fall ko annatvolymen att sänkas.</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>Batteriikonen kan eventuellt blinka när dina AirPods är anslutna och etuiet är öppet.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>Anslutningen till AirPods stoppades</value>
@@ -469,13 +420,10 @@ till dina AirPods för att visa batteristyrka</value>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>Anslutningen har avbrutits</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>Start «MagicPods Service» inaktiverad</value>
-  </data>
-  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Det gick inte att hitta AirPods</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Följ den här guiden för att lösa problemet.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
@@ -484,10 +432,10 @@ till dina AirPods för att visa batteristyrka</value>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>Andra AirPods är redan anslutna, vänligen koppla bort dem först.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>För bästa användarupplevelse rekommenderar vi att du aktiverar start. Du kan göra detta från fliken «Start» i Aktivitetshanteraren.</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Oändlig sökning</value>
   </data>
 </root>

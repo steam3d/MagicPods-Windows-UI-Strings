@@ -162,40 +162,28 @@
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>앱 종료</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>착용 감지</value>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>AirPods 한개를 뺐을 때</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>재생/일시 정지</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>볼륨 줄이기</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>둘 다 (소리 줄이기 + 재생/일시 정지)</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>없음</value>
-  </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>자동을 선택하면 앱이 현재 재생중인 음악을 정확히 감지하려고 시도합니다. 음악이나 동영상을 듣고있는 경우 앱이 일시 중지합니다. 그렇지 않으면 앱이 볼륨을 줄입니다.</value>
-  </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>귀에서 한 쪽 에어팟을 제거하면 재생이 일시 정지되며 모든 에어팟을 제거하면 재생이 중지됩니다.</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>볼륨</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>기타</value>
   </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>낮은 오디오 지연</value>
   </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Premiere Pro 또는 Audition의 사용 상황에서 유용합니다. 기능의 활성화 이후 에어팟을 다시 연결해야 합니다. 배터리 소모량이 증가될 수 있습니다.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
@@ -210,28 +198,10 @@
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>문제 신고</value>
   </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>디버그 활성화</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>AirPods 찾기</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>최대</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>최소</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>라이브 신호</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>라디오 신호를 통해 에어팟을 감지할 수 있습니다. 최소 신호를 라이브 신호의 평균 값으로 설정해주십시오.</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>빠른 검색</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>에어팟의 검색 시간을 단축할 수 있습니다. 주변에 다른 에어팟이 없을 때 사용하십시오.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
@@ -246,7 +216,7 @@
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>작업 관리자의 시작프로그램 탭에서 이 설정을 변경할 수 있습니다.</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>그룹 정책에 의해 시작 프로그램이 비활성화되었거나 이 장치에서 지원되지 않아요.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
@@ -273,7 +243,7 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>디지털</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>시작프로그램 활성화</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
@@ -282,9 +252,6 @@
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods 연결 끊김</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>설정</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>나가기</value>
@@ -325,10 +292,10 @@
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>취소</value>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>한쪽 에어팟를 제거하면 음향 크기가 감소하고 양쪽 에어팟을 제거하거나 장착하면 음향 크기가 복원됩니다.</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>지원되는 플레이어 목록</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -355,31 +322,28 @@
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
     <value>연결 동작</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>에어팟이 연결되고 케이스가 열리면 배터리 아이콘이 깜박일 수 있습니다.</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>«연결» 버튼 표시</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>팝업에서 연결 버튼을 표시하거나 숨길 수 있습니다. 연결 버튼을 누르면 에어팟이 연결됩니다.</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>자동 연결</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>케이스에서 왼쪽 또는 오른쪽 에어팟을 꺼내면 자동으로 연결됩니다.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>에어팟 연결이 중지됨</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>자동 재생</value>
   </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>에어팟이 연결되면 재생 명령을 보냅니다.</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>실행 중인 플레이어가 없는 경우 윈도우는 명령을 무시합니다.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
@@ -403,7 +367,7 @@
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPods에 연결하지 못했어요. 수동으로 연결해주세요.</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>귀에서 한쪽 에어팟을 제거하면 재생이 일시 중지되고 음향 크기가 감소됩니다. 양쪽 에어팟을 모두 제거하면 재생을 중지하고 음향 크기가 복구됩니다.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
@@ -424,7 +388,7 @@
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>닫기</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>에어팟 검색중</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
@@ -448,20 +412,14 @@
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>오디오</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>오디오 출력 자동 변경</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>모든 에어팟이 착용되지 않았을 경우 기본 스피커로 출력이 변경됩니다.</value>
   </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>기본 스피커 선택</value>
-  </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>장치가 사용할 수 없는 상태이거나 제거되었습니다</value>
-  </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Microsoft Visual C ++ 2015 Redistributable의 설치 후 MagicPods의 재시작이 필요합니다.</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
     <value>더 알아보기</value>
@@ -520,19 +478,16 @@
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>다른 에어팟이 이미 연결되어 있습니다. 먼저 기존의 연결을 해제하십시오.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>MagicPods 서비스의 시작프로그램 설정이 비활성화되었습니다</value>
-  </data>
-  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>무한 검색</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>에어팟을 찾을 수 없어요</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>다음의 지침을 따르면 문제를 해결할 수 있습니다.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>최고의 사용자 경험을 위해 시작프로그램으로 등록하는 것을 권장합니다. 작업 관리자의 시작프로그램 탭에서 해당 설정을 변경할 수 있습니다.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
@@ -559,13 +514,7 @@
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>응용프로그램 설정</value>
   </data>
-  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
-    <value>이 헤드폰의 몇몇 기능은 지원하지 않습니다.</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
-    <value>제한된 기능</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
     <value>에어팟 호환</value>
   </data>
 </root>

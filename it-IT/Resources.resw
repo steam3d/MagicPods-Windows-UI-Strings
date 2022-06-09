@@ -73,28 +73,25 @@
   <data name="Settings_Connection_Text2.Text" xml:space="preserve">
     <value>Azioni di connessione</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>A volte, quando gli AirPods sono collegati e la custodia è aperta, l'icona della batteria potrebbe lampeggiare.</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Mostra il pulsante «Connetti»</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>Mostra o nascondi il pulsante «Connetti» nella finestra pop-up. Premendo il pulsante si collegherà AirPods.</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Auto connetti</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Connettiti automaticamente agli AirPods quando estrai AirPods destro o sinistro dalla custodia.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>AirPods ha smesso di connettersi</value>
   </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Invia il comando «Play» dopo aver collegato gli AirPods.</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Se non ci sono lettori aperti, Windows ignorerà il comando.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
@@ -131,7 +128,7 @@
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Chiudi</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Ricerca di AirPods</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
@@ -146,13 +143,13 @@
   <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
     <value>Centro</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Riproduzione automatica</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>Tutte le impostazioni verranno ripristinate. Vuoi continuare?</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>La riproduzione si interrompe e il volume diminuisce quando rimuovi un AirPods dall'orecchio, o si interrompe e il volume si ripristina quando rimuovi entrambi gli AirPods.</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
@@ -164,10 +161,7 @@
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>Audio</value>
   </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>Seleziona altoparlanti predefiniti</value>
-  </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Dispositivo non disponibile o rimosso</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
@@ -179,10 +173,10 @@
   <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
     <value>Angolo in basso a destra</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>Auto switch dell'uscita audio</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Cambia l'audio dagli AirPods agli altoparlanti predefiniti quando entrambi gli AirPod sono fuori dall'orecchio.</value>
   </data>
   <data name="Dialog_LostConnection" xml:space="preserve">
@@ -203,9 +197,6 @@
   </data>
   <data name="Settings_Popup_Text1.Text" xml:space="preserve">
     <value>Finestra pop-up</value>
-  </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Per abilitare l'installazione di Microsoft Visual C ++ 2015 Redistributable. Riavvia MagicPods dopo l'installazione.</value>
   </data>
   <data name="Settings_Popup_Text3.Header" xml:space="preserve">
     <value>Segnale</value>
@@ -228,31 +219,25 @@
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>Chiudi app</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Rilevamento dell'orecchio</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Play/Pausa</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Diminuisci il volume</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Entrambi (Diminuisci volume + Play/Pausa)</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>Niente</value>
-  </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>La riproduzione si interrompe quando rimuovi un AirPods dall'orecchio o si interrompe quando rimuovi entrambi gli AirPods.</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>Del</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Altro</value>
   </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Latenza audio bassa</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
@@ -267,30 +252,7 @@
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>Segnala un problema</value>
   </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>Abilita Debug</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>Cerca Airpods</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>Massimo</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>Minimo</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>Segnale live</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>Un airpods fuori dall'orecchio</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Ricerca veloce</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
@@ -303,7 +265,7 @@
   <data name="Settings_Popup_Text2.Header" xml:space="preserve">
     <value>Visualizza finestra</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Abilita Avvio</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
@@ -312,10 +274,6 @@ per controllare il livello della batteria</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods Disconnesse</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>Impostazioni</value>
-    <comment>Not used</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Esci</value>
@@ -384,10 +342,10 @@ per controllare il livello della batteria</value>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Annulla</value>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Il volume diminuisce quando rimuovi un AirPods dal tuo orecchio o si ripristina quando rimuovi / indossi entrambi gli AirPods.</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Lista di lettori supportati</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -402,23 +360,16 @@ per controllare il livello della batteria</value>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>Visualizza o nascondi la finestra pop-up come in iPhone, quando apri il case.</value>
   </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>Se scegli automatico, l'app proverà a rilevare esattamente quale musica stai riproducendo al momento. Se stai ascoltando musica o un video, l'app lo metterà in pausa per te. Altrimenti l'app diminuirà il volume.</value>
-  </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Utile quando si lavora in Premiere Pro o Audition. Richiede riconnettere le Airpods dopo l'abilitazione. Potrebbe aumentare il consumo di batteria.</value>
   </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>Gli airpods possono essere rilevati dal segnale radio. Imposta il segnale minimo sul valore medio del segnale live.</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Riduce il tempo di ricerca degli AirPods. Abilita quando sei sicuro che nessun altro in giro stia usando AirPods.</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>Puoi abilitare o disabilitare quest'impostazione nel tab Avvio in Gestione Attività.</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Avvio disabilitato dai criteri di gruppo o non supportato su questo dispositivo.</value>
   </data>
   <data name="Settings_Audio_Text4.Header" xml:space="preserve">
@@ -475,19 +426,16 @@ per controllare il livello della batteria</value>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>Ci sono altre AirPods collegate, scollegale prima di connetterne altre.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_header" xml:space="preserve">
-    <value>Avvio di «MagicPods Service» disattivato</value>
-  </data>
-  <data name="Status_Warn_InfiniteSearch.Title" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Non è stato possibile trovare le AirPods</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch.Message" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Segui questa guida per risolvere il problema.</value>
   </data>
-  <data name="Status_Startup_DisabledByUser_description" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>Per avere l'esperienza utente migliore possibile, si raccomanda di abilitare l'applicazione all'avvio. È possibile farlo dalla scheda «Avvio» in Gestione attività.</value>
   </data>
-  <data name="Status_Warn_InfiniteSearch_Button.Content" xml:space="preserve">
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Ricerca interminabile</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
@@ -514,13 +462,7 @@ per controllare il livello della batteria</value>
   <data name="Settings_AppSettings.Text" xml:space="preserve">
     <value>Impostazioni applicazione</value>
   </data>
-  <data name="Status_Warn_LimitedFunctionality.Message" xml:space="preserve">
-    <value>Queste cuffie non supportano alcune funzioni.</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality.Title" xml:space="preserve">
-    <value>Funzionalità limitata</value>
-  </data>
-  <data name="Status_Warn_LimitedFunctionality_Button.Content" xml:space="preserve">
+  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
     <value>Capacità delle AirPods</value>
   </data>
 </root>

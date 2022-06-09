@@ -70,22 +70,6 @@
   <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
     <value>Laporkan Isu</value>
   </data>
-  <data name="Settings_ReportIssues_Text2.Header" xml:space="preserve">
-    <value>Hidupkan Debug</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text1.Text" xml:space="preserve">
-    <value>Cari Airpods</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text2.Header" xml:space="preserve">
-    <value>Penuh</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text3.Header" xml:space="preserve">
-    <value>Kurang</value>
-    <comment>Not used</comment>
-  </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>PC Anda tidak mendukung Bluetooth Low Energy.</value>
   </data>
@@ -126,34 +110,25 @@
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>Tutup Aplikasi</value>
   </data>
-  <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>Satu airpod terlepas dari telinga</value>
-  </data>
-  <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Mainkan/Jeda</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu2.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Kurangi Volume</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Keduanya (Turunkan volume + Putar/Jeda)</value>
   </data>
-  <data name="Settings_EarDetection_Text2_menu4.Text" xml:space="preserve">
-    <value>Tidak Satupun</value>
-  </data>
-  <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>Pemutaran dijeda saat Anda melepas satu telinga AirPods atau berhenti saat Anda melepas kedua AirPods.</value>
-  </data>
-  <data name="Settings_EarDetection_Text5.Header" xml:space="preserve">
-    <value>sebesar</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Lainnya</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6.Header" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Pencarian Cepat</value>
   </data>
-  <data name="Settings_SearchAirpods_Text6_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Mengurangi waktu pencarian untuk AirPods. Nyalakan saat Anda yakin tidak ada orang di sekitar yang menggunakan AirPods.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
@@ -169,7 +144,7 @@
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>Anda dapat mengaktifkan atau menonaktifkan ini di tab Startup pada Task Manager.</value>
   </data>
-  <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Startup dinonaktifkan oleh group policy, atau tidak didukung pada perangkat ini.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
@@ -190,7 +165,7 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Digital</value>
   </data>
-  <data name="Status_ButtonStartup.Content" xml:space="preserve">
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Aktifkan Startup</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
@@ -199,10 +174,6 @@ untuk melihat tingkat baterai</value>
   </data>
   <data name="Status_Disconnected" xml:space="preserve">
     <value>AirPods terputus</value>
-  </data>
-  <data name="Status_Settings.Content" xml:space="preserve">
-    <value>Pengaturan</value>
-    <comment>Not used</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Keluar</value>
@@ -243,7 +214,7 @@ untuk melihat tingkat baterai</value>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Batal</value>
   </data>
-  <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Daftar pemutar yang didukung</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
@@ -270,22 +241,22 @@ untuk melihat tingkat baterai</value>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>Analog</value>
   </data>
-  <data name="Settings_Connection_Text4.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Otomatis Sambungkan</value>
   </data>
-  <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Terhubung secara otomatis ke AirPods saat Anda mengeluarkan AirPods kanan atau kiri dari casing.</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
     <value>AirPods berhenti terhubung</value>
   </data>
-  <data name="Settings_Connection_Text5.Header" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Putar Otomatis</value>
   </data>
-  <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Kirim perintah «Putar» setelah menghubungkan AirPods.</value>
   </data>
-  <data name="Settings_Connection_Text5_warn.Text" xml:space="preserve">
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Jika tidak ada pemutar yang terbuka, Windows akan mengabaikan perintah tersebut.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
@@ -325,7 +296,7 @@ untuk melihat tingkat baterai</value>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Tutup</value>
   </data>
-  <data name="Status_Search.Text" xml:space="preserve">
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Mencari AirPods</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
@@ -346,17 +317,11 @@ untuk melihat tingkat baterai</value>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
     <value>Suara</value>
   </data>
-  <data name="Settings_Audio_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>Beralih otomatis output suara</value>
   </data>
-  <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>Pilih speaker default</value>
-  </data>
-  <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Perangkat tidak tersedia atau dihapus</value>
-  </data>
-  <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Untuk mengaktifkannya instal Microsoft Visual C ++ 2015 Redistributable. Restart MagicPods setelah menginstal.</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
     <value>Pelajari Selengkapnya</value>
@@ -385,25 +350,14 @@ untuk melihat tingkat baterai</value>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>AirPods tidak ditemukan. Pastikan AirPods sudah dipasangkan ke perangkat ini dan mulai ulang aplikasi.</value>
   </data>
-  <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Deteksi Telinga</value>
   </data>
-  <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>Jika Anda memilih otomatis, aplikasi akan mencoba mendeteksi dengan tepat musik apa yang sedang Anda putar saat ini. Jika Anda mendengarkan musik atau video, aplikasi akan menjedanya untuk Anda. Jika tidak, aplikasi akan mengurangi volume.</value>
-  </data>
-  <data name="Settings_Other_Text2.Header" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Latensi Audio Rendah</value>
   </data>
-  <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Disarankan saat menggunakan di Premiere Pro atau Audition. Memerlukan re-connect AirPods setelah fitur ini dihidupkan. Ini dapat meningkatkan konsumsi baterai.</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text4.Header" xml:space="preserve">
-    <value>Sinyal Langsung</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SearchAirpods_Text5_description.Text" xml:space="preserve">
-    <value>Airpods dapat dideteksi oleh sinyal radio. Atur sinyal minimum ke nilai rata-rata dari sinyal langsung.</value>
-    <comment>Not used</comment>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
     <value>Restart aplikasi untuk menerapkan.</value>
@@ -427,14 +381,11 @@ untuk melihat tingkat baterai</value>
     <value>Saat AirPods tersambung, ikon system tray akan menampilkan daya rata-rata headphone kiri dan kanan Anda. Ikon akan diperbarui tiap menitnya.</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Volume berkurang saat Anda melepaskan satu AirPods dari telinga Anda, atau pulih saat Anda melepas / memasang kedua AirPods.</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Jangan menetapkan nilai lebih besar dari 65. Dalam beberapa kasus, animasi mungkin muncul secara tidak sengaja.</value>
-  </data>
-  <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>Terkadang saat AirPods tersambung dan casing terbuka, ikon baterai mungkin berkedip.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Tampilkan tombol «Sambungkan»</value>
@@ -445,13 +396,13 @@ untuk melihat tingkat baterai</value>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>Semua pengaturan akan direset. Apakah Anda ingin melanjutkan?</value>
   </data>
-  <data name="Settings_EarDetection_Text7.Text" xml:space="preserve">
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Pemutaran dijeda dan volume berkurang saat Anda melepaskan satu AirPods dari telinga Anda, atau berhenti dan volume pulih saat Anda melepaskan kedua AirPods.</value>
   </data>
   <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
     <value>Pojok kanan bawah</value>
   </data>
-  <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Alihkan suara dari AirPods ke speaker default saat kedua AirPod tidak berfungsi.</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
