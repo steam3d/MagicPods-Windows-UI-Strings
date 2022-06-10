@@ -516,4 +516,61 @@
   <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
     <value>Δυνατότητα AirPods</value>
   </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Πληκτρολογήστε ένα πλήκτρο συντόμευσης</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Συμπεριλάβετε το πλήκτρο Win, Shift, Alt ή Ctrl</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Αφαιρέστε το πλήκτρο συντόμευσης</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Αυτόματη παύση</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Παύση της αναπαραγωγής μετά την αποσύνδεση των ακουστικών</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Εμφάνιση ειδοποίησης όταν η φόρτιση των ακουστικών είναι κάτω από την καθορισμένη τιμή</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>Κλειστό</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Ρυθμίσεις Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Μη συζευγμένα ακουστικά</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Πως να συνδέσετε τα ακουστικά σας</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Το Bluetooth LE δεν υποστηρίζεται</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>Άλλα ακουστικά συνδέονται / αποσυνδέονται, περιμένετε να ολοκληρωθούν και δοκιμάστε ξανά</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Επανεκκίνηση</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Παρουσιάστηκε μη αναμενόμενο σφάλμα</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Επανεκκινήστε την εφαρμογή για να συνεχιστεί η εργασία της εφαρμογής. Εάν το σφάλμα παραμένει, δοκιμάστε να επανεκκινήσετε τον υπολογιστή σας.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Ειδοποίηση χαμηλής μπαταρίας</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth κλειστό</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Ενεργοποιήστε το Bluetooth για εμφάνιση ακουστικών</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Συνδέστε τα ακουστικά με τον υπολογιστή και επανεκκινήστε την εφαρμογή</value>
+  </data>
 </root>
