@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -513,5 +513,116 @@
   </data>
   <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
     <value>Совместимость с AirPods</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Автозагрузка</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Коснитесь для настройки</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Несколько подключений</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Подключить</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Подключение</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Отключить</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Отключение</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>Л</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>Р</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Кейс</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Заряд</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Скрыть</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Загрузить</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Перевести</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Введите сочетание клавиш</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Начните с Win, Shift, Alt или Ctrl клавиш</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Очистить сочетание</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Автоматическая пауза</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Остановить воспроизведение после отключение наушников</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Показывать уведомление, когда заряд наушников ниже заданного значения</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>Откл.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Настройки Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Нет сопряженных наушников</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Подключите наушники к компьютеру и перезапустите приложение</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Как подключить наушники</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>Для наилучшего опыта использования рекомендуем включить автозагрузку.</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Подключены двое или более наушников, оставьте только одни подключенными</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Отключено</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Отключено</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Перезапустить</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Произошла непредвиденная ошибка</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Перезапустите приложение для возобновления работы. Если ошибка повторяется, попробуйте перезагрузить компьютер.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Уведомление о низком заряде</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth отключен</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Включите Bluetooth для отображения наушников</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE не поддерживается</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>Другие наушники подключаются / отключаются, подождите пока операция завершится и повторите попытку</value>
   </data>
 </root>
