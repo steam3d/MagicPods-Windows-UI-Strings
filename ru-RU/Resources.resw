@@ -518,7 +518,7 @@
     <value>Автозагрузка</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
-    <value>Коснитесь для настройки</value>
+    <value>Коснитесь или щелкните здесь для настройки</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
     <value>Несколько подключений</value>
@@ -624,5 +624,11 @@
   </data>
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
     <value>Другие наушники подключаются / отключаются, подождите пока операция завершится и повторите попытку</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Наушники</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Предпочтения</value>
   </data>
 </root>
