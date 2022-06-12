@@ -271,12 +271,14 @@ to watch battery level</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
     <value>Battery info</value>
+    <comment>Not used now</comment>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>General settings</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
     <value>Experimental features</value>
+    <comment>Not used now</comment>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>Close MagicPods</value>
@@ -529,7 +531,7 @@ to watch battery level</value>
     <value>Startup</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
-    <value>Touch to customize</value>
+    <value>Tap or click here to customize</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
     <value>Multiple connection</value>
@@ -632,5 +634,11 @@ to watch battery level</value>
   </data>
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
     <value>Other headphones are connecting / disconnecting, wait for completion and try again</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Headphones</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Preferences</value>
   </data>
 </root>
