@@ -293,7 +293,7 @@
     <value>Список поддерживаемых плееров</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>Громкость убавляется, когда вы достаете один AirPods из уха или восстанавливается, когда вы достаете / одеваете оба AirPods.</value>
+    <value>Громкость убавляется, когда вы достаете один AirPods из уха или восстанавливается, когда вы вынимаете / надеваете оба AirPods.</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
     <value>Радиус поиска AirPods</value>
@@ -630,5 +630,20 @@
   </data>
   <data name="Menu_Item6.Content" xml:space="preserve">
     <value>Предпочтения</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>Другие приложения от разработчика</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>Копируйте текст с любых картинок</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>Переводите, редактируйте или добавляйте новые языки</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>Бегите, прыгайте и уворачивайтесь в опасном приключении</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Поиск по приложениям</value>
   </data>
 </root>
