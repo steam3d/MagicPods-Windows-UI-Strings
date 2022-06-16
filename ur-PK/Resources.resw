@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,59 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods نہیں ملے۔ یقینی بنائیں کہ AirPods نے اس ڈیوائس کے ساتھ جوڑا بنایا ہے اور ایپ کو دوبارہ شروع کریں۔</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>آپ کا کمپیوٹر بلوٹوتھ کم توانائی کو سپورٹ نہیں کرتا ہے۔</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>AirPods پر {0}% چارج باقی ہے۔ اپنے AirPods کو چارج کریں۔</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>وارننگ</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>پاپ اپ ونڈو</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>ونڈو دکھائیں</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>جب آپ کیس کھولتے ہیں تو آئی فون کی طرح پاپ اپ ونڈو دکھائیں یا چھپائیں۔</value>
+  </data>
+  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
+    <value>سگنل</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>ونڈو سائز</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>چھوٹا</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>درمیانی</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>بڑا</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>ترتیبات کو دوبارہ ترتیب دیں</value>
+  </data>
+  <data name="Settings_Button2.Content" xml:space="preserve">
+    <value>ایپ بند کریں</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>کان کا پتہ لگانا</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>چلائیں/روکیں</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>آواز کو کم کریں</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>دونوں (آواز کو کم کریں + چلائیں/روکیں)</value>
+  </data>
 </root>
