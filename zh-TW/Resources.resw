@@ -124,7 +124,7 @@
     <value>您的電腦不支援藍牙低功耗模式（藍牙 4.0 以上版本）。</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% 電量偏低，請替您的 AirPods 充電。</value>
+    <value>電量剩餘 {0}%，請替您的 AirPods 充電。</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
@@ -308,7 +308,7 @@
     <value>提示</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>請不要將值設定超過 65。在某些情況下可能會讓動畫提示視窗意外出現。</value>
+    <value>請不要將值設定超過 65。在某些情況下可能會讓動畫提示視窗意外顯示。</value>
   </data>
   <data name="Settings_Connection_Text1.Text" xml:space="preserve">
     <value>警告</value>
@@ -423,16 +423,16 @@
     <value>更多資訊</value>
   </data>
   <data name="Settings_Audio_Text4.Header" xml:space="preserve">
-    <value>VoiceOver 通知</value>
+    <value>旁白通知</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>連線 AirPods 並將其設為音訊輸出裝置時，VoiceOver 會推播通知。</value>
+    <value>連線 AirPods 並將其設為音訊輸出裝置時，旁白會朗讀通知。</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>設定</value>
   </data>
   <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
-    <value>VoiceOver 設定</value>
+    <value>旁白設定</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
     <value>選擇語音</value>
@@ -450,13 +450,13 @@
     <value>朗讀</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
-    <value>選擇可以使用 VoiceOver 傳送通知的應用程式</value>
+    <value>選擇欲使用旁白通知的應用程式</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
     <value>並非列表中的所有應用程式都可以發送通知，某些應用程式可能不在列表中。</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
-    <value>全部啟用 VoiceOver 通知</value>
+    <value>全部啟用旁白通知</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
     <value>顯示所有應用程式</value>
@@ -468,10 +468,10 @@
     <value>隱私權與通知</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>「VoiceOver 通知」功能已關閉，無法存取通知權限。請先開啟「隱私權與通知」允許存取您的通知，然後再開啟「VoiceOver 通知」。</value>
+    <value>「旁白通知」功能已關閉，無法存取通知權限。請先開啟「隱私權與通知」允許存取您的通知，然後再開啟「旁白通知」。</value>
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>連接取消</value>
+    <value>連線已取消</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>您已經與其它的 AirPods 連線，請先中斷連線。</value>
@@ -480,13 +480,13 @@
     <value>為了最佳使用者體驗，我們建議您啟用開機時啟動。您可以在工作管理員中的「開機」頁面啟用。</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
-    <value>卡在“搜索中”界面</value>
+    <value>無限搜尋</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>找不到 AirPods</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
-    <value>請按照教程解決該問題。</value>
+    <value>請按照教學來解決問題。</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>淺色</value>
@@ -513,7 +513,7 @@
     <value>應用程式設定</value>
   </data>
   <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
-    <value>AirPods 支援度</value>
+    <value>功能支援表</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
     <value>左</value>
@@ -532,5 +532,119 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>為了最佳使用者體驗，我們建議您啟用開機時啟動。</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>點選此處來自訂</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>多重連線</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>兩個或更多耳機已連線，留下一個連線</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>正在連線</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>中斷連線</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>正在中斷</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>翻譯</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>充電盒</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>隱藏</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>下載</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>已停用</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>已停用</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>重新啟動</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>發生意外的錯誤</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>輸入快捷鍵</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>包含 Windows 標誌鍵、Shift、Alt 或 Ctrl 鍵</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>移除快捷鍵</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>自動暫停</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>當耳機中斷連線後自動暫停播放</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>電池低電量通知</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>當耳機電量低於指定數值時顯示通知</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>藍牙已關閉</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>開啟藍牙來顯示耳機</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>藍牙設定</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>請將耳機與電腦配對，然後重新啟動應用程式</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>如何配對耳機</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>不支援低功耗藍牙</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>有其他耳機正在連線或中斷連線，請等待目前的動作完成後再重試一次</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>重新啟動應用程式來嘗試繼續目前的工作。如果錯誤持續發生，請嘗試重新啟動您的電腦。</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>沒有配對的耳機</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>耳機</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>偏好設定</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>開發者的其他應用程式</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>從任何圖片中複製文字</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>在危險的冒險遊戲中奔跑、跳躍和閃躲</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>翻譯、編輯或新增語言</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>搜尋應用程式</value>
   </data>
 </root>
