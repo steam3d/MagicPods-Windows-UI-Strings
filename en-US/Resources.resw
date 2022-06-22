@@ -121,7 +121,7 @@
     <value>AirPods didn't find. Be sure that AirPods paired to this device and restart the app.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Your PC doesn't support Bluetooth low energy.</value>
+    <value>Your PC doesn't support Bluetooth low energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% charge left on AirPods. Charge your AirPods.</value>
@@ -572,13 +572,13 @@
     <value>Auto pause</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Pause playback after disconnecting headphone</value>
+    <value>Pause playback after disconnecting headphone.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>Low battery notification</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
-    <value>Show a notification when the headphone charge is below the specified value</value>
+    <value>Show a notification when the headphone charge is below the specified value.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Off</value>
@@ -638,7 +638,7 @@
     <value>Customize each headphones individually to suit your preferences</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
-    <value>Global hotkey to connect or disconnect headphones</value>
+    <value>Global hotkey to connect or disconnect headphones.</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>Connect hotkey</value>
