@@ -138,9 +138,6 @@
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>Показывать или скрывать всплывающее окно с анимацией как на iPhone при открытии кейса наушников.</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>Сигнал</value>
-  </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>Размер окна</value>
   </data>
@@ -155,9 +152,6 @@
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>Сбросить настройки</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>Закрыть приложение</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Обнаружение уха</value>
@@ -191,9 +185,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Журнал ошибок</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>Поддержка</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Быстрый поиск</value>
@@ -242,13 +233,6 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Включить автозагрузку</value>
-  </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>Откройте кейс или подключитесь к AirPods,
-чтобы увидеть заряд батареи</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods отключены</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Выход</value>
@@ -310,15 +294,6 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Не задавайте значение больше 65. В некоторых случаях возможно случайное появление анимации.</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>Предупреждение</value>
-  </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>Экспериментальные функции могут работать не у всех, а в некоторых случая возможны сбои в работе приложения или AirPods.</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>Действия при подключении</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Показать кнопку «Подключить»</value>
   </data>
@@ -330,9 +305,6 @@
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Автоматически подключаться к AirPods, когда Вы вытаскиваете правый или левый наушник из кейса.</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods перестали подключаться</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Автоматическое воспроизведение</value>

@@ -61,9 +61,6 @@
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>Tilbakestill Innstillingene</value>
   </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>Lukk appen</value>
-  </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Registrer øre</value>
   </data>
@@ -96,9 +93,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Feilsøkingslogg</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>Rapporter problemer</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Hurtigsøk</value>
@@ -145,13 +139,6 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Aktiver Oppstart</value>
-  </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>Åpne etui eller koble til AirPods 
-for å se batterinivå</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods Frakoblet</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Avslutt</value>
@@ -201,23 +188,14 @@ for å se batterinivå</value>
   <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
     <value>Øverst til høyre</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>Advarsel</value>
-  </data>
   <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
     <value>Nederst til venstre</value>
   </data>
   <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
     <value>Nederst til høyre</value>
   </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>Tilkoblingshandlinger</value>
-  </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Koble til automatisk</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods kobler ikke til</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Spill av automatisk</value>
@@ -315,9 +293,6 @@ for å se batterinivå</value>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>.Du kan aktivere eller deaktivere denne under Oppstartsfanen i Oppgavebehandling.</value>
   </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>Eksperimentelle funksjoner fungerer kanskje ikke for alle, og i noen tilfeller kan appen eller AirPods kræsje.</value>
-  </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
     <value>Når AirPods er tilkoblet, vil ikonet vise den gjennomsnittlige mengden strøm igjen på venstre og høyre AirPod. Ikonet oppdateres hvert minutt.</value>
     <comment>Changed</comment>
@@ -353,9 +328,6 @@ for å se batterinivå</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>Vis eller skjul pop-up vindu som på iPhone når du åpner etuiet.</value>
-  </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>Signal</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>Vindustørrelse</value>

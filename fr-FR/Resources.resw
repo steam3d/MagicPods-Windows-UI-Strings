@@ -129,9 +129,6 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>Avertissement</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>Signal</value>
-  </data>
   <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
     <value>Petit</value>
   </data>
@@ -143,9 +140,6 @@
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>Réinitialiser les paramètres</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>Fermer l'application</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Détection de l'oreille</value>
@@ -176,9 +170,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Journal d'erreurs</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>Signaler des problèmes</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Recherche rapide</value>
@@ -227,13 +218,6 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Activer le démarrage</value>
-  </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>Ouvrez le boîtier ou connectez-vous aux AirPods
-pour voir le niveau de la batterie</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods déconnectés</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Quitter</value>
@@ -307,15 +291,6 @@ pour voir le niveau de la batterie</value>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Ne mettez pas une valeur supérieure à 65. Dans certains cas, l'animation peut apparaître par erreur.</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>Attention</value>
-  </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>Les fonctionalités expérimentales peuvent ne pas fonctionner pour tout le monde, et dans certains cas, l'application ou les AirPods peuvent planter.</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>Actions de connexion</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Afficher le bouton « Connecter »</value>
   </data>
@@ -327,9 +302,6 @@ pour voir le niveau de la batterie</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Connection automatique des AirPods lorsque l'AirPod gauche ou droit est sortie du boitier.</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>Les AirPods ne se connectent plus</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Lecture automatique</value>

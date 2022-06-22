@@ -129,9 +129,6 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>訊號</value>
-  </data>
   <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
     <value>小</value>
   </data>
@@ -143,9 +140,6 @@
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>回復預設值</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>關閉應用程式</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>耳朵偵測</value>
@@ -176,9 +170,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>除錯記錄檔</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>回報問題</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>快速搜尋</value>
@@ -227,13 +218,6 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>開機時自動執行</value>
-  </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>打開充電盒或是與 AirPods 連線
-以便查看電池電量</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods 已中斷連線</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>離開</value>
@@ -310,15 +294,6 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>請不要將值設定超過 65。在某些情況下可能會讓動畫提示視窗意外顯示。</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>警告</value>
-  </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>實驗功能可能不會正常運作，且在某些狀況下可能會導致此應用程式或 AirPods 發生問題。</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>連線動作</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>顯示「連線」按鈕</value>
   </data>
@@ -330,9 +305,6 @@
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>當其中一耳 AirPods 從充電盒取出時自動連線。</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods 已中斷連線</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>自動播放</value>

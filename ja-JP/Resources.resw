@@ -109,9 +109,6 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>65を超える値を設定しないでください。アニメーションが誤って表示される場合があります。</value>
   </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>試験的な機能はすべての人に役立つとは限らず、場合によっては、アプリまたはAirPodsがクラッシュする可能性があります。</value>
-  </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>ポップアップウィンドウの 「接続」 ボタンを表示または非表示にします。このボタンを押すと、AirPodsと接続します。</value>
   </data>
@@ -130,9 +127,6 @@
   <data name="Settings_Popup_Text1.Text" xml:space="preserve">
     <value>ポップアップ ウィンドウ</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>信号</value>
-  </data>
   <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
     <value>小</value>
   </data>
@@ -144,9 +138,6 @@
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>設定の初期化</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>アプリケーションを閉じる</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>再生/一時停止</value>
@@ -174,9 +165,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>デバッグログ</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>問題を報告</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>クイック検索</value>
@@ -213,13 +201,6 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>起動時に自動実行</value>
-  </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>バッテリー残量を確認するためには
-ケースを開けるか、AirPodsに接続してください</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPodsの接続が解除されました</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>ヘルプ</value>
@@ -269,23 +250,14 @@
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>ヒント</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>警告</value>
-  </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>閉じる</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>接続時の動作</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>「接続」ボタンを表示する</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>自動接続</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPodsが接続されていません</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>自動再生</value>

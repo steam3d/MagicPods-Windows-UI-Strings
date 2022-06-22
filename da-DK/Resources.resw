@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>Luk app</value>
-  </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Afspil/Pause</value>
   </data>
@@ -69,9 +66,6 @@
   </data>
   <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
     <value>Rapporter problem</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>Rapporter problemer</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Advarsel</value>
@@ -149,13 +143,6 @@
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Aktiver start</value>
   </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>Åbn etui eller opret forbindelse til AirPods
-for at se batteriniveau</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods afbrudt</value>
-  </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Udgang</value>
   </data>
@@ -201,20 +188,8 @@ for at se batteriniveau</value>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Angiv ikke en værdi, der er større end 65. I nogle tilfælde kan animationen blive vist ved et uheld.</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>Advarsel</value>
-  </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>Eksperimentelle funktioner fungerer muligvis ikke for alle, og i nogle tilfælde kan appen eller AirPods gå ned.</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>Forbindelseshandlinger</value>
-  </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Opret automatisk forbindelse</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods holdt op med at oprette forbindelse</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Automatisk afspilning</value>
@@ -333,9 +308,6 @@ for at se batteriniveau</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>Vis eller skjul pop op-vindue som på iPhone, når du åbner etuiet.</value>
-  </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>Signal</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>Vindue størrelse</value>

@@ -67,17 +67,11 @@
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Hasznos, amikor dolgozik Premiere Pro-ban vagy Audition-ben. Bekapcsolás után újra kell csatlakoztatni az AirPods-ot. Ez növelheti az akkumulátor fogyasztását.</value>
   </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>Előfordulhat, hogy a kísérleti funkciók nem mindenki számára működnek, egyes esetekben az alkalmazás vagy az AirPods összeomlik.</value>
-  </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Hibakeresési napló</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>A "Csatlakozás" gomb megjelenítése vagy elrejtése a felbukkanó ablakban. A gomb megnyomásával az AirPods csatlakozik.</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>Kérdések jelentése</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Ha nincsenek megnyitott lejátszók, a Windows figyelmen kívül hagyja a parancsot.</value>
@@ -146,9 +140,6 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Digitális</value>
   </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods lecsatlakoztatva</value>
-  </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Kilépés</value>
   </data>
@@ -197,12 +188,6 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Ne állítson be 65-nél nagyobb értéket. Bizonyos esetekben az animáció véletlenül jelenhet meg.</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>Vigyázat</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>Csatlakozási műveletek</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>«Kapcsolódás» gomb mutatása</value>
   </data>
@@ -211,9 +196,6 @@
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Automatikus kapcsolódás az AirPods-hoz amikor ön kiveszi a bal vagy a jobb Airpods-ot a dobozból.</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>Airpods többet nincs csatlakoztatva</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Automatikus lejátszás</value>
@@ -265,10 +247,6 @@
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Lejátszás/szünet</value>
   </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>Nyissa ki a dobozt vagy kapcsolódjon rá az AirPods-ra
-hogy ellenőrizze az akkumulátor töltöttségét</value>
-  </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Mindegyik (hangerő csökkenése + lejátszás/szünet)</value>
   </data>
@@ -280,9 +258,6 @@ hogy ellenőrizze az akkumulátor töltöttségét</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>A felugró ablak megjelenítése vagy elrejtése, mint például az iPhone készüléken, amikor megnyitja a dobozt.</value>
-  </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>Jel</value>
   </data>
   <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
     <value>Közepes</value>
@@ -314,9 +289,6 @@ hogy ellenőrizze az akkumulátor töltöttségét</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>Beállítások visszaállítása</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>Alkalmazás bezárása</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Indítás letiltva csoportházirend, vagy nem támogatott ezen az eszközön.</value>

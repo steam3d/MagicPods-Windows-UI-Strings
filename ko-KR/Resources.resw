@@ -138,9 +138,6 @@
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>케이스를 열 때 iPhone에서처럼 팝업을 표시하거나 숨깁니다.</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>신호</value>
-  </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>창 크기</value>
   </data>
@@ -155,9 +152,6 @@
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>설정 초기화</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>앱 종료</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>착용 감지</value>
@@ -191,9 +185,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>디버그 기록</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>문제 신고</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>빠른 검색</value>
@@ -242,13 +233,6 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>시작프로그램 활성화</value>
-  </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>케이스를 열거나 에어팟 연결 시
-배터리 잔량 확인</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods 연결 끊김</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>나가기</value>
@@ -310,15 +294,6 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>65보다 큰 값을 설정할 경우 특정 상황에서 애니메이션의 재생에 문제가 발생할 수 있습니다.</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>경고</value>
-  </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>실험적 기능이 모든 경우에 작동하는 것은 아닙니다. 특정 상황에서는 프로그램이나 에어팟이 충돌할 수 있습니다.</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>연결 동작</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>«연결» 버튼 표시</value>
   </data>
@@ -330,9 +305,6 @@
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>케이스에서 왼쪽 또는 오른쪽 에어팟을 꺼내면 자동으로 연결됩니다.</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>에어팟 연결이 중지됨</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>자동 재생</value>

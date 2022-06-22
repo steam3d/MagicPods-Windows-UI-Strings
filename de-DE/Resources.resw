@@ -138,9 +138,6 @@
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>Zeige oder verstecke ein Pop-up wie auf dem iPhone, wenn du das Case öffnest.</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>Signal</value>
-  </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>Fenstergröße</value>
   </data>
@@ -155,9 +152,6 @@
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>Einstellungen zurücksetzen</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>App schließen</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Ohrerkennung</value>
@@ -191,9 +185,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Debug Bericht</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>Fehler melden</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Schnellsuche</value>
@@ -242,13 +233,6 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Autostart aktivieren</value>
-  </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>Öffne das Case oder verbinde deine AirPods, 
-um den Batteriestand anzuzeigen</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods getrennt</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Ausgang</value>
@@ -310,15 +294,6 @@ um den Batteriestand anzuzeigen</value>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Setze keinen Wert über 65. In manchen Fällen wird das Pop-up dann ausversehen angezeigt.</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>Warnung</value>
-  </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>Experimentelle Funktionen funktionieren möglicherweise nicht für jeden und es kann zu Abstürzen der App oder deiner AirPods kommen.</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>Verbindungseinstellungen</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Zeige „Verbinden“- Schaltfläche</value>
   </data>
@@ -330,9 +305,6 @@ um den Batteriestand anzuzeigen</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Verbindet sich automatisch mit deinen AirPods, sobald du einen aus dem Case nimmst.</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods wurden nicht mehr verbunden</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Automatische Wiedergabe</value>

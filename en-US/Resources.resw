@@ -139,9 +139,6 @@
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>Show or hide pop-up window like on iPhone, when you open the case.</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>Signal</value>
-  </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>Window size</value>
   </data>
@@ -156,9 +153,6 @@
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>Reset Settings</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>Close app</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Ear detection</value>
@@ -193,9 +187,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Debug log</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>Report issues</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Fast search</value>
@@ -249,13 +240,6 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Enable Startup</value>
-  </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>Open case or connect to AirPods
-to watch battery level</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods disconnected</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Exit</value>
@@ -319,15 +303,6 @@ to watch battery level</value>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Don't set a value greater than 65. In some cases, the animation may appear accidentally.</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>Warning</value>
-  </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>Experimental features may not work for everyone, and in some cases, the app or AirPods may crash.</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>Connection actions</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Show «Connect» button</value>
   </data>
@@ -339,9 +314,6 @@ to watch battery level</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Automatically connect to AirPods when you take the right or left AirPods out of the case.</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods stopped connecting</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Auto play</value>

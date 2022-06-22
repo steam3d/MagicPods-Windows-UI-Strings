@@ -73,9 +73,6 @@
   <data name="Settings_Popup_Text2.Header" xml:space="preserve">
     <value>แสดงหน้าต่าง</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>สัญญาณ</value>
-  </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>ขนาดของหน้าต่าง สถานะ</value>
   </data>
@@ -129,13 +126,6 @@
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>เปิดใช้งานเมื่อเริ่มระบบ</value>
   </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>“เปิดเคสหรือเชื่อมต่อกับ AirPods
-เพื่อดูระดับแบตเตอรี่”</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods ถูกตัดการเชื่อมต่อ</value>
-  </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>ออก</value>
   </data>
@@ -181,12 +171,6 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>การตั้งค่าที่มากกว่า 65 ในบางกรณี ภาพเคลื่อนไหวอาจปรากฏขึ้นโดยไม่ได้ตั้งใจ</value>
   </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>คำเตือน</value>
-  </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>การดำเนินการเชื่อมต่อ</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>แสดงปุ่ม «เชื่อมต่อ»</value>
   </data>
@@ -195,9 +179,6 @@
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>เชื่อมต่อกับ AirPods โดยอัตโนมัติเมื่อคุณถอด AirPods ด้านขวาหรือด้านซ้ายออกจากเคส</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods หยุดเชื่อมต่อ</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>เล่นอัตโนมัติ</value>
@@ -301,9 +282,6 @@
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>ไม่พบ AirPods</value>
   </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>ปิด แอป</value>
-  </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>สว่าง</value>
   </data>
@@ -373,18 +351,12 @@
     <value>{0}% แบตเตอรี่ที่เหลืออยู่ใน AirPods ชาร์จไฟ AirPods ของคุณ</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>รายงานปัญหา</value>
-  </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>ตั้งค่า</value>
     <comment>Not used</comment>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>ช่วยเหลือ</value>
-  </data>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>ฟีเจอร์เสริม อาจไม่ทำงานสำหรับบางอย่าง และในบางกรณี แอพหรือ AirPods อาจขัดข้อง</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>เพิ่ม AirPods ในรายการอุปกรณ์ Windows Bluetooth</value>

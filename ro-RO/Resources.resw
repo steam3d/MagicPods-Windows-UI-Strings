@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Settings_Connection_Text1_description.Text" xml:space="preserve">
-    <value>Funcționalitățile experimentale s-ar putea să nu funcționeze pentru toată lumea, iar în unele cazuri aplicația sau AirPods-urile se pot bloca.</value>
-  </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>Toată configurările vor fi resetate. Sigur doriți să continuați?</value>
   </data>
@@ -107,9 +104,6 @@
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>Afișați sau ascundeți fereastra pop-up ca pe un iPhone atunci când deschideți carcasa.</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>Semnal</value>
-  </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>Mărimea ferestrei</value>
   </data>
@@ -124,9 +118,6 @@
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
     <value>Resetați configurările</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>Închideți aplicația</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Detectare ureche</value>
@@ -157,9 +148,6 @@
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Registre depanare</value>
-  </data>
-  <data name="Settings_ReportIssues_Text1.Text" xml:space="preserve">
-    <value>Raportați o problemă</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Căutare rapidă</value>
@@ -207,13 +195,6 @@
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Deschideți la pornire</value>
   </data>
-  <data name="Status_Description.Text" xml:space="preserve">
-    <value>Deschideți carcasa sau conectați AirPods-urile
-pentru a verifica nivelul bateriei</value>
-  </data>
-  <data name="Status_Disconnected" xml:space="preserve">
-    <value>AirPods-uri deconectate</value>
-  </data>
   <data name="Text_Help" xml:space="preserve">
     <value>Ajutor</value>
   </data>
@@ -247,9 +228,6 @@ pentru a verifica nivelul bateriei</value>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Infirmați</value>
   </data>
-  <data name="Settings_Connection_Text2.Text" xml:space="preserve">
-    <value>Acțiuni la conectare</value>
-  </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Arată butonul «Conectați»</value>
   </data>
@@ -261,9 +239,6 @@ pentru a verifica nivelul bateriei</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Conectați-vă automat la AirPods atunci când o cască este scoasă din carcasă.</value>
-  </data>
-  <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>AirPods-urile nu se mai conectează</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Redare automată</value>
@@ -285,9 +260,6 @@ pentru a verifica nivelul bateriei</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Nu alegeți o valoare mai mare de 65. În unele cazuri animația poate să apară accidental.</value>
-  </data>
-  <data name="Settings_Connection_Text1.Text" xml:space="preserve">
-    <value>Atenție</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Dacă nu există furnizori de conținut, Windows va ignora comanda.</value>
