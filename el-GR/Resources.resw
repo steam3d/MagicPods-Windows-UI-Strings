@@ -233,7 +233,7 @@
     <value>Κέντρο</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Ο υπολογιστής δεν υποστηρίζει Bluetooth χαμηλής ενέργειας.</value>
+    <value>Ο υπολογιστής δεν υποστηρίζει Bluetooth χαμηλής ενέργειας</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Προσοχή</value>
@@ -501,10 +501,10 @@
     <value>Αυτόματη παύση</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Παύση της αναπαραγωγής μετά την αποσύνδεση των ακουστικών</value>
+    <value>Παύση της αναπαραγωγής μετά την αποσύνδεση των ακουστικών.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
-    <value>Εμφάνιση ειδοποίησης όταν η φόρτιση των ακουστικών είναι κάτω από την καθορισμένη τιμή</value>
+    <value>Εμφάνιση ειδοποίησης όταν η φόρτιση των ακουστικών είναι κάτω από την καθορισμένη τιμή.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Κλειστό</value>
@@ -565,5 +565,20 @@
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>Αναζήτηση εφαρμογών</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Γνώρισε το MagicPods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Επανασχεδιασμένo γραφικό περιβάλλον, μεμονωμένες ρυθμίσεις και πολλά άλλα. Ορισμένες ρυθμίσεις έχουν αλλάξει. Ανοίξτε την εφαρμογή για προσαρμογή.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Καθολικό πλήκτρο πρόσβασης για σύνδεση ή αποσύνδεση ακουστικών.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Συνδέστε το πλήκτρο πρόσβασης</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Προσαρμόστε κάθε ακουστικό ξεχωριστά για να ταιριάζει στις προτιμήσεις σας</value>
   </data>
 </root>
