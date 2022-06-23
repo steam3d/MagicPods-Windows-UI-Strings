@@ -119,7 +119,7 @@
     <value>左右いずれかのAirPodsイヤホンが充電ケースから取り出されると、AirPodsへ自動的に接続します。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>あなたのコンピューターはBluetooth低消費電力モード（Bluetooth 4.0以上のバージョン）をサポートしていません。</value>
+    <value>あなたのコンピューターはBluetooth低消費電力モード（Bluetooth 4.0以上のバージョン）をサポートしていません</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
@@ -454,5 +454,131 @@
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>オフ</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>ケース</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Bluetoothをオンにしてヘッドフォンを表示する</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>ヘッドフォンをコンピューターにペアリングしてアプリケーションを再起動する</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>タップまたはクリックしてカスタマイズする</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>同時接続</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>複数の端末に接続されているため、一端末にのみ接続して下さい</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>接続中</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>切断</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>切断中</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>無効</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>無効</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>再起動</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>予期しないエラーが発生しました</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>アプリケーションを再起動して、処理を再開します。エラーが続く場合は、コンピュータを再起動して下さい。</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>ホットキーを入力する</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Win, Shift, Alt または Ctrl キーを含める</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ホットキーを削除</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>自動停止</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>ヘッドフォンの切断後に再生を停止する。</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>バッテリー残量通知</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>ヘッドフォンのバッテリー残量が指定した数値を下回った時に通知を表示する。</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>MagicPods 2.0 について</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>好みに合わせて個別にヘッドフォンをカスタマイズする</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>インターフェース、個別設定などを一新しました。一部の設定が変更されています。カスタマイズするには、アプリを開いてください。</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>ヘッドフォン</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>プリファレンス</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>ホットキーで接続</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>グローバルホットキーでヘッドフォンに接続または切断する。</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>開発者の他のアプリケーション</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>イメージからテキストをコピーする</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>アプリケーションを検索する</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>新しい言語の翻訳、編集、追加を行う</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>走って、ジャンプして、かわす、危険なアドベンチャーゲーム</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>隠す</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>ダウンロード</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>翻訳</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth オフ</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth 設定</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>ペアリングされたヘッドフォンがありません</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>ヘッドフォンのペアリング方法</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE がサポートされていません</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>他のヘッドフォンが接続中または切断中です。完了まで待機して再度実行してください</value>
   </data>
 </root>
