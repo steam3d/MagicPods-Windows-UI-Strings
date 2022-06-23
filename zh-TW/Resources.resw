@@ -121,7 +121,7 @@
     <value>無法搜尋到 AirPods。請確定您已經先將 AirPods 與此電腦完成配對後，再重新啟動此應用程式。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>您的電腦不支援藍牙低功耗模式（藍牙 4.0 以上版本）。</value>
+    <value>您的電腦不支援藍牙低功耗模式</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>電量剩餘 {0}%，請替您的 AirPods 充電。</value>
@@ -560,13 +560,13 @@
     <value>自動暫停</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>當耳機中斷連線後自動暫停播放</value>
+    <value>當耳機中斷連線後自動暫停播放。</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>電池低電量通知</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
-    <value>當耳機電量低於指定數值時顯示通知</value>
+    <value>當耳機電量低於指定數值時顯示通知。</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>關閉</value>
@@ -618,5 +618,20 @@
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>搜尋應用程式</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>與 MagicPods 2.0 相遇</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>重新設計的使用者介面、個別耳機設定與更多功能。有些設定值已經變更，請開啟應用程式來自訂這些設定。</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>個別設定每一副耳機以符合您的使用習慣</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>全域快捷鍵用來連線或中斷連線到耳機。</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>連線快捷鍵</value>
   </data>
 </root>
