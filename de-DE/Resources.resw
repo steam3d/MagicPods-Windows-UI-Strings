@@ -121,7 +121,7 @@
     <value>AirPods wurden nicht gefunden. Überprüfe, ob die AirPods gekoppelt sind und starte die App neu.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Dein PC unterstützt kein Bluetooth Low Energy.</value>
+    <value>Dein PC unterstützt kein Bluetooth Low Energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% Akku verbleibend. Lade deine AirPods auf.</value>
@@ -506,5 +506,23 @@
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Aus</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Ausblenden</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Übersetzen</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Deaktiviert</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Deaktiviert</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Neustarten</value>
   </data>
 </root>
