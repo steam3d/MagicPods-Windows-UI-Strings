@@ -121,7 +121,7 @@
     <value>未能找到 AirPods。请确保 AirPods 与此设备配对，并重启应用程序。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>您的设备不支持蓝牙低能耗模式。</value>
+    <value>您的设备不支持蓝牙低能耗模式</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>电量剩余{0}% ，请及时为您的 AirPods 充电。</value>
@@ -506,5 +506,8 @@
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>关</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>低电量提醒</value>
   </data>
 </root>
