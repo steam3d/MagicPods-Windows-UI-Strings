@@ -507,4 +507,19 @@
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Off</value>
   </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Toucher ou cliquer ici pour personnaliser</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Multiples connexions</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Deux écouteurs ou plus sont connectés, laisser seulement un de connecté</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Connexion</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Déconnexion</value>
+  </data>
 </root>
