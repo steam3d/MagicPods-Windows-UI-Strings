@@ -449,4 +449,136 @@
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>A legjobb felhasználói élmény érdekében, javasoljuk, hogy engedélyezd az automata indulást.</value>
   </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Érintse meg vagy kattintson ide a testreszabáshoz</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Többféle kapcsolat</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Két vagy több fejhallgató csatlakoztatva, csak egyet hagyjon csatlakoztatva</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>kapcsolat létrehozása</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>csatlakoztassa le eszközről</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>a leválasztás folyamatában</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>eset</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>töltse</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Elrejt</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Letöltés</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Nincs párosított fejhallgató</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Hogyan kell párosítsa fejhallgatót</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>A Bluetooth LE nem támogatott</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>Más fejhallgatók csatlakoztatása/leválasztása folyamatban van, várja meg a befejezést, és próbálja újra</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>mozgássérült</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>mozgássérült</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>lefordít</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Alacsony töltöttségi szint értesítés</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Értesítés megjelenítése, ha a fejhallgató töltöttsége a megadott érték alatt van.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>bluetooth kikapcsolva</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>kikapcsolva</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Kapcsolja be a Bluetooth funkciót a fejhallgató megjelenítéséhez</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth beállítások</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Párosítsa a fejhallgatót a számítógéphez, és indítsa újra az alkalmazást</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Újrakezd</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>váratlan hiba történt</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Indítsa újra az alkalmazást az alkalmazás munkájának folytatásához. Ha a hiba továbbra is fennáll, próbálja meg újraindítani a számítógépet.</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Írjon be egy gyorsbillentyűt</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Tartalmazza a Win, Shift, Alt vagy Ctrl billentyűket</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Távolítsa el a gyorsbillentyűt</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Automatikus szünet</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>A fejhallgató leválasztása után szüneteltesse a lejátszást.</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Találkozik a MagicPods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Újratervezett felület, egyéni beállítások és még sok más. Néhány beállítás módosult. Nyissa meg az alkalmazást a testreszabáshoz.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Minden fejhallgatót egyedileg szabható saját igényeinek megfelelően</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Fejhallgató</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>preferenciák</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Globális gyorsbillentyű a fejhallgató csatlakoztatásához vagy leválasztásához.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Csatlakozás gyorsbillentyű</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>Egyéb alkalmazások a fejlesztőtől</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>Szöveg másolása bármilyen képről</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>Fuss, ugorj és kerüld ki egy veszélyes kaland játékban</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Keresési alkalmazás</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>Fordítson, szerkesszen vagy adjon hozzá új nyelveket</value>
+  </data>
 </root>
