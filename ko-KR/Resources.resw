@@ -190,7 +190,7 @@
     <value>빠른 검색</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>에어팟의 검색 시간을 단축할 수 있습니다. 주변에 다른 에어팟이 없을 때 사용하십시오.</value>
+    <value>에어팟의 검색 시간을 단축할 수 있습니다. 주변에 다른 에어팟이 없을 때 사용하세요.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>설정</value>
@@ -262,7 +262,7 @@
     <value>지원</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>응용 프로그램이 종료되고 모든 기능이 비활성화되어요.</value>
+    <value>응용 프로그램이 종료되고 모든 기능이 비활성화됩니다.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>MagicPods를 종료하시겠습니까?</value>
@@ -274,7 +274,7 @@
     <value>취소</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>한쪽 에어팟를 제거하면 음향 크기가 감소하고 양쪽 에어팟을 제거하거나 장착하면 음향 크기가 복원됩니다.</value>
+    <value>한쪽 에어팟을 제거하면 음향 크기가 감소하고 양쪽 에어팟을 제거하거나 장착하면 음향 크기가 복원됩니다.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>지원되는 플레이어 목록</value>
@@ -283,10 +283,10 @@
     <value>AirPods 검색 범위</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>팝업이 나타나지 않으면 AirPods 케이스를 열고 애니메이션이 나타날 때까지 검색 범위를 높여요.</value>
+    <value>팝업이 나타나지 않으면 AirPods 케이스를 열고 애니메이션이 나타날 때까지 검색 범위를 높여보세요.</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
-    <value>검색 범위이란 무엇인가요?</value>
+    <value>검색 범위란 무엇인가요?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>팁</value>
@@ -503,5 +503,134 @@
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>끔</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>탭 또는 클릭하여 커스터마이징 하기</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>다중 연결</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>2개 이상의 기기에 연결되어 있으니 하나의 기기로만 접속해 주세요</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>연결 중</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>해제</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>번역</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>다른 헤드폰이 연결 중이거나 해제 중이니 완료될 때까지 대기하고 다시 실행해 주세요</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>사용하지 않음</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>사용하지 않음</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>재시작</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>예기치 못한 오류가 발생했습니다</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>애플리케이션을 재부팅하고 처리를 재개합니다. 에러가 계속되는 경우는 컴퓨터를 재부팅 해주세요.</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>단축키를 입력하세요</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Win, Shift, Alt 또는 Ctrl 키 포함</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>단축키 제거</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>자동 정지</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>헤드폰을 분리하면 재생을 일시 중지합니다.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>낮은 배터리 알림</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>헤드폰의 배터리 잔량이 지정한 수치 보다 낮을 때 알림을 표시합니다.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>헤드폰을 표시하려면 Bluetooth를 켜세요</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth 설정</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>연결된 헤드폰 없음</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>헤드폰을 컴퓨터와 연결하고 애플리케이션을 재시작하세요</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>사용자의 기본 설정에 맞게 각 헤드폰 커스터마이징</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>MagicPods 2.0을 만나보세요</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>새롭게 디자인된 인터페이스, 개별 설정 등 일부 설정이 변경되었습니다. 커스터마이징하기 위해 앱을 열어보세요.</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>헤드폰</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>기본 설정</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>헤드폰을 연결하거나 끊을 수 있는 전역 단축키.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>단축키 연결</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>개발자의 다른 애플리케이션</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>뛰고 점프하고 피하는 위험한 어드벤처 게임</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>새로운 언어 번역, 편집 또는 추가</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>애플리케이션 검색</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>아무 이미지에서나 텍스트를 복사해보세요</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>해제 중</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>케이스</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>충전</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>숨기기</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth 꺼짐</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>헤드폰 페어링 방법</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE는 지원되지 않습니다</value>
   </data>
 </root>
