@@ -483,7 +483,7 @@
     <value>Bluetooth disattivato</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
-    <value>Attiva il Bluetooth per mostrare i tuoi dispositivi</value>
+    <value>Attiva il Bluetooth per mostrare le tue cuffie</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Impostazioni Bluetooth</value>
@@ -498,7 +498,7 @@
     <value>Utilizza i tasti Win, Maiusc, Alt o Ctrl</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
-    <value>Notifica batteria</value>
+    <value>Notifica batteria scarica</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
     <value>Mostra una notifica quando le cuffie hanno carica inferiore a:</value>
@@ -507,7 +507,7 @@
     <value>Metti in pausa dopo avere scollegato le cuffie.</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
-    <value>Associe le cuffie al computer e riavvia l'applicazione</value>
+    <value>Connetti le cuffie al computer e riavvia l'applicazione</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
     <value>Come collegare un paio di cuffie</value>
@@ -516,19 +516,19 @@
     <value>Bluetooth LE non è supportato</value>
   </data>
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>Altre cuffie si stanno collegando / scollegando, aspetta per il termine dell'operazione e riprova</value>
+    <value>Altre cuffie si stanno collegando / disconnettendo, aspetta per il termine dell'operazione e riprova</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
     <value>Nessuna cuffia associata</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>Personalizza l'esperienza per ogni cuffia</value>
+    <value>Personalizza in modo diverso l'esperienza per ogni cuffia</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
     <value>Scopri MagicPods 2.0</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
-    <value>Interfaccia ridisegnata, impostazioni personalizzabili per ogni cuffia e molto altro. Alcune impostazioni sono state cambiate. Apri l'app per modificare.</value>
+    <value>Interfaccia ridisegnata, impostazioni personalizzabili e molto altro. Alcune impostazioni sono state cambiate. Apri l'app per iniziare a personlizzare la tua esperienza.</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
     <value>Clicca qui per personalizzare</value>
@@ -546,7 +546,7 @@
     <value>Scorciatoia da tastiera</value>
   </data>
   <data name="Support_YAD_Description.Text" xml:space="preserve">
-    <value>Corri, salta e schiva in un pericoloso gioco di avventura</value>
+    <value>Corri, salta e schiva in un emozionante gioco di avventura</value>
   </data>
   <data name="Support_Weblate_Description.Text" xml:space="preserve">
     <value>Traduci, modifica o aggiungi nuove lingue</value>
@@ -558,7 +558,7 @@
     <value>Altre app dello sviluppatore</value>
   </data>
   <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
-    <value>Copia il testo da ogni immagine</value>
+    <value>Leggi e copia il testo da ogni immagine</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
     <value>Custodia</value>
@@ -577,5 +577,8 @@
   </data>
   <data name="Support_Button_Hide.Content" xml:space="preserve">
     <value>Nascondi</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Pausa automatica</value>
   </data>
 </root>
