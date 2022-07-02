@@ -121,7 +121,7 @@
     <value>未能找到 AirPods。请确保 AirPods 与此设备配对，并重启应用程序。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>您的设备不支持蓝牙低能耗模式</value>
+    <value>您的设备不支持蓝牙低功耗模式</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>电量剩余{0}% ，请及时为您的 AirPods 充电。</value>
@@ -205,7 +205,7 @@
     <value>在任务栏中显示 AirPods 电量图标</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>当 AirPods 连接时，系统托盘图标将显示您左右耳机的平均电量。图标每分钟更新一次。</value>
+    <value>当 AirPods 连接时，任务栏角将显示您左右耳机的平均电量。图标每分钟更新一次。</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
     <value>电量显示样式</value>
@@ -238,7 +238,7 @@
     <value>显示弹窗</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>当您打开充电盒时，像在 iPhone 上一样展示（或隐藏）弹窗动画。</value>
+    <value>当您打开充电盒时，展示或隐藏如同 iPhone 上的弹窗动画。</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>弹窗尺寸</value>
@@ -334,7 +334,7 @@
     <value>停用提醒</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>无法与AirPods 建立连接，请尝试手动连接。</value>
+    <value>无法与 AirPods 建立连接，请尝试手动连接。</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>在您取出一只 AirPods 时暂停播放并降低系统音量，或者在您取出两只 AirPods 时停止播放并恢复系统音量大小。</value>
@@ -343,7 +343,7 @@
     <value>将 AirPods 添加到配对的蓝牙设备中</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods 支持 AirPods 1-2 代、AirPods Pro、AirPods Max 和 PowerBeats Pro</value>
+    <value>MagicPods 支持绝大多数 AirPods 系列和 Beats 系列耳机</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>请将 AirPods 充电盒尽可能近地靠近您的电脑并打开</value>
@@ -418,7 +418,7 @@
     <value>播报通知设置</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>当 AirPods 连接并作为音频输出设备时将通过旁白进行提醒。</value>
+    <value>当 AirPods 已连接并作为音频输出设备时，将通过旁白播报通知。</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
     <value>选取需要播报通知的应用</value>
@@ -439,13 +439,13 @@
     <value>隐私与提醒</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>无访问提醒权限，“播报通知”已关闭。请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开“播报通知”。</value>
+    <value>无通知访问权限，“播报通知”已关闭。请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开“播报通知”。</value>
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>链接取消</value>
+    <value>连接已取消</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>已经连接其他AirPods，请先断开。</value>
+    <value>您已经连接其他 AirPods，请先断开。</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>为获得最佳用户体验，我们建议您启用自动启动。 您可以从任务管理器中的“启动”选项卡执行此操作。</value>
@@ -460,7 +460,7 @@
     <value>持续搜索</value>
   </data>
   <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
-    <value>程序语言</value>
+    <value>语言</value>
   </data>
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>使用系统语言设置</value>
@@ -472,7 +472,7 @@
     <value>深色模式</value>
   </data>
   <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
-    <value>界面主题</value>
+    <value>主题</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>浅色模式</value>
@@ -559,7 +559,7 @@
     <value>输入快捷键</value>
   </data>
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>包括 Win、Shift、Alt 或 Ctrl 键</value>
+    <value>包含 Win、Shift、Alt 或 Ctrl 键</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>清除快捷键</value>
@@ -571,10 +571,10 @@
     <value>打开蓝牙以显示耳机</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
-    <value>蓝牙设定</value>
+    <value>蓝牙设置</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
-    <value>没有配对过的耳机</value>
+    <value>没有已配对的耳机</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
     <value>在耳机断开连接后暂停播放。</value>
@@ -607,10 +607,10 @@
     <value>多个连接</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
-    <value>重新设计的快捷键，独立的设置选项以及更多功能。一些设定已改变，打开应用来完成个性化设置。</value>
+    <value>重新设计的界面，独立的设置选项以及更多功能。一些设定已改变，打开应用来完成个性化设置。</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
-    <value>用来连接或断开耳机的全局快捷键。</value>
+    <value>用于连接或断开耳机的全局快捷键。</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>连接快捷键</value>
@@ -625,9 +625,12 @@
     <value>在危险的冒险游戏中奔跑、跳跃和躲闪</value>
   </data>
   <data name="Support_Weblate_Description.Text" xml:space="preserve">
-    <value>翻译、编辑，添加新语言</value>
+    <value>翻译、编辑或添加新的语言</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>搜索应用</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>根据您的喜好，分别定制每款耳机</value>
   </data>
 </root>
