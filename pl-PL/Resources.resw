@@ -453,6 +453,132 @@
     <value>Aby zapewnić najlepsze wrażenia użytkownika, zalecamy włączenie uruchamiania.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>Wył</value>
+    <value>Wyłącz</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Dotknij lub kliknij tutaj aby dostosować</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Wiele połączeń</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Dwie lub więcej słuchawek jest połączonych, pozostaw jedne połączone</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Łączenie</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Rozłączone</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Rozłączanie</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Etui</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Ukryj</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Ściągnij</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Przetłumacz</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Wyłączone</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Wyłączone</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Wpisz klawisz skrótu</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Uwzględniając klawisze Win, Shift, Alt bądź Ctrl</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Usuń skrót klawiszowy</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>automatyczna pauza</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Pokaż powiadomienie kiedy poziom naładowani słuchawek spadnie poniżej określonej poziomu.</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Wstrzymaj odtwarzanie po rozłączeniu słuchawek.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>powiadomienie o niskim poziomie baterii</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Uruchom ponownie</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Pojawił się niespodziewany błąd</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Uruchom ponownie aplikację aby wznowić pracę aplikacji, jeśli błąd będzie występować nadal spróbuj uruchomić ponownie komputer.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Wyłącz Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Włącz Bluetooth aby wyświetlić słuchawki</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>ustawienia Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Brak połączonych słuchawek</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Połącz słuchawki do komputera i zrestartuj aplikację</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Jak sparować słuchawki</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE nie jest obsługiwane</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>Inne słuchawki łączą się / rozłączają, poczekaj na zakończenie i spróbuj ponownie</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Poznaj MagicPods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Przeprojektowany interfejs, indywidualne ustawienia i nie tylko. Niektóre ustawienia zostały zmienione. Otwórz aplikację, aby dostosować.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Dostosuj każdą ze słuchawek do swoich preferencji</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Słuchawki</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Preferencje</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Skrót klawiszowy do połączenia bądź rozłączenia słuchawek.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Połącz skrót klawiszowy</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>Tłumacz, edytuj bądź dodawaj nowe języki</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Szukaj aplikacji</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>Inne developerskie aplikacje</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>Kopiuj tekst z dowolnych obrazów</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>Biegnij, skacz, i unikaj w niebezpiecznej grze przygodowej</value>
   </data>
 </root>
