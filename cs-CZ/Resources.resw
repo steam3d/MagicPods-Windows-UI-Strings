@@ -172,4 +172,198 @@
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>Hledat aplikaci</value>
   </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Spuštění</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Přehrávat/Pauza</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Snížit hlasitost</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Obojí (Snížit hlasitost + Přehrávat/Pauza)</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Zobrazit tlačítko «Připojit»</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Zobrazit nebo skrýt tlačítko «Připojit» na vyskakovacím okně. Stisknutí tlačítka také připojí AirPods.</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Automaticky připojit</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>Automaticky připojit k AirPods, když vyjmete levý nebo pravý AirPod z obalu.</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>Automaticky přehrávat</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Experimentální funkce</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Zavřít MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Podpora</value>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Restartuje program pro aplikaci změn.</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Velké</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Resetovat Nastavení</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>Přehrávání se pozastaví když vyjmete jedno z AirPods sluchátek nebo zastaví, když vyjmete obě.</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>Nízká latence zvuku</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Užitečné, když pracujete v Premiere Pro nebo Audition. Vyžaduje znovupřipojení AirPods po zapnutí. Může způsobit zvýšenou spotřebu baterie.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Ladicí log</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>Rychlé hledání</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>Snižuje čas potřebný pro nalezení AirPods. Zapněte pokud jste si jistí, že nikdo jiný okolo nepoužívá AirPods.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Nastavení</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Spustit po startu systému</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Spuštění můžete povolit nebo zakázat v Startup záložce ve Správci úloh.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Spuštění zakázáno pomocí skupinových zásad, nebo není podporováno na tomto zařízení.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Ikona v oznamovací oblasti</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Skrýt ikonu</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Zobrazit úroveň nabití AirPods na ikoně</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Když jsou AirPods připojeny, ikona v oznamovací oblasti bude ukazovat průměrnou úroveň napětí levého a pravého sluchátka. Ikona se aktualizuje každou minutu.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Ikona baterie</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Analogová</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Digitální</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Povolit spuštění</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Pomoc</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Ne</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Ano</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Informace o baterii</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Obecné nastavení</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>Hlasitost se snižuje když vyjmete jeden AirPod z ucha, nebo obnoví když vyjmete/vložíte oba AirPody.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>Seznam podporovaných přehrávačů</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Pokud se neobjeví okno při otevření obalu s AirPods uvnitř, pomalu přesuňte posuvník doprava dokud se animace neobjeví.</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Jaká je vyhledávací vzdálenost?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Tip</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Nenastavujte hodnotu vyšší než 65. V některých případech se animace nemusí náhodně objevit.</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Vyskakovací okno</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Zobrazit okno</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Zobrazit nebo skrýt vyskakovací okno jako na iPhone, když otevřete pouzdro.</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Velikost okna</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Malé</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Střední</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods nebyly nalezeny. Ověřte, že jsou AirPods spárované s tímhle zařízením a restartujte aplikaci.</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Vaše PC nepodporuje Bluetooth low energy</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Varování</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Ostatní</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Získat pomoc</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Nahlásit problém</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Aplikace bude uzavřena a všechny funkce budou vypnuté.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Zavřít MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Zavřít</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Zrušit</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Dosah vyhledáváni AirPods</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>Detekce ucha</value>
+  </data>
 </root>
