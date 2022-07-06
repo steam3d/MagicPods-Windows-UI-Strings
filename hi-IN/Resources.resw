@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,41 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>AirPods पर {0}% चार्ज बाकी है। अपने AirPods को चार्ज करें।</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>चेतावनी</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>पॉप - अप विंडो</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>विंडो दिखाएं</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>विंडो आकार</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>छोटा</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>मध्यम</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>बड़ा</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>रीसेट सेटिंग्स</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods नहीं मिले। सुनिश्चित करें कि AirPods इस डिवाइस से जुड़े हैं और ऐप को पुनरारंभ करें।</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>आपका PC ब्लूटूथ कम ऊर्जा का समर्थन नहीं करता</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>जब आप केस खोलते हैं, तो iPhone की तरह पॉप-अप विंडो दिखाएँ या छिपाएँ।</value>
+  </data>
 </root>
