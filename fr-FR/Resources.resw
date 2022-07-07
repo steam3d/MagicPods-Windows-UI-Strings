@@ -522,4 +522,109 @@
   <data name="Text_Disconnect" xml:space="preserve">
     <value>Déconnexion</value>
   </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Mettre en pause la lecture après déconnexion des écouteurs.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Afficher une notification quand le niveau de batterie des écouteurs est en dessous de la valeur spécifiée.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Redémarrer</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Une erreur inattendue s'est produite</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Redémarrez l'application pour continuer son exécution. Si le problème persiste, tentez de redémarrer votre appareil.</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Tapez un raccourci clavier</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Incluez la touche Win, Shift, Alt ou Ctrl</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Supprimer le raccourci clavier</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Pause automatique</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>D'autres écouteurs sont en train de se connecter/déconnecter, veuillez patienter puis réessayez</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Découvrez MagicPods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Interface redesignée, paramètres individuels et plus encore. Certains paramètres ont été changés. Lancez l'application pour personnaliser.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Personnalisez tous les écouteurs individuellement en fonction de vos préférences</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Écouteurs</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Préférences</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Raccourci clavier général pour connecter ou déconnecter les écouteurs.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Raccourci clavier de connexion</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>Autres applications du développeur</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>Copier du texte depuis n'importe quelle image</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>Courez, sautez et esquivez dans un dangereux jeu d'aventure</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>Traduisez, modifiez ou ajoutez de nouvelles langues</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Rechercher une application</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Boîtier</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Masquer</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Télécharger</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Traduire</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth désactivé</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Activez le Bluetooth pour afficher des écouteurs</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Paramètres Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Aucuns écouteurs couplés</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Couplez des écouteurs à l'ordinateur puis redémarrez l'application</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Comment coupler des écouteurs</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Le Bluetooth LE n'est pas supporté</value>
+  </data>
 </root>
