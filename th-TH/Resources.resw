@@ -509,4 +509,76 @@
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
     <value>หูฟังอันอื่นกำลังเชื่อมต่อ/หยุดเชื่อมต่อ กรุณารอให้เสร็จแล้วลองอีกครั้ง</value>
   </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>เพื่อประสบการณ์การใช้งานที่ดีที่สุด เราขอแนะนําให้คุณเปิดใช้งานการเริ่มต้นระบบ</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>เริ่มต้นระบบ</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>แตะหรือคลิก ที่นี่ เพื่อปรับแต่ง</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>การเชื่อมต่อซ้ำซ้อน</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>มีเชื่อมต่อหูฟังตั้งแต่สองเครื่องขึ้นไป โปรดเชื่อมต่อไว้เพียงเครื่องเดียว</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>กำลังเชื่อมต่อ</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>ตัดการเชื่อมต่อ</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>กำลังตัดการเชื่อมต่อ</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>เคส</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>ชาร์จ</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>ซ่อน</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>ดาวน์โหลด</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>แปลภาษา</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>ปิดใช้งาน</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>ปิดใช้งาน</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>เริ่มใหม่</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>มีข้อผิดพลาดที่ไม่คาดคิดเกิดขึ้น</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>รีสตาร์ทแอปพลิเคชันเพื่อให้แอปพลิเคชันทำงานต่อ หากข้อผิดพลาดยังคงมีอยู่ให้ลองรีสตาร์ทคอมพิวเตอร์ของคุณ</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>พิมพ์ปุ่มลัด</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>รวมปุ่ม Win, Shift, Alt หรือ Ctrl key</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ลบปุ่มลัด</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>หยุดชั่วคราวอัตโนมัติ</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>หยุดการเล่นชั่วคราวหลังจากถอดหูฟังออก</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>การแจ้งเตือนแบตเตอรี่ต่ํา</value>
+  </data>
 </root>
