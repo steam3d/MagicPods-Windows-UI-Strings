@@ -92,7 +92,7 @@
     <value>รายงานปัญหา</value>
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
-    <value>บันทึก ข้อผิดพลาด</value>
+    <value>บันทึกสำหรับการดีบัค</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>ค้นหาอย่างรวดเร็ว</value>
@@ -115,7 +115,7 @@
     <value>รีสตาร์ทแอปพลิเคชันเพื่อยืนยัน</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>ไอคอน แบตเตอรี่</value>
+    <value>ไอคอนแบตเตอรี่</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>อนาล็อก</value>
@@ -169,7 +169,7 @@
     <value>เคล็ดลับ</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>การตั้งค่าที่มากกว่า 65 ในบางกรณี ภาพเคลื่อนไหวอาจปรากฏขึ้นโดยไม่ได้ตั้งใจ</value>
+    <value>อย่าตั้งค่าสูงกว่า 65, ในบางกรณี ภาพเคลื่อนไหวอาจปรากฏขึ้นโดยไม่ได้ตั้งใจ</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>แสดงปุ่ม «เชื่อมต่อ»</value>
@@ -196,10 +196,10 @@
     <value>ยืนยัน</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>ไม่เตือน</value>
+    <value>อย่าเตือน</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>ไม่สามารถเชื่อมต่อ AirPods ลองเชื่อมต่อด้วยตนเอง</value>
+    <value>ไม่สามารถเชื่อมต่อ AirPods ได้ กรุณาลองเชื่อมต่อด้วยตนเอง</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>MagicPods รองรับ AirPods รุ่น 1-2, AirPods Pro, AirPods Max และ PowerBeats Pro</value>
@@ -232,7 +232,7 @@
     <value>มุมล่างขวา</value>
   </data>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
-    <value>ออดิโอ</value>
+    <value>เสียง</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>อุปกรณ์ไม่พร้อมใช้งานหรือถูกลบออก</value>
@@ -241,7 +241,7 @@
     <value>เรียนรู้เพิ่มเติม</value>
   </data>
   <data name="Settings_Audio_Text4.Header" xml:space="preserve">
-    <value>การแจ้งเตือนด้วยเสียง</value>
+    <value>การแจ้งเตือนของวอยซ์โอเวอร์</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
     <value>VoiceOver จะประกาศการแจ้งเตือนเมื่อ AirPods เชื่อมต่อและตั้งค่าเป็นอุปกรณ์ส่งสัญญาณเสียงออก</value>
@@ -256,13 +256,13 @@
     <value>เลือกเสียง</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
-    <value>ไม่ได้เลือกเสียงหรือพร้อมใช้งาน</value>
+    <value>ไม่ได้เลือกเสียงหรือไม่มีเสียงที่พร้อมใช้งาน</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
     <value>ฟังข้อความด้วยเสียงที่เลือก</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
-    <value>บรรยาย</value>
+    <value>พูด</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>ความเป็นส่วนตัวและการแจ้งเตือน</value>
@@ -289,7 +289,7 @@
     <value>มืด</value>
   </data>
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
-    <value>ใช้ชุดรูปแบบของระบบ</value>
+    <value>ใช้ธีมสีของระบบ</value>
   </data>
   <data name="Settings_Popup_Theme.Header" xml:space="preserve">
     <value>ธีมหน้าต่าง</value>
@@ -310,7 +310,7 @@
     <value>ทั้งสองอย่าง (ลดระดับเสียง + เล่น/หยุดชั่วคราว)</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>ตามการใช้งานของคุณ เราแนะนำให้ตั้งค่าเป็น {0}</value>
+    <value>จากการใช้งานของคุณ เราแนะนำให้ตั้งค่าเป็น {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
@@ -332,11 +332,11 @@
     <value>ลดเวลาในการค้นหา AirPods เปิดใช้งานเมื่อคุณแน่ใจว่าไม่มีการใช้ AirPods อยู่</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>เมื่อเชื่อมต่อ AirPods แล้ว ไอคอนถาดระบบจะแสดงค่าระดับพลังงานของหูฟังด้านซ้ายและขวาของคุณ ไอคอนอัพเดททุกนาที</value>
+    <value>เมื่อเชื่อมต่อ AirPods แล้ว ไอคอนถาดระบบจะแสดงค่าระดับพลังงานของหูฟังด้านซ้ายและขวาของคุณ ไอคอนอัพเดททุกหนึ่งนาที</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>หากหน้าต่างไม่ปรากฏขึ้น ให้เปิดเคสที่มี AirPods อยู่ข้างใน แล้วเลื่อนตัวเลื่อนไปทางขวาอย่างราบรื่นจนกว่าภาพเคลื่อนไหวจะปรากฏขึ้น</value>
+    <value>หากหน้าต่างไม่ปรากฏขึ้น ให้เปิดเคสที่มี AirPods อยู่ข้างใน แล้วเลื่อนตัวเลื่อนไปทางขวาช้าๆ จนกว่าภาพเคลื่อนไหวจะปรากฏขึ้น</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>การเล่นจะหยุดชั่วคราวและระดับเสียงจะลดลงเมื่อคุณถอด AirPods หนึ่งข้างออกจากหูของคุณ หรือหยุดและระดับเสียงจะกลับคืนมาเมื่อคุณถอด AirPods ทั้งสองข้าง</value>
@@ -362,7 +362,7 @@
     <value>เพิ่ม AirPods ในรายการอุปกรณ์ Windows Bluetooth</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>AirPods อื่นๆ เชื่อมต่อแล้ว โปรดยกเลิกการเชื่อมต่อก่อน</value>
+    <value>AirPods อื่นๆ เชื่อมต่อแล้ว โปรดหยุดเชื่อมต่อก่อน</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>การเล่นจะหยุดชั่วคราวเมื่อคุณถอด AirPods ข้างหนึ่งออก หรือหยุดเมื่อคุณถอด AirPods ทั้งสองข้าง</value>
@@ -371,7 +371,7 @@
     <value>เรียกใช้เมื่อเริ่มต้น</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>ฟีเจอร์เสริม</value>
+    <value>ฟีเจอร์ที่กำลังถูกพัฒนา</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>แสดงหรือซ่อนปุ่ม «เชื่อมต่อ» บนหน้าต่างป๊อปอัป การกดปุ่มจะเชื่อมต่อ AirPods</value>
@@ -442,5 +442,71 @@
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>ปิด</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>แสดงการแจ้งเตือนเมื่อหูฟังเหลือแบตเตอรี่ต่ำกว่าที่ตั้งไว้</value>
+  </data>
+  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+    <value>ความสามารถของ AirPods</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>หูฟัง</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>การตั้งค่า</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>ตั้งค่าหูฟังแต่ละอันเพื่อให้ตรงกับที่คุณต้องการ</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>พบกับ MagicPods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>หน้าตาแอพออกที่แบบใหม่ การตั้งค่าที่แยกออกมาและอีกมากมาย การตั้งค่าบางอย่างถูกเปลี่ยน เปิดแอพเพื่อแก้ไข</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>ปุ่มลัดทั้งระบบเพื่อเชื่อมต่อหรือหยุดเชื่อมต่ออุปกรณ์</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>ปุ่มลัดการเชื่อมต่อ</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>แอพอื่นๆของผู้พัฒนา</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>คัดลอกข้อความจากรูปใดก็ได้</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>วิ่ง กระโดด และหลบสิ่งกีดขวางสุดอันตรายในเกมผจญภัย</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>แปลภาษา แก้ไข และเพิ่มภาษาใหม่ๆ</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>ค้นหาแอพพลิเคชัน</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth ปิดอยู่</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>เปิด Bluetooth เพื่อแสดงหูฟัง</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>การตั้งค่า Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>ไม่มีหูฟังที่เชื่อมต่อ</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>เชื่อมต่อหูฟังกับคอมพิวเตอร์แล้วรีสตาร์ทแอพพลิเคชัน</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>วิธีเชื่อมต่อหูฟัง</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>ไม่รองรับ Bluetooth LE</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>หูฟังอันอื่นกำลังเชื่อมต่อ/หยุดเชื่อมต่อ กรุณารอให้เสร็จแล้วลองอีกครั้ง</value>
   </data>
 </root>
