@@ -86,7 +86,7 @@
     <value>Grande</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
-    <value>Deteccion de oido</value>
+    <value>Detección de oído</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Reproducir/Pausar</value>
@@ -95,7 +95,7 @@
     <value>Bajar volumen</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>La ejecucion del sonido se pauseara cuando ud remueva uno de los AirPods o la parara si remueve ambos Airpods de los oidos.</value>
+    <value>La reproducción del sonido se pausará cuando se quite uno de los AirPods o se detendrá si se quita ambos Airpods de los oídos.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Otro</value>
@@ -107,13 +107,13 @@
     <value>Reporte un problema</value>
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
-    <value>Log de depuracion</value>
+    <value>Log de depuración</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Búsqueda rápida</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Reduce el tiempo de búsqueda de los AirPods. Encienda esta opción sólo cuando nadie cerca este usando AirPods.</value>
+    <value>Reduce el tiempo de búsqueda de los AirPods. Active esta opción sólo cuando no haya nadie cerca usando unos AirPods.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>Configuración</value>
@@ -126,7 +126,7 @@
     <value>Arranque en el inicio</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Inicio desahibilitado por Group Policy, o no es soportado en este dispositivo.</value>
+    <value>Inicio deshabilitado por la política de grupo, o no está soportado en este dispositivo.</value>
   </data>
   <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
     <value>Esconder icono</value>
@@ -137,10 +137,10 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Icono de bateria</value>
+    <value>Icono de batería</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>Habilitar inicio automatico</value>
+    <value>Habilitar inicio automático</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>Ayuda</value>
@@ -152,13 +152,13 @@
     <value>Si</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
-    <value>Informacion de bateria</value>
+    <value>Información de la batería</value>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
-    <value>Configuracion general</value>
+    <value>Configuración general</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>Caracteristicas experimentales</value>
+    <value>Características experimentales</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>Cerrar MagicPods</value>
@@ -167,7 +167,7 @@
     <value>Soporte</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
-    <value>Cerrar MagicPods?</value>
+    <value>¿Cerrar MagicPods?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
     <value>Cerrar</value>
@@ -176,16 +176,16 @@
     <value>Cancelar</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>El volumen bajar cuando se remueve un AirPods de su oreja, o cuando se remueven o se ponen ambos AirPods se restablece.</value>
+    <value>El volumen baja cuando se quita uno de los AirPods de su oreja, o se restablece cuando se quita / pone ambos AirPods.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Lista de programas de musica soportados</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
-    <value>Radio de busqueda de los AirPods</value>
+    <value>Radio de búsqueda de los AirPods</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
-    <value>Que es el radio de busqueda?</value>
+    <value>¿Qué es el radio de búsqueda?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>Consejo</value>
@@ -305,7 +305,7 @@
     <value>Ventajoso cuando esta utilizando Premiere Pro o Audition. Esto requiere reconectar los AirPods luego de activar esta opción. Es posible que se note un incremento en el consumo de la batería.</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>La aplicacion sera cerrada y todas las funciones seran deshabilitadas.</value>
+    <value>Se cerrará la aplicación y se deshabilitarán todas las funciones.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Lleva tu case de los AirPods lo más cerca posible de tu computadora y ábrela</value>
@@ -317,7 +317,7 @@
     <value>AirPods no encontrados. Asegúrese que los AirPods están emparejados a este dispositivo y reinicie la aplicación.</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>Si la ventana no aparece cuando el case de los AirPods se abren, mueva suevemente el control en este panel hacia la derecha hasta que la animacion aparezca.</value>
+    <value>Si la ventana no aparece cuando el case de los AirPods se abre, mueva suavemente el control en este panel hacia la derecha hasta que la animación aparezca.</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
     <value>Radio de búsqueda: el radio en el que su computadora buscará una carcasa AirPods abierta.</value>
@@ -336,7 +336,7 @@
     <value>Advertencia</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>Ud puede habilitar o deshabilitar esta opcion en el administrador de tareas, en el tab Inicio.</value>
+    <value>Puede habilitar o deshabilitar esta opción en el Administrador de Tareas, en el pestaña de Inicio.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Conectar automaticamente los AirPods cuando retira del case el Airpod derecho o izquierdo.</value>
@@ -348,7 +348,7 @@
     <value>Muestre o esconda la pantalla emergente como en el IPhone, cuando abre el estuche de carga.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
-    <value>Icono del system tray</value>
+    <value>Icono de la barra de herramientas</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
@@ -358,10 +358,10 @@
     <value>Cambie el audio de los AirPods a los altavoces predeterminados cuando ambos AirPods estén fuera del oído.</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>Restaurar configuracion</value>
+    <value>Restaurar configuración</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Reiniciar aplicacion para aplicar los cambios.</value>
+    <value>Reinicie la aplicación para aplicar los cambios.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Si no hay ventanas de reproductores abiertos, se ignorará el comando.</value>
@@ -373,7 +373,7 @@
     <value>Se restablecerán todos los ajustes. ¿Quieres continuar?</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Cuando los AirPods estan conectados, el icono en el system tray mostrara el promedio de carga de ambos AirPods. El icono se actualiza por minuto.</value>
+    <value>Cuando los AirPods estan conectados, el icono de la barra de herramientas mostrará el promedio de carga de ambos AirPods. El icono se actualiza una vez por minuto.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
@@ -381,7 +381,7 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analogico</value>
+    <value>Analógico</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>La reproducción se detiene y el volumen disminuye cuando se quita un AirPods de la oreja, o se detiene y el volumen se restablece cuando quitan ambos AirPods.</value>
