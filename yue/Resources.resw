@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,105 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>幫助</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Debug日誌</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>啓動</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>設置</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>開機時啓動</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>閣下可以喺任務管理器中開啓關閉此選項。</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>任務欄圖標</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>隱藏圖標</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>重啓程式以應用。</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>耳朵檢測</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>播放/暫停</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>快速搜尋</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>減低音量</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>一齊（減低音量 + 播放/暫停）</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>播放喺閣下移除一隻耳機時暫停或移除兩隻耳機時停止。</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>低音頻延遲</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>在使用Premiere Pro或Audition時實用。需要在打開後重新連接Airpods。可能提高電力消耗。</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>冇搵到AirPods. 請保證AirPods已連接並請重啓app</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>閣下的電腦唔支持低電量藍牙</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>AirPods電量餘下1%。請儘快充電</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>彈窗設置</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>當打開蓋時顯示或隱藏iPhone風格彈窗</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>顯示彈窗</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>窗口大小</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>細</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>中</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>大</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>重置設定</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>其他</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>反映問題</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>減少Airpods搜尋時間。僅當確保身邊冇其他人使用Airpods時打開。</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>組策略禁用啓動，或者不被此設備支持。</value>
+  </data>
 </root>
