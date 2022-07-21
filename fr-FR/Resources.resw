@@ -127,7 +127,7 @@
     <value>{0}% de charge restant. Chargez vos AirPods.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
-    <value>Avertissement</value>
+    <value>Attention</value>
   </data>
   <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
     <value>Petit</value>
@@ -238,7 +238,7 @@
     <value>Afficher la fenêtre</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>Affiche ou cache la fenêtre pop-up comme sur un iPhone, quand l'habitacle est ouvert.</value>
+    <value>Afficher ou masquer la fenêtre pop-up comme sur un iPhone, lorsque le boîtier est ouvert.</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>Taille de la fenêtre</value>
@@ -271,19 +271,19 @@
     <value>Annuler</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>Le volume baisse quand un AirPods est retiré de l'oreille, ou restaurer quand les deux AirPods sont retirés/remis.</value>
+    <value>Le volume baisse lorsqu'un AirPod est retiré de l'oreille, ou est rétabli lorsque les deux AirPods sont retirés/remis.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
-    <value>Liste des players supportés</value>
+    <value>Liste des lecteurs supportés</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
     <value>Rayon de recherche des AirPods</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>Si la fenêtre ne s'affiche pas, ouvrez l'habitacle avec les AirPods à l'intérieur et déplacez délicatement le slider sur la droite jusqu'à ce que l'animation apparaisse.</value>
+    <value>Si la fenêtre ne s'affiche pas, ouvrez le boîtier avec les AirPods à l'intérieur et déplacez délicatement le curseur sur la droite jusqu'à ce que l'animation apparaisse.</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
-    <value>Quel est le rayon de recherche ?</value>
+    <value>Qu'est-ce que le rayon de recherche ?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>Conseil</value>
@@ -295,19 +295,19 @@
     <value>Afficher le bouton « Connecter »</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>Affiche ou cache le bouton « Connecter » sur la fenêtre pop-up. Presser le bouton connectera les AirPods.</value>
+    <value>Afficher ou masquer le bouton « Connecter » sur la fenêtre pop-up. Appuyer sur le bouton connectera les AirPods.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
-    <value>Auto-connexion</value>
+    <value>Connexion automatique</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
-    <value>Connection automatique des AirPods lorsque l'AirPod gauche ou droit est sortie du boitier.</value>
+    <value>Se connecter automatiquement aux AirPods lorsque l'AirPod gauche ou droit est retirer du boitier.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Lecture automatique</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Envoi la commande « Jouer » après connexion des AirPods.</value>
+    <value>Envoyer la commande « Jouer » après connexion des AirPods.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>S'il n'y a pas de lecteur multimédia ouvert, Windows ignorera la commande.</value>
@@ -334,22 +334,22 @@
     <value>Connexion aux AirPods échouée. Essayez une connexion manuelle.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>La lecture se met en pause et le volume baisse quand un Airpods n'est plus dans votre oreille, ou s'arrête et le volume se retablit quand les deux Airpods sont retirés.</value>
+    <value>La lecture se met en pause et le volume diminue lorsqu'un Airpod est retiré de l'oreille, ou s'arrête et le volume rétabli quand les deux Airpods sont retirés.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Ajoute les Airpods à la liste des appareils Bluetooth</value>
+    <value>Ajouter les AirPods à la liste des périphériques Bluetooth de Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods supporte la majorite des AiPods et casques Beats</value>
+    <value>MagicPods prend en charge la plupart des écouteurs AirPods et Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Rapprochez autant que possible l'habitacle des AirPods de votre ordinateur et ouvrez le</value>
+    <value>Rapprochez le boîtier AirPods le plus près possible de votre ordinateur et ouvrez-le</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Suivant</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
-    <value>Rayon de recherche - le rayon utilisé par l'ordinateur pour identifier un habitacle AirPods ouvert.</value>
+    <value>Rayon de recherche - le rayon utilisé par l'ordinateur pour rechercher un boîtier d'AirPods ouvert.</value>
   </data>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Fermer</value>
@@ -361,7 +361,7 @@
     <value>Support</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
-    <value>Position de la fenêtre</value>
+    <value>Emplacement de la fenêtre</value>
   </data>
   <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
     <value>Centre</value>
@@ -373,25 +373,25 @@
     <value>Appareil non disponible ou supprimé</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
-    <value>En apprendre plus</value>
+    <value>En apprendre d'avantage</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Changement automatique du périphérique de sortie</value>
+    <value>Changement automatique de la sortie audio</value>
   </data>
   <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
-    <value>En haut à gauche</value>
+    <value>Coin supérieur gauche</value>
   </data>
   <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
-    <value>En haut à droite</value>
+    <value>Coin supérieur droit</value>
   </data>
   <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
-    <value>En bas à gauche</value>
+    <value>Coin inférieur gauche</value>
   </data>
   <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
-    <value>En bas à droite</value>
+    <value>Coin inférieur droit</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
-    <value>Changer la sortie audio des AirPods au périphérique de sortie par défaut quand les deux AirPods sont retirés.</value>
+    <value>Lorsque les deux AirPods sont retirés des oreilles, changer la sortie audio du PC des AirPods au périphérique par défaut.</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>Configurer</value>
@@ -439,7 +439,7 @@
     <value>VoiceOver annonce les notifications lorsque les AirPods sont connectés et définis comme périphérique de sortie audio.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
-    <value>L'annonceur peut lire le texte dans une seule langue.</value>
+    <value>L'annonceur ne peut lire le texte que dans une seule langue.</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Airpods introuvable</value>
@@ -484,7 +484,7 @@
     <value>Paramètres de l'application</value>
   </data>
   <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
-    <value>Capacité des AirPods</value>
+    <value>Liste de compatibilité des écouteurs</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
     <value>G</value>
@@ -505,7 +505,7 @@
     <value>Pour une expérience utilisateur optimale, nous vous recommandons d'activer le démarrage.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>Off</value>
+    <value>Désactivé</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
     <value>Toucher ou cliquer ici pour personnaliser</value>
@@ -626,5 +626,11 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>Le Bluetooth LE n'est pas supporté</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Déconnexion</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Notification de batterie faible</value>
   </data>
 </root>
