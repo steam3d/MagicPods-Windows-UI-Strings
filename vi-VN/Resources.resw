@@ -449,4 +449,136 @@
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Tắt</value>
   </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Dừng trình phát sau khi ngắt kết nối tai nghe.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Hiển thị thông báo khi mức pin của tai nghe thấp hơn mức chỉ định.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Khởi động</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Nhấp để tùy chỉnh</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Đang kết nối</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Ngắt kết nối</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Đang ngắt kết nối</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Có hai hoặc nhiều tai nghe đang được kết nối, hãy kết nối chỉ một thiết bị thôi</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Nhiều kết nối</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Dịch</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Hộp</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Sạc</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Ẩn</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Tải</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Vô hiệu</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Vô hiệu</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Khởi động lại ứng dụng để tiếp tục. Nếu lỗi vẫn còn, hãy thử khởi động lại máy tính của bạn.</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Khởi động lại</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Có lỗi xảy ra</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Nhập phím tắt</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Bao gồm phím Win, Shift, Alt hoặc Ctrl</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Xóa phím tắt</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Tai nghe</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Tùy chỉnh</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Bật Bluetooth để hiển thị tai nghe</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Gặp MagicPods 2.0</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>Tai nghe khác đang kết nối / ngắt kết nối, hãy đợi hoàn tất và thử lại</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Thiết kế lại giao dịch, cài đặt cá nhân và hơn thế nữa. Một số cài đặt đã được thay đổi. Mở ứng dụng để tùy chỉnh.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Tùy chỉnh cho từng tai nghe riêng biệt để phù hợp với sở thích của bạn</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Phím tắt chung để kết nối hoặc ngắt kết nối tai nghe.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Phím tắt để kết nối</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>Ứng dụng khác của nhà phát triển</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>Sao chép chữ trên bất kỳ hình ảnh nào</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>Chạy, nhảy và né tránh trong một trò chơi mạo hiểm nguy hiểm</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>Dịch, chỉnh sửa hoặc thêm ngôn ngữ mới</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Tìm ứng dụng</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Tự động dừng</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Tắt Bluetooth</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Thông báo phim yếu</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Cài đặt Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Không có tai nghe đã ghép nối</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Ghép nối tai nghe với máy tính và khởi động lại ứng dụng</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Cách ghép nối tai nghe</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE không được hỗ trợ</value>
+  </data>
 </root>
