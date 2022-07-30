@@ -65,7 +65,7 @@
     <value>السماعات لا توجد. تأكد من أن السماعات مقترنة لهذا الجهاز و أعد تشغيل التطبيق.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>جهازك لا يدعم بلوتوث منخفض البطارية.</value>
+    <value>جهازك لا يدعم البلوتوث منخفض البطارية.</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% شحن متبقي على السماعات. إشحن السماعات.</value>
@@ -136,5 +136,8 @@
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>إيقاف</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>ايقاف مؤقت عند نزع احد السماعات او كلاهما</value>
   </data>
 </root>
