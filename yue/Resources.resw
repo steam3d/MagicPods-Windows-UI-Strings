@@ -113,20 +113,20 @@
     <value>在使用Premiere Pro或Audition時實用。需要在打開後重新連接Airpods。可能提高電力消耗。</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>冇搵到AirPods. 請保證AirPods已連接並請重啓app</value>
+    <value>冇搵到AirPods. 請保證AirPods已連接並請重啓app.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>閣下的電腦唔支持低電量藍牙</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>AirPods電量餘下1%。請儘快充電</value>
+    <value>AirPods電量餘下 {0}%。請儘快充電.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Text1.Text" xml:space="preserve">
     <value>彈窗設置</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>當打開蓋時顯示或隱藏iPhone風格彈窗</value>
+    <value>當打開蓋時顯示或隱藏iPhone風格彈窗.</value>
   </data>
   <data name="Settings_Popup_Text2.Header" xml:space="preserve">
     <value>顯示彈窗</value>
