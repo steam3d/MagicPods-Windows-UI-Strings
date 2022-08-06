@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,530 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Jūsų kompiuteris nepalaiko mažos energijos Bluetooth</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Iššokantis langas</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Rodyti langą</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Lango dydis</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Vidutinis</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Didelis</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>Ausies aptikimas</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Groti / pristabdyti</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Sumažinti garsumą</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Abu (sumažinti garsumą + groti / pristabdyti)</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>Mažas garso delsimas</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Ieškoti pagalbos</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Pranešti apie problemą</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Derinimo žurnalas</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>Medijos grojimas pristabdomas, kai ištraukiate vieną AirPoda, arba sustoja, kai ištraukiate abus AirPodus.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Parametrai</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Paleidimas</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Programos paleidimas kartu su kompiuteriu</value>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Paslėpti piktogramą</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Rodyti „AirPods“ įkrovą piktogramoje</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Akumuliatoriaus piktograma</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Analoginis</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Skaitmeninis</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Įgalinti paleidimą</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Išeiti</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Pagalba</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Ne</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Taip</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Akumuliatoriaus informacija</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Eksperimentinės funkcijos</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Uždaryti MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Palaikymas</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Uždaryti MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Uždaryti</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Atšaukti</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>Palaikomų grotuvų sąrašas</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>AirPods paieškos spindulys</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>Jei langas neatsiranda, atidarykite dėklą su AirPods ausinėmis viduje ir sklandžiai slinkite slankiklį į dešinę, kol pasirodys animacija.</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Kas yra paieškos spindulys?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Patarimas</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Nenustatykite didesnės nei 65 reikšmės. Kai kuriais atvejais animacija gali pasirodyti netyčia.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Rodyti mygtuką «Prisijungti»</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Automatinis prisijungimas</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>Automatinis grojimas</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>Išsiųsti komandą «Groti», kai prijungtos AirPods ausinės.</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
+    <value>Jei nėra atidarytų muzikos ar vaizdo grotuvų, „Windows“ nepaisys šios komandos.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Taip, iš naujo atstatykite parametrus</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Taikyti</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Pridėkite AirPods į Windows Bluetooth įrenginių sąrašą</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods palaiko daugumą AirPods ir Beats ausinių</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Atneškite AirPods dėklą kuo arčiau kompiuterio ir ji atidarykite</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Uždaryti</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>Ieškoma AirPods ausinių</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Lango padėtis</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Viršutinis kairysis kampas</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Viršutinis dešinysis kampas</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Centras</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Apatinis kairysis kampas</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Apatinis dešinysis kampas</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>Perjunkite garsą iš AirPods ausinių į numatytą garsiakalbį, kai abi AirPods ausinės yra ne ausyse.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>Įrenginys nepasiekiamas arba pašalintas</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Sužinokite daugiau</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>Konfigūruoti</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>Įgarsinimo pranešimai</value>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>Įgarsinimo konfigūracija</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Balsas nepasirinktas arba nepasiekiamas</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Pasiklausyti teksto pasirinktu balsu</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>Įgarsinti visus pranešimai</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>Įgarsinti pranešimai iš šių siuntėjų</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Rodyti visas programas</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Privatumas ir pranešimai</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Pridėti naują balsą</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Ryšys nutrauktas</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Kitos AirPods ausinės yra prijungtos, Prašome atjunkite jas.</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>Begalinė paieška</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>Nepavyko rasti AirPods ausinių</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Šviesus</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Tamsus</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Naudokite sistemos temą</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Kalba</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Naudoti sistemos kalbą</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>Programos parametrai</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>Dėl geriausios vartotojo patirties, mes rekomenduotume įjungti programos paleidima kartu su kompiuteriu.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Paleidimas</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Bakstelėkite arba spustelėkite čia, kad tinkintumėte</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Prisijungti</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Prisijungiama</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Atsijungti</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Atsijungiama</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>K</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>D</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Dėklas</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Įkrovimo lygis</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Paslėpti</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Išversti</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Išjungtas</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Išjungta</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Perkrauti programa</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Įveskite spartųjį klavišą</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Įtraukite Win, Shift, Alt arba Ctrl klavišus</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Pašalinti spartųjį klavišą</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Automatins medijos sustabdymas</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Pristabdykite medijos grojimą, atjungę ausines.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Pranešimas apie mažą akumuliatoriaus lygi</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Rodyti pranešimą, kai ausinių įkrovimas yra mažesnis už nurodytą vertę.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>Išjungta</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth parametrai</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Nėra prijungtų ausinių</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Prijunkite ausines prie kompiuterio ir paleiskite programą iš naujo</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Kaip prijungti ausines</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE yra nepalaikomas</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Ausinės</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Parinktys</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>Kitos kūrėjo programos</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>Nukopijuokite tekstą iš bet kokios nuotraukos</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>Bėkite, šokinėkite ir venkite kliūčių, pavojingame nuotykių žaidime</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>Išverskite, redaguokite arba pridėkite naujų kalbų</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Ieškoti programos</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Susipažinkite su MagicPods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Pertvarkyta sąsaja, individualūs nustatymai ir kt. Kai kurie nustatymai buvo pakeisti. Atidarykite programą, kad tinkintumėte.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Tinkinkite kiekvienąs ausines atskirai, pagal savo pageidavimus</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Visuotinis spartusis klavišas, skirtas prijungti arba atjungti ausines.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Prijungimo spartusis klavišas</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods ausinės nerastos. Įsitikinkite, kad AirPods ausinės yra suporuotos su šiuo įrenginiu, ir iš naujo atidarykite programą.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0} % įkrovimo liko jūsų „AirPods“ausinėse . Prašome pakrauti savo AirPods ausines.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Įspėjimas</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Atidarius dėklą, rodyti arba slėpti iššokantįjį langą, kaip iPhone telefone.</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Mažas</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Atstatyti parametrus</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Kita</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Naudinga dirbant su programomis, kaip Premiere Pro arba Audition. Įjungus šia funkcija reikalinga iš naujo prijungti „AirPods“ ausines. Ši funkcija gali padidinti akumuliatoriaus sąnaudas.</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>Greita paieška</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>Sutrumpina AirPods paieškos laiką. Įjunkite šia funkcija, jei esate įsitikinę, kad niekas kitas šalia nesinaudoja AirPods ausinėmis.</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Šia funkcija galite įjungti arba išjungti užduočių tvarkyklės skirtuke Paleistis.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Paleistis išjungta dėl grupinės strategijos arba ji nepalaikoma šiame įrenginyje.</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Sistemos dėklo piktograma</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Norėdami pritaikyti šiuos parametrus, paleiskite programą iš naujo.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Prijungus „AirPods“, sistemos dėklo piktogramoje bus rodomas vidutinis kairiųjų ir dešiniųjų ausinių įkrovimas. Piktograma su baterijos lygiu atnaujinama kiekvieną minutę.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Bendrieji parametrai</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Programa bus uždaryta ir visos funkcijos bus išjungtos.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>Garsas sumažės, kai iš ausies išsiimsite vieną AirPods ausinę, arba atsistatys, kai išimsite / įdėsite abi AirPods ausines.</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Rodyti arba slėpti mygtuką «Prisijungti» iššokančiajame lange. Paspaudus mygtuką, AirPods ausinės bus prijungtos.</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>Automatiškai prisijunkti prie AirPods ausinių, kai išimate dešinįjį arba kairįjį AirPoda iš dėklo.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Visi parametrai bus atstatyti į pradinius. Ar norite tęsti?</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Patarimas</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Atsižvelgiant į jūsų naudojimą, rekomenduojama nustatyti vertę į {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Nebepriminti</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Nepavyko prisijungti prie AirPods ausinių. Pabandykite prie ausinių prisijungti rankiniu būdu.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>Garso grojimas pristabdomas ir garsumas sumažintas, kai iš ausies ištraukiate vieną AirPoda, arba sustoja garsas, kai pašalinate abi AirPods ausines.</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Kitas</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Paieškos spindulys – spindulys, kuriuo kompiuteris ieškos atidaryto AirPods dėklo.</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Garsas</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>Automatinis garso išvesties perjungimas</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>Įgarsintojas praneša pranešimus, kai prijungiamos AirPods ausinės ir nustatomos kaip numatytas garso išvesties įrenginys.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Pasirinkite balsą</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>Diktorius gali skaityti tekstą tik viena kalba.</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Kalbėti</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Ne visos sąraše esančios programos gali siųsti pranešimus, kai kurių programų sąraše gali nebūti.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Funkcija įgarsinimas išjungta, negalima pasiekti pranešimų. Nustatymuose atidarykite „Privacy and notifications“, leiskite prieigą prie pranešimų ir tada įjunkite įgarsinimo funkcija.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>Dėl geriausios vartotojo patirties, mes siūlome įgalinti paleidima su šiuo kompiuteriu funkcija. Tai galite padaryti iš užduočių tvarkytuvo skilties Paleistis.</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>Vadovaukitės šiuo vadovu, kad išspręstumėte problemą.</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>Lango tema</value>
+  </data>
+  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+    <value>AirPods galimybės</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Daugybinis prisijungimas</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Prijungtos dvi arba daugiau ausinių, palikite prijungtą tik vieną ausinių pora</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Parsisiųsti</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Įvyko netikėta klaida</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Iš naujo paleiskite programą, kad testumėte programos darbą. Jei klaida išlieka, pabandykite iš naujo paleisti kompiuterį.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth išjungtas</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Įjunkite Bluetooth, kad būtų rodomos ausinės</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>Kitos ausinės jungiasi / atsijungia, palaukite kol pasibaigs, ir bandykite dar kartą</value>
+  </data>
 </root>
