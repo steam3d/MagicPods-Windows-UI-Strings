@@ -61,4 +61,32 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>Vemendje</value>
   </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% tarifë e mbetur në AirPods. Karikoni AirPods tuaj.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Dritarja kërcyese</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods nuk u gjeten. Sigurohuni qe AirPods te ciftohen me kete pajisje dhe rinisni aplikacionin.</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Shfaq dritaren</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Kompjuteri juaj nuk mbështet Bluetooth me energji të ulët</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Shfaq ose fshih dritaren kërcyese si në iPhone, kur hapësh kasën.</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Madhësia e dritares</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>I vogël</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>E mesme</value>
+  </data>
 </root>
