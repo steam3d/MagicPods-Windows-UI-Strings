@@ -455,4 +455,130 @@
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Викл.</value>
   </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Торкніться або клацніть тут, щоб налаштувати</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Багаторазове підключення</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Підключення</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Відключено</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Вимкнено</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Показувати сповіщення, коли заряд навушників нижче вказаного значення.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth вимкнено</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Налаштування Bluetooth</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Підключено два або більше навушників, залиште підключеним лише один</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Відключення</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Призупинити відтворення після від’єднання навушників.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Сповіщення про низький заряд батареї</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Вимкнено</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Перезапустіть програму, щоб відновити роботу програми. Якщо помилка не зникає, спробуйте перезавантажити комп’ютер.</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Зустрічайте MagicPods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Перероблений інтерфейс, індивідуальні налаштування та інше. Деякі налаштування були змінені. Відкрийте програму, щоб налаштувати.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Гаряча клавіша для підключення або відключення навушників.</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Уподобання</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Навушники</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Налаштуйте кожні навушники окремо відповідно до своїх уподобань</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Гаряча клавіша підключення навушників</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Пошуковий додаток</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>Інші програми розробника</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>Скопіюйте текст з будь-яких зображень</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>Бігайте, стрибайте і ухиляйтеся в небезпечній пригодницькій грі</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>Перекладайте, редагуйте або додавайте нові мови</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Кейс</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Сховати</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Завантажити</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Автоматична пауза</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Перекласти</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Перезапустити</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Сталася неочікувана помилка</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Введіть гарячу клавішу</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Увімкніть клавішу Win, Shift, Alt або Ctrl</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Видалити гарячу клавішу</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Увімкніть Bluetooth, щоб відобразити навушники</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Немає підключених навушників</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Підключіть навушники до комп’ютера та перезапустіть програму</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Як підключити навушники</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE не підтримується</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>Інші навушники підключаються / відключаються, дочекайтеся завершення і повторіть спробу</value>
+  </data>
 </root>
