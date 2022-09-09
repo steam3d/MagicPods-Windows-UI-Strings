@@ -59,16 +59,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>اتصال ایرپادها انجام نشد. سعی کنید به صورت دستی وصل شوید.</value>
+    <value>اتصال AirPods موفق نبود. سعی کنید به صورت دستی وصل شوید.</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>ایرپادها پیدا نکرد. مطمئن شوید که ایرپادها با این دستگاه جفت شده است و برنامه را مجددا راه اندازی کنید.</value>
+    <value>AirPods پیدا نشد.از اتصال Airpods به سیستم مطمئن شده و برنامه را ریستارت کنید.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>رایانه شما از بلوتوث کم مصرف پشتیبانی نمی کند</value>
+    <value>دستگاه شما فناوری بلوتوث کم‌انرژی را پشتیبانی نمیکند</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}٪ شارژ باقی مانده در ایرپادها. ایرپادها خود را شارژ کنید.</value>
+    <value>{0}٪ شارژ باقی مانده در AirPods.به شارژر متصل کنید.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -78,16 +78,16 @@
     <value>پنجره پاپ آپ</value>
   </data>
   <data name="Settings_Popup_Text2.Header" xml:space="preserve">
-    <value>پنجره ی نمایش</value>
+    <value>نمایش پنجره</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>اندازه پنجره</value>
   </data>
   <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
-    <value>کم اهمیت</value>
+    <value>کوچیک</value>
   </data>
   <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
-    <value>وسط</value>
+    <value>متوسط</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>استارت آپ</value>
@@ -97,7 +97,7 @@
     <comment>Not used now</comment>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
-    <value>کمک بگیر</value>
+    <value>کمک میخوام</value>
   </data>
   <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
     <value>گزارش مشکل</value>
@@ -110,7 +110,7 @@
     <comment>Not used</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>نماد باتری</value>
+    <value>لوگو باتری</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>آنالوگ</value>
@@ -119,20 +119,20 @@
     <value>دیجیتال</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>هنگامی که قاب را باز می کنید، پنجره پاپ آپ را مانند آیفون نشان دهید یا پنهان کنید.</value>
+    <value>نمایش افکت وضعیت شارژ همانند آیفون هنگام باز کردن در.</value>
   </data>
   <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
     <value>بزرگ</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>تنظیمات را بازنشانی کنید</value>
+    <value>بازنشنانی تنظیمات</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
-    <value>نماد سینی سیستم</value>
+    <value>نمایش لوگو برنامه در نوار میانبر</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
-    <value>پنهان کردن نماد</value>
+    <value>پنهان کردن لوگو</value>
     <comment>Changed</comment>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
@@ -143,7 +143,7 @@
     <value>تنظیمات عمومی</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
-    <value>غلافشعبده بازي را ببندید</value>
+    <value>خروج از برنامه</value>
   </data>
   <data name="Menu_Item4.Content" xml:space="preserve">
     <value>پشتیبانی</value>
@@ -155,16 +155,16 @@
     <value>نکته</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>مقداری بیشتر از 65 قرار ندهید. در برخی موارد، انیمیشن ممکن است به طور تصادفی ظاهر شود.</value>
+    <value>مقدار را بیشتر از 65 قرار ندهید. در برخی موارد افکت ممکن است به طور تصادفی ظاهر شود.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>هنگامی که یک ایرپاد را از گوش خود خارج می کنید، صدا کاهش می یابد، یا زمانی که هر دو ایرپاد را خارج می کنید / می گذارید، صدا بازیابی می شود.</value>
+    <value>درآوردن یک AirPod از گوش کاهش صدا را به همراه دارد که با جایگزینی/درآوردن AirPod دیگر از گوش به حالت سابق برمیگردد.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
-    <value>لیست بازیکنان پشتیبانی شده</value>
+    <value>لیست پخش‌کننده‌های پشتیبانی شده</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
-    <value>شعاع جستجوی ایرپادها</value>
+    <value>شعاع اسکن برای AirPods</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
     <value>شعاع جستجو چیست؟</value>
@@ -176,10 +176,10 @@
     <value>اتصال خودکار</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>پس از اتصال ایرپادها دستور «بازی» را ارسال کنید.</value>
+    <value>پس از اتصال AirPods دستور «پخش» صادر کنید.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>اگر هیچ بازیکن باز وجود نداشته باشد، ویندوز دستور را نادیده می گیرد.</value>
+    <value>اگر هیچ پخش‌کننده‌ای موجود نباشد، ویندوز دستور را نادیده میگیرد.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
     <value>بله، تنظیمات را بازنشانی کنید</value>
@@ -188,106 +188,154 @@
     <value>نکته</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>بر اساس استفاده شما، توصیه می کنیم مقدار را روی {0} تنظیم کنید</value>
+    <value>بر اساس استفاده شما، توصیه میکنیم مقدار را روی {0} تنظیم کنید</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
-    <value>نمایش دکمه «اتصال».</value>
+    <value>نمایش دکمه «اتصال»</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>نمایش یا پنهان کردن دکمه «اتصال» در پنجره بازشو. با فشار دادن دکمه، ایرپادهامتصل می شود.</value>
+    <value>نمایش یا پنهان کردن دکمه «اتصال» در پنجره پاپ آپ. با فشار دادن دکمه، AirPods متصل میشود.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
-    <value>هنگامی که ایرپادهای راست یا چپ را از قاب بیرون می آورید، به طور خودکار به ایرپادها متصل شوید.</value>
+    <value>اتصال خودکار به AirPods هنگام درآوردن گوشی‌ها از کیس.</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>ویژگی های تجربی</value>
+    <value>تنظیمات آزمایشی</value>
     <comment>Not used now</comment>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>تشخیص گوش</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>پخش توقف</value>
+    <value>پخش/مکث</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
-    <value>کاهش حجم</value>
+    <value>کاهش صدا</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>هر دو (کاهش صدا + پخش/مکث)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>هنگامی که یک گوش ایرپاد را بردارید، پخش متوقف می‌شود یا با برداشتن هر دو ایرپاد متوقف می‌شود.</value>
+    <value>هنگام پخش برداشتن یک AirPod موجب مکث و هر دو AirPods توقف را در پی دارد.</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>تأخیر کم صدا</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>هنگام کار در حرفه ای برتر یا آزمون مفید است. پس از روشن شدن نیاز به اتصال مجدد ایرپادها دارد. ممکن است مصرف باتری را افزایش دهد.</value>
+    <value>تأخیر کم صدا گزینه‌ای تخصصی است.بعد از روشن کردن AirPods را مجددا متصل کنید.این گزینه افزایش مصرف باتری را در پی دارد.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>جستجوی سریع</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>زمان جستجوی ایرپادها را کاهش می دهد. وقتی مطمئن شدید که هیچ کس دیگری از ایرپادها استفاده نمی کند، آن را روشن کنید.</value>
+    <value>کاهش زمان اسکن برای پیدا کردن AirPods.زمانی این گزینه را فعال کنید که دستگاه دیگری به AirPods متصل نشود.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>راه اندازی توسط خط مشی گروه غیرفعال شده است یا در این دستگاه پشتیبانی نمی شود.</value>
+    <value>تنظیمات استارت آپ به دلایلی نامخشص امکان‌پذیر نیست.</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>برای اعمال، برنامه ها را مجددا راه اندازی کنید.</value>
+    <value>برای اعمال، برنامه را مجددا راه اندازی کنید.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>نمایش شارژ ایرپادها روی نماد</value>
+    <value>نمایش شارژ AirPods روی لوگو</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>هنگامی که ایرپادها متصل است، نماد سینی سیستم میانگین شارژ هدفون های چپ و راست شما را نشان می دهد. آیکون هر دقیقه به روز می شود.</value>
+    <value>هنگامی که ایرپادها متصل است، درصد شارژ میانگین دو گوش چپ و راست در لوگوی واقع در نوار میانبر قابل رصدست.درصد شارژ هر دقیقه به روز می شود.</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>راه اندازی را فعال کنید</value>
+    <value>فعالسازی</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>خارج شوید</value>
+    <value>خروج</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>کمک</value>
   </data>
   <data name="Text_Yes" xml:space="preserve">
-    <value>آره</value>
+    <value>بله</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>برنامه بسته می شود و همه عملکردها غیرفعال می شوند.</value>
+    <value>برنامه بسته میشود و همه عملکردها غیرفعال میشوند.</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>نزدیک</value>
+    <value>ببندیم</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
-    <value>لغو کنید</value>
+    <value>نبندیم</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
-    <value>درخواست دادن</value>
+    <value>قبول</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>هنگامی که یک ایرپاد را از گوش خود خارج می کنید، پخش مکث می کند و صدا کاهش می یابد، یا وقتی هر دو ایرپاد را بردارید، متوقف می شود و صدا بازیابی می شود.</value>
+    <value>هنگامی که یک AirPod را از گوش خود درمیاورید، پخش مکث می کند و صدا کاهش می یابد، یا وقتی هر دو ایرپاد را بردارید، متوقف میشود و صدا بازیابی میشود.</value>
   </data>
   <data name="Settings_Startup_Text2.Header" xml:space="preserve">
-    <value>در هنگام راه اندازی اجرا کنید</value>
+    <value>شروع خودکار برنامه هنگام روشن شدن</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>می‌توانید این را در تب استارت آپ در کنترلگر فعالیت ها فعال یا غیرفعال کنید.</value>
+    <value>این تنظیمات در بخش Startup در Task Manager قابل دسترسی میباشد.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
-    <value>غلافشعبده بازي را ببندید?</value>
+    <value>برنامه را ببندیم؟</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>اگر پنجره ظاهر نشد، قاب را با ایرپادها در داخل آن باز کنید و به آرامی نوار لغزنده را به سمت راست بلغزانید تا انیمیشن ظاهر شود.</value>
+    <value>اگر پنجره اتصال نشان داده نشد درب AirPods را باز کرده و اسلایدر را به آرامی تا زمانی که افکت نمایش داده شود بکشید.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
-    <value>تمام تنظیمات بازنشانی خواهند شد. می خواهید ادامه دهید؟</value>
+    <value>تمام تنظیمات بازنشانی خواهند شد.دامه دهید؟</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
     <value>یادآوری نکن</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods اکثر مدل‌های AirPods و هدست‌‌های Beats رو پشتیبانی میکند</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>بالا سمت چپ</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>مرکز</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>پایین سمت راست</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>پایین سمت چپ</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>صدا</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>بعدی</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>در جستجوی AirPods</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>تغییر خودکار خروجی صدا</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>اضافه کردن AirPods به لیست دستگاه‌های بلوتوث ویندوز</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>AirPods را تا حد ممکن به دستگاه نزدیک کرده و درب را باز نگه دارید</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>مساحت جستجو - مساحتی که در آن برنامه به جستجوی AirPods شما میپردازد.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>بستن</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>موقعیت پنچره</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>پایین سمت راست</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>هنگام درآوردن هر دو AirPods از گوش خروجی صدا به سیستم تغییر کند.</value>
   </data>
 </root>
