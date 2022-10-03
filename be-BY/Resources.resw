@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,178 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Ўсплывальнае акно</value>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Паказаць акно</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Паказаць або схаваць усплывальнае акно, як на iPhone, калі вы адкрываеце чахол.</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Памер акна</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Маленькае</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Сярэдняе</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Вялікае</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Скінуць налады</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>Выяўленне вуха</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Папярэджанне</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Паменшыць гучнасць</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Іншыя</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>Нізкая затрымка гуку</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Карысна пры працы ў Premiere Pro або Audition. Патрабуецца паўторнае падключэнне AirPods пасля ўключэння. Можа павялічыць расход батарэі.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Атрымаць дапамогу</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Паведаміць аб праблеме</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Налады</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Запуск</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>Значок у сістэмным трэі</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Паказаць зарад AirPods на значку</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Даведка</value>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>Значок батарэі</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Лічбавы</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Уключыць аўтазагрузку</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Выхад</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Не</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Так</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Аналагавы</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Агульныя налады</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Закрыць MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Падтрымка</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Закрыць MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Закрыць</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Адмяніць</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>Спіс падтрымоўваных плэераў</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Радыус пошуку AirPods</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Ваш ПК не падтрымлівае Bluetooth з нізкім энергаспажываннем</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>На AirPods засталося {0}% зарада. Зарадзіце AirPods.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Прайграванне/Паўза</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Абодва (Памяншэнне гучнасці + Прайграванне/Паўза)</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>Прайграванне прыпыняецца, калі вы дастаеце адзін AirPods, цi спыняецца, калі вы дастаеце абодва AirPods.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Журнал адладкі</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>Хуткі пошук</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>Скарачае час пошуку AirPods. Уключыце, калі пераканаецеся, што побач ніхто не выкарыстоўвае AirPods.</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Запуск пры старце сістэмы</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Вы можаце ўключыць або адключыць гэта на ўкладцы «Запуск» у дыспетчару задач.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Запуск адключаны групавой палітыкай або не падтрымліваецца на гэтай прыладзе.</value>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Схаваць значок</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Каб прымяніць, перазапусціце прыкладанні.</value>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>Калі AirPods падключаны, значок у сістэмным трэі будзе паказваць сярэдні зарад вашых левых і правых навушнікаў. Значок абнаўляецца кожную хвіліну.</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Інфармацыя аб батарэі</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Эксперыментальныя асаблівасці</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Прыкладанне будзе закрыта, а ўсе функцыі адключаны.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>Гучнасць памяншаецца, калі вы здымаеце з вуха адзiн AirPods, або аднаўляецца, калі здымаеце / надзяваеце абодва AirPods.</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods не знайдзены. Пераканайцеся, што AirPods спалучаны з гэтай прыладай, і перазапусціце праграму.</value>
+  </data>
 </root>
