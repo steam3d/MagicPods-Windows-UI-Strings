@@ -176,13 +176,13 @@
     <value>Spuštění</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>Přehrávat/Pauza</value>
+    <value>Přehrát/Pauza</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Snížit hlasitost</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>Obojí (Snížit hlasitost + Přehrávat/Pauza)</value>
+    <value>Obojí (Snížit hlasitost + Přehrát/Pauza)</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Zobrazit tlačítko «Připojit»</value>
@@ -225,7 +225,7 @@
     <value>Nízká latence zvuku</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Užitečné, když pracujete v Premiere Pro nebo Audition. Vyžaduje znovupřipojení AirPods po zapnutí. Může způsobit zvýšenou spotřebu baterie.</value>
+    <value>Užitečné, když pracujete v Premiere Pro nebo Audition. Vyžaduje znovupřipojení AirPodů po zapnutí. Může způsobit zvýšenou spotřebu baterie.</value>
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Ladicí log</value>
@@ -234,7 +234,7 @@
     <value>Rychlé hledání</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Snižuje čas potřebný pro nalezení AirPods. Zapněte pokud jste si jistí, že nikdo jiný okolo nepoužívá AirPods.</value>
+    <value>Snižuje čas potřebný pro nalezení AirPodů. Zapněte pokud jste si jistí, že nikdo jiný okolo nepoužívá AirPody.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>Nastavení</value>
@@ -258,11 +258,11 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Zobrazit úroveň nabití AirPods na ikoně</value>
+    <value>Zobrazit úroveň nabití AirPodů na ikoně</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Když jsou AirPods připojeny, ikona v oznamovací oblasti bude ukazovat průměrnou úroveň napětí levého a pravého sluchátka. Ikona se aktualizuje každou minutu.</value>
+    <value>Když jsou AirPods připojeny, ikona v oznamovací oblasti bude ukazovat průměrnou úroveň nabití levého a pravého sluchátka. Ikona se aktualizuje každou minutu.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
@@ -330,10 +330,10 @@
     <value>Střední</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods nebyly nalezeny. Ověřte, že jsou AirPods spárované s tímto zařízením a restartujte aplikaci.</value>
+    <value>AirPods nebyly nalezeny. Ověřte si, že jsou AirPods spárované s tímto zařízením a restartujte aplikaci.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Vaše PC nepodporuje Bluetooth low energy</value>
+    <value>Vaše PC nepodporuje funkci Bluetooth low energy</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Varování</value>
@@ -548,7 +548,7 @@
     <value>Pouzdro</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% Nízka baterie. Dobijte Airpody.</value>
+    <value>{0}% Zbývá baterie v AirPodech. Dobijte Airpody.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Audio_Text1.Text" xml:space="preserve">
