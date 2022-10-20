@@ -92,7 +92,7 @@
     <value>Povolenie spúšťania</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Výstup</value>
+    <value>Odísť</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>Pomoc</value>
@@ -264,5 +264,27 @@
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Po pripojení slúchadiel AirPods odošlite príkaz "Play".</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Tip</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>Všetky nastavenia budú obnovené. Prajete si pokračovať?</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Pripojenie k AirPods bolo neúspešné. Skúste manuálne pripojenie.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Áno, obnoviť nastavenia</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Na základe vášho využitia, odporúčame nastaviť hodnotu na {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Použiť</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Nepripomínať</value>
   </data>
 </root>
