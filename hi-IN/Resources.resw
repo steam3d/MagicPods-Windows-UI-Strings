@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>AirPods पर {0}% चार्ज बाकी है। अपने AirPods को चार्ज करें।</value>
+    <value>एयरपॉड्स पर {0}% चार्ज बाकी है। अपने एयरपॉड्स को चार्ज करें।</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -90,13 +90,13 @@
     <value>एयरपॉड्स नहीं मिले। सुनिश्चित करें कि एयरपॉड्स इस डिवाइस से जुड़े हैं और ऐप को पुनरारंभ करें।</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>आपका डिवाइस ब्लूटूथ कम ऊर्जा का समर्थन नहीं करता</value>
+    <value>आपका डिवाइस Bluetooth कम ऊर्जा का समर्थन नहीं करता</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>जब आप केस खोलते हैं, तो iPhone की तरह पॉप-अप विंडो दिखाएँ या छिपाएँ।</value>
+    <value>जब आप केस खोलते हैं, तो आईफ़ोन की तरह पॉप-अप विंडो दिखाएँ या छिपाएँ।</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>बाहर निकलना</value>
+    <value>band kare</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>कान जाच</value>
@@ -146,9 +146,448 @@
     <value>आप इसे शुरू या बंद कर सकते है टास्क मॅनेजर के स्टार्टाप ऑप्षन मे.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>AirPods के लिए खोज समय कम करता है। इसे तब चालू करें जब आप सुनिश्चित हों कि आपके आस-पास कोई और AirPods का उपयोग नहीं कर रहा है।</value>
+    <value>एयरपॉड्स के लिए खोज समय कम करता है। इसे तब चालू करें जब आप सुनिश्चित हों कि आपके आस-पास कोई और एयरपॉड्स का उपयोग नहीं कर रहा है।</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>प्रीमियर प्रो या ऑडिशन में काम करते समय उपयोगी। चालू करने के बाद फिर से जोड़ने की आवश्यकता है। इससे बैटरी की खपत बढ़ सकती है</value>
+    <value>प्रीमियर प्रो या ऑडिशन में काम करते समय उपयोगी। चालू करने के बाद फिर से जोड़ने की आवश्यकता है। इससे बैटरी की खपत बढ़ सकती है।</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>डिजिटल</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>रद्द करना</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>लाइट</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>डार्क</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>डिस्कनेक्टिंग</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>हमारे और ऐप्स</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>स्टार्टअप को समूह नीति द्वारा अक्षम किया गया है, या इस उपकरण पर समर्थित नहीं है।</value>
+  </data>
+  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+    <value>सिस्टम ट्रे प्रतीक</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>हां</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>अनुरूप</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>सहायता</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>नहीं</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>MagicPods बंद</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>MagicPods बंद?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>बंद</value>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>बैटरी आइकन</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>बैटरी विवरण</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>सामान्य सेटिंग्स</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>प्रायोगिक विशेषताएं</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>स्टार्टअप सक्षम करें</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>सहयोग</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>आवेदन बंद कर दिया जाएगा और सभी कार्यों को अक्षम कर दिया जाएगा।</value>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>प्रतीक छिपाएं</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>सलाह</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>खोज त्रिज्या क्या है?</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>समर्थित खिलाड़ियों की सूची</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>«जुडिये» बटन दिखाएँ</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>अपने आप जुडिये</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>अपने आप प्ले</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>पॉप-अप विंडो पर «जुडिये» बटन दिखाएं या छुपाएं। बटन दबाने से एयरपॉड्स कनेक्ट हो जाएंगे।</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>हाँ, सेटिंग्स रीसेट करें</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>सलाह</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>एयरपॉड्स को जोड़ने के बाद «प्ले» कमांड भेजें।</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>लागू</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>मत करो</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>VoiceOver सूचनाएं</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>अगला</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods कई एयरपॉड्स और बीट्स हेडफ़ोन का समर्थन करता है</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>खोज त्रिज्या - वह त्रिज्या जिसमें आपका कंप्यूटर खुले एयरपॉड्स केस की खोज करेगा।</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>बंद</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>विंडो पोजीशन</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>ऊपरी बायां कोना</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>ऊपरी दायां कोना</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>बीच</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>निचला दायां कोना</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>ऑडियो</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>डिवाइस उपलब्ध नहीं है या हटाया गया है</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>और जानें</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>एयरपॉड्स को जोड़ने में विफल। उन्हें कनेक्ट करें।</value>
+  </data>
+  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+    <value>संशोधित</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>एक आवाज चुनें</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>कोई आवाज चयनित या उपलब्ध नहीं है</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>चयनित आवाज के साथ पाठ सुनें</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>बोलो</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>इन प्रेषकों की ओर से VoiceOver सूचनाएं</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>सूची से सभी एप्लिकेशन सूचनाएं नहीं भेज सकते हैं, कुछ एप्लिकेशन सूची में नहीं भी हो सकते हैं।</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>VoiceOver सभी सूचनाएं</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>सभी ऐप्स दिखाएं</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>कनेक्शन रद्द</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>कुछ अन्य एयरपॉड्स जुड़े हुए हैं, पहले उन्हें हटा दें।</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>एक नई आवाज जोड़ें</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>सुविधा "VoiceOver सूचना" बंद है, सूचनाओं तक पहुंच प्राप्त नहीं कर सकता। कृपया «गोपनीयता और सूचनाएं»‎ खोलें, सूचनाओं तक पहुंचने की अनुमति दें, फिर "VoiceOver सूचना" चालू करें।</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>गोपनीयता और सूचनाएं</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>अनंत खोज</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>एयरपॉड्स नहीं मिल सके</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>समस्या को ठीक करने के लिए इस गाइड का पालन करें।</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>भाषा</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>थीम</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>विंडो थीम</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>आवेदन सेटिंग</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>हम अनुशंसा करते हैं कि आप स्टार्टअप को सक्षम करें।</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>सिस्टम भाषा का प्रयोग करें</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>स्टार्टअप</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>डिस्कनेक्ट</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>एयरपॉड्स खोज त्रिज्या</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>एक से अधिक हेडफ़ोन कनेक्ट हैं, केवल एक ही कनेक्ट होना चाहिए</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>जुडिये</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>जोड़ने</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>पुनर्प्रारंभ</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Win, Shift, Alt, या Ctrl, कुंजी शामिल करें</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>हॉटकी हटाएं</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>हॉटकी दबाएं</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>अक्षम</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>अपने आप रोकना</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>ली</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>आर</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>डाउनलोड</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>डाउनलोड</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>केस</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>चार्ज</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>कम बैटरी सूचना</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth समायोजन</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>बंद</value>
+  </data>
+  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+    <value>किसी भी इमेज से टेक्स्ट कॉपी करें</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>अनुवाद करें, संपादित करें या नई भाषाएं जोड़ें</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>ऐप्स खोजें</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>MagicPods 2.0 से मिलें</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>प्रत्येक हेडफ़ोन को अपनी पसंद के अनुसार व्यक्तिगत रूप से कस्टमाइज़ करें</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE नहीं है</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>वरीयताएँ</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>हेडफोन</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>कुछ हेडफ़ोन कनेक्ट/डिस्कनेक्ट हो रहे हैं, प्रतीक्षा करें और पुनः प्रयास करें</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>जुडिये हॉटकी</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>हेडफ़ोन प्रदर्शित करने के लिए Bluetooth चालू करें</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>कोई युग्मित हेडफ़ोन नहीं</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>हेडफ़ोन कैसे जोड़े</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>एयरपॉड्स की खोज</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>अक्षम</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>एक अप्रत्याशित त्रुटि हुई</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth बंद</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>छुपाएं</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>चित्र बदलो</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>आइकन पर एयरपॉड्स चार्ज दिखाएं</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>जब एयरपॉड्स कनेक्ट होते हैं, तो सिस्टम ट्रे आइकन आपके बाएँ और दाएँ हेडफ़ोन का औसत चार्ज दिखाएगा। आइकन हर मिनट अपडेट करें।</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>जब आप दाएँ या बाएँ एयरपॉड्स को केस से बाहर निकालते हैं, तो एयरपॉड्स से अपने आप कनेक्ट हो जाते हैं।</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>सभी सेटिंग्स रीसेट हो जाएंगी। क्या आप जारी रखना चाहेंगे?</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>आपके उपयोग के आधार पर, हम मान को {0} पर सेट करने की अनुशंसा करते हैं</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+    <value>VoiceOver विन्यास</value>
+  </data>
+  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+    <value>एयरपॉड्स क्षमता</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>एकाधिक कनेक्शन</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>65 से अधिक मान सेट न करें। कुछ मामलों में, एनीमेशन गलती से दिखाई दे सकता है।</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>चित्र पुनर्स्थापित करें</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>खतरनाक साहसिक खेल में दौड़ें, कूदें और चकमा दें</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>नया इंटरफ़ेस, बहुत सारी सेटिंग्स। अनुकूलित करने के लिए ऐप खोलें।</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>हेडफ़ोन कनेक्ट या डिस्कनेक्ट करने के लिए ग्लोबल हॉटकी।</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>अपने एयरपॉड्स केस को जितना हो सके अपने कंप्यूटर के करीब लाएं और उसे खोलें</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>निचला बायां कोना</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>ऑडियो आउटपुट को अपने आप स्विच करें</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>जब दोनों एयरपॉड्स कान से बाहर हों तो ऑडियो को एयरपॉड्स से डिफ़ॉल्ट स्पीकर पर स्विच करें।</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>उद्घोषक केवल एक भाषा में पाठ पढ़ सकता है।</value>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>आवेदन करने के लिए ऐप को पुनर्प्रारंभ करें.</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>सिस्टम थीम का उपयोग करें</value>
+  </data>
+  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+    <value>पार्श्व स्वर सूचनाओं की घोषणा करता है जब एयरपॉड्स कनेक्ट होते हैं और ऑडियो आउटपुट डिवाइस के रूप में सेट होते हैं।</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>अनुकूलित करने के लिए यहां दबाएं</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>हेडफोन डिस्कनेक्ट करने के बाद रुकें।</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
+    <value>यदि कोई खुला खिलाड़ी नहीं है तो Windows कमांड को अनदेखा कर देगा।</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>जब एक एयरपॉड हटा दिया जाता है तो वॉल्यूम कम हो जाता है, और दोनों एयरपॉड्स डालने पर बहाल हो जाता है।</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>यदि विंडो प्रकट नहीं होती है, तो एयरपॉड्स के साथ केस को अंदर खोलें और एनीमेशन दिखाई देने तक स्लाइडर को दाईं ओर स्लाइड करें।</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>जब एक एयरपॉड हटा दिया जाता है, तो प्लेबैक रुक जाता है, और दोनों एयरपॉड्स डालने पर फिर से शुरू हो जाता है।</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>सर्वोत्तम उपयोगकर्ता अनुभव के लिए, हम अनुशंसा करते हैं कि आप स्टार्टअप को सक्षम करें। आप इसे टास्क मैनेजर में «स्टार्टअप» टैब से कर सकते हैं।</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>एप्लिकेशन का काम फिर से शुरू करने के लिए एप्लिकेशन को पुनरारंभ करें। यदि त्रुटि बनी रहती है, तो अपने कंप्यूटर को पुनरारंभ करने का प्रयास करें।</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>जब हेडफ़ोन चार्ज निर्दिष्ट मान से कम हो तो एक सूचना दिखाएं।</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Windows Bluetooth डिवाइस की सूची में एयरपॉड्स जोड़ें</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>हेडफ़ोन को कंप्यूटर से जोड़ें और एप्लिकेशन को पुनरारंभ करें</value>
   </data>
 </root>
