@@ -265,4 +265,28 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>List of supported players</value>
   </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>AirPods search radius</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>What is search radius?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Tip</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Show «Connect» button</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Show or hide the «Connect» button on pop-up window. Pressing the button will connect AirPods.</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Auto connect</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>Automatically connect to AirPods when you take the right or left AirPods out of the case.</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>If the window doesn't appear open the case with AirPods inside and smoothly slide the slider to the right until the animation appears.</value>
+  </data>
 </root>
