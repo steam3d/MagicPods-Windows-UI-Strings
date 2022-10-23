@@ -65,7 +65,7 @@
     <value>Digital</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Su PC no soporta Bluetooth BLE</value>
+    <value>Su PC no es compatible Bluetooth LE</value>
   </data>
   <data name="Settings_Popup_Text1.Text" xml:space="preserve">
     <value>Ventana emergente</value>
@@ -580,5 +580,11 @@
   </data>
   <data name="Support_Weblate_Description.Text" xml:space="preserve">
     <value>Traduzca, edite o añada nuevos lenguajes</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Cambiar imagen</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Restaurar imagen</value>
   </data>
 </root>
