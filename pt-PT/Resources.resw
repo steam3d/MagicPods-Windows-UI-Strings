@@ -65,7 +65,7 @@
     <value>Aviso</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>Características experimentais</value>
+    <value>Funcionalidades experimentais</value>
     <comment>Not used now</comment>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
@@ -78,10 +78,10 @@
     <value>Mostre ou esconda o botão «Conectar» na janela pop-up. Pressionar o botão irá conectar os AirPods.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>Se não houver janelas de reprodutores abertas será ignorado o comando.</value>
+    <value>Se não houver reprodutores de música abertos, o Windows ignorará o comando.</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Não foi possível conectar os AirPods. Tente manualmente.</value>
+    <value>Não foi possível conectar os AirPods. Tente os conectar manualmente.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Aproxima do computador a caixa dos teus AirPods, o mais próximo possível, e abre-a</value>
@@ -90,7 +90,7 @@
     <value>Canto inferior esquerdo</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
-    <value>Troca do áudio dos AirPods para os altifalantes de raiz quando ambos os AirPods são removidos dos ouvidos.</value>
+    <value>Troca o áudio dos AirPods para os altifalante pré-definidos quando ambos os AirPods são removidos dos ouvidos.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
     <value>Nem todas as aplicações da lista podem enviar notificações, é possível que algumas aplicações não constem na lista.</value>
@@ -168,7 +168,7 @@
     <value>Sim</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
-    <value>Informação de bateria</value>
+    <value>Informação da bateria</value>
     <comment>Not used now</comment>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
@@ -178,7 +178,7 @@
     <value>Registo de depuração</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Útil para quando trabalha com Premiere Pro ou Audition. Requer reconexão dos AirPods depois de ativo. Poderá aumentar o consumo da bateria.</value>
+    <value>Útil para quando trabalha com Premiere Pro ou Audition. Requer a reconexão dos AirPods depois de ativo. Poderá aumentar o consumo da bateria.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Outra</value>
@@ -191,7 +191,7 @@
     <value>Ajuda</value>
   </data>
   <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
-    <value>Reportar problema</value>
+    <value>Reportar um problema</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Procura rápida</value>
@@ -233,13 +233,13 @@
     <value>Digital</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
-    <value>Fechar MagicPods</value>
+    <value>Fechar o MagicPods</value>
   </data>
   <data name="Menu_Item4.Content" xml:space="preserve">
     <value>Suporte</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
-    <value>Fechar MagicPods?</value>
+    <value>Fechar o MagicPods?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
     <value>Fechar</value>
@@ -263,7 +263,7 @@
     <value>Dica</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Não coloque valor superior a 65. Em alguns casos a animação poderá aparecer acidentalmente.</value>
+    <value>Não coloque um valor superior a 65. Em alguns casos a animação poderá aparecer acidentalmente.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Exibir botão «Conectar»</value>
@@ -287,7 +287,7 @@
     <value>Dica</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>Com base no seu uso, recomendamos que configure ao valor de {0}</value>
+    <value>Com base no seu uso, recomendamos que configure o valor para {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
@@ -300,25 +300,25 @@
     <value>Não relembrar</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>A reprodução pausa assim que remover um dos AirPods e o volume diminui, ou a reprodução termina e o volume é restaurado quando ambos os AirPods são removidos.</value>
+    <value>A reprodução pausa e o volume diminui assim que remover um dos AirPods, ou a reprodução termina e o volume é restaurado quando ambos os AirPods são removidos.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Adicione AirPods à lista de dispositivos Bluetooth do Windows</value>
+    <value>Adiciona os AirPods à lista de dispositivos Bluetooth do Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods é compativel com a maioria dos AirPods e auscultadores Beats</value>
+    <value>O MagicPods é compativel com a maioria dos AirPods e auscultadores Beats</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Seguinte</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
-    <value>Raio de procura - o raio de procura o qual o teu computador irá detetar uma caixa de Airpods aberta.</value>
+    <value>Raio de procura - a área ao redor no qual o teu computador irá detetar uma caixa de Airpods aberta.</value>
   </data>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Fechar</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
-    <value>Procurando AirPods</value>
+    <value>A procurar AirPods</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
     <value>Posição da janela</value>
@@ -348,7 +348,7 @@
     <value>Notificações de VoiceOver</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>VoiceOver anuncia notificações quando os AirPods estão conectados e configurados como dispositivos de saída de áudio.</value>
+    <value>O VoiceOver anuncia notificações quando os AirPods estão conectados e configurados como dispositivos de saída de áudio.</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>Configurar</value>
@@ -360,22 +360,22 @@
     <value>Configuração de VoiceOver</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
-    <value>Escolher voz</value>
+    <value>Escolher uma voz</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>Nenhuma voz selecionada ou disponível</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
-    <value>Oiça o texto com a voz selecionada</value>
+    <value>Ouça o texto com a voz selecionada</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
     <value>Falar</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
-    <value>Notificações de VoiceOver destes remetentes</value>
+    <value>Notificações de VoiceOver destas aplicações</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
-    <value>VoiceOver todas as notificações</value>
+    <value>VoiceOver a todas as notificações</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
     <value>Mostrar todas as aplicações</value>
@@ -390,10 +390,10 @@
     <value>Conexão cancelada</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>Já se encontram outros AirPods conectados, por favor desconecte-os previamente.</value>
+    <value>Já se encontram outros AirPods conectados, por favor desconecte-os primeiro.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Para melhor experiência de utilizador, recomendamos que ative a execução da aplicação no início do Windows. Pode fazê-lo no separador «Arranque» do gestor de tarefas.</value>
+    <value>Para uma melhor experiência de utilizador, recomendamos que ative a execução da aplicação no início do Windows. Poderá fazê-lo no separador «Arranque» do gestor de tarefas.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Procura infinita</value>
@@ -414,7 +414,7 @@
     <value>Usar o tema do sistema</value>
   </data>
   <data name="Settings_Popup_Theme.Header" xml:space="preserve">
-    <value>Tema</value>
+    <value>Tema da Janela</value>
   </data>
   <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
     <value>Idioma</value>
@@ -429,10 +429,10 @@
     <value>Configurações da aplicação</value>
   </data>
   <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
-    <value>Capacidade dos AirPods</value>
+    <value>Compatibilidade dos AirPods</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>Para melhor experiência do usuário, recomendamos que ative a inicialização.</value>
+    <value>Para uma melhor experiência de utilizador, recomendamos que ative a inicialização no arranque.</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
     <value>Clica aqui para editar as configurações</value>
@@ -444,16 +444,16 @@
     <value>Conectar</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
-    <value>Conectando</value>
+    <value>A conectar</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
     <value>Desconectar</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
-    <value>Início</value>
+    <value>Início no Arranque</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
-    <value>Desconectando</value>
+    <value>A desconectar</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
     <value>Caixa</value>
@@ -571,10 +571,10 @@
     <value>Ambos (Diminuir volume + Reproduzir/Pausa)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>A reprodução pausa assim que remover um dos AirPods ou assim que detetar a remoção de um ou ambos da sua orelha.</value>
+    <value>A reprodução pausa assim que remover um dos AirPods ou pára assim que detetar a remoção de um ou ambos da sua orelha.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Reduz o tempo de procura de AirPods. Ative esta opção certificando-se que não existam outros AirPods a ser usados por perto.</value>
+    <value>Reduz o tempo de procura dos AirPods. Ative esta opção certificando-se que não existam outros AirPods a ser usados por perto.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
     <value>Mostrar percentagem de bateria dos AirPods no ícone</value>
@@ -583,5 +583,11 @@
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
     <value>Quando os AirPods estão conectados, o ícone da barra de tarefas mostra a carga média de ambos os AirPods (esquerdo e direito). O ícone é atualizado uma vez por minuto.</value>
     <comment>Changed</comment>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Mudar a Imagem</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Restaurar a Imagem</value>
   </data>
 </root>
