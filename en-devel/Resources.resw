@@ -289,4 +289,305 @@
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
     <value>If the window doesn't appear open the case with AirPods inside and smoothly slide the slider to the right until the animation appears.</value>
   </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Hint</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Change image</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Restore image</value>
+  </data>
+  <data name="Support_Button_Hide.Content" xml:space="preserve">
+    <value>Hide</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>Auto play</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>Auto play after connecting the AirPods.</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>All settings will be reset. Do you want to continue?</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>Yes, reset settings</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Connect to AirPods failed. Try to connect manually.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Add AirPods to the list of Windows Bluetooth devices</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods supports most AirPods and Beats headphones</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Bring your AirPods case close to your computer and open it</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>Search radius - the radius in which your computer will search for an open AirPods case.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>Window position</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>Top left corner</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>Top right corner</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>Center</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>Bottom left corner</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>Bottom right corner</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>Auto switch audio output</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>Device not available or removed</value>
+  </data>
+  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+    <value>Learn more</value>
+  </data>
+  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+    <value>VoiceOver notifications</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+    <value>Choose a voice</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+    <value>The announcer can read the text in only one language.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>No voice selected or available</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+    <value>Listen to the text with the selected voice</value>
+  </data>
+  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+    <value>Speak</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+    <value>VoiceOver notifications from these senders</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+    <value>VoiceOver all notifications</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+    <value>Show all apps</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Privacy and notifications</value>
+  </data>
+  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+    <value>Add a new voice</value>
+  </data>
+  <data name="Notification_ConnectionCanceled" xml:space="preserve">
+    <value>Connection canceled</value>
+  </data>
+  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
+    <value>Other AirPods are already connected, please disconnect them first.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>For the best user experience, we recommend automatic enable on startup. You can do this from the «Startup» tab in Task Manager.</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>Infinite search</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>Couldn't find AirPods</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>Follow this guide to fix the problem.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Use system theme</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>Window theme</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="Settings_AppSettings.Text" xml:space="preserve">
+    <value>Application settings</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Startup</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Tap or click here to customize</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Multiple connection</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Two or more headphones connected, leave only one connected</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Connect</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Connecting</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Disconnecting</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Case</value>
+  </data>
+  <data name="Support_Button_Download.Text" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Translate</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Restart</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>An unexpected error has occurred</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Type a hotkey</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Include Win, Shift, Alt or Ctrl key</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Remove hotkey</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Auto pause</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Show a notification when the headphone charge is below the specified value.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth off</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Turn on Bluetooth to display headphones</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth settings</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>No paired headphones</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>How to pair headphones</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE not supported</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Headphones</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Preferences</value>
+  </data>
+  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+    <value>Other developer's apps</value>
+  </data>
+  <data name="Support_YAD_Description.Text" xml:space="preserve">
+    <value>Run, jump, and dodge in a dangerous adventure game</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Meet MagicPods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Redesigned interface, individual settings and more. Some settings have been changed. Open the app to customize.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Global hotkey to connect or disconnect headphones.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Connect hotkey</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
+    <value>If there are no active players, Windows will ignore the command.</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Based on your usage, we recommend setting the value to {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>The playback pauses and the volume decreases when you remove one AirPods from your ear, or stops and the volume restores when you remove both AirPods.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>Switch audio from AirPods to default speakers when both AirPods are out of ear.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+    <value>Not all applications from the list can send notifications, some applications may not be in the list.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Feature "VoiceOver notification" is turned off, can't get access to notifications. Please open «Privacy and notifications»‎, allow notifications access, then turn on "VoiceOver notification".</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Use system language</value>
+  </data>
+  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+    <value>AirPods capability</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>For the best user experience, we recommend automatic enable on startup.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Low battery notification</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Pair headphones to computer and restart the application</value>
+  </data>
+  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
+    <value>Other headphones are connecting / disconnecting, wait for completion and try again</value>
+  </data>
+  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+    <value>Translate, edit or add new languages</value>
+  </data>
 </root>
