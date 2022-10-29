@@ -234,7 +234,7 @@
     <value>Rychlé hledání</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Snižuje čas potřebný pro nalezení AirPodů. Zapněte pokud jste si jistí, že nikdo jiný okolo nepoužívá AirPody.</value>
+    <value>Zkracuje dobu hledání AirPods. Zapněte jej, když jste si jisti, že nikdo jiný v okolí nepoužívá AirPods.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>Nastavení</value>
@@ -262,7 +262,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Když jsou AirPods připojeny, ikona v oznamovací oblasti bude ukazovat průměrnou úroveň nabití levého a pravého sluchátka. Ikona se aktualizuje každou minutu.</value>
+    <value>Když jsou AirPods připojeny, ikona na hlavním panelu zobrazí průměrné nabití vašich levých a pravých sluchátek. Aktualizace ikon každou minutu.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
@@ -583,5 +583,11 @@
   </data>
   <data name="Support_DeveloperApps.Text" xml:space="preserve">
     <value>Další aplikace autora</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Změnit obrázek</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Obnovit obrázek</value>
   </data>
 </root>
