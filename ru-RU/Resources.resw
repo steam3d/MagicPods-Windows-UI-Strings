@@ -124,7 +124,7 @@
     <value>Ваш компьютер не поддерживает Bluetooth Low Energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% заряда осталось. Зарядите ваши AirPods.</value>
+    <value>Уровень заряда - {0}%. Зарядите ваши AirPods.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Внимание</value>
@@ -172,10 +172,10 @@
     <value>Другое</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
-    <value>Низкая аудио задержка</value>
+    <value>Низкая задержка аудио</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Полезно когда работаете в Premier Pro или Audition. Для применения эффекта переподключитесь к AirPods. Возможен повышенный расход батареи.</value>
+    <value>Полезно, когда работаете в Premier Pro или Audition. При включении опция требует переподключения к AirPods. Возможен повышенный расход батареи.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
     <value>Помощь</value>
@@ -208,10 +208,10 @@
     <value>Автозагрузка отключена групповой политикой или не поддерживает на данном устройстве.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
-    <value>Иконка в области уведомлений</value>
+    <value>Значок в области уведомлений</value>
   </data>
   <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
-    <value>Скрыть иконку</value>
+    <value>Скрыть значок</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
     <value>Для применения эффекта перезапустите приложение.</value>
