@@ -71,13 +71,13 @@
     <value>Tiada headphone berpasangan</value>
   </data>
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>Headphone lain sedang menyambung / memutuskan sambungan, tunggu sehingga selesai dan cuba lagi</value>
+    <value>Fon kepala lain sedang menyambung / nyahsambungan, tunggu sehingga selesai dan cuba lagi</value>
   </data>
   <data name="Support_YAD_Description.Text" xml:space="preserve">
     <value>Berlari, melompat dan mengelak dalam permainan pengembaraan yang berbahaya</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Komputer anda tidak sokong bluetooth tenaga rendah.</value>
+    <value>Komputer anda tidak menyokong Bluetooth bertenaga rendah.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Amaran</value>
@@ -86,13 +86,13 @@
     <value>Tetingkap timbul</value>
   </data>
   <data name="Settings_Popup_Text2.Header" xml:space="preserve">
-    <value>Tunjukkan tetingkap</value>
+    <value>Buka tetingkap</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>Tunjukkan atau sembunyikan tetingkap timbul seperti pada iPhone apabila anda membuka kes.</value>
+    <value>Tunjukkan atau sembunyikan tetingkap timbul seperti pada iPhone apabila anda membuka penutup Airpod.</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
-    <value>Saiz tingkap</value>
+    <value>Saiz tetingkap</value>
   </data>
   <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
     <value>Kecil</value>
@@ -120,35 +120,35 @@
     <value>Kependaman audio rendah</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Berguna apabila bekerja dalam Premiere Pro atau Audition. Memerlukan penyambungan semula selepas menghidupkan AirPods. Ia boleh meningkatkan penggunaan bateri.</value>
+    <value>Berguna apabila digunakan bersama Premiere Pro atau Audition. Memerlukan penyambungan semula selepas AirPods dihidupkan. Ia akan meningkatkan penggunaan bateri.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
     <value>Dapatkan bantuan</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>Kedua-dua (Turunkan volum + Main/Henti)</value>
+    <value>Kedua-dua (Kurangkan kelantangan + Main/Henti)</value>
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
     <value>Log debug</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
-    <value>Pencarian pantas</value>
+    <value>Carian pantas</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>Tetapan</value>
     <comment>Not used</comment>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>Startup</value>
+    <value>Permulaan</value>
   </data>
   <data name="Settings_Startup_Text2.Header" xml:space="preserve">
-    <value>Jalan semasa startup</value>
+    <value>Diaktifkan semasa permulaan</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>Anda boleh buka atau tutup semula dalam tab Startup di Task Manager.</value>
+    <value>Anda boleh buka atau tutup semula dalam tab permulaan di Pengurus Tugas.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Startup dilumpuhkan oleh polisi grup, atau tidak disokong oleh peranti ini.</value>
+    <value>Permulaan dilumpuhkan oleh kumpulan polisi, atau tidak disokong oleh peranti ini.</value>
   </data>
   <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
     <value>Ikon dulang sistem</value>
@@ -159,10 +159,10 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Mulakan semula aplikasi untuk menerapkan.</value>
+    <value>Mulakan semula aplikasi untuk digunakan.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Menunjukkan cas AirPods pada ikon</value>
+    <value>Menunjukkan peratus bateri AirPods pada ikon</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
@@ -175,7 +175,7 @@
     <value>Digital</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>Aktifkan Startup</value>
+    <value>Aktifkan Permulaan</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Keluar</value>
@@ -190,7 +190,7 @@
     <value>Tetapan umum</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>Fitur eksperimental</value>
+    <value>Ciri-ciri eksperimental</value>
     <comment>Not used now</comment>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
@@ -215,7 +215,7 @@
     <value>Lingkungan carian AirPods</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>Jika tetingkap tidak muncul buka kes dengan AirPods di dalam dan luncurkan peluncur ke kanan dengan lancar sehingga animasi muncul.</value>
+    <value>Jika tetingkap tidak muncul buka semula penutup dengan AirPods di dalam dan gerakkan peluncur ke kanan dengan perlahan sehingga animasi muncul.</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
     <value>Apa itu lingkungan carian?</value>
@@ -230,13 +230,13 @@
     <value>Tunjukkan butang «Sambung»</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
-    <value>Sambung automatik</value>
+    <value>Sambungan automatik</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
-    <value>Sambung ke AirPods secara automatik apabila anda mengeluarkan AirPods kanan atau kiri daripada kesnya.</value>
+    <value>Sambung ke AirPods secara automatik apabila anda mengeluarkan AirPods kanan atau kiri daripada penutup.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
-    <value>Main automatik</value>
+    <value>Mainkan secara automatik</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Hantar arahan «Main» selepas menyambungkan AirPods.</value>
@@ -245,10 +245,10 @@
     <value>Jika tiada pemain terbuka Windows akan mengabaikan arahan itu.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
-    <value>Semua tetapan akan reset. Adakah anda mahu meneruskan?</value>
+    <value>Semua tetapan akan ditetapkan semula. Adakah anda mahu meneruskan?</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
-    <value>Ya, reset tetapan</value>
+    <value>Ya, tetapkan semula tetapan</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>Tip</value>
@@ -269,7 +269,7 @@
     <value>Seterusnya</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
-    <value>Linkungan carian - lingkungan di mana komputer anda akan mencari kesa AirPods yang terbuka.</value>
+    <value>Linkungan carian - lingkungan di mana komputer anda akan mencari bekas AirPods yang terbuka.</value>
   </data>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Tutup</value>
@@ -311,16 +311,16 @@
     <value>Pemberitahuan VoiceOver</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
-    <value>Konfigurasikan</value>
+    <value>Konfigurasi</value>
   </data>
   <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
-    <value>Konfigurasikan VoiceOver</value>
+    <value>Konfigurasi VoiceOver</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
     <value>Pilih suara</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
-    <value>Juruhebah boleh membaca teks dalam satu bahasa sahaja.</value>
+    <value>Pemberitahu boleh membaca teks dalam satu bahasa sahaja.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>Tiada suara dipilih atau tersedia</value>
@@ -347,7 +347,7 @@
     <value>Tambah suara baharu</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
-    <value>Pencarian infiniti</value>
+    <value>Pencarian tanpa henti</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Tidak dapat mencari AirPods</value>
@@ -383,16 +383,16 @@
     <value>Keupayaan AirPods</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>Untuk pengalaman pengguna yang terbaik, kami mengesyorkan agar anda mengaktifkan startup.</value>
+    <value>Untuk pengalaman pengguna yang terbaik, kami mengesyorkan agar anda mengaktifkan Permulaan.</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
-    <value>Startup</value>
+    <value>Permulaan</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
-    <value>Ketik atau klik di sini untuk menyesuaikan</value>
+    <value>Tekan atau klik di sini untuk megubahsuai mengikut citarasa sendiri</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
-    <value>Sambungan berbilang</value>
+    <value>Sambungan pelbagai</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
     <value>Sambung</value>
@@ -413,7 +413,7 @@
     <value>KN</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
-    <value>Kes</value>
+    <value>Bekas</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>Cas</value>
@@ -425,13 +425,13 @@
     <value>Muat turun</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
-    <value>Dilumpuhkan</value>
+    <value>Ditutup</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
-    <value>Dilumpuhkan</value>
+    <value>Ditutup</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
-    <value>Ulanghidup</value>
+    <value>Penghidupan semula</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Taip kekunci pintas</value>
@@ -446,37 +446,37 @@
     <value>Auto henti</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Hentikan mainan selepas memutuskan sambungan headphone.</value>
+    <value>Hentikan mainan selepas memutuskan sambungan fon kepala.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>Notifikasi bateri lemah</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
-    <value>Tunjukkan notifikasi apabila cas headphone berada di bawah nilai yang ditentukan.</value>
+    <value>Tunjukkan notifikasi apabila peratus bateri fon kepala berada di bawah nilai yang ditentukan.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>Matikan</value>
+    <value>Tutup</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
     <value>Bluetooth dimatikan</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
-    <value>Hidupkan Bluetooth untuk memaparkan headphone</value>
+    <value>Hidupkan Bluetooth untuk memaparkan fon kepala</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Tetapan Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
-    <value>Pasangkan headphone ke komputer dan mulakan semula aplikasi</value>
+    <value>Pasangkan fon kepala ke komputer dan mulakan semula aplikasi</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
-    <value>Cara memasangkan headphone</value>
+    <value>Cara penyambungan fon kepala</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>Bluetooth LE tidak disokong</value>
   </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
-    <value>Headphone</value>
+    <value>Fon kepala</value>
   </data>
   <data name="Menu_Item6.Content" xml:space="preserve">
     <value>Keutamaan</value>
@@ -497,52 +497,52 @@
     <value>Temui MagicPods 2.0</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
-    <value>Antara muka direka semula, tetapan individu dan banyak lagi. Beberapa tetapan telah ditukar. Buka aplikasi untuk menyesuaikan.</value>
+    <value>Paparan direka semula, tetapan individu dan banyak lagi. Beberapa tetapan telah ditukar. Buka aplikasi untuk penyesuaian.</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>Mempersonalisasikan setiap headphone untuk disesuaikan dengan pilihan anda</value>
+    <value>Mempersonalisasikan setiap fon kepala untuk disesuaikan dengan pilihan anda</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
-    <value>Kekunci pintas global untuk menyambung atau memutuskan sambungan headphone.</value>
+    <value>Kekunci pintas global untuk menyambung atau memutuskan sambungan fon kepala.</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>Sambung kekunci pintas</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>Airpods tidak dijumpai. Pastikan Airpods sudah berpasangan dengan komputer ini dan mula semula aplikasi ini.</value>
+    <value>Airpods tidak dapat dijumpai. Pastikan Airpods telah berpasangan dengan komputer ini dan mula semula aplikasi ini.</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% cas tinggal dalam AirPods. Mengecas Airpods anda.</value>
+    <value>{0}% bateri tinggal dalam AirPods. Sila cas Airpods anda.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
-    <value>Turunkan volum</value>
+    <value>Kurangkan kelantangan</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Mainan berhenti apabila anda mengeluarkan satu AirPods dari telinga atau berhenti sepenuhnya apabila kedua-dua AirPods dikeluarkan.</value>
+    <value>Ulangan balik berhenti apabila anda mengeluarkan satu AirPods dari telinga atau berhenti sepenuhnya apabila kedua-dua AirPods dikeluarkan.</value>
   </data>
   <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
     <value>Laporkan isu</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Megurangkan masa pencarian AirPods. Hidupkan jika anda rasa tiada orang lain yang menggunakan AirPods disekeliling anda.</value>
+    <value>Megurangkan masa pencarian AirPods. Hidupkan jika anda rasa tiada orang lain yang menggunakan AirPods di sekeliling anda.</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Ikon dulang sistem akan menunjukkan cas purata AirPods kiri dan kanan apabila disambungi. Ikon kemaskini setiap minit.</value>
+    <value>Ikon dulang sistem akan menunjukkan peratus purata bateri AirPods kiri dan kanan apabila disambungkan. Ikon di kemaskini setiap minit.</value>
     <comment>Changed</comment>
   </data>
   <data name="Text_Help" xml:space="preserve">
-    <value>Tolong</value>
+    <value>Bantuan</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
     <value>Info bateri</value>
     <comment>Not used now</comment>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>Aplikasi akan menutup dan semua fungsi akan dimatikan.</value>
+    <value>Aplikasi akan ditutup dan semua fungsi akan dimatikan.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>Volum direndahkan apabila anda mengeluarkan satu AirPods daripada telinga, atau dipulihkan apabila anda mengeluarkan kedua-duanya.</value>
+    <value>Kelantangan dikurangkan apabila anda mengeluarkan satu AirPods daripada telinga, atau ditetapkan semula apabila anda mengeluarkan kedua-duanya.</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
     <value>Tunjukkan atau sembunyikan butang «Sambung» pada tetingkap timbul. Menekan butang akan menyambungkan AirPods.</value>
@@ -552,16 +552,16 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>Permainan berhenti dan volum direndahkan apabila anda mengeluarkan satu AirPods daripada telinga anda, atau berhenti sepenuhnya dan volum dipulihkan apabila anda mengekeluarkan kedua-dua AirPods.</value>
+    <value>Permainan berhenti dan kelantangan dikurangkan apabila anda mengeluarkan satu AirPods daripada telinga anda, atau berhenti sepenuhnya dan kelantangan ditetapkan semula apabila anda mengeluarkan kedua-dua AirPods.</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods menyokong kebanyakan headphone AirPods dan Beats</value>
+    <value>MagicPods menyokong kebanyakan fon kepala AirPods dan Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Bawa kes AirPods anda sedekat mungkin dengan komputer anda dan bukanya</value>
+    <value>Bawa bekas AirPods anda sedekat mungkin dengan komputer anda dan bukanya</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
-    <value>Tukar audio daripada AirPods kepada pembesar suara lalai apabila kedua-dua AirPods dikeluarkan daripada telinga.</value>
+    <value>Tukar audio daripada AirPods kepada pembesar suara asal apabila kedua-dua AirPods dikeluarkan daripada telinga.</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
     <value>VoiceOver mengumumkan notifikasi apabila AirPods disambungkan dan ditetapkan sebagai peranti output audio.</value>
@@ -570,18 +570,24 @@
     <value>Tidak semua aplikasi daripada senarai boleh menghantar pemberitahuan, sesetengah aplikasi mungkin tiada dalam senarai.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Fitur "Notifikasi VoiceOver" dimatikan, tidak boleh mendapatkan akses kepada notifikasi. Sila buka «Privasi dan notifikasi»‎, benarkan akses notifikasi, kemudian hidupkan "Notifikasi VoiceOver".</value>
+    <value>Ciri-ciri "Notifikasi VoiceOver" dimatikan, tidak boleh mendapatkan akses kepada notifikasi. Sila buka «Privasi dan notifikasi»‎, benarkan akses notifikasi, kemudian hidupkan "Notifikasi VoiceOver".</value>
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>Sambungan dibatalkan</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>AirPods lain sudah disambungkan, sila putuskan sambungannya dahulu.</value>
+    <value>AirPods lain sudah disambungkan, sila putuskan sambungan dahulu.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Untuk pengalaman pengguna yang terbaik, kami mengesyorkan agar anda mengaktifkan startup. Anda boleh melakukan ini dari tab «Startup» dalam Task Manager.</value>
+    <value>Untuk merasai penggunaan yang optimum, kami mengesyorkan agar anda mengaktifkan Permulaan. Anda boleh melakukan ini dari tab «Permulaan» dalam Task Manager.</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>Dua atau lebih headphone disambungkan, biarkan hanya satu disambungkan</value>
+    <value>Dua atau lebih fon kepala disambungkan, biarkan hanya satu disambungkan</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Tukar imej</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Mengembalikan imej</value>
   </data>
 </root>
