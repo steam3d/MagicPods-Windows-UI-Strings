@@ -89,7 +89,7 @@
     <value>Hangerő csökkentése</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Inditsa újra az alkalmazást az használathoz.</value>
+    <value>Indítsa újra az alkalmazást a beállítások módosításához.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Egyéb</value>
@@ -101,7 +101,7 @@
     <value>Segitség kérése</value>
   </data>
   <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
-    <value>Kérdés jelentése</value>
+    <value>Hiba jelentése</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Gyors keresés</value>
@@ -180,7 +180,7 @@
     <value>AirPods keresési rádiusz</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
-    <value>Mi a keresési rádiusz?</value>
+    <value>Mi az a keresési rádiusz?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>Tipp.</value>
@@ -229,7 +229,7 @@
     <value>A MagicPods támogatja a legtöbb AirPods és Beats fül- és fejhallgatókat</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Hozza az AirPods dobozát a közel a számítógépéhez, majd nyissa ki</value>
+    <value>Hozza az AirPods dobozát a lehető legközelebb a számítógépéhez, majd nyissa ki</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Következő</value>
@@ -251,13 +251,13 @@
     <value>Mindegyik (hangerő csökkenése + lejátszás/szünet)</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>Az alkalmazás be fog zárulni és minden funkció le lessz tiltva.</value>
+    <value>Az alkalmazás be fog zárulni és minden funkció le lesz tiltva.</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>Az AirPods nem található. Győződjön meg róla, hogy az AirPods párosítva van ehhez az eszközhöz, majd indítsa újra az alkalmazást.</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>A felugró ablak megjelenítése vagy elrejtése, mint például az iPhone készüléken, amikor megnyitja a dobozt.</value>
+    <value>A felugró ablak megjelenítése vagy elrejtése, mint az iPhone készüléken, amikor felnyitja a dobozt.</value>
   </data>
   <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
     <value>Közepes</value>
@@ -327,7 +327,7 @@
     <value>Hang</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>Ha az ablak nem jelenik meg, nyissa meg a tokot AirPods belsejében, majd csúsztassa a csúszkát jobbra, amíg az animáció meg nem jelenik.</value>
+    <value>Ha az ablak nem jelenik meg, nyissa ki a tokot AirPods-al a belsejében, majd csúsztassa a csúszkát jobbra, amíg az animáció meg nem jelenik.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>Automatikus hangkimenet váltás</value>
@@ -462,7 +462,7 @@
     <value>kapcsolat létrehozása</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
-    <value>csatlakoztassa le eszközről</value>
+    <value>Leválasztás</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
     <value>a leválasztás folyamatában</value>
@@ -483,13 +483,13 @@
     <value>Nincs párosított fejhallgató</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
-    <value>Hogyan kell párosítsa fejhallgatót</value>
+    <value>Hogyan párosítson fejhallgatót</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>A Bluetooth LE nem támogatott</value>
   </data>
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>Más fejhallgatók csatlakoztatása/leválasztása folyamatban van, várja meg a befejezést, és próbálja újra</value>
+    <value>Más fejhallgatók csatlakoztatása / leválasztása folyamatban van, várja meg a befejezést és próbálja újra</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Kikapcsolva</value>
@@ -498,7 +498,7 @@
     <value>Kikapcsolva</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
-    <value>lefordít</value>
+    <value>Fordítás</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>Alacsony töltöttségi szint értesítés</value>
@@ -510,7 +510,7 @@
     <value>bluetooth kikapcsolva</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>kikapcsolva</value>
+    <value>Ki</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
     <value>Kapcsolja be a Bluetooth funkciót a fejhallgató megjelenítéséhez</value>
@@ -552,13 +552,13 @@
     <value>Újratervezett felület, egyéni beállítások és még sok más. Néhány beállítás módosult. Nyissa meg az alkalmazást a testreszabáshoz.</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>Minden fejhallgatót egyedileg szabható saját igényeinek megfelelően</value>
+    <value>Szabja testre fejhallgatóit saját igényeinek megfelelően</value>
   </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
     <value>Fejhallgató</value>
   </data>
   <data name="Menu_Item6.Content" xml:space="preserve">
-    <value>preferenciák</value>
+    <value>Preferenciák</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
     <value>Globális gyorsbillentyű a fejhallgató csatlakoztatásához vagy leválasztásához.</value>
@@ -576,9 +576,15 @@
     <value>Fuss, ugorj és kerüld ki egy veszélyes kaland játékban</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Keresési alkalmazás</value>
+    <value>Alkalmazások keresése</value>
   </data>
   <data name="Support_Weblate_Description.Text" xml:space="preserve">
     <value>Fordítson, szerkesszen vagy adjon hozzá új nyelveket</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Kép módosítása</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Kép visszaállítása</value>
   </data>
 </root>
