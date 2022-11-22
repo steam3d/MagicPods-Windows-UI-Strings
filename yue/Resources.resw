@@ -162,4 +162,15 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
   </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>顯示AirPods充電圖標</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+    <value>當AirPods連接時，系統托盤圖標將顯示你嘅左右耳機嘅平均電量。圖標每分鍾更新一次。</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+    <value>電量圖標</value>
+  </data>
 </root>
