@@ -119,9 +119,11 @@
   </resheader>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>AirPods didn't find. Be sure that AirPods paired to this device and restart the app.</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>Your PC doesn't support Bluetooth low energy</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% charge left on AirPods. Charge your AirPods.</value>
@@ -453,9 +455,11 @@
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>Connection canceled</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
     <value>Other AirPods are already connected, please disconnect them first.</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>For the best user experience, we recommend that you enable startup. You can do this from the «Startup» tab in Task Manager.</value>
@@ -591,6 +595,7 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Bluetooth settings</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
     <value>No paired headphones</value>
@@ -606,6 +611,7 @@
   </data>
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
     <value>Other headphones are connecting / disconnecting, wait for completion and try again</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
   </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
     <value>Headphones</value>
@@ -648,5 +654,38 @@
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>Restore image</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Turn on</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>More details</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter not found</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Connect a Bluetooth adapter</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Multiple Bluetooth adapters connected</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Leave only one Bluetooth adapter connected</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic not supported</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Connect a Bluetooth adapter with Bluetooth Classic support and restart the application</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Connect a Bluetooth adapter with Bluetooth LE support and restart the application</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter initialization error</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Restarting the app might help</value>
   </data>
 </root>
