@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Ero yii ko ba Bluetooth mu</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Ikilo</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Kekere</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Se atunto</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>Iwari eti</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Diwon didun</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>akoko sisọ to kere</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Iranlowo</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Fi aisedede sun</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Apejuwe isele</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>Sawari kiakia</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Ibere</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>A ko ri AirPods. Wo boya AirPods ti sopo mo ero yii ki o si tun app yii na bere.</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% agbara batiri AirPods. Fi AirPods re sina.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Gbe jade</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Fihan tabi pamo agbejade bi iPhone, ti a ba si apamowo.</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Iwọn Agbejade</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Àárín</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Nla</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Sise/Duro</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Mejeji (Diwon didun + sise/simi)</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>Si sere a simi ti a ba yo eti kan ninu AirPods tabi duro patapata ti a ba yo eti AirPods mejeji.</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Eyi to ku</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Wulo ti a ba n sise pelu Premiere Pro tabi Audition. Nilo ki a tun sopo AirPods wa ti a ba tan. O le je ki batiri wa tete ku.</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>Sawari AirPods Kaikia. Tan nigba ti o mo daju pe ko si elomi ti o n lo AirPods Layika re.</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Eto</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Bere ti a ba tan ero wa</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>O le mu sise tabi ma mu sise ni tabili Ibẹrẹ ni oluṣakoso Iṣẹ-ṣiṣe.</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Kuro</value>
+  </data>
 </root>
