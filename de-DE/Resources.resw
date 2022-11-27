@@ -541,7 +541,7 @@
     <value>Verbindung wird getrennt</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
-    <value>Case</value>
+    <value>Ladecase</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
     <value>Neue Oberfläche, individuelle Einstellungen und mehr. Manche Einstellungen wurden geändert. Öffne die app zum ändern.</value>
@@ -638,5 +638,38 @@
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
     <value>Bild ändern</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Einschalten</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Mehr Details</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth-Adapter konnte nicht gefunden werden</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Verbinden Sie einen Bluetooth-Adapter</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Mehrere Bluetooth-Adapter verbunden</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Schließen Sie nur einen Bluetooth-Adapter an</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic wird nicht unterstützt</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Schließen Sie einen Bluetooth-Adapter an, der Bluetooth Classic unterstützt, und starten Sie die Anwendung neu</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Initialisierung des Bluetooth Adapters fehlgeschlagen</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Eventuell hilft ein Neustart der App</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Schließen Sie einen Bluetooth-Adapter an, der Bluetooth LE unterstüzt, und starten Sie die Anwendung neu</value>
   </data>
 </root>
