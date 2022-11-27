@@ -663,4 +663,13 @@
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
     <value>连接一个支持蓝牙经典的蓝牙适配器，并重新启动应用程序</value>
   </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>请在连接支持低功耗蓝牙的蓝牙适配器后重新启动应用</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>蓝牙适配器初始化失败</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>重启应用可能解决此问题</value>
+  </data>
 </root>
