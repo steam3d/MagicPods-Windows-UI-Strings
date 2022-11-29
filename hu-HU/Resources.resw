@@ -71,13 +71,13 @@
     <value>Hibakeresési napló</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>A "Csatlakozás" gomb megjelenítése vagy elrejtése a felbukkanó ablakban. A gomb megnyomásával az AirPods csatlakozik.</value>
+    <value>A «Csatlakozás» gomb megjelenítése vagy elrejtése a felbukkanó ablakban. A gomb megnyomásával az AirPods csatlakozik.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>Ha nincsenek megnyitott lejátszók, a Windows figyelmen kívül hagyja a parancsot.</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Sikertelen volt az AirPodsra való kapcsolódás. Próbáljon manuálisan rákapcsolódni.</value>
+    <value>Sikertelen volt az AirPodsra való csatlakozás. Próbáljon manuálisan csatlakozni.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Csökkenti az AirPods keresési idejét. Kapcsolja be, ha biztos benne, hogy senki más nem használ AirPods-ot a közelében.</value>
@@ -165,7 +165,7 @@
     <value>Támogatás</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
-    <value>Bíztosan be akarod zárni a MagicPods-ot?</value>
+    <value>Biztosan be akarod zárni a MagicPods-ot?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
     <value>Bezárás</value>
@@ -183,7 +183,7 @@
     <value>Mi az a keresési rádiusz?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
-    <value>Tipp.</value>
+    <value>Tipp</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Ne állítson be 65-nél nagyobb értéket. Bizonyos esetekben az animáció véletlenül jelenhet meg.</value>
@@ -204,7 +204,7 @@
     <value>Küldje el a «Play» parancsot az AirPods csatlakoztatása után.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
-    <value>Az összes beállítás vissza lesz állítva. Szeretnéd folytatni?</value>
+    <value>Az összes beállítás vissza lesz állítva. Szeretné folytatni?</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
     <value>Igen, beállítások visszaállítása</value>
@@ -360,7 +360,7 @@
     <value>Válassz egy hangot</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
-    <value>Nem lett kiválasztva elérhető vagy nem elérhető egy sem</value>
+    <value>Nincs hang kiválasztva vagy nem elérhető</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
     <value>Próbaszöveg felolvastatása</value>
@@ -369,7 +369,7 @@
     <value>VoiceOver értesítések a következő küldőktől</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
-    <value>A felolvasó csak egy nyelvben tud felolvasni szöveget.</value>
+    <value>A felolvasó csak egy nyelven tud szöveget felolvasni.</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
     <value>Beszéd</value>
@@ -459,19 +459,19 @@
     <value>Két vagy több fejhallgató csatlakoztatva, csak egyet hagyjon csatlakoztatva</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
-    <value>kapcsolat létrehozása</value>
+    <value>Csatlakozás</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
     <value>Leválasztás</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
-    <value>a leválasztás folyamatában</value>
+    <value>Leválasztás</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
-    <value>eset</value>
+    <value>Doboz</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
-    <value>töltse</value>
+    <value>Töltés</value>
   </data>
   <data name="Support_Button_Hide.Content" xml:space="preserve">
     <value>Elrejt</value>
@@ -525,7 +525,7 @@
     <value>Újrakezd</value>
   </data>
   <data name="App_Error.Title" xml:space="preserve">
-    <value>váratlan hiba történt</value>
+    <value>Váratlan hiba történt</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
     <value>Indítsa újra az alkalmazást az alkalmazás munkájának folytatásához. Ha a hiba továbbra is fennáll, próbálja meg újraindítani a számítógépet.</value>
@@ -546,7 +546,7 @@
     <value>A fejhallgató leválasztása után szüneteltesse a lejátszást.</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
-    <value>Találkozik a MagicPods 2.0</value>
+    <value>Fedezze fel a MagicPods 2.0</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
     <value>Újratervezett felület, egyéni beállítások és még sok más. Néhány beállítás módosult. Nyissa meg az alkalmazást a testreszabáshoz.</value>
