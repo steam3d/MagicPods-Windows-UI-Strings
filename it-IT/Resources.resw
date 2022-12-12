@@ -453,7 +453,7 @@
     <value>Connessioni multiple</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
-    <value>Mi sto collegando...</value>
+    <value>Connessione in corso</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
     <value>Due o più cuffie connesse, lascia solo un paio di cuffie collegate alla volta</value>
@@ -501,7 +501,7 @@
     <value>Notifica batteria scarica</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
-    <value>Mostra una notifica quando le cuffie hanno carica inferiore a:</value>
+    <value>Mostra una notifica quando le cuffie hanno carica inferiore al valore specificato.</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
     <value>Metti in pausa dopo avere scollegato le cuffie.</value>
@@ -567,7 +567,7 @@
     <value>Disconnetti</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
-    <value>Mi sto disconnettendo...</value>
+    <value>Disconnessione in corso</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>In carica</value>
@@ -586,5 +586,38 @@
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>Ripristino dell'immagine</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Più dettagli</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Scheda bluetooth non trovata</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Collega una scheda bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Lascia collegata una sola scheda bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic non supportato</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Collegare una scheda Bluetooth che supporta Bluetooth LE e riavviare l'applicazione</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Errore durante l'inizializzazione della scheda bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Riavviare l'applicazione potrebbe aiutare</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Accendi</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Più schede bluetooth collegate</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Collegare una scheda Bluetooth che supporta Bluetooth Classic e riavviare l'applicazione</value>
   </data>
 </root>
