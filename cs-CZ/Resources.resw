@@ -216,10 +216,10 @@
     <value>Velké</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>Resetovat Nastavení</value>
+    <value>Resetovat nastavení</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Přehrávání se pozastaví když vyjmete jedno z AirPods sluchátek nebo zastaví, když vyjmete obě.</value>
+    <value>Přehrávání se pozastaví když vyjmete jedno ze sluchátek nebo zastaví, když vyjmete obě.</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Nízká latence zvuku</value>
@@ -330,10 +330,10 @@
     <value>Střední</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods nebyly nalezeny. Ověřte si, že jsou AirPods spárované s tímto zařízením a restartujte aplikaci.</value>
+    <value>AirPody nebyly nalezeny. Ověřte, že jsou AirPody spárované s tímto zařízením a restartujte aplikaci.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Vaše PC nepodporuje funkci Bluetooth low energy</value>
+    <value>Vaše zařízení nepodporuje Bluetooth Low Energy</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Varování</value>
@@ -589,5 +589,26 @@
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>Obnovit obrázek</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Zapnout</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Více informací</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Adaptér Bluetooth nebyl nalezen</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Připojte adaptér Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Je připojeno více adaptéru Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Nechte zapojený jenom jeden adaptér Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic není podporován</value>
   </data>
 </root>
