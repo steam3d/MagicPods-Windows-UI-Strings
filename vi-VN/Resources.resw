@@ -564,7 +564,7 @@
     <value>Tắt Bluetooth</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
-    <value>Thông báo phim yếu</value>
+    <value>Thông báo pin yếu</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Cài đặt Bluetooth</value>
@@ -580,5 +580,44 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>Bluetooth LE không được hỗ trợ</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Đổi ảnh</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Khôi phục ảnh</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Bật Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Thông tin thêm</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Không tìm thấy trình điều khiển Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Hãy kết nối trình điều khiển Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>PC này kết nối với nhiều trình điều khiển Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Hãy kết nối với 1 trình điều khiển duy nhất</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic không được hỗ trợ</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Kết nối trình điều khiển Bluetooth có hỗ trợ Bluetooth LE và khởi động lại ứng dụng</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Lỗi khởi tạo trình điều khiển Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Hãy thử khởi động lại ứng dụng</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Kết nối trình điều khiển Bluetooth có hỗ trợ Bluetooth Classic và khởi động lại ứng dụng</value>
   </data>
 </root>
