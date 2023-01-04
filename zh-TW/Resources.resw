@@ -160,7 +160,7 @@
     <value>低音訊延遲</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>搭配使用 Premiere Pro 或 Audition 時有很好的效果，啟用後需要重新連線 AirPods。此功能可能會增加電池消耗量。</value>
+    <value>搭配使用 Premiere Pro 或 Audition 時有很好的效果，啟用後需要重新連線 AirPods。此功能可能會增加電力消耗量。</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
     <value>取得協助</value>
@@ -344,7 +344,7 @@
     <value>新增 AirPods 至 Windows 藍牙裝置清單</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods能夠與絕大多數的AirPods和Beats系列耳機搭配使用</value>
+    <value>MagicPods 能夠與大多數的 AirPods 和 Beats 系列藍牙耳機搭配使用</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>請將 AirPods 充電盒盡可能地靠近您的電腦並打開</value>
@@ -398,7 +398,7 @@
     <value>旁白通知</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>連線 AirPods 並將其設為音訊輸出裝置時，旁白會朗讀通知。</value>
+    <value>連線 AirPods 並將其設為音效輸出裝置時，旁白會朗讀通知。</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>設定</value>
@@ -512,7 +512,7 @@
     <value>多重連線</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>兩個或更多耳機已連線，留下一個連線</value>
+    <value>兩組或更多組耳機已連線，請保留只有一組連線</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
     <value>正在連線</value>
@@ -596,7 +596,7 @@
     <value>重新啟動應用程式來嘗試繼續目前的工作。如果錯誤持續發生，請嘗試重新啟動您的電腦。</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
-    <value>沒有配對的耳機</value>
+    <value>沒有已配對的耳機</value>
   </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
     <value>耳機</value>
@@ -629,15 +629,84 @@
     <value>個別設定每一副耳機以符合您的使用習慣</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
-    <value>全域快捷鍵用來連線或中斷連線到耳機。</value>
+    <value>全域快捷鍵用來與耳機連線或中斷連線。</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>連線快捷鍵</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
-    <value>更改圖像</value>
+    <value>變更圖片</value>
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
-    <value>恢復圖像</value>
+    <value>復原圖片</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>啟動</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>更多資訊</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>連接一個藍牙傳輸器</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>已連接多個藍牙傳輸器</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>無法支援傳統藍牙</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>找不到藍牙傳輸器</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>請確保僅有一個藍牙傳輸器已連接</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>藍牙傳輸器初始化失敗</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>重新啟動應用程式可能會有幫助</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>請連接一個支援傳統藍牙的藍牙傳輸器，並重新啟動應用程式</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>請連接一個支援低功耗藍牙標準的藍牙傳輸器，並重新啟動應用程式</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>音訊串流</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>新增裝置</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>自動靜音</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>連線到串流裝置失敗，請確定串流裝置的藍牙已啟用。</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>沒有已配對的裝置，或藍牙功能已關閉</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>串流裝置</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>音效輸出</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>當音效輸出裝置變更時顯示提示視窗。</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>頂部置中</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>底部置中</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>從藍牙裝置串流音訊到您的電腦，將電腦作為藍牙揚聲器使用。</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>當音效裝置變更為電腦揚聲器時，將串流裝置靜音。</value>
   </data>
 </root>
