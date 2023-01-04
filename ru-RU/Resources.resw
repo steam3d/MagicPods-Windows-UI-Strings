@@ -672,4 +672,40 @@
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
     <value>Включить</value>
   </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Транслировать звук</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Добавить новое устройство</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Автоматически отключать звук</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Не удалось подключить транслирующее устройство. Убедитесь, что на транслирующем устройстве включен Bluetooth.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Транслирующие устройство</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Аудиовыход</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Показывать всплывающее окно, когда аудиовыход изменен.</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>По центру сверху</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>По центру снизу</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Транслировать звук с Bluetooth устройств на компьютер. Компьютер выступает в качестве Bluetooth динамиков.</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Отключать звук транслирующего устройства, когда аудиовыход изменен на динамики компьютера.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Нет сопряженных устройств или отключен Bluetooth</value>
+  </data>
 </root>
