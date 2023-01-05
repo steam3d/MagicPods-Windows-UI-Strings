@@ -620,4 +620,40 @@
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
     <value>Spróbuj ponownie uruchomić aplikację</value>
   </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>strumieniowanie audio</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Dodaj nowe urządzenie</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Wyciszenie automatyczne</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Błąd połączenia urządzenia. Upewnij się, że Bluetooth jest dostępny na urządzeniu do streamowania.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Urządzenie do streamowania</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Wyjście dźwięku</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Pokaż powiadomienie kiedy zmieni się wyjście dźwięku.</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Góra środek</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Środek dół</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Brak połączonych urządzeń bądź wyłączony Bluetooth</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Przesyłaj strumieniowo dźwięk z urządzeń Bluetooth do komputera. Komputer działa jako głośnik Bluetooth.</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Wycisz dźwięk urządzenia, gdy dźwięk zostanie zmieniony na głośniki komputera.</value>
+  </data>
 </root>
