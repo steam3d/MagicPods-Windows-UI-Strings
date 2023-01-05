@@ -590,4 +590,73 @@
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
     <value>हेडफ़ोन को कंप्यूटर से जोड़ें और एप्लिकेशन को पुनरारंभ करें</value>
   </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>ब्लूटूथ क्लासिक समर्थित नहीं है</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>ब्लूटूथ एडाप्टर आरंभीकरण त्रुटि</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>ऐप को रीस्टार्ट करने से मदद मिल सकती है</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>स्ट्रीमिंग डिवाइस</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>ध्वनि उत्पादन</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>केंद्र शीर्ष</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>केंद्र तल</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>चालू करो</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>अधिक जानकारी</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>ब्लूटूथ एडाप्टर नहीं मिला</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>एक ब्लूटूथ एडाप्टर कनेक्ट करें</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>एकाधिक ब्लूटूथ एडेप्टर जुड़े हुए हैं</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>केवल एक ब्लूटूथ एडाप्टर जुड़ा हुआ छोड़ दें</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>ऑडियो स्ट्रीमिंग</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>एक नया उपकरण जोड़ें</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>ऑटो म्यूट</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>ब्लूटूथ एडेप्टर को ब्लूटूथ क्लासिक समर्थन से कनेक्ट करें और एप्लिकेशन को पुनरारंभ करें</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>ब्लूटूथ एडॉप्टर को ब्लूटूथ LE सपोर्ट के साथ कनेक्ट करें और एप्लिकेशन को पुनरारंभ करें</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>ब्लूटूथ डिवाइस से पीसी पर ऑडियो स्ट्रीम करें। पीसी ब्लूटूथ स्पीकर के रूप में कार्य करता है।</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>साउंड आउट को पीसी स्पीकर में बदलने पर स्ट्रीमिंग डिवाइस का ऑडियो म्यूट करें।</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>स्ट्रीमिंग डिवाइस कनेक्ट करने में विफल। सुनिश्चित करें कि स्ट्रीमिंग डिवाइस पर ब्लूटूथ सक्षम है।</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>कोई युग्मित उपकरण या ब्लूटूथ बंद नहीं</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>ध्वनि आउटपुट बदलने पर पॉप-अप विंडो दिखाएं।</value>
+  </data>
 </root>
