@@ -672,4 +672,40 @@
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
     <value>Ne laissez qu'un seul adaptateur Bluetooth connecté</value>
   </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Diffuser de l'audio depuis un périphérique Bluetooth vers le PC. Le PC est utilisé comme une enceinte Bluetooth.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Streaming Audio</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Ajouter un nouveau périphérique</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Coupure automatique du son</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Coupure automatique du son de l'appareil de diffusion en continu lorsque le son sort vers les haut-parleurs du PC.</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Echec de la connexion au dispositif de streaming. Vérifier que le Bluetooth est activé sur le dispositif de streaming.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Aucun appareil appairé ou Bluetooth désactivé</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Périphérique de diffusion</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Sortie son</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Coin supérieur au centre</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Coin inférieur au centre</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Afficher un pop-up lorsque la sortie son est modifié.</value>
+  </data>
 </root>
