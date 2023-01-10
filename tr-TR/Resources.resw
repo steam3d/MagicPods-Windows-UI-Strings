@@ -675,4 +675,43 @@
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
     <value>Bluetooth LE standardını destekleyen bir Bluetooth adaptörü bağlayın ve uygulamayı yeniden başlatın</value>
   </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Ses aktarımı</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Yeni cihaz ekle</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Otomatik durdurma</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Sesin çalınacağı cihaza bağlanılamadı. Cihazınızda Bluetoothun açık olduğuna emin olun.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Eşlenen cihaz yok veya Bluetooth kapalı</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Yayın yapılacak cihaz</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Ses çıkışı</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Orta üst</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Orta alt</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Görüntüyü yeniden yükle</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Ses aktarımını Bluetooth cihazlardan bilgisayara yap. Bilgisayar Bluetooth hoparölerü işlevi görür.</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Ses çıkışı bilgisayar hoparlörüne geçtiğinde sesin aktarıldığı cihazı sustur.</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Sesin aktarıldığı kaynak değiştirse pop-up penceresi göster.</value>
+  </data>
 </root>
