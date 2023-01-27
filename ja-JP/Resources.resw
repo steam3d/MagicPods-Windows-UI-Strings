@@ -88,7 +88,7 @@
     <value>この設定をタスクマネージャーのスタートアップ タブで有効または無効にできます。</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>アプリケーションを再起動して変更を適用します。</value>
+    <value>変更を適用するにはアプリケーションを再起動してください。</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
     <value>AirPodsが接続されている場合、システムトレイアイコンに左右のヘッドホンの平均充電量が表示されます。 アイコンは毎分更新されます。</value>
@@ -155,7 +155,7 @@
     <value>低遅延</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Premiere ProやAuditionを組み合わせると良い効果がありますが、バッテリーの消費量が増える可能性があります。有効にすると、AirPodsを再接続する必要があります。</value>
+    <value>Premiere ProやAuditionと組み合わせると良い効果がありますが、バッテリーの消費量が増える可能性があります。有効にした後、AirPodsを再接続する必要があります。</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
     <value>ヘルプ</value>
@@ -351,13 +351,13 @@
     <value>Voice Overの設定</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
-    <value>音声を選択</value>
+    <value>声を選んでください</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
-    <value>利用可能な音声がないか、選択されていません</value>
+    <value>利用可能な声がないか、選択されていません</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
-    <value>文章を選択した音声で読み上げます</value>
+    <value>文章を選択した声で読み上げます</value>
   </data>
   <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
     <value>読み上げる</value>
@@ -366,7 +366,7 @@
     <value>VoiceOverが通知を読み上げるアプリケーションを選択</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
-    <value>すべてVoice Over 通知を有効にします</value>
+    <value>すべての通知でVoice Overを有効にする</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
     <value>すべてのアプリケーションを表示</value>
@@ -375,7 +375,7 @@
     <value>プライバシーと通知</value>
   </data>
   <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
-    <value>音声を追加</value>
+    <value>声を追加</value>
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>接続がキャンセルされました</value>
@@ -537,7 +537,7 @@
     <value>ホットキーで接続</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
-    <value>グローバルホットキーでヘッドフォンに接続または切断する。</value>
+    <value>ヘッドフォンに接続または切断するためのグローバルホットキーを設定できます。</value>
   </data>
   <data name="Support_DeveloperApps.Text" xml:space="preserve">
     <value>開発者の他のアプリケーション</value>
@@ -580,5 +580,80 @@
   </data>
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
     <value>他のヘッドホンが接続中または切断中のため、完了を待って再試行してください</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Bluetooth デバイスから PC にオーディオをストリーミングします。 PC は Bluetooth スピーカーとして機能します。</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>サウンド出力が PC スピーカーに変更されたときに、ストリーミング デバイスのオーディオをミュートします。</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>サウンド出力が変更されたときに、ポップアップウィンドウを表示します。</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>画像を変更</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>画像を復元</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>オンにする</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>詳細を表示</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetoothアダプターが見つかりません</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Bluetoothアダプターを接続してください</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>複数のBluetoothアダプターが接続されています</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>接続するBluetoothアダプターを一つだけにしてください</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classicがサポートされていません</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth ClassicをサポートしているBluetoothアダプターを接続し、アプリケーションを再起動してください</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth LEをサポートしているBluetoothアダプターを接続し、再起動してください</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetoothアダプターのイニシャライズに失敗</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>アプリを再起動すると解決する場合があります</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>オーディオ ストリーミング</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>新しいデバイスを追加</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>自動ミュート</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>ストリーミングデバイスの接続に失敗しました。ストリーミングデバイスのBluetoothがオンになっていることを確認してください。</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>ペアリングされたデバイスがないか、Bluetoothがオフになっています</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>ストリーミングデバイス</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>サウンド出力</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>中央の上</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>中央の下</value>
   </data>
 </root>
