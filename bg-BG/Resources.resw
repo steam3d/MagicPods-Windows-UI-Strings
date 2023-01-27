@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,165 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Предупреждение</value>
+  </data>
+  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+    <value>Изскачащ прозорец</value>
+  </data>
+  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+    <value>Размер на прозореца</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+    <value>Малък</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+    <value>Среден</value>
+  </data>
+  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+    <value>Голям</value>
+  </data>
+  <data name="Settings_Button1.Content" xml:space="preserve">
+    <value>Възстанови настройки</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Възпроизвеждане/Пауза</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Други</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>Ниска латентност на аудиото</value>
+  </data>
+  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+    <value>Помощ</value>
+  </data>
+  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+    <value>Дебъг лог</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>Бързо търсене</value>
+  </data>
+  <data name="Settings_Settings.Text" xml:space="preserve">
+    <value>Настройки</value>
+    <comment>Not used</comment>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Стартиране</value>
+  </data>
+  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+    <value>Показване на заряд на AirPods върху иконата</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Затвори MagicPods</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Затваряне на MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Затвори</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Отмени</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>Списък на поддържани плеъри</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>Радиус за търсене на AirPods</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Подсказка</value>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>Покажи или скрий бутона «Свържи» на изскачащия прозорец. Натискането на бутона ще свърже AirPods.</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Автоматично свързване</value>
+  </data>
+  <data name="Notification_AirpodsNotFound" xml:space="preserve">
+    <value>AirPods не са намерени. Уверете се че AirPods са сдвоени с това устройство и рестартирайте приложението.</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% оставащ заряд. Заредете вашите AirPods.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+    <value>Покажи прозорец</value>
+  </data>
+  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+    <value>Покажи или скрий изскачащ прозорец като на iPhone при отваряне на кутийката.</value>
+  </data>
+  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
+    <value>Вашият компютър не поддържа Bluetooth Low Energy</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>Ушна детекция</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Намали звука</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>И двете (Намали звука + Възпроизвеждане/Пауза)</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>Възпроизвеждането се паузира, когато извадите една слушалка от ухото или спира когато извадите и двете слушалки.</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Полезно при работа в Premiere Pro или Audition. Изисква се повторно свързване на AirPods след включване. Може да увеличи консумацията на батерия.</value>
+  </data>
+  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+    <value>Докладвайте проблем</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>Намалява времето за търсене на AirPods. Включете, ако сте сигурни, че никой около Вас не използва AirPods.</value>
+  </data>
+  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+    <value>Стартиране при включване</value>
+  </data>
+  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+    <value>Можете да активирате или деактивирате от Startup раздела на диспечер на задачите.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Стартирането е деактивирано от групова полица или не се поддържа на това устройство.</value>
+  </data>
+  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+    <value>Скрий икона</value>
+    <comment>Changed</comment>
+  </data>
+  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+    <value>Рестартирайте приложенията, за да приложите промените.</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Изход</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Общи настройки</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Експериментални функции</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Поддръжка</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Приложението ще бъде затворено и всички функции ще бъдат деамтивирани.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>Силата на звука намалява, когато извадите една слушалка от ухото или се възстановява, когато извадите/поставите и двете слушалки.</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>Какво е радиус на търсене?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Не задавайте стойност по-висока от 65. В някои случаи анимацията може да се появи случайно.</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>Покажи бутон «Свържи»</value>
+  </data>
 </root>
