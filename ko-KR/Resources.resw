@@ -124,7 +124,7 @@
     <value>사용자의 PC는 저전력 Bluetooth를 지원하지 않습니다</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>AirPods의 남은 배터리 {0}%. AirPods을 충전해주세요.</value>
+    <value>AirPods의 배터리가 {0}% 남았어요. AirPods을 충전해주세요.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>경고</value>
@@ -632,5 +632,80 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>Bluetooth LE는 지원되지 않습니다</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>이미지 변경</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>기본 이미지로 복구</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetooth 어댑터 초기화 오류</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Bluetooth 어댑터를 연결해주세요</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth Classic이 지원되는 Bluetooth 어댑터를 연결하고 앱을 재시작해주세요</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>오류가 계속되면 앱을 재시작해 보세요</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Bluetooth 켜기</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>자세히 보기</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth 어댑터를 찾지 못했어요</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>여러 개의 Bluetooth 어댑터가 연결되어 있어요</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>한 개의 Bluetooth 어댑터만 연결해 주세요</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>연결된 어댑터가 Bluetooth Classic을 지원하지 않아요</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth LE가 지원되는 Bluetooth 어댑터를 연결하고 앱을 재시작해주세요</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>이 PC로 Bluetooth 기기의 오디오를 스트리밍 합니다. PC를 마치 Bluetooth 스피커처럼 사용할 수 있어요.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>오디오 스트리밍</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>새 기기 추가</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>자동 음소거</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>사운드 출력이 PC 스피커로 변경되면 스트리밍 기기의 볼륨을 음소거합니다.</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>스트리밍 기기와 연결하지 못했어요. 스트리밍 기기의 Bluetooth 설정이 켜져 있는지 확인해 주세요.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>페어링 된 기기가 없거나 Bluetooth가 꺼져있어요</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>스트리밍 기기</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>사운드 출력</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>가운데 상단</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>가운데 하단</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>사운드 출력이 변경되면 팝업 윈도우를 표시합니다.</value>
   </data>
 </root>
