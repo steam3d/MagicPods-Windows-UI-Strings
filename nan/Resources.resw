@@ -238,7 +238,7 @@
     <value>自动播放</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>与 AirPods 建立连接之后发送“播放”指令。</value>
+    <value>与 AirPods 建立连接之后发送“播放”指令。如果没有启动的播放器，Windows会忽略这条指令。</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>所有设置将被恢复至默认。是否继续？</value>
