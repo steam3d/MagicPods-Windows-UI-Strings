@@ -371,7 +371,7 @@
     <value>Jeśli nie widzisz wyskakującego okienka, otwórz etui za pomocą AirPods i przesuń suwak w prawo, aż się pojawi.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Wysyła polecenie odtwarzania po podłączeniu AirPods.</value>
+    <value>Wysyła polecenie odtwarzania po podłączeniu AirPods. Jeśli nie ma otwartych graczy, system Windows zignoruje polecenie.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Na podstawie Twojego użycia sugerujemy wartość o {0}</value>
@@ -597,7 +597,7 @@
     <value>Nie znaleziono adaptera bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
-    <value>Podłącz adapter bluetooth</value>
+    <value>Podłącz adapter Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
     <value>Podłączono wiele adapterów bluetooth</value>
