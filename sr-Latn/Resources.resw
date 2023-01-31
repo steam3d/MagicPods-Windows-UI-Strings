@@ -142,7 +142,7 @@
     <value>Ako se prozor ne pojavi kada otvorite maskicu od AirPods, povucite klizac desno dok se animacija nepojavi.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Pošalje se komanda «Pusti» odmah nakon što se spoje AirPods.</value>
+    <value>Pošalje se komanda «Pusti» odmah nakon što se spoje AirPods. Ako nema otvorenih plejera, Windows će ignorisati komandu.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>Tvoj PC ne podržava niskoenergetski Bluetooth</value>
@@ -309,7 +309,7 @@
     <value>Додајте АирПодс на листу Виндовс Блуетоотх уређаја</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>МагицПодс подржава АирПодс Ген 1-2, АирПодс Про, АирПодс Мак и ПоверБеатс Про</value>
+    <value>MagicPods podržava većinu AirPods i Beats slušalica</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Принесите своју АирПодс футролу што је могуће ближе рачунару и отворите је</value>
@@ -421,5 +421,26 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>За најбоље корисничко искуство препоручујемо да омогућите покретање.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Svetlo</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Tamno</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Koristi sistemsku temu</value>
+  </data>
+  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+    <value>Tema prozora</value>
+  </data>
+  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+    <value>Jezik</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Koristi sistemski jezik</value>
+  </data>
+  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
   </data>
 </root>
