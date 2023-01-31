@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods didn't find. Be sure that AirPods paired to this device and restart the app.</value>
+    <value>AirPods could not be found. Be sure that AirPods are paired to this device then restart the app.</value>
     <comment>Was used in 2.0.5.0 and less</comment>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
@@ -126,7 +126,7 @@
     <comment>Was used in 2.0.5.0 and less</comment>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% charge left on AirPods. Charge your AirPods.</value>
+    <value>{0}% remaining. Charge your headphones.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -148,13 +148,13 @@
     <value>Small</value>
   </data>
   <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
-    <value>Middle</value>
+    <value>Medium</value>
   </data>
   <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
     <value>Large</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>Reset Settings</value>
+    <value>Reset settings</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Ear detection</value>
@@ -169,7 +169,7 @@
     <value>Both (Decrease volume + Play/Pause)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>The playback pauses when you remove one AirPods ear or stops when you remove both AirPods.</value>
+    <value>The playback pauses when one AirPod is removed or stops when both are removed.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Other</value>
@@ -221,24 +221,24 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Restart applications to apply.</value>
+    <value>Restart application to apply changes.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Show AirPods charge on icon</value>
+    <value>Show battery percentage</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>When AirPods are connected, the system tray icon will show the average charge of your left and right headphones. Icon update each minute.</value>
+    <value>Displays average battery percentage of connected headphones.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Battery icon</value>
+    <value>Style</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analog</value>
+    <value>Icon</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digital</value>
+    <value>Text</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Enable Startup</value>
@@ -303,7 +303,7 @@
     <value>Tip</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Don't set a value greater than 65. In some cases, the animation may appear accidentally.</value>
+    <value>Don't set a value greater than 65 as the animation may appear accidentally.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Show «Connect» button</value>
@@ -321,10 +321,11 @@
     <value>Auto play</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Send the «Play» command after connecting the AirPods.</value>
+    <value>Send the «Play» command after connecting the headphones. If there are no open players Windows will ignore the command.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>If there are no open players Windows will ignore the command.</value>
+    <comment>Deprecated</comment>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>All settings will be reset. Do you want to continue?</value>
@@ -343,10 +344,10 @@
     <value>Apply</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Don't remind</value>
+    <value>Ignore</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Failed to connect AirPods. Try to connect manually.</value>
+    <value>Connect to headphones failed. Try to connect manually.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>The playback pauses and the volume decreases when you remove one AirPods from your ear, or stops and the volume restores when you remove both AirPods.</value>
@@ -409,7 +410,7 @@
     <value>VoiceOver notifications</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>VoiceOver announce notifications when AirPods are connected and set as the audio output device.</value>
+    <value>Notifications are announced when headphones are connected and set as the audio output device.</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>Configure</value>
@@ -561,7 +562,7 @@
     <value>An unexpected error has occurred</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Restart the application to resume the work of the application. If the error persists, try restarting your computer.</value>
+    <value>Restarting the application may fix the problem. If the error persists, try restarting your computer.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Type a hotkey</value>
@@ -576,7 +577,7 @@
     <value>Auto pause</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Pause playback after disconnecting headphone.</value>
+    <value>Pause playback after disconnecting headphones.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>Low battery notification</value>
@@ -623,7 +624,7 @@
     <value>Other developer's apps</value>
   </data>
   <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
-    <value>Copy text from any images</value>
+    <value>Copy text from any image</value>
   </data>
   <data name="Support_YAD_Description.Text" xml:space="preserve">
     <value>Run, jump, and dodge in a dangerous adventure game</value>
@@ -632,7 +633,7 @@
     <value>Translate, edit or add new languages</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Search application</value>
+    <value>Search for applications</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
     <value>Meet MagicPods 2.0</value>
@@ -725,10 +726,10 @@
     <value>Center bottom</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
-    <value>Display the battery level</value>
+    <value>Show battery percentage</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>The Hands-Free function (voice communication) of the headphone will not be available. Do not disable Hands-Free manually. Restart applications to apply.</value>
+    <value>The Hands-Free function (voice communication) of the headphone will not be available. Do not disable Hands-Free manually. Restart application to apply changes.</value>
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>Experimental feature</value>
