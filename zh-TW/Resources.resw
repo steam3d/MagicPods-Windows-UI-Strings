@@ -310,7 +310,7 @@
     <value>自動播放</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>當 AirPods 連線成功時自動送出「播放」指令。</value>
+    <value>當 AirPods 連線成功時自動送出「播放」指令。若沒有開啟任何播放器，Windows 將會忽略此指令。</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>若沒有開啟任何播放器，Windows 將會忽略此指令。</value>
