@@ -263,7 +263,7 @@
     <value>自動再生</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>AirPodsを接続した後、«再生»コマンドを送信します。</value>
+    <value>AirPodsを接続した後、«再生»コマンドを送信します。開いているプレーヤーがない場合、Windowsはコマンドを無視します。</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
     <value>開いているプレーヤーがない場合、Windowsはコマンドを無視します。</value>
