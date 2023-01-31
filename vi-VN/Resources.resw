@@ -620,4 +620,49 @@
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
     <value>Kết nối trình điều khiển Bluetooth có hỗ trợ Bluetooth Classic và khởi động lại ứng dụng</value>
   </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Hiện thị phần trăm pin</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Tính năng thử nghiệm</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Chức năng "Hands-Free" (Giao tiếp bằng giọng nói) của tai nghe sẽ không thể sử dụng. Không được tự vô hiệu hóa "Hands-Free". Khởi động lại ứng dụng để áp dụng.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Phát âm thanh từ thiết bị Bluetooth tới máy tính. Máy tính sẽ thành loa Bluetooth.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Thêm thiết bị mới</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Tự động tắt tiếng</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Kết nối tới thiết bị không thành công. Hãy đảm bảo rằng Bluetooth đã được bật trong thiết bị.</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Đầu ra âm thanh</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Trên cùng giữa</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Dưới cùng giữa</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Phát âm thanh</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Tắt tiếng trong thiết bị phát nhạc khi nguồn được chuyển sang loa máy tính.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Không có thiết bị đã được ghép hoặc Bluetooth đã bị tắt</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Hiện thông báo khi nguồn phát âm thanh thay đổi.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Thiết bị phát âm thanh</value>
+  </data>
 </root>
