@@ -62,7 +62,7 @@
     <value>Your PC doesn't support Bluetooth low energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% remaining. Charge your AirPods.</value>
+    <value>{0}% remaining. Charge your headphones.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -87,7 +87,7 @@
     <value>Large</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>Reset Settings</value>
+    <value>Reset settings</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Ear detection</value>
@@ -183,7 +183,7 @@
     <value>The volume decreases when only one AirPod is removed.</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>Notifications are announced when AirPods are connected and set as the audio output device.</value>
+    <value>Notifications are announced when headphones are connected and set as the audio output device.</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>Charging</value>
@@ -317,7 +317,7 @@
     <value>Apply</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Connect to AirPods failed. Try to connect manually.</value>
+    <value>Connect to headphones failed. Try to connect manually.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Add AirPods to the list of Windows Bluetooth devices</value>
@@ -589,5 +589,83 @@
   </data>
   <data name="Support_Weblate_Description.Text" xml:space="preserve">
     <value>Translate, edit or add new languages</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter initialization error</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Restarting the app might help</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Turn on</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>More details</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Connect a Bluetooth adapter</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Multiple Bluetooth adapters connected</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Leave only one Bluetooth adapter connected</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic not supported</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Experimental feature</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Audio streaming</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Add a new device</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Auto mute</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Mute streaming device audio when sound out changed to PC speakers.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>No paired devices or Bluetooth off</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Streaming device</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Sound output</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Show pop-up window when sound output changed.</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Center top</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Center bottom</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter not found</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Connect a Bluetooth adapter with Bluetooth Classic support and restart the application</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Connect a Bluetooth adapter with Bluetooth LE support and restart the application</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Stream audio from Bluetooth devices to PC. The PC acts as a Bluetooth speaker.</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Failed to connect streaming device. Make sure Bluetooth is enabled on streaming device.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Show battery percentage</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>The Hands-Free function (voice communication) of the headphone will not be available. Do not disable Hands-Free manually. Restart applications to apply.</value>
   </data>
 </root>
