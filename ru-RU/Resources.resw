@@ -124,7 +124,7 @@
     <value>Ваш компьютер не поддерживает Bluetooth Low Energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>Уровень заряда - {0}%. Зарядите ваши AirPods.</value>
+    <value>Осталось {0}%. Зарядите ваши наушники.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Внимание</value>
@@ -217,19 +217,19 @@
     <value>Для применения эффекта перезапустите приложение.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Показывать заряд AirPods на иконке</value>
+    <value>Показывать уровень заряда</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Когда AirPods подключены, иконка в области уведомлений будет показывать средний заряд вашего левого и правого наушников. Иконка обновляется раз в минуту.</value>
+    <value>Отображать усредненный процент заряда батареи подключенных наушников.</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Иконка батареи</value>
+    <value>Вид</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Аналоговая</value>
+    <value>Значок</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Цифровая</value>
+    <value>Текст</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Включить автозагрузку</value>
@@ -292,7 +292,7 @@
     <value>Совет</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Не задавайте значение больше 65. В некоторых случаях возможно случайное появление анимации.</value>
+    <value>Не задавайте значение больше 65, так как анимация может появляться некорректно.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Показать кнопку «Подключить»</value>
@@ -334,7 +334,7 @@
     <value>Не напоминать</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Не удалось подключить AirPods. Попробуйте подключить вручную.</value>
+    <value>Не удалось подключить наушники. Попробуйте подключить вручную.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Воспроизведение приостанавливается и громкость убавляется, когда вы достаете один AirPods из уха или останавливается и громкость восстанавливается когда вы достаете оба AirPods.</value>
@@ -418,7 +418,7 @@
     <value>Показать все приложения</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>Озвучивать уведомления когда AirPods подключены и выбраны в качества устройства вопроизведения.</value>
+    <value>Озвучивать уведомления когда наушники подключены и выбраны в качества устройства воспроизведения.</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>Настроить</value>
@@ -580,7 +580,7 @@
     <value>Произошла непредвиденная ошибка</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Перезапустите приложение для возобновления работы. Если ошибка повторяется, попробуйте перезагрузить компьютер.</value>
+    <value>Перезапуск приложения может решить проблему. Если ошибка повторяется, попробуйте перезагрузить компьютер.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>Уведомление о низком заряде</value>
@@ -707,5 +707,14 @@
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>Нет сопряженных устройств или отключен Bluetooth</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Показывать уровень заряда</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Экспериментальная функция</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Функция Hands-Free (голосовая связь) наушников будет недоступна. Не отключайте Hands-Free вручную. Перезапустите приложение, чтобы применить изменения.</value>
   </data>
 </root>
