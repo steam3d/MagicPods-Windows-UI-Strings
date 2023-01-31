@@ -305,7 +305,7 @@
     <value>Auto play</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Auto play after connecting the AirPods.</value>
+    <value>Send the «Play» command after connecting the headphones. If there are no open players Windows will ignore the command.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>All settings will be reset. Do you want to continue?</value>
@@ -666,6 +666,6 @@
     <value>Show battery percentage</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>The Hands-Free function (voice communication) of the headphone will not be available. Do not disable Hands-Free manually. Restart applications to apply.</value>
+    <value>The Hands-Free function (voice communication) of the headphone will not be available. Do not disable Hands-Free manually. Restart application to apply changes.</value>
   </data>
 </root>
