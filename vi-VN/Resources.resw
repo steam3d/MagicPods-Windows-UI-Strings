@@ -68,11 +68,11 @@
     <value>Giảm thời gian tìm kiếm AirPods. Bật chức năng này lên nếu bạn chắc chắn rằng không ai xung quanh bạn sử dụng AirPods.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Hiển thị AirPods đang sạc trên biểu tượng</value>
+    <value>Hiển thị AirPods phần trăm pin</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Khi AirPods được kết nối, biểu tượng ở khay hệ thống sẽ hiển thị lượng pin trung bình trên hai bên tai nghe. Cập nhật theo từng phút.</value>
+    <value>Hiển thị phần trăm pin của tai nghe đã được kết nối.</value>
     <comment>Changed</comment>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
@@ -110,13 +110,13 @@
     <value>Tiếp tục/Tạm dừng</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>Không thể tìm thấy AirPods. Hãy chắc chắn rằng AirPods đã được kết nối đến thiết bị này và thử khởi động lại ứng dụng.</value>
+    <value>Không thể tìm thấy Airpods. Hãy chắc chắn rằng Airpods đã được ghép với thiết bị này và khởi động lại.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>PC của bạn không hỗ trợ Bluetooth năng lượng thấp</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>AirPods của bạn còn {0} pin. Hãy sạc AirPods của bạn.</value>
+    <value>AirPods của còn {0} pin. Hãy sạc AirPods.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -192,16 +192,16 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Khởi động lại để áp dụng.</value>
+    <value>Khởi động lại ứng dụng để áp dụng.</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
     <value>Biểu tượng pin</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Cổ điển</value>
+    <value>Biểu tượng</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Hiện đại</value>
+    <value>Chữ</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Kích hoặt khởi động cùng Windows</value>
@@ -255,7 +255,7 @@
     <value>Gợi ý</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Đừng đặt giá trị này trên 65. Trong một vài trường hợp cửa sổ sẽ hiện lên không theo ý muốn.</value>
+    <value>Không đặt giá trị trên quá 65 vì hình ảnh minh họa có thể xuất hiện bất ngờ.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Hiển thị biểu tượng kết nối</value>
@@ -288,7 +288,7 @@
     <value>Áp dụng</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Không nhắc lại</value>
+    <value>Không quan tâm</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Kết nối tới AirPods thất bại. Hãy thử kết nối thủ công.</value>
@@ -498,7 +498,7 @@
     <value>Vô hiệu</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Khởi động lại ứng dụng để tiếp tục. Nếu lỗi vẫn còn, hãy thử khởi động lại máy tính của bạn.</value>
+    <value>Khởi động lại ứng dụng để sửa. Nếu lỗi vẫn còn, hãy thử khởi động lại máy tính của bạn.</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
     <value>Khởi động lại</value>
@@ -555,7 +555,7 @@
     <value>Dịch, chỉnh sửa hoặc thêm ngôn ngữ mới</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Tìm ứng dụng</value>
+    <value>Tìm kiếm ứng dụng</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
     <value>Tự động dừng</value>
