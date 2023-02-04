@@ -124,7 +124,7 @@
     <value>您的電腦不支援藍牙低功耗模式</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>電量剩餘 {0}%，請替您的 AirPods 充電。</value>
+    <value>電量剩餘 {0}%，請替您的耳機充電。</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
@@ -139,7 +139,7 @@
     <value>大</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>回復預設值</value>
+    <value>恢復預設值</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>耳朵偵測</value>
@@ -202,19 +202,19 @@
     <value>重新啟動應用程式來套用變更。</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>通知區域圖示顯示 AirPods 電量</value>
+    <value>顯示電量百分比</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>當 AirPods 連線時，在通知區域圖示顯示 AirPods 左右耳的平均電量，每分鐘更新一次。</value>
+    <value>顯示已連線耳機的平均電量百分比。</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>電池圖示</value>
+    <value>樣式</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>顯示電量格</value>
+    <value>圖示</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>顯示電量數值</value>
+    <value>文字</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>開機時自動執行</value>
@@ -292,7 +292,7 @@
     <value>提示</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>請不要將值設定超過 65。在某些情況下可能會讓動畫提示視窗意外顯示。</value>
+    <value>請不要將值設定超過 65，這可能會讓動畫提示視窗意外顯示。</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>顯示「連線」按鈕</value>
@@ -332,10 +332,10 @@
     <value>套用</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>停用提醒</value>
+    <value>忽略</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>無法連線到 AirPods，請試著手動連線。</value>
+    <value>無法連線到耳機，請試著手動連線。</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>當取下一耳時暫停播放且降低音量，或當取下兩耳時停止播放且復原音量。</value>
@@ -398,7 +398,7 @@
     <value>旁白通知</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>連線 AirPods 並將其設為音效輸出裝置時，旁白會朗讀通知。</value>
+    <value>連線至耳機並將其設為音效輸出裝置時將自動朗讀通知。</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>設定</value>
@@ -593,7 +593,7 @@
     <value>有其他耳機正在連線或中斷連線，請等待目前的動作完成後再重試一次</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>重新啟動應用程式來嘗試繼續目前的工作。如果錯誤持續發生，請嘗試重新啟動您的電腦。</value>
+    <value>重新啟動應用程式或許可以解決問題。如果錯誤持續發生，請嘗試重新啟動您的電腦。</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
     <value>沒有已配對的耳機</value>
@@ -708,5 +708,14 @@
   </data>
   <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
     <value>當音效裝置變更為電腦揚聲器時，將串流裝置靜音。</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>顯示電量百分比</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>耳機的免持(語音通話)功能將會被關閉。請勿手動關閉免持功能，請重新啟動應用程式來套用變更。</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>實驗功能</value>
   </data>
 </root>
