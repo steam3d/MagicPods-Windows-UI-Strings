@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods wurden nicht gefunden. Überprüfe, ob die AirPods gekoppelt sind und starte die App neu.</value>
+    <value>AirPods konnten nicht gefunden werden. Überprüfe, ob die AirPods gekoppelt sind und starte dann die App neu.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>Dein PC unterstützt kein Bluetooth auf geringer Energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% Akku verbleibend. Lade deine AirPods auf.</value>
+    <value>{0}% Akku verbleibend. Lade deine Kopfhörer auf.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Warnung</value>
@@ -214,22 +214,22 @@
     <value>Icon verstecken</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Starte die App neu zum anwenden.</value>
+    <value>Starte die Anwendung neu, um die Änderungen zu übernehmen.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Zeige den Batteriestand im Icon an</value>
+    <value>Zeige den Batteriestand an</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Wenn die AirPods verbunden sind zeigt das Icon den durchschnittlichen Batteriestand beider AirPods an. Es aktualisiert jede Minute.</value>
+    <value>Zeigt den durchschnittlichen Akkustand der angeschlossenen Kopfhörer an.</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Batterie icon</value>
+    <value>Stil</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>Symbol</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Zahl</value>
+    <value>Text</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Autostart aktivieren</value>
@@ -292,7 +292,7 @@
     <value>Tipp</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Setze keinen Wert über 65. In manchen Fällen wird das Pop-up dann ausversehen angezeigt.</value>
+    <value>Stelle keinen höheren Wert als 65 ein, da die Animation sonst unbeabsichtigt erscheinen könnte.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Zeige „Verbinden“- Schaltfläche</value>
@@ -331,10 +331,10 @@
     <value>Anwenden</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Nicht erinnern</value>
+    <value>Ignoriere</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Verbindung zu den AirPods fehlgeschlagen. Versuche eine manuelle Verbindung.</value>
+    <value>Verbindung zum Kopfhörer fehlgeschlagen. Versuche eine manuelle Verbindung.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Die Wiedergabe wird pausiert, wenn du einen AirPod aus dem Ohr nimmst oder gestoppt, wenn du beide entfernst.</value>
@@ -436,7 +436,7 @@
     <value>Verbindung abgebrochen</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>VoiceOver kündigt Benachrichtigungen an, wenn AirPods verbunden und als Audioausgabegerät festgelegt sind.</value>
+    <value>Es werden Benachrichtigungen angezeigt, wenn ein Kopfhörer angeschlossen und als Audioausgabegerät eingestellt ist.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>Die Funktion "VoiceOver-Benachrichtigung" ist deaktiviert und kann nicht auf die Benachrichtigungen zugreifen. Bitte öffnen Sie «Datenschutz und Benachrichtigungen»‎, erlauben Sie den Zugriff auf Benachrichtigungen und aktivieren Sie dann "VoiceOver-Benachrichtigung".</value>
@@ -559,13 +559,13 @@
     <value>Auto Pause</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Starte diese App neu. Wenn das Problem weiterhin besteht, versuche diesen Computer Neu zu starten.</value>
+    <value>Ein Neustart der Anwendung kann das Problem beheben. Wenn der Fehler weiterhin besteht, versuche, den Computer neu zu starten.</value>
   </data>
   <data name="App_Error.Title" xml:space="preserve">
     <value>Ein unerwarteter Fehler ist aufgetreten</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Wiedergabe pausieren nach Verbindungsabbruch.</value>
+    <value>Pausiert die Wiedergabe nach dem Trennen der Kopfhörer.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>Niedriger Akkustand Benachrichtigung</value>
@@ -616,7 +616,7 @@
     <value>Übersetze, bearbeite oder füge neue Sprachen hinzu</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Suche nach App</value>
+    <value>Suche nach Apps</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
     <value>Keine Gekoppelten Kopfhörer</value>
@@ -671,5 +671,50 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
     <value>Schließen Sie einen Bluetooth-Adapter an, der Bluetooth LE unterstüzt, und starten Sie die Anwendung neu</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Übertrage die Audiosignale von Bluetooth-Geräten auf den PC. Der PC fungiert als Bluetooth-Lautsprecher.</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Schalte die Audioausgabe von Streaming-Geräten stumm, wenn der Ton auf die PC-Lautsprecher übertragen wird.</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Pop-up-Fenster anzeigen, wenn die Tonausgabe geändert wird.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Akku-Prozentsatz anzeigen</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Experimentelle Funktion</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Audio-Übertragung</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Füge ein neues Gerät hinzufügen</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Automatische Stummschaltung</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Verbindung zum Streaming-Gerät fehlgeschlagen. Stelle sicher, dass Bluetooth auf dem Streaming-Gerät aktiviert ist.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Keine gekoppelten Geräte oder Bluetooth ausgeschaltet</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Streaming-Gerät</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Tonausgabe</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Mitte oben</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Mitte unten</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Die Hands-Free-Funktion (Sprachkommunikation) des Kopfhörers ist nicht verfügbar. Deaktiviere die Freisprechfunktion nicht manuell. Starten Sie die Anwendung neu, um die Änderungen zu übernehmen.</value>
   </data>
 </root>
