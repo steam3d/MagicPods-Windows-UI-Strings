@@ -77,7 +77,7 @@
     <value>Ha nincsenek megnyitott lejátszók, a Windows figyelmen kívül hagyja a parancsot.</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Sikertelen volt az AirPodsra való csatlakozás. Próbáljon manuálisan csatlakozni.</value>
+    <value>AirPodshoz való csatlakozás sikertelen. Próbálja meg manuálisan csatlakoztatni.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Csökkenti az AirPods keresési idejét. Kapcsolja be, ha biztos benne, hogy senki más nem használ AirPods-ot a közelében.</value>
@@ -89,7 +89,7 @@
     <value>Hangerő csökkentése</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Indítsa újra az alkalmazást a beállítások módosításához.</value>
+    <value>Indítsa újra az alkalmazást a módosítások alkalmazásához.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Egyéb</value>
@@ -128,17 +128,17 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Jelenítse meg a AirPods töltöttségét a tálcaikonon</value>
+    <value>Akkumulátor töltöttségi szint megjelenítése</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Akkumulátor ikon</value>
+    <value>Stílus</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analóg</value>
+    <value>Ikon</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digitális</value>
+    <value>Szöveg</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Kilépés</value>
@@ -186,7 +186,7 @@
     <value>Tipp</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Ne állítson be 65-nél nagyobb értéket. Bizonyos esetekben az animáció véletlenül jelenhet meg.</value>
+    <value>Ne állítson be 65-nél nagyobb értéket mert bizonyos esetekben az animáció véletlenül jelenhet meg.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>«Kapcsolódás» gomb mutatása</value>
@@ -195,7 +195,7 @@
     <value>Automatikus csatlakozás</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
-    <value>Automatikus kapcsolódás az AirPods-hoz amikor ön kiveszi a bal vagy a jobb Airpods-ot a dobozból.</value>
+    <value>Automatikus kapcsolódás az AirPods-hoz amikor ön kiveszi a bal vagy a jobb AirPods-ot a töltőtokból.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Automatikus lejátszás</value>
@@ -220,7 +220,7 @@
     <value>Alkalmazás</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Ne emlékeztess</value>
+    <value>Figyelmen kívül hagyás</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Adja hozzá az AirPods-ot a Windows Bluetooth eszközök listájához</value>
@@ -229,13 +229,13 @@
     <value>A MagicPods támogatja a legtöbb AirPods és Beats fül- és fejhallgatókat</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Hozza az AirPods dobozát a lehető legközelebb a számítógépéhez, majd nyissa ki</value>
+    <value>Helyezze az AirPods dobozát a lehető legközelebb a számítógépéhez, majd nyissa ki</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Következő</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Amikor az AirPods csatlakoztatva van, a rendszertálca ikon mutatja a bal és a jobb fejhallgató átlagos töltését. Az ikon percenként frissül.</value>
+    <value>Csatlakoztatott fejhallgatók töltöttségi szintjének megjelenítése.</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
@@ -254,7 +254,7 @@
     <value>Az alkalmazás be fog zárulni és minden funkció le lesz tiltva.</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>Az AirPods nem található. Győződjön meg róla, hogy az AirPods párosítva van ehhez az eszközhöz, majd indítsa újra az alkalmazást.</value>
+    <value>Az AirPods nem található. Győződjön meg róla, hogy az AirPods párosítva van, majd indítsa újra az alkalmazást.</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
     <value>A felugró ablak megjelenítése vagy elrejtése, mint az iPhone készüléken, amikor felnyitja a dobozt.</value>
@@ -266,7 +266,7 @@
     <value>A számítógép nem támogatja a Bluetooth alacsony energiát</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% maradt az AirPods akkumulátorából. Töltse az AirPods-ot.</value>
+    <value>{0}% maradt. Töltse az AirPods-ot.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -333,7 +333,7 @@
     <value>Automatikus hangkimenet váltás</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
-    <value>Kapcsolja át a hangot az AirPods-ról az alapértelmezett hangszórókra, ha egyik AirPod sincs a fülben.</value>
+    <value>Kapcsolja át a hangot az AirPods-ról az alapértelmezett hangszórókra, ha egyik AirPod sincs a fülében.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Eszköz nem elérhető vagy el lett távolítva</value>
@@ -366,7 +366,7 @@
     <value>Próbaszöveg felolvastatása</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
-    <value>VoiceOver értesítések a következő küldőktől</value>
+    <value>VoiceOver értesítések a következőktöl</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
     <value>A felolvasó csak egy nyelven tud szöveget felolvasni.</value>
@@ -375,7 +375,7 @@
     <value>Beszéd</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>VoiceOver audio értesítések amikor az AirPods csatlakoztatva van és be van állítva mint hangkimeneti eszköz.</value>
+    <value>VoiceOver audio értesítés amikor az AirPods csatlakoztatva van és be van állítva mint hangkimeneti eszköz.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
     <value>Összes VoiceOver értesítés</value>
@@ -387,10 +387,10 @@
     <value>Adatvédelem és értesítések</value>
   </data>
   <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>Már van csatlakoztatva egy másik AirPods az eszközhöz, először kérlek válaszd le a többi AirPodsot.</value>
+    <value>Egy másik AirPods már csatlakoztatva van, először kérlek válaszd le a többi AirPodsot.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>A "VoiceOver értesítés" funkció kikapcsolt, mivel a MagicPods nem tudja leolvasni az értesítéseket. Kérlek nyisd meg a(z) «Privacy and notifications»-t, engedélyezd az értesítések hozzáférését, és kapcsold be a "VoiceOver értesítések" funkciót.</value>
+    <value>A "VoiceOver értesítés" funkció kikapcsolt, mivel a MagicPods nem fér hozzá az értesítésekhez. Kérlek nyisd meg a(z) «Privacy and notifications»-t, engedélyezd az értesítések hozzáférését, és kapcsold be a "VoiceOver értesítések" funkciót.</value>
   </data>
   <data name="Notification_ConnectionCanceled" xml:space="preserve">
     <value>Csatlakozás visszavonva</value>
@@ -435,13 +435,13 @@
     <value>AirPods funkcionalitás</value>
   </data>
   <data name="Battery_Short_Right.Title" xml:space="preserve">
-    <value>R</value>
+    <value>J</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
     <value>Csatlakozás</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
-    <value>L</value>
+    <value>B</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
     <value>Indítás</value>
@@ -456,7 +456,7 @@
     <value>Többféle kapcsolat</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>Két vagy több fejhallgató csatlakoztatva, csak egyet hagyjon csatlakoztatva</value>
+    <value>Két vagy több fejhallgató csatlakoztatva van, csak egyet hagyjon csatlakoztatva</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
     <value>Csatlakozás</value>
@@ -468,7 +468,7 @@
     <value>Leválasztás</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
-    <value>Doboz</value>
+    <value>Töltőtok</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>Töltés</value>
@@ -507,13 +507,13 @@
     <value>Értesítés megjelenítése, ha a fejhallgató töltöttsége a megadott érték alatt van.</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
-    <value>bluetooth kikapcsolva</value>
+    <value>Bluetooth kikapcsolva</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Ki</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
-    <value>Kapcsolja be a Bluetooth funkciót a fejhallgató megjelenítéséhez</value>
+    <value>Kapcsolja be a Bluetooth a fejhallgató megjelenítéséhez</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Bluetooth beállítások</value>
@@ -522,13 +522,13 @@
     <value>Párosítsa a fejhallgatót a számítógéphez, és indítsa újra az alkalmazást</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
-    <value>Újrakezd</value>
+    <value>Újraindít</value>
   </data>
   <data name="App_Error.Title" xml:space="preserve">
-    <value>Váratlan hiba történt</value>
+    <value>Egy váratlan hiba történt</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Indítsa újra az alkalmazást az alkalmazás munkájának folytatásához. Ha a hiba továbbra is fennáll, próbálja meg újraindítani a számítógépet.</value>
+    <value>Az alkalmazás újraindítása megoldhatja a problémát. Ha ezután a probléma szintén fennáll akkor indítsa újra a számítógépet.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Írjon be egy gyorsbillentyűt</value>
@@ -619,5 +619,50 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
     <value>Csatlakoztasson egy Bluetooth adaptert Bluetooth Classic támogatással és indítsa újra a programot</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Streamelő eszközhöz való csatlakozás sikertelen. Bizonyosodjon meg róla hogy a Bluetooth be van kapcsolva a streamelő eszközön.</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Felugró ablak mutatása ha a kimenet megváltozik.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Audió Streamelése Bluetooth eszközökről a PC-re. A PC Bluetooth hangszóróként funkcionál.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Audió Streamelés</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Új eszköz hozzáadása</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Autómatikus némítás</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Streamelő eszköz hangjának némítása ha a PC hangeszköze megváltozik.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Akkumulátor töltöttségi szintjének mutatása</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Kísérleti funkció</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Nincs párosított eszköz, vagy a Bluetooth ki van kapcsolva</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Streamelő eszköz</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Hang kimenet</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Közép fent</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Közép lent</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>A Hands-Free funkció (hang vezérlés) nem elérhető. Ne kapcsold ki manuálisan a Hands Free funkciót. Indítsa újra az alkalmazást a módosítások érvényesítéséhez.</value>
   </data>
 </root>
