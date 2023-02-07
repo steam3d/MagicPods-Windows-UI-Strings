@@ -124,7 +124,7 @@
     <value>Dein PC unterstützt kein Bluetooth auf geringer Energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% Akku verbleibend. Lade deine Kopfhörer auf.</value>
+    <value>{0}% Batterieladung verbleibend. Lade deine Kopfhörer auf.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Warnung</value>
@@ -175,7 +175,7 @@
     <value>Geringe Latenz</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Nützlich, wenn man in Premiere Pro oder Audition arbeitet. Benötigt ein erneutes Verbinden der AirPods nach dem Aktivieren. Möglicherweise erhöht es den Energievebrauch.</value>
+    <value>Nützlich, wenn in Premiere Pro oder Audition gearbeitet wird. Ein erneutes Verbinden der AirPods ist nach der Aktivierung nötig. Möglicherweise erhöht es den Energieverbrauch.</value>
   </data>
   <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
     <value>Hilfe</value>
@@ -184,13 +184,13 @@
     <value>Fehler melden</value>
   </data>
   <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
-    <value>Debug Bericht</value>
+    <value>Fehlerprotokoll</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Schnellsuche</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Reduziert die Suchzeit für AirPods. Schalte es ein, wenn du weißt, dass niemand um dich herum AirPods verwendet.</value>
+    <value>Reduziert die Suchzeit für AirPods. Schalte es ein, wenn dir sicher bist, dass niemand um dich herum AirPods verwendet.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>Einstellungen</value>
@@ -199,7 +199,7 @@
     <value>Autostart</value>
   </data>
   <data name="Settings_Startup_Text2.Header" xml:space="preserve">
-    <value>Beim Starten des PCs mitstarten</value>
+    <value>Beim Hochfahren starten</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
     <value>Du kannst dies im Reiter Autostart des Task-Managers einstellen.</value>
@@ -217,10 +217,10 @@
     <value>Starte die Anwendung neu, um die Änderungen zu übernehmen.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Zeige den Batteriestand an</value>
+    <value>Zeige den Batterieladestand an</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Zeigt den durchschnittlichen Akkustand der angeschlossenen Kopfhörer an.</value>
+    <value>Zeigt den durchschnittlichen Batterieladestand der angeschlossenen Kopfhörer an.</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
     <value>Stil</value>
@@ -283,7 +283,7 @@
     <value>AirPods Suchradius</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>Wenn das Pop-up nicht angezeigt wird, öffne das Case mit deinen AirPods und schiebe den Slider nach rechts, bis es auftaucht.</value>
+    <value>Wenn das Pop-up nicht angezeigt wird, öffne das Case mit deinen AirPods und schiebe den Slider nach rechts, bis die Animation zu sehen ist.</value>
   </data>
   <data name="Settings_Popup_Button1.Content" xml:space="preserve">
     <value>Was ist Suchradius?</value>
@@ -298,7 +298,7 @@
     <value>Zeige „Verbinden“- Schaltfläche</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>Zeige oder verstecke die "Verbinden"-Schaltfläche im Pop-up. Beim Drücken des Knopfs werden die AirPods verbunden.</value>
+    <value>Zeige oder verstecke die "Verbinden"-Schaltfläche im Pop-up. Bei Betätigung der Schaltfläche werden die AirPods verbunden.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Automatische Verbindung</value>
@@ -310,10 +310,10 @@
     <value>Automatische Wiedergabe</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Sendet einen Wiedergabebefehl nach der Verbindung der AirPods. Wenn keine Abspielproramme offen sind wird Windows den Befehl ignorieren.</value>
+    <value>Sendet einen Wiedergabebefehl nach der Verbindung der AirPods. Wenn keine Abspielprogramme geöffnet sind, wird Windows den Befehl ignorieren.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>Wenn keine Abspielproramme offen sind wird Windows den Befehl ignorieren.</value>
+    <value>Wenn keine Abspielprogramme geöffnet sind, wird Windows den Befehl ignorieren.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>Alle Einstellungen werden zurückgesetzt. Fortfahren?</value>
@@ -331,7 +331,7 @@
     <value>Anwenden</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Ignoriere</value>
+    <value>Ignorieren</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Verbindung zum Kopfhörer fehlgeschlagen. Versuche eine manuelle Verbindung.</value>
@@ -340,7 +340,7 @@
     <value>Die Wiedergabe wird pausiert, wenn du einen AirPod aus dem Ohr nimmst oder gestoppt, wenn du beide entfernst.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Füge AirPods zu deinen Bluetooth Geräten in Windows hinzu</value>
+    <value>Füge AirPods zu deinen Windows Bluetooth Geräten hinzu</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>MagicPods unterstützt die meisten AirPods und Beats Kopfhörer</value>
@@ -358,7 +358,7 @@
     <value>Schließen</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
-    <value>Beim heraus nehmen beider AirPods Audioquelle auf Standardlautsprecher ändern.</value>
+    <value>Beim herausnehmen beider AirPods, die Audioquelle auf Standardlautsprecher ändern.</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Suche nach AirPods</value>
@@ -382,19 +382,19 @@
     <value>Audio</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Automatisch audioquelle wechseln</value>
+    <value>Automatisch Audioquelle wechseln</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Gerät wurde entfernt oder ist nicht verfügbar</value>
   </data>
   <data name="Settings_Audio_Button1.Content" xml:space="preserve">
-    <value>mehr erfahren</value>
+    <value>Mehr erfahren</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
     <value>Fensterposition</value>
   </data>
   <data name="Settings_Audio_Text4.Header" xml:space="preserve">
-    <value>Voice-Over-Benachrichtigungen</value>
+    <value>VoiceOver-Benachrichtigungen</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
     <value>Wähl eine Stimme</value>
@@ -448,16 +448,16 @@
     <value>Andere AirPods sind bereits verbunden, bitte trennen Sie diese zuerst.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Für die beste Benutzererfahrung, empfehlen wir das Aktivieren von Autostart. Man kann dies im Task-Manager im Reiter Autostart machen.</value>
+    <value>Für die beste Benutzererfahrung, empfehlen wir das Aktivieren von Autostart. Dies ist im Reiter "Autostart" des Task-Managers möglich.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
-    <value>Unendliche Suche</value>
+    <value>Durchgehende Suche</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>AirPods konnte nicht gefunden werden</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
-    <value>Befolgen Sie die Anleitung um das Problem zu beheben.</value>
+    <value>Befolgen Sie diese Anleitung um das Problem zu beheben.</value>
   </data>
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>Systemsprache verwenden</value>
@@ -544,7 +544,7 @@
     <value>Ladecase</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
-    <value>Neue Oberfläche, individuelle Einstellungen und mehr. Manche Einstellungen wurden geändert. Öffne die app zum ändern.</value>
+    <value>Neue Oberfläche, individuelle Einstellungen und mehr. Manche Einstellungen wurden geändert. Öffne die App zum ändern.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Tastenkombination eingeben</value>
@@ -559,7 +559,7 @@
     <value>Auto Pause</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Ein Neustart der Anwendung kann das Problem beheben. Wenn der Fehler weiterhin besteht, versuche, den Computer neu zu starten.</value>
+    <value>Ein Neustart der Anwendung kann das möglicherweise Problem beheben. Wenn der Fehler weiterhin besteht, versuche, den Computer neu zu starten.</value>
   </data>
   <data name="App_Error.Title" xml:space="preserve">
     <value>Ein unerwarteter Fehler ist aufgetreten</value>
@@ -571,7 +571,7 @@
     <value>Niedriger Akkustand Benachrichtigung</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
-    <value>Zeige eine Benachrichtigung sobald der Akku der Kopfhörer unter diesem Wert ist.</value>
+    <value>Zeige eine Benachrichtigung sobald der Batterieladestand der Kopfhörer unter diesem Wert ist.</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
     <value>Bluetooth Aus</value>
@@ -580,7 +580,7 @@
     <value>Aktiviere Bluetooth zum anzeigen der Kopfhörer</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
-    <value>Bluetooth Eistellungen</value>
+    <value>Bluetooth Einstellungen</value>
   </data>
   <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
     <value>Andere Kopfhörer Verbinden sich gerade. Warte bis das Verbinden abgeschlossen ist und versuche es erneut</value>
@@ -619,10 +619,10 @@
     <value>Suche nach Apps</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
-    <value>Keine Gekoppelten Kopfhörer</value>
+    <value>Keine gekoppelten Kopfhörer</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
-    <value>Koppel die Kopfhörer mit diesem Computer und Starte diese App neu</value>
+    <value>Kopple die Kopfhörer mit diesem Computer und Starte diese App neu</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
     <value>Wie man Kopfhörer koppelt</value>
@@ -661,16 +661,16 @@
     <value>Bluetooth Classic wird nicht unterstützt</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
-    <value>Schließen Sie einen Bluetooth-Adapter an, der Bluetooth Classic unterstützt, und starten Sie die Anwendung neu</value>
+    <value>Schließe einen Bluetooth-Adapter an, der Bluetooth Classic unterstützt, und starte die Anwendung neu</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
-    <value>Initialisierung des Bluetooth Adapters fehlgeschlagen</value>
+    <value>Initialisierung des Bluetooth-Adapters fehlgeschlagen</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
     <value>Eventuell hilft ein Neustart der App</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
-    <value>Schließen Sie einen Bluetooth-Adapter an, der Bluetooth LE unterstüzt, und starten Sie die Anwendung neu</value>
+    <value>Schließe einen Bluetooth-Adapter an, der Bluetooth LE unterstüzt, und starte die Anwendung neu</value>
   </data>
   <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
     <value>Übertrage die Audiosignale von Bluetooth-Geräten auf den PC. Der PC fungiert als Bluetooth-Lautsprecher.</value>
@@ -682,7 +682,7 @@
     <value>Pop-up-Fenster anzeigen, wenn die Tonausgabe geändert wird.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
-    <value>Akku-Prozentsatz anzeigen</value>
+    <value>Batterieladestand anzeigen</value>
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>Experimentelle Funktion</value>
@@ -700,7 +700,7 @@
     <value>Verbindung zum Streaming-Gerät fehlgeschlagen. Stelle sicher, dass Bluetooth auf dem Streaming-Gerät aktiviert ist.</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
-    <value>Keine gekoppelten Geräte oder Bluetooth ausgeschaltet</value>
+    <value>Keine gekoppelten Geräte oder Bluetooth ist ausgeschaltet</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
     <value>Streaming-Gerät</value>
@@ -715,6 +715,6 @@
     <value>Mitte unten</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>Die Hands-Free-Funktion (Sprachkommunikation) des Kopfhörers ist nicht verfügbar. Deaktiviere die Freisprechfunktion nicht manuell. Starten Sie die Anwendung neu, um die Änderungen zu übernehmen.</value>
+    <value>Die Hands-Free-Funktion (Sprachkommunikation) des Kopfhörers ist nicht verfügbar. Deaktiviere die Freisprechfunktion nicht manuell. Starte die Anwendung neu, um die Änderungen zu übernehmen.</value>
   </data>
 </root>
