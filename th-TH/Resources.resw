@@ -112,16 +112,16 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>รีสตาร์ทแอปพลิเคชันเพื่อยืนยัน</value>
+    <value>รีสตาร์ทแอปพลิเคชันเพื่อเปลี่ยนค่า</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>ไอคอนแบตเตอรี่</value>
+    <value>รูปแบบ</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>อนาล็อก</value>
+    <value>สัญลักษณ์</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>ดิจิทัล</value>
+    <value>อักษร</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>เปิดใช้งานเมื่อเริ่มระบบ</value>
@@ -169,7 +169,7 @@
     <value>เคล็ดลับ</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>อย่าตั้งค่าสูงกว่า 65, ในบางกรณี ภาพเคลื่อนไหวอาจปรากฏขึ้นโดยไม่ได้ตั้งใจ</value>
+    <value>อย่าตั้งค่าสูงกว่า 65, เนื่องจากภาพเคลื่อนไหวอาจปรากฏขึ้นโดยไม่ได้ตั้งใจ</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>แสดงปุ่ม «เชื่อมต่อ»</value>
@@ -196,10 +196,10 @@
     <value>ยืนยัน</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>อย่าเตือน</value>
+    <value>ไม่สนใจ</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>ไม่สามารถเชื่อมต่อ AirPods ได้ กรุณาลองเชื่อมต่อด้วยตนเอง</value>
+    <value>ไม่สามารถเชื่อมต่อหูฟังได้ กรุณาลองเชื่อมต่อด้วยตนเอง</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>MagicPods รองรับ AirPods รุ่น 1-2, AirPods Pro, AirPods Max และ PowerBeats Pro</value>
@@ -244,7 +244,7 @@
     <value>การแจ้งเตือนของวอยซ์โอเวอร์</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>VoiceOver จะประกาศการแจ้งเตือนเมื่อ AirPods เชื่อมต่อและตั้งค่าเป็นอุปกรณ์ส่งสัญญาณเสียงออก</value>
+    <value>ส่งการแจ้งเตือนเมื่อมีหูฟังเชื่อมต่อและตั้งค่าเป็นอุปกรณ์ส่งสัญญาณเสียงออก</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>กำหนดค่า</value>
@@ -320,7 +320,7 @@
     <value>แสดงแอพทั้งหมด</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>ไม่พบ อุปกรณ์ ตรวจสอบให้แน่ใจว่า AirPods ได้ทำการจับคู่กับอุปกรณ์นี้แล้วรีสตาร์ทแอพ</value>
+    <value>ไม่พบอุปกรณ์ ตรวจสอบให้แน่ใจว่า AirPods ได้ทำการจับคู่กับอุปกรณ์นี้แล้วรีสตาร์ทแอพ</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>เล่น/หยุดชั่วคราว</value>
@@ -332,7 +332,7 @@
     <value>ลดเวลาในการค้นหา AirPods เปิดใช้งานเมื่อคุณแน่ใจว่าไม่มีการใช้ AirPods อยู่</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>เมื่อเชื่อมต่อ AirPods แล้ว ไอคอนถาดระบบจะแสดงค่าระดับพลังงานของหูฟังด้านซ้ายและขวาของคุณ ไอคอนอัพเดททุกนาที</value>
+    <value>แสดงแบตเตอรี่เฉลี่ยของหูฟังที่เชื่อมต่อ</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
@@ -348,7 +348,7 @@
     <value>ฟีเจอร์ "การแจ้งเตือน VoiceOver" ปิดอยู่ ไม่สามารถเข้าถึงการแจ้งเตือนได้ โปรดเปิด «ความเป็นส่วนตัวและการแจ้งเตือน»‎ อนุญาตการเข้าถึงการแจ้งเตือน จากนั้นเปิด "การแจ้งเตือน VoiceOver"</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% แบตเตอรี่ที่เหลืออยู่ใน AirPods ชาร์จไฟ AirPods ของคุณ</value>
+    <value>AirPods เหลือแบตเตอรี่ {0}% ชาร์จไฟ AirPods ของคุณ</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
@@ -365,7 +365,7 @@
     <value>AirPods อื่นๆ เชื่อมต่อแล้ว โปรดหยุดเชื่อมต่อก่อน</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>การเล่นจะหยุดชั่วคราวเมื่อคุณถอด AirPods ข้างหนึ่งออก หรือหยุดเมื่อคุณถอด AirPods ทั้งสองข้าง</value>
+    <value>การเล่นจะหยุดชั่วคราวเมื่อ AirPods ข้างหนึ่งถูกถอดออก หรือหยุดเมื่อถอด AirPods ทั้งสองข้าง</value>
   </data>
   <data name="Settings_Startup_Text2.Header" xml:space="preserve">
     <value>เรียกใช้เมื่อเริ่มต้น</value>
@@ -395,7 +395,7 @@
     <value>แอปพลิเคชันจะถูกปิดและฟังก์ชันทั้งหมดจะถูกปิดใช้งาน</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>ส่งคำสั่ง «เล่น» หลังจากเชื่อมต่อ AirPods</value>
+    <value>ส่งคำสั่ง «เล่น» หลังจากเชื่อมต่อหูฟัง ถึงแม้ว่าไม่มีตัวเล่นทำงาน Windows จะไม่สนใจคำสั่ง</value>
   </data>
   <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
     <value>มุมบนซ้าย</value>
@@ -416,7 +416,7 @@
     <value>ความไวในการตอบสนองต่อเสียง</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>แสดงไอคอนชาร์จ AirPods</value>
+    <value>แสดงแบตเตอรี่ AirPods</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
@@ -474,7 +474,7 @@
     <value>แอพอื่นๆของผู้พัฒนา</value>
   </data>
   <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
-    <value>คัดลอกข้อความจากรูปใดก็ได้</value>
+    <value>คัดลอกข้อความจากรูป</value>
   </data>
   <data name="Support_YAD_Description.Text" xml:space="preserve">
     <value>วิ่ง กระโดด และหลบสิ่งกีดขวางสุดอันตรายในเกมผจญภัย</value>
@@ -561,7 +561,7 @@
     <value>มีข้อผิดพลาดที่ไม่คาดคิดเกิดขึ้น</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>รีสตาร์ทแอปพลิเคชันเพื่อให้แอปพลิเคชันทำงานต่อ หากข้อผิดพลาดยังคงมีอยู่ให้ลองรีสตาร์ทคอมพิวเตอร์ของคุณ</value>
+    <value>รีสตาร์ทแอปพลิเคชันเพื่อแก้ไขปัญหา หากข้อผิดพลาดยังคงมีอยู่ให้ลองรีสตาร์ทคอมพิวเตอร์ของคุณ</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>พิมพ์ปุ่มลัด</value>
@@ -580,5 +580,89 @@
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>การแจ้งเตือนแบตเตอรี่ต่ํา</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>สตรีมเสียง</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>ปิดเสียงอัตโนมัติ</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>เพิ่มอุปกรณ์ใหม่</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>เปลี่ยนรูป</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>คืนค่ารูป</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>เปิดใช้งาน</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>รายละเอียดเพิ่มเติม</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>ไม่พบอะแดปเตอร์บลูทูธ</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>เชื่อมต่ออะแดปเตอร์บลูทูธ</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>เชื่อมต่อบลูทูธอยู่หลายอุปกรณ์</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>เชื่อมอุปกรณ์บลูทูธได้เพียงชิ้นเดียว</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>ไม่รองรับ Bluetooth Classic</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>เชื่อมต่ออะแดปเตอร์บลูทูธที่รองรับ Bluetooth LE และเริ่มแอปพลิเคชั่นใหม่</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>การเริ่มต้นอะแดปเตอร์บลูทูธมีปัญหา</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>เริ่มแอปพลิเคชั่นใหม่อาจแก้ไขปัญหา</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>แสดงเปอร์เซ็นต์แบตเตอรี่</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>ฟังก์ชั่นในขั้นทดลอง</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>เชื่อมต่ออุปกรณ์ล้มเหลว โปรดตรวจสอบว่าบลูทูธถูกเปิดในอุปกรณ์แล้ว</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>ไม่มีอุปกรณ์เชื่อมต่อ หรือบลูทูธปิดอยู่</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>อุปกรณ์สตรีมมิ่ง</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>เสียงออก</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>กลางบน</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>กลางล่าง</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>ฟังก์ชันแฮนด์ฟรี (การสื่อสารด้วยเสียง) ของหูฟังจะไม่สามารถใช้งานได้ อย่าปิดการใช้งานแฮนด์ฟรีด้วยตนเอง รีสตาร์ทแอปพลิเคชันเพื่อใช้การเปลี่ยนแปลง</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>เชื่อมต่ออะแดปเตอร์บลูทูธที่รองรับ Bluetooth Classic และเริ่มแอปพลิเคชั่นใหม่</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>สตรีมเสียงจากอุปกรณ์บลูทูธไปยัง PC โดยใช้ PC เป็นลำโพงบลูทูธ</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>ปิดเสียงอุปกรณ์เมื่อเสียงออกถูกตั้งเป็นลำโพง PC</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>แสดงหน้าต่างป๊อปอัพเมื่อช่องเสียงออกถูกเปลี่ยน</value>
   </data>
 </root>
