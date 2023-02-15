@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>未能找到 AirPods。请确保 AirPods 与此设备配对，并重启应用程序。</value>
+    <value>未能找到 AirPods。请确保 AirPods 已与此设备配对，并重启应用程序。</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>您的设备不支持蓝牙低功耗模式</value>
+    <value>您的设备不支持低功耗蓝牙模式</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>电量剩余{0}% ，请及时为您的 AirPods 充电。</value>
+    <value>电量剩余{0}% ，请及时为您的耳机充电。</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
@@ -199,19 +199,19 @@
     <value>隐藏图标</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>重新启动应用程序以应用。</value>
+    <value>重新启动此应用程序以应用设置。</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>在任务栏中显示 AirPods 电量图标</value>
+    <value>显示 AirPods 剩余电量</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>当 AirPods 连接时，任务栏中的图标将显示您左右耳机的平均电量。每分钟刷新一次。</value>
+    <value>当耳机连接时，显示平均剩余电量。</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
     <value>电量显示样式</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>图标显示</value>
+    <value>图标</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>数字显示</value>
@@ -238,13 +238,13 @@
     <value>显示弹窗</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>当您打开充电盒时，显示和隐藏（如同 iPhone 上的）弹窗动画。</value>
+    <value>是否在您打开充电盒时，显示和隐藏（如同 iPhone 上的）弹窗动画？</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
     <value>弹窗尺寸</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>后台播放将在您取出一只 AirPods 时暂停，或者在您取出两只 AirPods 时停止。</value>
+    <value>后台播放将自动在您取下任意 AirPods 时停止。</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
     <value>电量信息</value>
@@ -292,7 +292,7 @@
     <value>提示</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>请勿将搜索范围值设定超过 65，否则可能会导致弹窗动画意外出现。</value>
+    <value>请问将此数值设置大于65，因为动画可能会意外出现。</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>显示“连接”按钮</value>
@@ -334,7 +334,7 @@
     <value>停用提醒</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>无法与 AirPods 建立连接，请尝试手动连接。</value>
+    <value>无法连接到耳机，请尝试手动连接。</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>在您取出一只 AirPods 时暂停播放并降低系统音量，或者在您取出两只 AirPods 时停止播放并恢复系统音量大小。</value>
@@ -418,7 +418,7 @@
     <value>播报通知设置</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>当 AirPods 已连接并作为音频输出设备时，将通过旁白播报通知。</value>
+    <value>当耳机已连接并作为音频输出设备时，发出提示。</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
     <value>选取需要播报通知的应用</value>
@@ -553,7 +553,7 @@
     <value>发生意外错误</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>重新启动应用程序以使其恢复工作。 如果错误仍然存在，请尝试重新启动计算机。</value>
+    <value>重新启动应用程序可能使其恢复工作。 如果错误仍然存在，请尝试重新启动您的电脑。</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>输入快捷键</value>
@@ -577,7 +577,7 @@
     <value>没有已配对的耳机</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>在耳机断开连接后暂停播放。</value>
+    <value>耳机断开连接后暂停播放。</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
     <value>当耳机电量低于指定值时显示通知。</value>
@@ -619,7 +619,7 @@
     <value>来看看 MagicPods 2.0</value>
   </data>
   <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
-    <value>从图片中复制文本</value>
+    <value>从任何图片中复制文本</value>
   </data>
   <data name="Support_YAD_Description.Text" xml:space="preserve">
     <value>在危险的冒险游戏中奔跑、跳跃和躲闪</value>
