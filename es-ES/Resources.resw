@@ -62,7 +62,7 @@
     <value>Latencia de audio baja</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digital</value>
+    <value>Texto</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>Su PC no es compatible Bluetooth LE</value>
@@ -95,7 +95,7 @@
     <value>Bajar volumen</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>La reproducción del sonido se pausará cuando se quite uno de los AirPods o se detendrá si se quita ambos Airpods de los oídos.</value>
+    <value>La reproducción se pausa cuando se quita uno de los AirPods o se detiene cuando se quitan los dos.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Otro</value>
@@ -137,7 +137,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Icono de batería</value>
+    <value>Estilo</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Habilitar inicio automático</value>
@@ -191,7 +191,7 @@
     <value>Consejo</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>No coloque el valor mas grande que 65. En algunos casos, la animacion podria aparecer de forma accidental.</value>
+    <value>No establezca un valor superior a 65, ya que la animación podría aparecer accidentalmente.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Mostrar boton «Connect»</value>
@@ -218,10 +218,10 @@
     <value>Aplicar</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>No recuerdes</value>
+    <value>Ignorar</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>No se pudo conectar los AirPods. Intente conectarlos manualmente.</value>
+    <value>Error de conexión con los auriculares. Intenta conectar manualmente.</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>Los MagicPods son compatibles con la mayoría de auriculares AirPods y Beats</value>
@@ -263,7 +263,7 @@
     <value>Notificaciones de VoiceOver</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>VoiceOver anuncia notificaciones cuando los AirPods están conectados y configurados como dispositivo de salida de audio.</value>
+    <value>Las notificaciones se anuncian cuando los auriculares están conectados y configurados como dispositivo de salida de audio.</value>
   </data>
   <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
     <value>Configurar</value>
@@ -314,7 +314,7 @@
     <value>No todas las aplicaciones de la lista pueden enviar notificaciones, es posible que algunas aplicaciones no estén en la lista.</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods no encontrados. Asegúrese que los AirPods están emparejados a este dispositivo y reinicie la aplicación.</value>
+    <value>No se han encontrado los AirPods. Asegúrate de que los AirPods están emparejados con este dispositivo y reinicia la aplicación.</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
     <value>Si la ventana no aparece cuando el case de los AirPods se abre, mueva suavemente el control en este panel hacia la derecha hasta que la animación aparezca.</value>
@@ -329,7 +329,7 @@
     <value>Centro</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% de carga restante en los AirPods. Cargue sus AirPods.</value>
+    <value>{0}% restante. Carga tus auriculares.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -358,7 +358,7 @@
     <value>Cambie el audio de los AirPods a los altavoces predeterminados cuando ambos AirPods estén fuera del oído.</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>Restaurar configuración</value>
+    <value>Restablecer ajustes</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
     <value>Reinicie la aplicación para aplicar los cambios.</value>
@@ -373,7 +373,7 @@
     <value>Se restablecerán todos los ajustes. ¿Quieres continuar?</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Cuando los AirPods estan conectados, el icono de la barra de herramientas mostrará el promedio de carga de ambos AirPods. El icono se actualiza una vez por minuto.</value>
+    <value>Muestra el porcentaje medio de batería de los auriculares conectados.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
@@ -381,7 +381,7 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analógico</value>
+    <value>Icono</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>La reproducción se detiene y el volumen disminuye cuando se quita un AirPods de la oreja, o se detiene y el volumen se restablece cuando quitan ambos AirPods.</value>
@@ -453,7 +453,7 @@
     <value>apagado</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Pausar la reproducción tras desconectar los auriculares.</value>
+    <value>Pausa la reproducción después de desconectar los auriculares.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
     <value>Mostrar una notificación cuando la batería de los auriculares sea más baja que un valor específico.</value>
@@ -486,13 +486,13 @@
     <value>Traducir</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Reinicie la aplicación para restablecer el funcionamiento de la aplicación. Si el error persiste, pruebe reiniciando el equipo.</value>
+    <value>Reiniciar la aplicación puede solucionar el problema. Si el error persiste, prueba a reiniciar el ordenador.</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
     <value>Enlace los auriculares al equipo y reinicie la aplicación</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Buscar aplicación</value>
+    <value>Búsqueda de aplicaciones</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Deshabilitado</value>
@@ -573,7 +573,7 @@
     <value>Otros auriculares están conectándose / desconectándose, espere a que terminen y pruebe de nuevo</value>
   </data>
   <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
-    <value>Copie texto de cualquier imagen</value>
+    <value>Copiar texto de cualquier imagen</value>
   </data>
   <data name="Support_YAD_Description.Text" xml:space="preserve">
     <value>Corre, salta y esquiva en un peligroso juego de aventuras</value>
@@ -586,5 +586,83 @@
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>Restaurar imagen</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Encender</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Mas detalles</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>No se ha encontrado el adaptador Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Conecte un adaptador Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Varios adaptadores Bluetooth conectados</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Deja conectado sólo un adaptador Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic no es compatible</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Conecta un adaptador Bluetooth compatible con Bluetooth Classic y reinicia la aplicación</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Conecta un adaptador Bluetooth compatible con Bluetooth Classic y reinicia la aplicación</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Error de inicialización del adaptador Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Reiniciar la aplicación podría ayudar</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Función experimental</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Transmite audio desde dispositivos Bluetooth al PC. El PC actúa como altavoz Bluetooth.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Streaming de audio</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Añadir un nuevo dispositivo</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Silenciamiento automático</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Silenciar el audio del dispositivo de streaming cuando se cambia la salida de sonido a los altavoces del PC.</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>No se ha podido conectar el dispositivo de transmisión. Asegúrate de que Bluetooth está activado en el dispositivo de streaming.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>No hay dispositivos emparejados o Bluetooth desactivado</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Dispositivo de streaming</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Salida de sonido</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Mostrar ventana emergente al cambiar la salida de sonido.</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Centro superior</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Parte inferior central</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Mostrar porcentaje de batería</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>La función Manos Libres (comunicación por voz) de los auriculares no estará disponible. No desactive Manos Libres manualmente. Reinicie la aplicación para aplicar los cambios.</value>
   </data>
 </root>
