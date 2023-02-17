@@ -86,7 +86,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>重啓程式以應用。</value>
+    <value>重啓程式以應用更改。</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>耳朵檢測</value>
@@ -163,14 +163,180 @@
     <value>警告</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>顯示AirPods充電圖標</value>
+    <value>顯示電量百分比</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>當AirPods連接時，系統托盤圖標將顯示你嘅左右耳機嘅平均電量。圖標每分鍾更新一次。</value>
+    <value>將顯示你嘅左右耳機嘅平均電量。</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>電量圖標</value>
+    <value>電池圖標</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>圖標</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>文字</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>提示</value>
+  </data>
+  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+    <value>若打開充電盒且耳機在內，而動畫視窗沒有顯示時，請將調整滑桿往右調整，直到動畫可正常顯示。</value>
+  </data>
+  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+    <value>咩係搜尋半徑？</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>下一步</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>請將 AirPods 充電盒盡可能地靠近您的電腦並打開</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+    <value>畫面中央</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+    <value>左下角</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+    <value>視窗位置</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+    <value>左上角</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+    <value>右上角</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>啟用開機啟動</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>關閉MagicPods</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>實驗功能</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+    <value>顯示或隱藏在提示動畫視窗的「連線」按鈕。點選佢將會與 AirPods 連線。</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>自動連線</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>當其中一隻 AirPods 從充電盒取出個陣自動連線。</value>
+  </data>
+  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+    <value>顯示「連線」按鈕</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>自動播放</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>提示</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>根據您噶使用情況，我們建議將值設定為 {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+    <value>所有設定值將被設定為預設值，您確定要繼續嗎？</value>
+  </data>
+  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+    <value>係，回復預設值</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>應用</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>自動切換音效輸出</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>當兩隻 AirPods 都放低時，自動切換音效輸出裝置從 AirPods 到預設的喇叭。</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods 可以同大多數的 AirPods 和 Beats 系列藍牙耳機搭配使用</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>電池資訊</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>幫助</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>一般設定</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>支援</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>此應用程式將會被關閉，且所有功能將被停用。</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>關閉MagicPods？</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>支援的播放器清單</value>
+  </data>
+  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+    <value>AirPods 搜尋半徑</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>添加AirPods 到 Windows 藍牙裝置清單</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>正在搜尋 AirPods</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+    <value>右下角</value>
+  </data>
+  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+    <value>音效</value>
+  </data>
+  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+    <value>搜尋半徑：電腦搜尋打開咗 AirPods 充電盒噶掃描範圍。</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>請唔好將值設定超過 65，咁可能會令動畫提示視窗意外顯示。</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
+    <value>如果冇開啟任何播放器，Windows 將會忽略呢條指令。</value>
+    <comment>Deprecated</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>忽略</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>連線唔到耳機，請試下手動連線。</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>當取下一只Airpods時降低音量，或當取下/戴上兩只Airpods時復原音量。</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>係 AirPods 連線成功時自動送出「播放」指令。如果冇開啟任何播放器，Windows 會忽略呢條指令。</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>當取下一隻AirPods時暫停播放且降低音量，或當取下兩隻AirPods時停止播放且復原音量。</value>
   </data>
 </root>
