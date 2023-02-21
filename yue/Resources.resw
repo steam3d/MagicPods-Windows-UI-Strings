@@ -616,4 +616,61 @@
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
     <value>耳機中斷連線噶時候自動暫停播放。</value>
   </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>請連接一個支援傳統藍牙的藍牙傳輸器，然後重新啟動應用程式</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>請連接一個支援低功耗藍牙標準的藍牙傳輸器，然後重新啟動應用程式</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>藍牙傳輸器初始化失敗咗</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>重新啟動應用程式可能會有幫助</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>顯示電量百分比</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>耳機噶免持(語音通話)功能將會被關閉。請唔好手動關閉免持功能，請重新啟動應用程式來套用變更。</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>實驗功能</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>從藍牙裝置串流音訊到您的電腦，將電腦作為藍牙揚聲器使用。</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>音訊串流</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>新增裝置</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>自動靜音</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>音效裝置變更為電腦揚聲器噶時候，將串流裝置靜音。</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>連線到串流裝置失敗，請確定串流裝置的藍牙開啟咗。</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>冇配對好的裝置，或藍牙功能已關閉</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>串流裝置</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>音效輸出</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>當音效輸出裝置改變噶時候顯示提示視窗。</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>頂部置中</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>底部置中</value>
+  </data>
 </root>
