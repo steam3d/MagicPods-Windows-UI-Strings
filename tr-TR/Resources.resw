@@ -124,7 +124,7 @@
     <value>Cihazınız Bluetooth Low Energy'yi desteklemiyor</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>Airpods'ta {0}% şarj kaldı. AirPods'u şarj edin.</value>
+    <value>Airpods'ta %{0} şarj kaldı. AirPods'unuzu şarj edin.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Uyarı</value>
@@ -217,24 +217,24 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Değişiklikleri uygulamak için programları yeniden başlatın.</value>
+    <value>Değişikliklerin uygulanması için programı yeniden başlatın.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>AirPods şarjını simgede göster</value>
+    <value>AirPods şarj yüzdesini göster</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>AirPods bağlandığında, sistem tepsisi simgesi sol ve sağ kulaklığınızın ortalama şarjını gösterecektir. Simge dakikada bir güncellenir.</value>
+    <value>Bağlı kulaklıklağın ortalama pil yüzdesini gösterir.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Batarya simgesi</value>
+    <value>Stil</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Görsel</value>
+    <value>Görünüm</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Dijital</value>
+    <value>Metin</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Başlangıcı etkinleştir</value>
@@ -297,7 +297,7 @@
     <value>İpucu</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>65'ten büyük bir değer ayarlamayın. Bazı durumlarda, animasyon yanlışlıkla görünebilir.</value>
+    <value>Animasyon yanlışlıkla görünebileceği için 65'ten büyük bir değer ayarlamayın.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>«Bağlan» butonunu göster</value>
@@ -337,7 +337,7 @@
     <value>Uygula</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Hatırlatma</value>
+    <value>Atla</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPods'a bağlanılamadı. Manuel olarak bağlanmayı deneyin.</value>
@@ -538,7 +538,7 @@
     <value>Devre dışı</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Kulaklık bağlantısı kesildikten sonra oynatmayı duraklatın.</value>
+    <value>Kulaklık bağlantısı kesildikten sonra oynatmayı duraklat.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
     <value>Kulaklık pil seviyesi belirtilen seviyenin altına düştüğü zaman uyar.</value>
@@ -583,7 +583,7 @@
     <value>Geliştiricinin diğer uygulamaları</value>
   </data>
   <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
-    <value>Bir görüntüden metin kopyala</value>
+    <value>Herhangi bir görselden metni kopyalayın</value>
   </data>
   <data name="Support_YAD_Description.Text" xml:space="preserve">
     <value>Tehlikeli bir macera oyununda koş, zıpla ve savuştur</value>
@@ -613,7 +613,7 @@
     <value>Bilinmeyen bir hata meydana geldi</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Uygulamanın işleyişini sürdürmek için uygulamayı yeniden başlatın. Eğer hata devam etmekte ise bilgisayarınızı yeniden başlatın.</value>
+    <value>Uygulamayı yeniden başlatmak sorununuzu çözebilir.  Eğer hata  almaya devam ederseniz, bilgisayarınızı yeniden başlatmayı deneyin.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Bir kısayol tuşu girin</value>
@@ -713,5 +713,11 @@
   </data>
   <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
     <value>Sesin aktarıldığı kaynak değiştirse pop-up penceresi göster.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Batarya yüzdesini göster</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Deneysel özellik</value>
   </data>
 </root>
