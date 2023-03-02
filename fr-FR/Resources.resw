@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>Les AirPods n'ont pas été trouvés. Assurez-vous que les AirPods sont jumelés à cet appareil et redémarrez l'application.</value>
+    <value>Les AirPods n'ont pas été trouvés. Assurez-vous que les AirPods sont jumelés à cet appareil puis redémarrez l'application.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Votre appareil ne prend pas en charge le Bluetooth à basse énergie (BLE)</value>
+    <value>Votre appareil ne prend pas en charge le Bluetooth à basse consommation (BLE)</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% de charge restant. Chargez vos AirPods.</value>
+    <value>{0}% de batterie restant. Chargez vos AirPods.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Attention</value>
@@ -199,7 +199,7 @@
     <value>Masquer l'icône système</value>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Redémarrez l'application pour appliquer.</value>
+    <value>Redémarrez l'application pour appliquer les changements.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
     <value>Afficher la batterie des AirPods sur l'icône système</value>
@@ -208,10 +208,10 @@
     <value>Lorsque les AirPods sont connectés, affiche la batterie moyenne des AirPods gauche et droit sur l'icône système. L'icône est mise à jour chaque minute.</value>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Icône de batterie</value>
+    <value>Style</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analogique</value>
+    <value>Icône</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Numérique</value>
@@ -244,7 +244,7 @@
     <value>Taille de la fenêtre</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>La lecture se met en pause quand un AirPods est retiré ou s'arrête quand les deux AirPods sont retirés.</value>
+    <value>La lecture se met en pause lorsqu'un AirPod est retiré ou s'arrête quand les deux AirPods sont retirés.</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
     <value>Information sur la batterie</value>
@@ -289,7 +289,7 @@
     <value>Conseil</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Ne mettez pas une valeur supérieure à 65. Dans certains cas, l'animation peut apparaître par erreur.</value>
+    <value>Ne paramétrez pas une valeur supérieure à 65. Dans certains cas, l'animation peut apparaître inopinément.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Afficher le bouton « Connecter »</value>
@@ -328,10 +328,10 @@
     <value>Appliquer</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Ne pas rappeler</value>
+    <value>Ignorer</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Connexion aux AirPods échouée. Essayez une connexion manuelle.</value>
+    <value>Connexion aux AirPods échouée. Effectuez une connexion manuelle.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>La lecture se met en pause et le volume baisse quand vous retirez un AirPod de votre oreille, ou s'arrête et le volume se rétablit quand les deux Airpods sont retirés.</value>
@@ -541,7 +541,7 @@
     <value>Une erreur inattendue s'est produite</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Redémarrez l'application pour continuer son exécution. Si le problème persiste, tentez de redémarrer votre appareil.</value>
+    <value>Redémarrez l'application pour corriger cette erreur. Si le problème persiste, veuillez redémarrer votre appareil.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Tapez un raccourci clavier</value>
@@ -707,5 +707,14 @@
   </data>
   <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
     <value>Afficher un pop-up lorsque la sortie son est modifié.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Afficher le pourcentage de batterie</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>La fonction Mains libre (communication vocale) du casque ne sera pas disponible. Ne désactivez pas la fonction Mains libres manuellement. Redémarrez l'application pour appliquer les modifications.</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Fonction expérimentale</value>
   </data>
 </root>
