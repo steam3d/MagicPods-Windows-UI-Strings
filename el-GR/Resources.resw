@@ -62,7 +62,7 @@
     <value>Ταυτόχρονα(Μείωση έντασης + Αναπαραγωγή/Παύση)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Το κομμάτι θα κάνει παύση εάν αφαιρεθεί από τα αυτιά το ένα AirPod ή θα σταματήσει εάν αφαιρεθούν και τα δυο.</value>
+    <value>Η αναπαραγωγή διακόπτεται όταν αφαιρείται ένα AirPod ή σταματά όταν αφαιρεθούν και τα δύο.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Υπόλοιπες Ρυθμίσεις</value>
@@ -369,7 +369,7 @@
     <value>Θα γίνει επαναφορά όλων των ρυθμίσεων. Θέλετε να συνεχίσετε;</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Σφάλμα σύνδεσης με τα AirPods. Δοκιμάστε να τα συνδέσετε χειροκίνητα.</value>
+    <value>Η σύνδεση με τα ακουστικά απέτυχε. Προσπαθήστε να συνδεθείτε χειροκίνητα.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Θα γίνει παύση του κομματιού και η ένταση θα μειωθεί όταν αφαιρεθεί το ένα AirPod από το αυτί, ή θα σταματήσει και θα γίνει επαναφορά της φωνής όταν αφαιρεθούν και τα δύο AirPods.</value>
@@ -619,5 +619,50 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
     <value>Συνδέστε έναν προσαρμογέα Bluetooth με υποστήριξη Bluetooth LE και επανεκκινήστε την εφαρμογή</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+    <value>Κάτω κέντρο</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Εμφάνιση ποσοστού μπαταρίας</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Η λειτουργία Hands-Free (φωνητική επικοινωνία) των ακουστικών δεν θα είναι διαθέσιμη. Μην απενεργοποιείτε χειροκίνητα το Hands-Free. Επανεκκινήστε την εφαρμογή για να εφαρμόσετε αλλαγές.</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Πειραματικό χαρακτηριστικό</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Αποτυχία σύνδεσης συσκευής ροής. Βεβαιωθείτε ότι το Bluetooth είναι ενεργοποιημένο στη συσκευή ροής.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Δεν υπάρχουν συζευγμένες συσκευές ή το Bluetooth είναι απενεργοποιημένο</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+    <value>Συσκευή ροής</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+    <value>Έξοδος ήχου</value>
+  </data>
+  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+    <value>Εμφάνιση αναδυόμενου παραθύρου όταν αλλάζει η έξοδος ήχου.</value>
+  </data>
+  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+    <value>Πάνω κέντρο</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+    <value>Αυτόματη σίγαση</value>
+  </data>
+  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+    <value>Προσθήκη νέας συσκευής</value>
+  </data>
+  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+    <value>Σίγαση του ήχου της συσκευής ροής όταν ο ήχος αλλάζει σε ηχεία υπολογιστή.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+    <value>Ροή ήχου</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Ροή ήχου από συσκευές Bluetooth σε υπολογιστή. Ο υπολογιστής λειτουργεί ως ηχείο Bluetooth.</value>
   </data>
 </root>
