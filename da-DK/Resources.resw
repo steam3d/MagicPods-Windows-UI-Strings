@@ -86,7 +86,7 @@
     <value>Begge to (Sku ned for lyden + Afspil/Pause)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
-    <value>Registrer øre</value>
+    <value>Registrer øre automatisk</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Andet</value>
@@ -98,7 +98,7 @@
     <value>Hurtig søgning</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Reducerer søgetiden for AirPods. Tænd den, når du er sikker på, at ingen andre i nærheden bruger AirPods.</value>
+    <value>Reducerer søgetiden for AirPods. Slå funktionen til, når du er sikker på, at der ikke er andre i nærheden, der bruger AirPods.</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
     <value>Indstillinger</value>
@@ -108,10 +108,10 @@
     <value>Start</value>
   </data>
   <data name="Settings_Startup_Text2.Header" xml:space="preserve">
-    <value>Begynde</value>
+    <value>Kør MagicPods, når computeren starter</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>Du kan aktivere eller deaktivere dette under fanen Start i Jobliste.</value>
+    <value>Du kan aktivere eller deaktivere dette under fanen Startapps i Jobliste.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Start deaktiveret af gruppepolitik eller understøttes ikke på denne enhed.</value>
@@ -125,7 +125,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>Genstart programmer, der skal anvendes.</value>
+    <value>Genstart programmet, for at anvende ændringer.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
     <value>Vis AirPods-opladning på ikon</value>
@@ -144,7 +144,7 @@
     <value>Aktiver start</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Udgang</value>
+    <value>Afslut</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>Hjælp</value>
@@ -168,7 +168,7 @@
     <value>Luk MagicPods</value>
   </data>
   <data name="Menu_Item4.Content" xml:space="preserve">
-    <value>Støtte</value>
+    <value>Support</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
     <value>Lukke</value>
@@ -195,7 +195,7 @@
     <value>Automatisk afspilning</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Send kommandoen «Play", når AirPods'ene er tilsluttet. Hvis der ikke er nogen åbne afspillere, ignorerer Windows kommandoen.</value>
+    <value>Send kommandoen «Play» efter tilslutning af hovedtelefonerne. Hvis der ikke er nogen åbne afspillere, vil Windows ignorere kommandoen.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>Alle indstillinger nulstilles. Vil du fortsætte?</value>
@@ -229,10 +229,10 @@
     <value>Lukke</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
-    <value>Søge i AirPods</value>
+    <value>Tjekker batteriniveau</value>
   </data>
   <data name="Settings_Popup_Text6.Header" xml:space="preserve">
-    <value>Vinduesplacering</value>
+    <value>Placering af vinduet</value>
   </data>
   <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
     <value>Øverste venstre hjørne</value>
@@ -241,7 +241,7 @@
     <value>Øverste højre hjørne</value>
   </data>
   <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
-    <value>Midte</value>
+    <value>Midten</value>
   </data>
   <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
     <value>Nederste venstre hjørne</value>
@@ -253,7 +253,7 @@
     <value>Lyd</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Skift automatisk lydoutput</value>
+    <value>Skift automatisk lydudgang</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Enheden er ikke tilgængelig eller fjernet</value>
@@ -307,19 +307,19 @@
     <value>Følg denne vejledning for at løse problemet.</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>Vis eller skjul pop op-vindue som på iPhone, når du åbner etuiet.</value>
+    <value>Vis eller skjul pop-up-vinduet som på en iPhone, når du åbner etuiet.</value>
   </data>
   <data name="Settings_Popup_Text4.Header" xml:space="preserve">
-    <value>Vindue størrelse</value>
+    <value>Vinduets størrelse</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods blev ikke fundet. Sørg for, at dine AirPods er parret med denne enhed, og genstart appen.</value>
+    <value>AirPods kunne ikke findes. Sørg for, at AirPods er parret til denne enhed, og genstart derefter appen.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>Din pc understøtter ikke Bluetooth-lavenergi</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% opladning tilbage på dine AirPods. Oplad dine AirPods.</value>
+    <value>{0}% tilbage. Oplad dine hovedtelefoner.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Text1.Text" xml:space="preserve">
@@ -329,13 +329,13 @@
     <value>Vis vindue</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Afspilningen afbrydes midlertidigt, når du fjerner et AirPods-øre eller stopper, når du fjerner begge AirPods.</value>
+    <value>Afspilningen sættes på pause når den ene AirPod fjernes, eller stopper, når begge AirPods fjernes.</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
-    <value>Lav lydventetid</value>
+    <value>Lav lydforsinkelse</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Nyttigt, når du arbejder i Premiere Pro eller Audition. Kræver, at AirPods tilsluttes igen, når du er tændt. Det kan øge batteriforbruget.</value>
+    <value>Nyttigt, når du arbejder i Premiere Pro eller Audition. Kræver, at AirPods skal genforbindes efter funktionen er slået til. Det kan øge batteriforbruget.</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
     <value>Når AirPods er tilsluttet, viser ikonet for systembakken den gennemsnitlige opladning af dine venstre og højre hovedtelefoner. Ikonopdatering hvert minut.</value>
@@ -351,10 +351,10 @@
     <value>Lydstyrken reduceres, når du fjerner en AirPods fra øret eller gendannes, når du fjerner/sætter begge AirPods på.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
-    <value>Liste over understøttede afspillere</value>
+    <value>Vis liste over understøttede medieafspillere</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>Hvis vinduet ikke vises, skal du åbne etuiet med AirPods inde og glide skyderen jævnt til højre, indtil animationen vises.</value>
+    <value>Hvis pop op-vinduet ikke vises skal du åbne etuiet med dine AirPods, og derefter skubbe søgeradius skyderen jævnt til højre, indtil pop op-vinduet vises.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Vis knappen "Opret forbindelse"</value>
@@ -369,13 +369,13 @@
     <value>Hvis der ikke er nogen åbne afspillere, ignorerer Windows kommandoen.</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
-    <value>Anvende</value>
+    <value>Anvend</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPods kunne ikke tilsluttes. Prøv at oprette forbindelse manuelt.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>Afspilningen afbrydes midlertidigt, og lydstyrken afbrydes, når du fjerner en AirPods fra øret, eller stopper, og lydstyrken gendannes, når du fjerner begge AirPods.</value>
+    <value>Dine AirPods stopper automatisk afspilningen af lyd, når du tager dem af, og fortsætter afspilningen, når du sætter dem i ørerne igen.</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>MagicPods understøtter de fleste AirPods og Beats høretelefoner</value>
@@ -417,7 +417,7 @@
     <value>Brug systemets tema</value>
   </data>
   <data name="Settings_Popup_Theme.Header" xml:space="preserve">
-    <value>Vindue tema</value>
+    <value>Vinduets tema</value>
   </data>
   <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
     <value>Sprog</value>
@@ -432,7 +432,7 @@
     <value>Program indstillinger</value>
   </data>
   <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
-    <value>AirPods evner</value>
+    <value>AirPods-funktionaliteter</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
     <value>Forbind</value>
@@ -447,7 +447,7 @@
     <value>Batteriniveau</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
-    <value>Tryk her for at tilpasse</value>
+    <value>Tryk for at tilpasse din enhed</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
     <value>Forbinder</value>
@@ -469,5 +469,38 @@
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
     <value>Deaktiveret</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Automatisk pause</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Indtast en genvejstast</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Ingen parrede hovedtelefoner</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Meddelelse ved lavt batteri</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Vis en meddelelse, når hovedtelefonens opladning er under den angivne værdi.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Global genvejstast til at tilslutte eller frakoble hovedtelefoner.</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Ny udformet grænseflade, individuelle indstillinger og meget mere. Nogle indstillinger er blevet ændret. Åbn appen for at tilpasse den.</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Præferencer</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Hovedtelefoner</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Forbind med en genvejstast</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Pause afspilning efter frakobling af hovedtelefoner.</value>
   </data>
 </root>
