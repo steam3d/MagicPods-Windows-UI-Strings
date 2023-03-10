@@ -214,7 +214,7 @@
     <value>Icône</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Numérique</value>
+    <value>Texte</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Activer le démarrage</value>
@@ -436,7 +436,7 @@
     <value>La fonctionnalité «Notification VoiceOver» est désactivée, impossible d'accéder aux notifications. Veuillez ouvrir «Confidentialité et sécurité», autorisez l'accès aux notifications, puis activez «Notification VoiceOver».</value>
   </data>
   <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>VoiceOver annonce les notifications lorsque les AirPods sont connectés et définis comme périphérique de sortie audio.</value>
+    <value>Les notification sont annoncées quand les écouteurs sont connectés et sélectionnés comme périphérique de sortie audio.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
     <value>L'annonceur ne peut lire le texte que dans une seule langue.</value>
@@ -541,7 +541,7 @@
     <value>Une erreur inattendue s'est produite</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Redémarrez l'application pour corriger cette erreur. Si le problème persiste, veuillez redémarrer votre appareil.</value>
+    <value>Redémarrez l'application peut régler le problème. S'il persiste, essayez de redémarrer votre appareil.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Tapez un raccourci clavier</value>
@@ -592,7 +592,7 @@
     <value>Traduisez, modifiez ou ajoutez de nouvelles langues</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Rechercher une application</value>
+    <value>Rechercher des applications</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
     <value>Boîtier</value>
@@ -715,6 +715,6 @@
     <value>La fonction Mains libre (communication vocale) du casque ne sera pas disponible. Ne désactivez pas la fonction Mains libres manuellement. Redémarrez l'application pour appliquer les modifications.</value>
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
-    <value>Fonction expérimentale</value>
+    <value>Fonctionnalité expérimentale</value>
   </data>
 </root>
