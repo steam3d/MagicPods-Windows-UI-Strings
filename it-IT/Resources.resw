@@ -62,7 +62,7 @@
     <value>Suggerimento</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Non impostare un valore maggiore di 65. In alcuni casi, l'animazione potrebbe apparire accidentalmente.</value>
+    <value>Non impostare un valore maggiore di 65 in quanto l'animazione potrebbe apparire accidentalmente.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>Mostra il pulsante «Connetti»</value>
@@ -96,7 +96,7 @@
     <value>Applica</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Non ricordare</value>
+    <value>Ignora</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Impossibile connettere AirPods. Prova a connetterti manualmente.</value>
@@ -168,13 +168,13 @@
     <value>Cambia l'audio dagli AirPods agli altoparlanti predefiniti quando entrambi gli AirPod sono fuori dall'orecchio.</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods non trovate. Sii sicuro che le AirPods sono abbinate a questo dispositivo e riavvia l'app.</value>
+    <value>AirPods non trovate. Sii sicuro che le AirPods sono abbinate a questo dispositivo quindi riavvia l'app.</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
     <value>Il tuo PC non supporta il Bluetooth low energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% carica rimanente nelle AirPods. Ricarica le AirPods.</value>
+    <value>{0}% carica rimanente. Ricarica le cuffie.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -196,7 +196,7 @@
     <value>Grande</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>Resetta Impostazioni</value>
+    <value>Resetta le impostazioni</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Rilevamento dell'orecchio</value>
@@ -211,7 +211,7 @@
     <value>Entrambi (Diminuisci volume + Play/Pausa)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>La riproduzione si interrompe quando rimuovi un AirPods dall'orecchio o si interrompe quando rimuovi entrambi gli AirPods.</value>
+    <value>La riproduzione si interrompe quando rimuovi un AirPod dall'orecchio o si interrompe quando le rimuovi entrambe.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Altro</value>
@@ -292,21 +292,21 @@
     <value>Riavvia le applicazioni per applicare.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Mostra la carica degli AirPods sull'icona</value>
+    <value>Mostra la carica in percentuale</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Quando gli AirPods sono collegati, l'icona sulla barra delle applicazioni mostrerà la carica media delle tue cuffie sinistra e destra. Icona aggiornata ogni minuto.</value>
+    <value>Mostra la percentuale media della batteria delle cuffie connesse.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Icona batteria</value>
+    <value>Stile</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analogico</value>
+    <value>Icona</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digitale</value>
+    <value>Testo</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Annulla</value>
@@ -619,5 +619,8 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
     <value>Collegare una scheda Bluetooth che supporta Bluetooth Classic e riavviare l'applicazione</value>
+  </data>
+  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+    <value>Riproduci contenuti audio via Bluetooth sul PC. Il PC funziona come uno speaker bluetooth.</value>
   </data>
 </root>
