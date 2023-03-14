@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPodseja. Varmista että AirPodsit on paritettu laitteeseen ja käynnistä sovellus uudelleen.</value>
+    <value>AirPodseja ei löydy. Varmista että AirPodsit on paritettu laitteeseen ja käynnistä sovellus uudelleen.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Korvan tunnistus</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% Latusta jäljellä vasemmassa AirPodsissa. Lataa AirPodsisi.</value>
+    <value>{0}% akkua jäljellä. Lataa kuulokkeet.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
@@ -166,13 +166,13 @@
     <comment>Not used</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Akku kuvake</value>
+    <value>Tyyli</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analoginen</value>
+    <value>Kuvake</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digitaalinen</value>
+    <value>Teksti</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Aktivoi Käynnistys</value>
@@ -192,11 +192,11 @@
     <value>Käynnistä sovellus uudelleen ottaaksesi muutokset käyttöön.</value>
   </data>
   <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>Näytä AirPodien varaus kuvakkeessa</value>
+    <value>Näytä akun varaus kuvakkeessa</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Kun AirPodit on yhdistetty ilmaisinalueen kuvake näyttää arvion vasemman ja oikean kuulokkeen varauksesta. Kuvake päivittyy joka minuutti.</value>
+    <value>Näyttää keskiarvon yhdistettyjen kuulokkeiden akun varauksesta.</value>
     <comment>Changed</comment>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
@@ -250,6 +250,18 @@
     <value>Vinkki</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Älä aseta suurempaa arvoa kuin 65. Joissain tapauksissa animaatio saattaa ilmaantua vahingossa.</value>
+    <value>Älä aseta suurempaa arvoa kuin 65, koska joissain tapauksissa animaatio saattaa ilmaantua vahingossa.</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Yhdistäminen epäonnistui. Kokeile yhdistää kuulokkeet manuaalisesti.</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Ohita</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Käytännöllinen käytettäessä Premiere Prota tai Auditionia. Vaatii AirPodsien uudelleenyhdistämisen. Voi lisätä akun kulutusta.</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Käytä</value>
   </data>
 </root>
