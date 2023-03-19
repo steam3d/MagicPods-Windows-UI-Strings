@@ -62,13 +62,13 @@
     <value>バッテリー残量が{0}%です。 AirPodsを充電してください。</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>ウィンドウを表示</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>ケースを開いたときに、iPhoneのようにポップアップウィンドウを表示します。</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>ウィンドウサイズ</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
@@ -80,21 +80,17 @@
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>AirPodsを探す時間を減らします。周りの人がAirPodsを使用していないことが確実な場合に有効にしてください。</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>設定</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>この設定をタスクマネージャーのスタートアップ タブで有効または無効にできます。</value>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>変更を適用するにはアプリケーションを再起動してください。</value>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>AirPodsが接続されている場合、システムトレイアイコンに左右のヘッドホンの平均充電量が表示されます。 アイコンは毎分更新されます。</value>
     <comment>Changed</comment>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>一つの言語だけ読み上げることができます。</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
@@ -103,13 +99,13 @@
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>片方のAirPodsを耳から外すと音量が下がり、両方のAirPodsを取り外し/装着すると元に戻ります。</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>リストのすべてのアプリケーションが通知を送信できるわけではありません。一部のアプリケーションはリストに含まれていない可能性があります。</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>65を超える値を設定しないでください。アニメーションが誤って表示される場合があります。</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>ポップアップウィンドウの 「接続」 ボタンを表示または非表示にします。このボタンを押すと、AirPodsと接続します。</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
@@ -118,25 +114,22 @@
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>左右いずれかのAirPodsイヤホンが充電ケースから取り出されると、AirPodsへ自動的に接続します。</value>
   </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>このコンピューターはBluetooth Low Energy（Bluetooth 4.0以上）をサポートしていません</value>
-  </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>ポップアップ ウィンドウ</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>小</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>中</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>大</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>設定の初期化</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
@@ -157,13 +150,13 @@
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Premiere ProやAuditionと組み合わせると良い効果がありますが、バッテリーの消費量が増える可能性があります。有効にした後、AirPodsを再接続する必要があります。</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>ヘルプ</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>問題を報告</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>デバッグログ</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
@@ -172,25 +165,25 @@
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>スタートアップ</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>起動時に自動実行</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>グループポリシーによってスタートアップが無効になっているか、このデバイスではサポートされていません。</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>システムトレイアイコン</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>アイコンを隠す</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>システムトレイのアイコンにAirPodsのバッテリー残量を表示</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>バッテリーアイコン</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -238,13 +231,13 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>サポートされているプレーヤーのリスト</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPodsの検索範囲</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>AirPodsが収納された充電ケースを開いてアニメーションが表示されない場合、アニメーションが表示されるまでスライダーを右に動かしてください。</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>検索範囲とは？</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -253,7 +246,7 @@
   <data name="Text_Exit" xml:space="preserve">
     <value>閉じる</value>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>「接続」ボタンを表示する</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
@@ -265,10 +258,7 @@
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>AirPodsを接続した後、«再生»コマンドを送信します。開いているプレーヤーがない場合、Windowsはコマンドを無視します。</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>開いているプレーヤーがない場合、Windowsはコマンドを無視します。</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>すべての設定が初期化されます。初期化しますか？</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -293,40 +283,40 @@
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>AirPodsケースをコンピューターにできるだけ近づけて開きます</value>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>はい、設定を初期化します</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>次へ</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>検索範囲:コンピューターが開いているAirPodsケースを検索する半径。</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>閉じる</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>AirPodsを探しています</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>ウィンドウの位置</value>
   </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>左上</value>
   </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>右上</value>
   </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>画面中央</value>
   </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>左下</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>右下</value>
   </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>オーディオ</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
@@ -335,59 +325,50 @@
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>デバイスが使用できない、または削除されました</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
     <value>もっと詳しく知る</value>
   </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>Voice Over 通知</value>
   </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>AirPodsが接続され、オーディオ出力デバイスとして設定されると、VoiceOverが通知を読み上げます。</value>
   </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>設定</value>
   </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>Voice Overの設定</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>声を選んでください</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>利用可能な声がないか、選択されていません</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>文章を選択した声で読み上げます</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>読み上げる</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
     <value>VoiceOverが通知を読み上げるアプリケーションを選択</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>すべての通知でVoice Overを有効にする</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>すべてのアプリケーションを表示</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>プライバシーと通知</value>
   </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>声を追加</value>
-  </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>接続がキャンセルされました</value>
-  </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>他のAirPodsがすでに接続されています。最初に他のAirPodsの接続を切断してください。</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>自動的にオーディオ出力を切り替える</value>
-  </data>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPodsが見つかりませんでした。このコンピューターとAirPodsの接続を確認して、アプリケーションを再起動してください。</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>片方のAirPodsを耳から外すと再生を一時停止、または音量を下げます。両方のAirPodsを外すと再生を停止し音量を元に戻します。</value>
@@ -416,22 +397,22 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>システム設定を使用する</value>
   </data>
-  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>ウィンドウの外観</value>
   </data>
-  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
     <value>言語</value>
   </data>
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>システム設定を使用する</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
     <value>テーマ</value>
   </data>
-  <data name="Settings_AppSettings.Text" xml:space="preserve">
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>アプリケーションの設定</value>
   </data>
-  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
     <value>AirPodsの対応リスト</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
@@ -539,25 +520,25 @@
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
     <value>ヘッドフォンに接続または切断するためのグローバルホットキーを設定できます。</value>
   </data>
-  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>開発者の他のアプリケーション</value>
   </data>
-  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>あらゆる画像からテキストをコピーできます</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>アプリケーションを検索する</value>
   </data>
-  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>新しい言語の翻訳、編集、追加を行う</value>
   </data>
-  <data name="Support_YAD_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
     <value>走って、ジャンプして、かわす、危険なアドベンチャーゲーム</value>
   </data>
-  <data name="Support_Button_Hide.Content" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>隠す</value>
   </data>
-  <data name="Support_Button_Download.Text" xml:space="preserve">
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>ダウンロード</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
@@ -578,16 +559,13 @@
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>Bluetooth LE がサポートされていません</value>
   </data>
-  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>他のヘッドホンが接続中または切断中のため、完了を待って再試行してください</value>
-  </data>
-  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
     <value>Bluetooth デバイスから PC にオーディオをストリーミングします。 PC は Bluetooth スピーカーとして機能します。</value>
   </data>
-  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
     <value>サウンド出力が PC スピーカーに変更されたときに、ストリーミング デバイスのオーディオをミュートします。</value>
   </data>
-  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>サウンド出力が変更されたときに、ポップアップウィンドウを表示します。</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
@@ -629,13 +607,13 @@
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
     <value>アプリを再起動すると解決する場合があります</value>
   </data>
-  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>オーディオ ストリーミング</value>
   </data>
-  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
     <value>新しいデバイスを追加</value>
   </data>
-  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
     <value>自動ミュート</value>
   </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
@@ -644,16 +622,16 @@
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>ペアリングされたデバイスがないか、Bluetoothがオフになっています</value>
   </data>
-  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
     <value>ストリーミングデバイス</value>
   </data>
-  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
     <value>サウンド出力</value>
   </data>
-  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
     <value>中央の上</value>
   </data>
-  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>中央の下</value>
   </data>
 </root>

@@ -58,25 +58,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>ขนาดใหญ่</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>คอมพิวเตอร์ของคุณไม่รองรับบลูทูธพลังงานต่ำ</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>แจ้งเตือน</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>หน้าต่าง สถานะ</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>แสดงหน้าต่าง</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>ขนาดของหน้าต่าง สถานะ</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>ขนาดกลาง</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
@@ -85,13 +82,13 @@
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>อื่นๆ</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>ขอความช่วยเหลือ</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>รายงานปัญหา</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>บันทึก ข้อผิดพลาด</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
@@ -103,18 +100,18 @@
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>การเริ่มต้นถูกปิดใช้งานโดยนโยบายการรักษาความปลอดภัยหรืออุปกรณ์นี้ไม่รองรับ</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>ไอคอนถาดระบบ</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>ซ่อนไอคอน</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>รีสตาร์ทแอปพลิเคชันเพื่อเปลี่ยนค่า</value>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>รูปแบบ</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -159,10 +156,10 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>รายชื่อผู้เล่นที่รองรับ</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>รัศมีการค้นหา AirPods</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>รัศมีการค้นหาคืออะไร?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -171,7 +168,7 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>อย่าตั้งค่าสูงกว่า 65, เนื่องจากภาพเคลื่อนไหวอาจปรากฏขึ้นโดยไม่ได้ตั้งใจ</value>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>แสดงปุ่ม «เชื่อมต่อ»</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
@@ -183,10 +180,7 @@
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>เล่นอัตโนมัติ</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>หากไม่เปิด Windows จะไม่สนใจคำสั่ง</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>ใช่ รีเซ็ตการตั้งค่า</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -207,73 +201,70 @@
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>ถัดไป</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>รัศมีการค้นหา - รัศมีที่คอมพิวเตอร์ของคุณจะค้นหาเคส AirPods ที่เปิดอยู่</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>ปิด</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>กำลังค้นหา AirPods</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>ตำแหน่งหน้าต่าง</value>
   </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>มุมบนขวา</value>
   </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>ตรงกลาง</value>
   </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>มุมล่างซ้าย</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>มุมล่างขวา</value>
   </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>เสียง</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>อุปกรณ์ไม่พร้อมใช้งานหรือถูกลบออก</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
     <value>เรียนรู้เพิ่มเติม</value>
   </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>การแจ้งเตือนของวอยซ์โอเวอร์</value>
   </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>VoiceOver จะประกาศการแจ้งเตือนเมื่อ AirPods เชื่อมต่อและตั้งค่าเป็นอุปกรณ์ส่งสัญญาณเสียงออก</value>
   </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>กำหนดค่า</value>
   </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>การกำหนดค่า VoiceOver</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>เลือกเสียง</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>ไม่ได้เลือกเสียงหรือไม่มีเสียงที่พร้อมใช้งาน</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>ฟังข้อความด้วยเสียงที่เลือก</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>พูด</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>ความเป็นส่วนตัวและการแจ้งเตือน</value>
   </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>เพิ่มเสียงใหม่</value>
   </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>การเชื่อมต่อถูกยกเลิก</value>
-  </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>คืนค่าการตั้งค่า</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
@@ -291,16 +282,16 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>ใช้ธีมสีของระบบ</value>
   </data>
-  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>ธีมหน้าต่าง</value>
   </data>
-  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
     <value>ภาษา</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
     <value>ธีม</value>
   </data>
-  <data name="Settings_AppSettings.Text" xml:space="preserve">
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>การตั้งค่าแอพพลิเคชั่น</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
@@ -313,14 +304,11 @@
     <value>จากการใช้งานของคุณ เราแนะนำให้ตั้งค่าเป็น {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>VoiceOver การแจ้งเตือนทั้งหมด</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>แสดงแอพทั้งหมด</value>
-  </data>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>ไม่พบอุปกรณ์ ตรวจสอบให้แน่ใจว่า AirPods ได้ทำการจับคู่กับอุปกรณ์นี้แล้วรีสตาร์ทแอพ</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>เล่น/หยุดชั่วคราว</value>
@@ -331,11 +319,11 @@
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>ลดเวลาในการค้นหา AirPods เปิดใช้งานเมื่อคุณแน่ใจว่าไม่มีการใช้ AirPods อยู่</value>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>แสดงแบตเตอรี่เฉลี่ยของหูฟังที่เชื่อมต่อ</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>หากหน้าต่างไม่ปรากฏขึ้น ให้เปิดเคสที่มี AirPods อยู่ข้างใน แล้วเลื่อนตัวเลื่อนไปทางขวาช้าๆ จนกว่าภาพเคลื่อนไหวจะปรากฏขึ้น</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
@@ -351,44 +339,37 @@
     <value>AirPods เหลือแบตเตอรี่ {0}% ชาร์จไฟ AirPods ของคุณ</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>ตั้งค่า</value>
-    <comment>Not used</comment>
-  </data>
   <data name="Text_Help" xml:space="preserve">
     <value>ช่วยเหลือ</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>เพิ่ม AirPods ในรายการอุปกรณ์ Windows Bluetooth</value>
   </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>AirPods อื่นๆ เชื่อมต่อแล้ว โปรดหยุดเชื่อมต่อก่อน</value>
-  </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>การเล่นจะหยุดชั่วคราวเมื่อ AirPods ข้างหนึ่งถูกถอดออก หรือหยุดเมื่อถอด AirPods ทั้งสองข้าง</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>เรียกใช้เมื่อเริ่มต้น</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
     <value>ฟีเจอร์ที่กำลังถูกพัฒนา</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>แสดงหรือซ่อนปุ่ม «เชื่อมต่อ» บนหน้าต่างป๊อปอัป การกดปุ่มจะเชื่อมต่อ AirPods</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>นำเคส AirPods ของคุณเข้าใกล้คอมพิวเตอร์มากที่สุดแล้วเปิดออก</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>การประกาศสามารถอ่านข้อความในภาษาเดียวเท่านั้น</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>เพื่อประสบการณ์การใช้งานที่ดีที่สุด เราขอแนะนำให้คุณเปิดใช้งานการเริ่มต้นระบบ คุณสามารถทำได้จากแท็บ «เริ่มต้น» ในตัวจัดการงาน</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>แสดง หรือ ซ่อน หน้าต่างสถานะ ,เมื่อเปิดใช้งานอุปกรณ์</value>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>คุณสามารถเปิดหรือปิดใช้งานสิ่งนี้ได้ในแท็บเริ่มต้นในหน้าต่างจัดการงาน</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
@@ -397,25 +378,25 @@
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>ส่งคำสั่ง «เล่น» หลังจากเชื่อมต่อหูฟัง ถึงแม้ว่าไม่มีตัวเล่นทำงาน Windows จะไม่สนใจคำสั่ง</value>
   </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>มุมบนซ้าย</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
     <value>การแจ้งเตือน VoiceOver จากผู้ส่งเหล่านี้</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>ทำตามคำแนะนำนี้เพื่อแก้ไขปัญหา</value>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>การตั้งค่าทั้งหมดจะถูกรีเซ็ต คุณต้องการดำเนินการต่อหรือไม่?</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>ขนาดเล็ก</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>ความไวในการตอบสนองต่อเสียง</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>แสดงแบตเตอรี่ AirPods</value>
     <comment>Changed</comment>
   </data>
@@ -425,7 +406,7 @@
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
     <value>สลับเอาต์พุตเสียงอัตโนมัติ</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>ไม่ใช่ทุกแอปพลิเคชันจากรายการที่สามารถส่งการแจ้งเตือนได้ บางแอปพลิเคชันอาจไม่อยู่ในรายการ</value>
   </data>
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
@@ -446,7 +427,7 @@
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
     <value>แสดงการแจ้งเตือนเมื่อหูฟังเหลือแบตเตอรี่ต่ำกว่าที่ตั้งไว้</value>
   </data>
-  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
     <value>ความสามารถของ AirPods</value>
   </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
@@ -470,16 +451,16 @@
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>ปุ่มลัดการเชื่อมต่อ</value>
   </data>
-  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>แอพอื่นๆของผู้พัฒนา</value>
   </data>
-  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>คัดลอกข้อความจากรูป</value>
   </data>
-  <data name="Support_YAD_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
     <value>วิ่ง กระโดด และหลบสิ่งกีดขวางสุดอันตรายในเกมผจญภัย</value>
   </data>
-  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>แปลภาษา แก้ไข และเพิ่มภาษาใหม่ๆ</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
@@ -505,9 +486,6 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>ไม่รองรับ Bluetooth LE</value>
-  </data>
-  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>หูฟังอันอื่นกำลังเชื่อมต่อ/หยุดเชื่อมต่อ กรุณารอให้เสร็จแล้วลองอีกครั้ง</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>เพื่อประสบการณ์การใช้งานที่ดีที่สุด เราขอแนะนําให้คุณเปิดใช้งานการเริ่มต้นระบบ</value>
@@ -539,10 +517,10 @@
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>ชาร์จ</value>
   </data>
-  <data name="Support_Button_Hide.Content" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>ซ่อน</value>
   </data>
-  <data name="Support_Button_Download.Text" xml:space="preserve">
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>ดาวน์โหลด</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
@@ -581,13 +559,13 @@
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>การแจ้งเตือนแบตเตอรี่ต่ํา</value>
   </data>
-  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>สตรีมเสียง</value>
   </data>
-  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
     <value>ปิดเสียงอัตโนมัติ</value>
   </data>
-  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
     <value>เพิ่มอุปกรณ์ใหม่</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
@@ -638,16 +616,16 @@
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>ไม่มีอุปกรณ์เชื่อมต่อ หรือบลูทูธปิดอยู่</value>
   </data>
-  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
     <value>อุปกรณ์สตรีมมิ่ง</value>
   </data>
-  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
     <value>เสียงออก</value>
   </data>
-  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
     <value>กลางบน</value>
   </data>
-  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>กลางล่าง</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
@@ -656,13 +634,13 @@
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
     <value>เชื่อมต่ออะแดปเตอร์บลูทูธที่รองรับ Bluetooth Classic และเริ่มแอปพลิเคชั่นใหม่</value>
   </data>
-  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
     <value>สตรีมเสียงจากอุปกรณ์บลูทูธไปยัง PC โดยใช้ PC เป็นลำโพงบลูทูธ</value>
   </data>
-  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
     <value>ปิดเสียงอุปกรณ์เมื่อเสียงออกถูกตั้งเป็นลำโพง PC</value>
   </data>
-  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>แสดงหน้าต่างป๊อปอัพเมื่อช่องเสียงออกถูกเปลี่ยน</value>
   </data>
 </root>

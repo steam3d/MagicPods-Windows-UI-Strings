@@ -117,40 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods konnten nicht gefunden werden. Überprüfe, ob die AirPods gekoppelt sind und starte dann die App neu.</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Dein PC unterstützt kein Bluetooth auf geringer Energy</value>
-  </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% Batterieladung verbleibend. Lade deine Kopfhörer auf.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Warnung</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Pop-up Fenster</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Fenster anzeigen</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Zeige oder verstecke ein Pop-up wie auf dem iPhone, wenn du das Case öffnest.</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Fenstergröße</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>Klein</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>Mittel</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>Groß</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Einstellungen zurücksetzen</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
@@ -177,13 +171,13 @@
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Nützlich, wenn in Premiere Pro oder Audition gearbeitet wird. Ein erneutes Verbinden der AirPods ist nach der Aktivierung nötig. Möglicherweise erhöht es den Energieverbrauch.</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Hilfe</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Fehler melden</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>Fehlerprotokoll</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
@@ -192,37 +186,34 @@
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Reduziert die Suchzeit für AirPods. Schalte es ein, wenn dir sicher bist, dass niemand um dich herum AirPods verwendet.</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>Einstellungen</value>
-  </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Autostart</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>Beim Hochfahren starten</value>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Du kannst dies im Reiter Autostart des Task-Managers einstellen.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Autostart wurde durch eine Gruppenrichtlinie deaktiviert oder wird nicht auf diesem Gerät unterstützt.</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Icon im Infobereich</value>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Icon verstecken</value>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>Starte die Anwendung neu, um die Änderungen zu übernehmen.</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Zeige den Batterieladestand an</value>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Zeigt den durchschnittlichen Batterieladestand der angeschlossenen Kopfhörer an.</value>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Stil</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -279,13 +270,13 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Liste der unterstützen Programme</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPods Suchradius</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Wenn das Pop-up nicht angezeigt wird, öffne das Case mit deinen AirPods und schiebe den Slider nach rechts, bis die Animation zu sehen ist.</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>Was ist Suchradius?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -294,10 +285,10 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Stelle keinen höheren Wert als 65 ein, da die Animation sonst unbeabsichtigt erscheinen könnte.</value>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Zeige „Verbinden“- Schaltfläche</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Zeige oder verstecke die "Verbinden"-Schaltfläche im Pop-up. Bei Betätigung der Schaltfläche werden die AirPods verbunden.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
@@ -312,13 +303,10 @@
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Sendet einen Wiedergabebefehl nach der Verbindung der AirPods. Wenn keine Abspielprogramme geöffnet sind, wird Windows den Befehl ignorieren.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>Wenn keine Abspielprogramme geöffnet sind, wird Windows den Befehl ignorieren.</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Alle Einstellungen werden zurückgesetzt. Fortfahren?</value>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>Ja, zurücksetzen</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -351,10 +339,10 @@
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Weiter</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>Suchradius - der Radius, in dem dein PC nach den AirPods suchen wird.</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Schließen</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
@@ -363,22 +351,22 @@
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Suche nach AirPods</value>
   </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>Linke obere Ecke</value>
   </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>Rechte obere Ecke</value>
   </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>Mitte</value>
   </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>Linke untere Ecke</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>Rechte untere Ecke</value>
   </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>Audio</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
@@ -387,65 +375,59 @@
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Gerät wurde entfernt oder ist nicht verfügbar</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
     <value>Mehr erfahren</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>Fensterposition</value>
   </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>VoiceOver-Benachrichtigungen</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>Wähl eine Stimme</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>Der Sprecher kann den Text nur in einer Sprache vorlesen.</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>Sprechen</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
     <value>VoiceOver Benachrichtigungen von diesen Sendern</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>Keine Stimme ausgewählt oder verfügbar</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>Hör dir den Text mit der ausgewählten Stimme an</value>
   </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>Konfigurieren</value>
   </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>VoiceOver Konfiguration</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Nicht alle Anwendungen aus der Liste können Benachrichtigungen senden, einige Anwendungen sind möglicherweise nicht in der Liste enthalten.</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>VoiceOver alle Benachrichtigungen</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>Zeige alle Apps</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Datenschutz und Benachrichtigungen</value>
   </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>Verbindung abgebrochen</value>
-  </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>Es werden Benachrichtigungen angezeigt, wenn ein Kopfhörer angeschlossen und als Audioausgabegerät eingestellt ist.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>Die Funktion "VoiceOver-Benachrichtigung" ist deaktiviert und kann nicht auf die Benachrichtigungen zugreifen. Bitte öffnen Sie «Datenschutz und Benachrichtigungen»‎, erlauben Sie den Zugriff auf Benachrichtigungen und aktivieren Sie dann "VoiceOver-Benachrichtigung".</value>
   </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>Eine neue Stimme hinzufügen</value>
-  </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>Andere AirPods sind bereits verbunden, bitte trennen Sie diese zuerst.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>Für die beste Benutzererfahrung, empfehlen wir das Aktivieren von Autostart. Dies ist im Reiter "Autostart" des Task-Managers möglich.</value>
@@ -462,16 +444,16 @@
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>Systemsprache verwenden</value>
   </data>
-  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
     <value>Sprache</value>
   </data>
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>System-Theme verwenden</value>
   </data>
-  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
     <value>AirPods Kompatibilität</value>
   </data>
-  <data name="Settings_AppSettings.Text" xml:space="preserve">
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>Anwendungseinstellungen</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
@@ -480,10 +462,10 @@
   <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
     <value>Dunkel</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
     <value>Farbeschema</value>
   </data>
-  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>Windows Farbschema</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
@@ -507,10 +489,10 @@
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Aus</value>
   </data>
-  <data name="Support_Button_Hide.Content" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>Ausblenden</value>
   </data>
-  <data name="Support_Button_Download.Text" xml:space="preserve">
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>Download</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
@@ -582,9 +564,6 @@
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Bluetooth Einstellungen</value>
   </data>
-  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>Andere Kopfhörer Verbinden sich gerade. Warte bis das Verbinden abgeschlossen ist und versuche es erneut</value>
-  </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
     <value>Lerne MagicPods 2.0 kennen</value>
   </data>
@@ -603,16 +582,16 @@
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>Verbindungs Tastenkombination</value>
   </data>
-  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>Andere Apps</value>
   </data>
-  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>Text vom Bild kopieren</value>
   </data>
-  <data name="Support_YAD_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
     <value>Renne, laufe und weiche aus in einem gefährlichen Adventure Spiel</value>
   </data>
-  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>Übersetze, bearbeite oder füge neue Sprachen hinzu</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
@@ -672,13 +651,13 @@
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
     <value>Schließe einen Bluetooth-Adapter an, der Bluetooth LE unterstüzt, und starte die Anwendung neu</value>
   </data>
-  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
     <value>Übertrage die Audiosignale von Bluetooth-Geräten auf den PC. Der PC fungiert als Bluetooth-Lautsprecher.</value>
   </data>
-  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
     <value>Schalte die Audioausgabe von Streaming-Geräten stumm, wenn der Ton auf die PC-Lautsprecher übertragen wird.</value>
   </data>
-  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Pop-up-Fenster anzeigen, wenn die Tonausgabe geändert wird.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
@@ -687,13 +666,13 @@
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>Experimentelle Funktion</value>
   </data>
-  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Audio-Übertragung</value>
   </data>
-  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
     <value>Füge ein neues Gerät hinzufügen</value>
   </data>
-  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
     <value>Automatische Stummschaltung</value>
   </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
@@ -702,16 +681,16 @@
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>Keine gekoppelten Geräte oder Bluetooth ist ausgeschaltet</value>
   </data>
-  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
     <value>Streaming-Gerät</value>
   </data>
-  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
     <value>Tonausgabe</value>
   </data>
-  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
     <value>Mitte oben</value>
   </data>
-  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>Mitte unten</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">

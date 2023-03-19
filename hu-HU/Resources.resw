@@ -67,14 +67,11 @@
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Hasznos, amikor dolgozik Premiere Pro-ban vagy Audition-ben. Bekapcsolás után újra kell csatlakoztatni az AirPods-ot. Ez növelheti az akkumulátor fogyasztását.</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>Hibakeresési napló</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>A «Csatlakozás» gomb megjelenítése vagy elrejtése a felbukkanó ablakban. A gomb megnyomásával az AirPods csatlakozik.</value>
-  </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>Ha nincsenek megnyitott lejátszók, a Windows figyelmen kívül hagyja a parancsot.</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPodshoz való csatlakozás sikertelen. Próbálja meg manuálisan csatlakoztatni.</value>
@@ -88,7 +85,7 @@
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Hangerő csökkentése</value>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>Indítsa újra az alkalmazást a módosítások alkalmazásához.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
@@ -97,41 +94,37 @@
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Alacsony hang késleltetés</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Segitség kérése</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Hiba jelentése</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>Gyors keresés</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>Beálitások</value>
-    <comment>Not used</comment>
-  </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Indítás</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>Futtatás indításkor</value>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Ezt engedélyezheti vagy letilthatja a feladatkezelő indítási lapján.</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Tálca ikon</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Ikon eltüntetése</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Akkumulátor töltöttségi szint megjelenítése</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Stílus</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -176,10 +169,10 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Támogatott lejátszók listája</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPods keresési rádiusz</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>Mi az a keresési rádiusz?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -188,7 +181,7 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Ne állítson be 65-nél nagyobb értéket mert bizonyos esetekben az animáció véletlenül jelenhet meg.</value>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>«Kapcsolódás» gomb mutatása</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
@@ -203,10 +196,10 @@
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Küldje el a «Play» parancsot az AirPods csatlakoztatása után. Ha nincsenek megnyitott lejátszók, a Windows figyelmen kívül hagyja a parancsot.</value>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Az összes beállítás vissza lesz állítva. Szeretné folytatni?</value>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>Igen, beállítások visszaállítása</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -234,7 +227,7 @@
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Következő</value>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Csatlakoztatott fejhallgatók töltöttségi szintjének megjelenítése.</value>
     <comment>Changed</comment>
   </data>
@@ -253,17 +246,11 @@
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>Az alkalmazás be fog zárulni és minden funkció le lesz tiltva.</value>
   </data>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>Az AirPods nem található. Győződjön meg róla, hogy az AirPods párosítva van, majd indítsa újra az alkalmazást.</value>
-  </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>A felugró ablak megjelenítése vagy elrejtése, mint az iPhone készüléken, amikor felnyitja a dobozt.</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>Közepes</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>A számítógép nem támogatja a Bluetooth alacsony energiát</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% maradt. Tölti az AirPods-ot.</value>
@@ -272,22 +259,22 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>Figyelem</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Felugró ablak</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Ablak mutatása</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Ablak méret</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>Kicsi</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>Nagy</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Beállítások visszaállítása</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
@@ -296,37 +283,37 @@
   <data name="Menu_Item3.Content" xml:space="preserve">
     <value>Kísérleti jellemzők</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>Keresési rádiusz - az a rádiusz, amelyben a számítógép keresi az AirPodsot.</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Bezárás</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>AirPods keresése</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>Ablak pozíció</value>
   </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>Bal felső sarok</value>
   </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>Jobb felső sarok</value>
   </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>Középen</value>
   </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>Bal alsó sarok</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>Jobb alsó sarok</value>
   </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>Hang</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Ha az ablak nem jelenik meg, nyissa ki a tokot AirPods-al a belsejében, majd csúsztassa a csúszkát jobbra, amíg az animáció meg nem jelenik.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
@@ -338,62 +325,56 @@
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Eszköz nem elérhető vagy el lett távolítva</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
     <value>Tudjon meg többet</value>
   </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>Új hang hozzáadása</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>Összes app megjelenítése</value>
   </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>VoiceOver értesítések</value>
   </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>Konfigurálás</value>
   </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>VoiceOver konfigurálása</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>Válassz egy hangot</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>Nincs hang kiválasztva vagy nem elérhető</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>Próbaszöveg felolvastatása</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
     <value>VoiceOver értesítések a következőktöl</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>A felolvasó csak egy nyelven tud szöveget felolvasni.</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>Beszéd</value>
   </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>VoiceOver audio értesítés amikor az AirPods csatlakoztatva van és be van állítva mint hangkimeneti eszköz.</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>Összes VoiceOver értesítés</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Nem tud minden alkalmazás a listáról értesítéseket küldeni, és néhány alkalmazás esetlegesen nem lehet a listában.</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Adatvédelem és értesítések</value>
   </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>Egy másik AirPods már csatlakoztatva van, először kérlek válaszd le a többi AirPodsot.</value>
-  </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>A "VoiceOver értesítés" funkció kikapcsolt, mivel a MagicPods nem fér hozzá az értesítésekhez. Kérlek nyisd meg a(z) «Privacy and notifications»-t, engedélyezd az értesítések hozzáférését, és kapcsold be a "VoiceOver értesítések" funkciót.</value>
-  </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>Csatlakozás visszavonva</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>A legjobb felhasználói élmény érdekében, javasoljuk, hogy engedélyezd az automata indulást. Ezt a Feladatkezelő «Startup» menüpontjánál tudod aktiválni.</value>
@@ -413,16 +394,16 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Rendszerbeállítás használata</value>
   </data>
-  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>Ablak kinézet</value>
   </data>
-  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
     <value>Nyelv</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
     <value>Kinézet</value>
   </data>
-  <data name="Settings_AppSettings.Text" xml:space="preserve">
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>Alkalmazás beállítások</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
@@ -431,7 +412,7 @@
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>Rendszerbeállítás használata</value>
   </data>
-  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
     <value>AirPods funkcionalitás</value>
   </data>
   <data name="Battery_Short_Right.Title" xml:space="preserve">
@@ -473,10 +454,10 @@
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>Töltés</value>
   </data>
-  <data name="Support_Button_Hide.Content" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>Elrejt</value>
   </data>
-  <data name="Support_Button_Download.Text" xml:space="preserve">
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>Letöltés</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
@@ -487,9 +468,6 @@
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>A Bluetooth LE nem támogatott</value>
-  </data>
-  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>Más fejhallgatók csatlakoztatása / leválasztása folyamatban van, várja meg a befejezést és próbálja újra</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Kikapcsolva</value>
@@ -566,19 +544,19 @@
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>Csatlakozás gyorsbillentyű</value>
   </data>
-  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>Egyéb alkalmazások a fejlesztőtől</value>
   </data>
-  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>Szöveg másolása bármilyen képről</value>
   </data>
-  <data name="Support_YAD_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
     <value>Fuss, ugorj és kerüld ki egy veszélyes kaland játékban</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>Alkalmazások keresése</value>
   </data>
-  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>Fordítson, szerkesszen vagy adjon hozzá új nyelveket</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
@@ -623,22 +601,22 @@
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
     <value>Streamelő eszközhöz való csatlakozás sikertelen. Bizonyosodjon meg róla hogy a Bluetooth be van kapcsolva a streamelő eszközön.</value>
   </data>
-  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Felugró ablak mutatása ha a kimenet megváltozik.</value>
   </data>
-  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
     <value>Audió Streamelése Bluetooth eszközökről a PC-re. A PC Bluetooth hangszóróként funkcionál.</value>
   </data>
-  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Audió Streamelés</value>
   </data>
-  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
     <value>Új eszköz hozzáadása</value>
   </data>
-  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
     <value>Autómatikus némítás</value>
   </data>
-  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
     <value>Streamelő eszköz hangjának némítása ha a PC hangeszköze megváltozik.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
@@ -650,16 +628,16 @@
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>Nincs párosított eszköz, vagy a Bluetooth ki van kapcsolva</value>
   </data>
-  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
     <value>Streamelő eszköz</value>
   </data>
-  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
     <value>Hang kimenet</value>
   </data>
-  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
     <value>Közép fent</value>
   </data>
-  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>Közép lent</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">

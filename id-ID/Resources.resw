@@ -58,17 +58,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Dukungan</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Laporkan Masalah</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>Catatan Debug</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>PC Anda tidak mendukung Bluetooth Low Energy</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% daya tersisa di AirPods. Isi daya AirPods Anda.</value>
@@ -77,28 +74,28 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>Peringatan</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Jendela Pop-up</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Tampilkan Jendela</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Tampilkan atau sembunyikan jendela pop-up seperti di iPhone, saat Anda membuka casing.</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Ukuran Jendela</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>Kecil</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>Sedang</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>Besar</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Reset Pengaturan</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
@@ -122,35 +119,31 @@
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Mengurangi waktu pencarian untuk AirPods. Nyalakan saat Anda yakin tidak ada orang di sekitar yang menggunakan AirPods.</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>Pengaturan</value>
-    <comment>Not used</comment>
-  </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Jalankan bersama Windows</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>Jalankan saat Startup</value>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Anda dapat mengaktifkan atau menonaktifkan ini di tab Startup pada Task Manager.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Startup dinonaktifkan oleh group policy, atau tidak didukung pada perangkat ini.</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Ikon system tray</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Sembunyikan Ikon</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Tampilkan ikon AirPods saat pengisian daya</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Ikon baterai</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
@@ -201,13 +194,13 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Daftar pemutar yang didukung</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>Radius pencarian AirPods</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Jika jendela tidak muncul, buka casing dengan AirPods di dalamnya dan geser slider ke kanan dengan mulus hingga animasi muncul.</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>Apa itu radius pencarian?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -228,10 +221,7 @@
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Kirim perintah «Putar» setelah menghubungkan AirPods. Jika tidak ada pemutar yang terbuka, Windows akan mengabaikan perintah tersebut.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>Jika tidak ada pemutar yang terbuka, Windows akan mengabaikan perintah tersebut.</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>Ya, reset pengaturan</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -262,31 +252,31 @@
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Lanjut</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>Radius pencarian - radius di mana komputer Anda akan mencari kasing AirPods yang terbuka.</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Tutup</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Mencari AirPods</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>Posisi jendela</value>
   </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>Pojok kiri atas</value>
   </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>Pojok kanan atas</value>
   </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>Tengah</value>
   </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>Pojok kiri bawah</value>
   </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>Suara</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
@@ -295,29 +285,26 @@
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Perangkat tidak tersedia atau dihapus</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
     <value>Pelajari Selengkapnya</value>
   </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>Pemberitahuan VoiceOver</value>
   </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>Konfigurasi</value>
   </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>Konfigurasi VoiceOver</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>Pilih suara</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>Penyiar dapat membaca teks hanya dalam satu bahasa.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>Tidak ada suara yang dipilih atau tersedia</value>
-  </data>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods tidak ditemukan. Pastikan AirPods sudah dipasangkan ke perangkat ini dan mulai ulang aplikasi.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Deteksi Telinga</value>
@@ -328,25 +315,25 @@
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Disarankan saat menggunakan di Premiere Pro atau Audition. Memerlukan re-connect AirPods setelah fitur ini dihidupkan. Ini dapat meningkatkan konsumsi baterai.</value>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>Restart aplikasi untuk menerapkan.</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>Dengarkan teks dengan suara yang dipilih</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>Ucapkan</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Tidak semua aplikasi dari daftar dapat mengirim notifikasi, beberapa aplikasi mungkin tidak ada dalam daftar.</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>VoiceOver semua notifikasi</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>Tampilkan semua aplikasi</value>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Saat AirPods tersambung, ikon system tray akan menampilkan daya rata-rata headphone kiri dan kanan Anda. Ikon akan diperbarui tiap menitnya.</value>
     <comment>Changed</comment>
   </data>
@@ -356,28 +343,28 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Jangan menetapkan nilai lebih besar dari 65. Dalam beberapa kasus, animasi mungkin muncul secara tidak sengaja.</value>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Tampilkan tombol «Sambungkan»</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Menampilkan atau menyembunyikan tombol «Sambungkan» pada jendela pop-up. Tekan tombol untuk menghubungkan AirPods.</value>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Semua pengaturan akan direset. Apakah Anda ingin melanjutkan?</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Pemutaran dijeda dan volume berkurang saat Anda melepaskan satu AirPods dari telinga Anda, atau berhenti dan volume pulih saat Anda melepaskan kedua AirPods.</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>Pojok kanan bawah</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Alihkan suara dari AirPods ke speaker default saat kedua AirPod tidak berfungsi.</value>
   </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>VoiceOver mengumumkan pemberitahuan saat AirPods tersambung dan disetel sebagai perangkat output audio.</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
     <value>Pemberitahuan VoiceOver dari pengirim ini</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
@@ -398,7 +385,7 @@
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>Fitur "notifikasi VoiceOver" mati, tidak bisa mengakses notifikasi. Silahkan buka «Privasi dan notifikasi», perbolehkan akses notifikasi, lalu nyalakan "Notifikasi VoiceOver".</value>
   </data>
-  <data name="Support_Button_Download.Text" xml:space="preserve">
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>Unduh</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
@@ -413,10 +400,7 @@
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
     <value>Tidak ada headphone terpasang</value>
   </data>
-  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>Ada headphone lain yang sedang menyambung / diputus, tunggu hingga selesai dan coba lagi</value>
-  </data>
-  <data name="Settings_AppSettings.Text" xml:space="preserve">
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>Konfigurasi aplikasi</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
@@ -479,16 +463,16 @@
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>Hotkey menyambung</value>
   </data>
-  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>Aplikasi lain dari pengembang</value>
   </data>
-  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>Salin tulisan dari gambar apapun</value>
   </data>
-  <data name="Support_YAD_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
     <value>Lari, loncat, dan hindari di permainan pertualangan berbahaya</value>
   </data>
-  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>Terjemahkan, ubah atau tambahkan bahasa baru</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
@@ -497,14 +481,8 @@
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Privasi dan notifikasi</value>
   </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>Tambahkan suara baru</value>
-  </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>Koneksi dibatalkan</value>
-  </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>Ada AirPods lain yang sudah terhubung, silahkan putuskan hubungan tersebut terlebih dahulu.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>Untuk pengalaman pengguna terbaik, kami menyarankan anda untuk menyalakan aplikasi di saat memulai komputer. Anda bisa melakukan ini dari menu «Startup» di Task Manager.</value>
@@ -524,16 +502,16 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Gunakan tema sistem</value>
   </data>
-  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>Tema Window</value>
   </data>
-  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
     <value>Bahasa</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
     <value>Tema</value>
   </data>
-  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
     <value>Kemampuan AirPods</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
@@ -557,7 +535,7 @@
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>Isi daya</value>
   </data>
-  <data name="Support_Button_Hide.Content" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>Menyembunyikan</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">

@@ -58,12 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods نہیں ملے۔ یقینی بنائیں کہ AirPods نے اس ڈیوائس کے ساتھ جوڑا بنایا ہے اور ایپ کو دوبارہ شروع کریں۔</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>آپ کا کمپیوٹر بلوٹوتھ کم توانائی کو سپورٹ نہیں کرتا ہے</value>
-  </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>AirPods پر {0}% چارج باقی ہے۔ اپنے AirPods کو چارج کریں۔</value>
     <comment>{0} will be replaced with a number</comment>
@@ -71,35 +65,29 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>وارننگ</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>پاپ اپ ونڈو</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>ونڈو دکھائیں</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>جب آپ کیس کھولتے ہیں تو آئی فون کی طرح پاپ اپ ونڈو دکھائیں یا چھپائیں۔</value>
   </data>
-  <data name="Settings_Popup_Text3.Header" xml:space="preserve">
-    <value>سگنل</value>
-  </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>ونڈو سائز</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>چھوٹا</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>درمیانی</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>بڑا</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>ترتیبات کو دوبارہ ترتیب دیں</value>
-  </data>
-  <data name="Settings_Button2.Content" xml:space="preserve">
-    <value>ایپ بند کریں</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>کان کا پتہ لگانا</value>
@@ -117,14 +105,14 @@
     <value>دوسرے</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>آپ اسے ٹاسک مینیجر میں آغاز اپ ٹیب میں فعال یا غیر فعال کر سکتے ہیں۔</value>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>جب ایئر پوڈز منسلک ہوتے ہیں، تو سسٹم ٹرے آئیکن آپ کے بائیں اور دائیں ہیڈ فون کا اوسط چارج دکھائے گا۔ آئیکن ہر منٹ اپ ڈیٹ کریں۔</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>تمام ترتیبات دوبارہ ترتیب دی جائیں گی۔ کیا آپ جاری رکھنا چاہتے ہیں؟</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
@@ -136,9 +124,6 @@
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>فیچر "وائس اوور نوٹیفکیشن" بند ہے، اطلاعات تک رسائی حاصل نہیں کر سکتے۔ براہ کرم «پرائیویسی اور اطلاعات»‎ کھولیں، اطلاعات تک رسائی کی اجازت دیں، پھر "وائس اوور نوٹیفکیشن" کو آن کریں۔</value>
-  </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>دیگر ایئر پوڈز پہلے سے منسلک ہیں، براہ کرم پہلے انہیں منقطع کریں۔</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>بہترین صارف کے تجربے کے لیے، ہم تجویز کرتے ہیں کہ آپ اسٹارٹ اپ کو فعال کریں۔ آپ ٹاسک مینیجر میں "اسٹارٹ اپ" ٹیب سے یہ کر سکتے ہیں۔</value>
@@ -152,27 +137,23 @@
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>پریمیئر پرو یا آڈیشن میں کام کرتے وقت مفید ہے۔ آن کے بعد ایئر پوڈز کو دوبارہ جوڑنے کی ضرورت ہے۔ اس سے بیٹری کی کھپت بڑھ سکتی ہے۔</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>مدد لو</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>رپورٹ کا مسلہ</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>ڈیبگ لاگ</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>تیز تلاش</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>آغاز پر چلائیں</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>آغاز</value>
-  </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>ترتیبات</value>
-    <comment>Not used</comment>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>ایئر پوڈز کی تلاش کا وقت کم کرتا ہے۔ جب آپ کو یقین ہو کہ آس پاس کوئی اور ایئر پوڈز استعمال نہیں کر رہا ہے تو اسے آن کریں۔</value>
@@ -180,18 +161,18 @@
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>گروپ پالیسی کے ذریعہ آغاز کو غیر فعال کیا گیا ہے، یا اس ڈیوائس پر تعاون یافتہ نہیں ہے۔</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>نظام ٹرے آئیکن</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>آئیکن چھپائیں</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>اپلائی کے لیے درخواست دوبارہ شروع کریں۔</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>آئیکن پر ایئر پوڈ چارج دکھائیں</value>
     <comment>Changed</comment>
   </data>
@@ -210,10 +191,10 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>معاون کھلاڑیوں کی فہرست</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>ایئر پوڈز تلاش کا رداسایئر</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>اگر ونڈو ظاہر نہیں ہوتی ہے تو اندر ایئر پوڈز کے ساتھ کیس کو کھولیں اور اینیمیشن ظاہر ہونے تک سلائیڈر کو آسانی سے دائیں طرف سلائیڈ کریں۔</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
@@ -225,10 +206,10 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>پینسٹھ سے زیادہ کی قدر متعین نہ کریں۔ بعض صورتوں میں، اینیمیشن حادثاتی طور پر ظاہر ہو سکتی ہے۔</value>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>"کنیکٹ" بٹن دکھائیں</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>پاپ اپ ونڈو پر "کنیکٹ" بٹن دکھائیں یا چھپائیں۔ بٹن دبانے سے ایئر پوڈس جڑ جائیں گے۔</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
@@ -246,70 +227,70 @@
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>اگلا</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>تلاش کا رداس - وہ رداس جس میں آپ کا کمپیوٹر کھلے ہوئے ایئر پوڈز کیس کو تلاش کرے گا۔</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>بند کریں</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>ائرپوڈس کی تلاش</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>ونڈو کی پوزیشن</value>
   </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>اوپری بائیں کونا</value>
   </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>اوپری دائیں کونا</value>
   </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>نیچے بائیں کونا</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>نیچے دائیں کونا</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
     <value>اورجانیے</value>
   </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>ترتیب دیں</value>
   </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>وائس اوور کنفیگریشن</value>
   </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>وائس اوور اطلاعات</value>
   </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>جب ایئر پوڈز منسلک ہوتے ہیں اور آڈیو آؤٹ پٹ ڈیوائس کے طور پر سیٹ ہوتے ہیں تو وائس اوور اطلاعات کا اعلان کرتا ہے۔</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>ایک آواز کا انتخاب کریں</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>اعلان کنندہ متن کو صرف ایک زبان میں پڑھ سکتا ہے۔</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>کوئی آواز منتخب یا دستیاب نہیں ہے</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>منتخب آواز کے ساتھ متن کو سنیں</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>بولو</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
     <value>ان بھیجنے والوں سے وائس اوور اطلاعات</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>فہرست سے تمام ایپلیکیشنز اطلاعات نہیں بھیج سکتیں، کچھ ایپلیکیشنز فہرست میں نہیں ہو سکتی ہیں۔</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>وائس اوور تمام اطلاعات</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>تمام ایپس دکھائیں</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
@@ -321,7 +302,7 @@
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
     <value>آغاز</value>
   </data>
-  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
     <value>زبان</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
@@ -333,13 +314,13 @@
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>سسٹم کی زبان استعمال کریں</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
     <value>خیالیہ</value>
   </data>
-  <data name="Settings_AppSettings.Text" xml:space="preserve">
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>ایپلیکیشن ترتیبات</value>
   </data>
-  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
     <value>ایئر پوڈز کی صلاحیت</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
@@ -369,7 +350,7 @@
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>چارج</value>
   </data>
-  <data name="Support_Button_Hide.Content" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>چھپائیں</value>
   </data>
   <data name="App_Error.Title" xml:space="preserve">
@@ -381,7 +362,7 @@
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>ہاٹکی ٹائپ کریں</value>
   </data>
-  <data name="Support_Button_Download.Text" xml:space="preserve">
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>ڈاؤن لوڈ کریں</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
@@ -411,9 +392,6 @@
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>بلوٹوتھ کی ترتیبات</value>
   </data>
-  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>دیگر ہیڈ فونز منسلک/منقطع ہو رہے ہیں، تکمیل کا انتظار کریں اور دوبارہ کوشش کریں</value>
-  </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
     <value>ہیڈ فون</value>
   </data>
@@ -432,16 +410,16 @@
   <data name="Menu_Item6.Content" xml:space="preserve">
     <value>ترجیحات</value>
   </data>
-  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>دیگر ڈویلپر کی ایپس</value>
   </data>
-  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>کسی بھی تصویر سے متن کاپی کریں</value>
   </data>
-  <data name="Support_YAD_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
     <value>ایک خطرناک ایڈونچر گیم میں بھاگیں، چھلانگ لگائیں اور ڈاج کریں</value>
   </data>
-  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>ترجمہ کریں، ترمیم کریں یا نئی زبانیں شامل کریں</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
@@ -465,7 +443,7 @@
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>کم آوازی تاخیر</value>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>بیٹری کا آئیکن</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -503,16 +481,13 @@
   <data name="Menu_Item4.Content" xml:space="preserve">
     <value>حمایت</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>تلاش کا رداس کیا ہے؟</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>ایئر پوڈز کو جوڑنے کے بعد "پلے" کمانڈ بھیجیں۔</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>اگر کھلے کھلاڑی نہیں ہیں تو ونڈوز کمانڈ کو نظر انداز کر دے گا۔</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>ہاں، ترتیبات کو دوبارہ ترتیب دیں</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -536,10 +511,10 @@
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>میجک پوڈز بند کریں</value>
   </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>مرکز</value>
   </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>آڈیو</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
@@ -551,11 +526,8 @@
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>آلہ دستیاب نہیں ہے یا ہٹا دیا گیا ہے</value>
   </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>ایک نئی آواز شامل کریں</value>
-  </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>کنکشن منسوخ ہو گیا</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>لامحدود تلاش</value>
@@ -575,7 +547,7 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>سسٹم تھیم استعمال کریں</value>
   </data>
-  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>ونڈو خیالیہ</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">

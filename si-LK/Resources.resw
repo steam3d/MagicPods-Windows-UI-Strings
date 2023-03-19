@@ -64,25 +64,25 @@
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>යොදන්න</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>වසන්න</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>අවවාදයයි</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>කවුළු ප්රමාණය</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>කවුළු ප්රමාණය</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>මැද</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>මහා</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>සැකසුම් නැවත සකස්</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
@@ -106,10 +106,10 @@
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>අඩු ශ්‍රව්‍ය ප්‍රමාදය</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>උදව් ලබාගන්න</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>දෝශ නිරාකරණ ලොගය</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
@@ -118,32 +118,28 @@
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>AirPods සඳහා සෙවුම් කාලය අඩු කරයි. අවට කිසිවෙකු AirPods භාවිතා නොකරන බව ඔබට සහතික වූ විට එය ක්‍රියාත්මක කරන්න.</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>සැකසුම්</value>
-    <comment>Not used</comment>
-  </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>පණ ගන්වන්න</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>ආරම්භයේදී ධාවනය කරන්න</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>පද්ධති තැටි නිරූපකය</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>නිරූපකය සඟවන්න</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>අයදුම් කිරීමට යෙදුම් නැවත ආරම්භ කරන්න.</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>අයිකනය මත AirPods ගාස්තුව පෙන්වන්න</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>බැටරි නිරූපකය</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -188,25 +184,22 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>සහාය දක්වන ක්‍රීඩකයින් ලැයිස්තුව</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPods සෙවුම් අරය</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>සෙවුම් අරය යනු කුමක්ද?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>ඉඟිය</value>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>"සම්බන්ධ කරන්න" බොත්තම පෙන්වන්න</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>ස්වයංක්‍රීය වාදනය</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>විවෘත ප්ලේයර් නොමැති නම් වින්ඩෝස් විධානය නොසලකා හරිනු ඇත.</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>ඔව්, සැකසුම් යළි පිහිටුවන්න</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -218,7 +211,7 @@
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Windows Bluetooth උපාංග ලැයිස්තුවට AirPods එක් කරන්න</value>
   </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>නව හඬක් එක් කරන්න</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
@@ -227,92 +220,83 @@
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>AirPods සොයමින්</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>කවුළුව පිහිටීම</value>
   </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>ඉහළ වම් කෙළවර</value>
   </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>ඉහළ දකුණු කෙළවරේ</value>
   </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>මධ්යස්ථානය</value>
   </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>පහළ වම් කෙළවර</value>
   </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>ශ්රව්ය උපකරණ</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
     <value>තවත් හදාරන්න</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>ඔබ දකුණු හෝ වම් එයාර්පොඩ් නඩුවෙන් ඉවතට ගත් විට ස්වයංක්‍රීයව එයාර්පොඩ් වෙත සම්බන්ධ වන්න.</value>
   </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>අනෙකුත් AirPods දැනටමත් සම්බන්ධ වී ඇත, කරුණාකර පළමුව ඒවා විසන්ධි කරන්න.</value>
-  </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>AirPods සම්බන්ධ කිරීමෙන් පසු «Play» විධානය යවන්න.</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>ඔබේ පරිගණකය බ්ලූටූත් අඩු ශක්තියට සහය නොදක්වයි</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>AirPods මත {0}% ගාස්තුවක් ඉතිරි වේ. ඔබේ AirPods අය කරන්න.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>සියලු සැකසුම් යළි පිහිටුවනු ඇත. ඔබට දිගටම කරගෙන යාමට අවශ්‍යද?</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>හොඳම පරිශීලක අත්දැකීම සඳහා, ඔබ ආරම්භය සබල කරන ලෙස අපි නිර්දේශ කරමු. Task Manager හි ඇති «ආරම්භක» පටිත්තෙන් ඔබට මෙය කළ හැකිය.</value>
   </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>VoiceOver දැනුම්දීම්</value>
   </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>වින්‍යාස කරන්න</value>
   </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>VoiceOver වින්‍යාසය</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>හඬක් තෝරන්න</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
     <value>හඬක් තෝරාගෙන හෝ ලබා ගත නොහැක</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>තෝරාගත් හඬ සමඟ පෙළට සවන් දෙන්න</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>කතා කරන්න</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
     <value>මෙම යවන්නන්ගෙන් VoiceOver දැනුම්දීම්</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>VoiceOver සියලුම දැනුම්දීම්</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>සියලුම යෙදුම් පෙන්වන්න</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>අනන්ත සෙවීම</value>
   </data>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods සොයා ගත නොහැකි විය. AirPods මෙම උපාංගයට යුගල වී ඇති බවට සහතික වී යෙදුම නැවත ආරම්භ කරන්න.</value>
-  </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>උත්පතන කවුළුව</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>කවුළුව පෙන්වන්න</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>ඔබ නඩුව විවෘත කරන විට iPhone හි මෙන් උත්පතන කවුළුව පෙන්වන්න හෝ සඟවන්න.</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
@@ -321,9 +305,6 @@
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>ඔබගේ භාවිතය මත පදනම්ව, අපි අගය {0} ලෙස සැකසීමට නිර්දේශ කරමු</value>
     <comment>{0} will be replaced with a number</comment>
-  </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>සම්බන්ධතාවය අවලංගු කරන ලදී</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPods සම්බන්ධ කිරීම අසාර්ථක විය. අතින් සම්බන්ධ වීමට උත්සාහ කරන්න.</value>
@@ -334,7 +315,7 @@
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Premiere Pro හෝ Audition හි වැඩ කරන විට ප්‍රයෝජනවත් වේ. සක්‍රිය කිරීමෙන් පසු එයාර්පොඩ් නැවත සම්බන්ධ කිරීම අවශ්‍ය වේ. එය බැටරි පරිභෝජනය වැඩි කළ හැක.</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>ගැටලුව වාර්තා කරන්න</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
@@ -343,13 +324,13 @@
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>ඔබේ එයාර්පොඩ් පෙට්ටිය හැකිතාක් ඔබේ පරිගණකයට සමීප කර එය විවෘත කරන්න</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>සෙවුම් අරය - ඔබේ පරිගණකය විවෘත AirPods නඩුවක් සොයන අරය.</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>පහළ වම් කෙළවර</value>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Task Manager හි ඇති Startup ටැබය තුළ ඔබට මෙය සක්‍රිය හෝ අක්‍රිය කළ හැක.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
@@ -364,7 +345,7 @@
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>AirPods සොයා ගැනීමට නොහැකි විය</value>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>AirPods සම්බන්ධ වූ විට, පද්ධති තැටි නිරූපකය ඔබගේ වම් සහ දකුණු හෙඩ්ෆෝන් වල සාමාන්‍ය ආරෝපණය පෙන්වයි. සෑම මිනිත්තුවකම නිරූපකය යාවත්කාලීන කරන්න.</value>
     <comment>Changed</comment>
   </data>
@@ -380,22 +361,22 @@
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>ඔබ ඔබේ කනෙන් එක් AirPod එකක් ඉවත් කරන විට ශබ්දය අඩු වේ, නැතහොත් ඔබ එයාර්පොඩ් දෙකම ඉවත් කරන විට / තැබූ විට ප්‍රතිසාධනය වේ.</value>
   </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>AirPods සම්බන්ධ කර ශ්‍රව්‍ය ප්‍රතිදාන උපාංගය ලෙස සකසා ඇති විට VoiceOver දැනුම්දීම් නිවේදනය කරයි.</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>කවුළුව දිස් නොවන්නේ නම් ඇතුළත AirPods සමඟ නඩුව විවෘත කර සජීවිකරණය දිස්වන තුරු ස්ලයිඩරය දකුණට සුමටව ලිස්සා යන්න.</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>නිවේදකයාට පාඨය කියවිය හැක්කේ එක් භාෂාවකින් පමණි.</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>65 ට වඩා වැඩි අගයක් නොසකසන්න. සමහර අවස්ථාවලදී, සජීවිකරණය අහම්බෙන් දිස්විය හැක.</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>ලැයිස්තුවේ ඇති සියලුම යෙදුම් වලට දැනුම්දීම් යැවිය නොහැක, සමහර යෙදුම් ලැයිස්තුවේ නොතිබිය හැකිය.</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>උත්පතන කවුළුවේ "සම්බන්ධ කරන්න" බොත්තම පෙන්වන්න හෝ සඟවන්න. බොත්තම එබීමෙන් AirPods සම්බන්ධ වේ.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">

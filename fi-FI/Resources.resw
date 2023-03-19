@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPodseja ei löydy. Varmista että AirPodsit on paritettu laitteeseen ja käynnistä sovellus uudelleen.</value>
-  </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Korvan tunnistus</value>
   </data>
@@ -68,31 +65,28 @@
     <value>{0}% akkua jäljellä. Lataa kuulokkeet.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Tietokoneesi ei tue Bluetooth low energy tekniikkaa</value>
-  </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Varoitus</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Ponnahdus ikkuna</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Näytä ikkuna</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Ikkunan koko</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>Pieni</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>Keskikokoinen</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>Iso</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Nollaa asetukset</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
@@ -101,10 +95,10 @@
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Vähennä äänenvoimakkuutta</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>Aja käynnistyksessä</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Näytä tai piilota ponnahdusikkuna kuten iPhonessa, kun avaat kotelon kannen.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
@@ -137,7 +131,7 @@
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>Toisto keskeytetään kun poistat toisen AirPodin, tai lopetetaan kun poistat molemmat AirPodit.</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Hanki apua</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
@@ -146,26 +140,22 @@
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Madaltaa AirPodien hakuaikaa. Kytke päälle mikäli olet varma, ettei kukaan lähistöllä käytä AirPodeja.</value>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Voit aktivoida tai deaktivoida tämän Startup välilehdellä Tehtävienhallinnassa.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Äänenvoimakkuus laskee kun poistat toisen AirPodin korvastasi, tai palautuu kun poistat tai laitat molemmat AirPodit.</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Raportoi ongelma</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>Virheenkorjaus loki</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Käynnistys deaktivoitu ryhmä politiikan vuoksi, tai se ei ole tuettu tällä laitteella.</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>Asetukset</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Tyyli</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -180,22 +170,22 @@
   <data name="Text_Help" xml:space="preserve">
     <value>Apua</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Ilmaisinalueen kuvake</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Piilota kuvake</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>Käynnistä sovellus uudelleen ottaaksesi muutokset käyttöön.</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Näytä akun varaus kuvakkeessa</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Näyttää keskiarvon yhdistettyjen kuulokkeiden akun varauksesta.</value>
     <comment>Changed</comment>
   </data>
@@ -240,10 +230,10 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Lista tuetuista soittimista</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPodien haku alue</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>Mikä on haku alue?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">

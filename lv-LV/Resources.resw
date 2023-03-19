@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods netika atrasti. Pārliecināties ka AirPods ir sapārots ar šo ierīci un restārtējiet aplikāciju.</value>
-  </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>AirPods atlikušais uzlādes līmenis ir {0}%. Uzlādējat savus AirPods.</value>
     <comment>{0} will be replaced with a number</comment>
@@ -68,28 +65,28 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>Brīdinājums</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Uznirstošs logs</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Parādīt logu</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Parādiet vai paslēpiet uznirstošo logu, līdzīgi kā iPhone, kad atverat korpusu.</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Loga izmērs</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>Mazs</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>Viduss</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>Liels</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Atiestatīt iestatījumus</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
@@ -102,13 +99,13 @@
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Zems audio latentums</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Dabūt palīdzību</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Ziņot par problēmu</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>Debug žurnāls</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
@@ -117,25 +114,21 @@
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Samazina AirPods meklēšanas laiku. Ieslēdziet, kad jūs esat pārliecināts, ka neviens cits apkārt neizmanto AirPods.</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>Iestatījumi</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Jūs varat ieslēgt, vai izslēgt šo Task Manager "Startup" sadaļā.</value>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Slēpt ikonu</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>Restartējiet lietojumprogrammas, lai piemērotu.</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Ikonā rādīt AirPods uzlādes līmeni</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Baterijas ikona</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -188,13 +181,13 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Atbalstīto atskaņotāju saraksts</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPods meklēšanas rādiuss</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Ja logs netiek parādīts, atveriet korpusu ar tajā ievietotajām AirPods austiņām un vienmērīgi bīdiet slīdni pa labi, līdz parādās animācija.</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>Kas ir meklēšanas rādiuss?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -203,7 +196,7 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Nenoteiciet vērtību, kas lielāka par 65. Dažos gadījumos animācija var parādīties nejauši.</value>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Rādīt pogu "Savienot"</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
@@ -212,10 +205,7 @@
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>Automātiska atskaņošana</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>Ja nav atvērtu atskaņotāju, operētājsistēma Windows ignorēs komandu.</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Visi iestatījumi tiks atiestatīti. Vai jūs gribat turpināt?</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -236,17 +226,14 @@
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Nākamais</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Aizvērt</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Meklē AirPods</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>Loga pozīcija</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Jūsu dators neatbalsta zemas enerģijas Bluetooth</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>Atskaņošana apstājas, kad jūs noņemat vienu no AirPods austiņām, vai apstājas, kad noņemat abas AirPods austiņas.</value>
@@ -254,7 +241,7 @@
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Lietderīgs kad izmanto Premiere Pro vai Audition. Pēc ieslēģšanas nepieciešams atkārtoti pieslēgt AirPods. Tas var palielināt akumalatora patēriņu.</value>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Kad AirPods ir pievienotas, sistēmas teknes ikonā tiks parādīts kreisās un labās austiņas vidējais uzlādes līmenis. Ikona tiek atjaunināta katru minūti.</value>
     <comment>Changed</comment>
   </data>
@@ -264,7 +251,7 @@
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Skaļums samazinās, kad no auss noņemat vienu no AirPods, vai atjaunojas, kad noņemat/uzliekat abas AirPods.</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Rādīt vai slēpt pogu "Savienot" uznirstošajā logā. Nospiežot šo pogu, tiks savienotas AirPods.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
@@ -273,7 +260,7 @@
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>Pēc AirPods pieslēgšanas nosūtīt komandu "Atskaņot". Ja nav atvērtu atskaņotāju, operētājsistēma Windows ignorēs komandu.</value>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>Jā, atiestatīt iestatījumus</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
@@ -289,7 +276,7 @@
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Pietuvini AirPods futlāri pēc iespējas tuvāk datoram un atver to</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>Meklēšanas rādiuss - rādiuss, kurā dators meklēs atvērtu AirPods futlāri.</value>
   </data>
 </root>

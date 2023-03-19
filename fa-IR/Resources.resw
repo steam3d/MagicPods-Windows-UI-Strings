@@ -61,12 +61,6 @@
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>اتصال AirPods موفق نبود. سعی کنید به صورت دستی وصل شوید.</value>
   </data>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>AirPods پیدا نشد.از اتصال Airpods به سیستم مطمئن شده و برنامه را ریستارت کنید.</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>دستگاه شما فناوری بلوتوث کم‌انرژی را پشتیبانی نمیکند</value>
-  </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}٪ شارژ باقی مانده در AirPods.به شارژر متصل کنید.</value>
     <comment>{0} will be replaced with a number</comment>
@@ -74,19 +68,19 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>هشدار</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>پنجره پاپ آپ</value>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>نمایش پنجره</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>اندازه پنجره</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>کوچیک</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>متوسط</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
@@ -96,20 +90,16 @@
     <value>دیگر</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>کمک میخوام</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>گزارش مشکل</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>گزارش اشکال زدایی</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>تنظیمات</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>لوگو باتری</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
@@ -118,20 +108,20 @@
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>دیجیتال</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>نمایش افکت وضعیت شارژ همانند آیفون هنگام باز کردن در.</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>بزرگ</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>بازنشنانی تنظیمات</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>نمایش لوگو برنامه در نوار میانبر</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>پنهان کردن لوگو</value>
     <comment>Changed</comment>
   </data>
@@ -163,10 +153,10 @@
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>لیست پخش‌کننده‌های پشتیبانی شده</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>شعاع اسکن برای AirPods</value>
   </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>شعاع جستجو چیست؟</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
@@ -178,10 +168,7 @@
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
     <value>پس از اتصال AirPods دستور «پخش» صادر کنید.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>اگر هیچ پخش‌کننده‌ای موجود نباشد، ویندوز دستور را نادیده میگیرد.</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>بله، تنظیمات را بازنشانی کنید</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
@@ -191,10 +178,10 @@
     <value>بر اساس استفاده شما، توصیه میکنیم مقدار را روی {0} تنظیم کنید</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>نمایش دکمه «اتصال»</value>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>نمایش یا پنهان کردن دکمه «اتصال» در پنجره پاپ آپ. با فشار دادن دکمه، AirPods متصل میشود.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
@@ -234,14 +221,14 @@
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>تنظیمات استارت آپ به دلایلی نامخشص امکان‌پذیر نیست.</value>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>برای اعمال، برنامه را مجددا راه اندازی کنید.</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>نمایش شارژ AirPods روی لوگو</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>هنگامی که ایرپادها متصل است، درصد شارژ میانگین دو گوش چپ و راست در لوگوی واقع در نوار میانبر قابل رصدست.درصد شارژ هر دقیقه به روز می شود.</value>
     <comment>Changed</comment>
   </data>
@@ -272,19 +259,19 @@
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>هنگامی که یک AirPod را از گوش خود درمیاورید، پخش مکث می کند و صدا کاهش می یابد، یا وقتی هر دو ایرپاد را بردارید، متوقف میشود و صدا بازیابی میشود.</value>
   </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>شروع خودکار برنامه هنگام روشن شدن</value>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>این تنظیمات در بخش Startup در Task Manager قابل دسترسی میباشد.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>برنامه را ببندیم؟</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>اگر پنجره اتصال نشان داده نشد درب AirPods را باز کرده و اسلایدر را به آرامی تا زمانی که افکت نمایش داده شود بکشید.</value>
   </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>تمام تنظیمات بازنشانی خواهند شد.دامه دهید؟</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
@@ -293,19 +280,19 @@
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>MagicPods اکثر مدل‌های AirPods و هدست‌‌های Beats رو پشتیبانی میکند</value>
   </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>بالا سمت چپ</value>
   </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>مرکز</value>
   </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>پایین سمت راست</value>
   </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>پایین سمت چپ</value>
   </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>صدا</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
@@ -323,28 +310,28 @@
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>AirPods را تا حد ممکن به دستگاه نزدیک کرده و درب را باز نگه دارید</value>
   </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>مساحت جستجو - مساحتی که در آن برنامه به جستجوی AirPods شما میپردازد.</value>
   </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>بستن</value>
   </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>موقعیت پنچره</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>پایین سمت راست</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>هنگام درآوردن هر دو AirPods از گوش خروجی صدا به سیستم تغییر کند.</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>نمایش تمام برنامه ها</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
     <value>بیشتر بدانید</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>VoiceOver برای همه اعلان ها</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
@@ -356,10 +343,10 @@
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>برای رفع مشکل این راهنما را دنبال کنید.</value>
   </data>
-  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>انتخاب پوسته (Theme) برنامه</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>متن را فقط می تواند به یک زبان بخواند.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
@@ -368,19 +355,19 @@
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
     <value>راه اندازی (Startup)</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>همه برنامه های موجود در لیست نمی توانند اعلان ارسال کنند، ممکن است برخی از برنامه ها در لیست نباشند.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>ویژگی "اعلان VoiceOver" خاموش است، نمی توان به اعلان ها دسترسی داشت. لطفاً «حریم خصوصی و اعلان‌ها» را باز کنید، به اعلان‌ها اجازه دسترسی دهید، سپس «اعلان VoiceOver» را روشن کنید.</value>
   </data>
-  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
     <value>زبان</value>
   </data>
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>استفاده از زبان سیستم</value>
   </data>
-  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
     <value>قابلیت AirPods</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
@@ -389,17 +376,14 @@
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
     <value>اتصال چندگانه</value>
   </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
     <value>پوسته (Theme)</value>
   </data>
-  <data name="Settings_AppSettings.Text" xml:space="preserve">
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>تنظیمات برنامه</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>برای بهترین تجربه کاربری، توصیه می کنیم راه اندازی بعد از بالا آمدن سیستم عامل را فعال کنید.</value>
-  </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>یک Airpods دیگر از قبل متصل است، لطفا اول اتصال آن را قطع کنید و سپس دوباره تلاش کنید.</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
     <value>اگر دو یا چند هدفون متصل هستند، فقط یکی را متصل نگه دارید</value>
@@ -413,7 +397,7 @@
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
     <value>هدفون را با رایانه جفت کنید و برنامه را مجدداً راه اندازی کنید</value>
   </data>
-  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>متن را از هر تصویری که می خواهید کپی کنید</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
@@ -425,10 +409,10 @@
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>غیرفعال کردن</value>
   </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>VoiceOver برای اعلانات</value>
   </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>هنگامی که AirPods متصل می شود و به عنوان دستگاه خروجی صدا تنظیم می شود، VoiceOver اعلان ها را اعلام می کند.</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
@@ -446,7 +430,7 @@
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>کلید میانبر را حذف کنید</value>
   </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>پیکربندی</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
@@ -473,28 +457,25 @@
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>بلوتوث LE پشتیبانی نمی شود</value>
   </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>پیکربندی VoiceOver</value>
   </data>
-  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>هدفون های دیگر در حال اتصال / قطع شدن هستند، منتظر تکمیل شدن باشید و دوباره امتحان کنید</value>
-  </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>یک صدا را انتخاب کنید</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>گوش دادن به متن با صدا انتخاب شده</value>
   </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>گوش دادن به متن</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
     <value>انتخاب اعلان های VoiceOver از اپلیکیشن دلخواه</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>حریم خصوصی و اعلان ها</value>
   </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>اضافه کردن صدا جدید</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
@@ -505,9 +486,6 @@
   </data>
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>استفاده از پوسته (Theme) سیستم</value>
-  </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>اتصال لغو شد</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>جستجو بی نهایت (در صورتی که Airpods شما یافت نشد بر روی این گزینه کلیک کنید، لطفا توجه کنید Airpods به دستگاه دیگری متصل نباشد.)</value>
@@ -566,10 +544,10 @@
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>شارژ</value>
   </data>
-  <data name="Support_Button_Hide.Content" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>مخفی کردن</value>
   </data>
-  <data name="Support_Button_Download.Text" xml:space="preserve">
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>دانلود</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
@@ -581,13 +559,13 @@
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>تنظیمات بلوتوث</value>
   </data>
-  <data name="Support_DeveloperApps.Text" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>سایر برنامه های توسعه دهنده</value>
   </data>
-  <data name="Support_YAD_Description.Text" xml:space="preserve">
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
     <value>در یک بازی ماجراجویی خطرناک بدوید، بپرید و جاخالی دهید</value>
   </data>
-  <data name="Support_Weblate_Description.Text" xml:space="preserve">
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>ترجمه، ویرایش یا اضافه کردن زبان های جدید</value>
   </data>
 </root>

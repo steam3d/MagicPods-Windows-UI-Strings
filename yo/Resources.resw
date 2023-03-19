@@ -58,16 +58,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>Ero yii ko ba Bluetooth mu</value>
-  </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Ikilo</value>
   </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>Kekere</value>
   </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Se atunto</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
@@ -79,13 +76,13 @@
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>akoko sisọ to kere</value>
   </data>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Iranlowo</value>
   </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Fi aisedede sun</value>
   </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>Apejuwe isele</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
@@ -94,26 +91,23 @@
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Ibere</value>
   </data>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>A ko ri AirPods. Wo boya AirPods ti sopo mo ero yii ki o si tun app yii na bere.</value>
-  </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% agbara batiri AirPods. Fi AirPods re sina.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Gbe jade</value>
   </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Fihan tabi pamo agbejade bi iPhone, ti a ba si apamowo.</value>
   </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Iwọn Agbejade</value>
   </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>Àárín</value>
   </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>Nla</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
@@ -135,48 +129,44 @@
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>Sawari AirPods Kaikia. Tan nigba ti o mo daju pe ko si elomi ti o n lo AirPods Layika re.</value>
   </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>Eto</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>Bere ti a ba tan ero wa</value>
   </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>O le mu sise tabi ma mu sise ni tabili Ibẹrẹ ni oluṣakoso Iṣẹ-ṣiṣe.</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Kuro</value>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Ferese agbejade</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Ibẹrẹ ni alaabo nipasẹ eto imulo ẹgbẹ, tabi ko ṣe atilẹyin lori ẹrọ yii.</value>
   </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Aami atẹ System</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Tọju aami</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>Tun awọn ohun elo bẹrẹ lati lo.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>Pa MagicPods?</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Ṣe afihan idiyele AirPods lori aami</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Nigbati AirPods ba ti sopọ, aami atẹ eto yoo ṣe afihan idiyele apapọ ti awọn agbekọri osi ati ọtun rẹ. Aami imudojuiwọn kọọkan iseju.</value>
     <comment>Changed</comment>
   </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Aami batiri</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
