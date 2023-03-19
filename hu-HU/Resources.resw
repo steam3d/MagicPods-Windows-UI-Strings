@@ -253,7 +253,7 @@
     <value>Közepes</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% maradt. Tölti az AirPods-ot.</value>
+    <value>{0}% maradt. Töltse az AirPods-ot.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -642,5 +642,26 @@
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>A Hands-Free funkció (hang vezérlés) nem elérhető. Ne kapcsold ki manuálisan a Hands Free funkciót. Indítsa újra az alkalmazást a módosítások érvényesítéséhez.</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Alkalmazás lefordítása</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Fordítás gyorsbillentyűvel</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Közösség</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Támogatás és közösség</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Indítsa újra az alkalmazást a változtatások érvényesítéhez.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Ablak mutatása</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Csatlakozz a közösségünkhoz, jelents hibákat, maradj kapcsolatban a hírek, frissítések és a kérdések követéséhez</value>
   </data>
 </root>
