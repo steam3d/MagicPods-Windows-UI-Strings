@@ -83,7 +83,7 @@
     <value>Nastala neočekávaná chyba</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Restartujte aplikaci pro obnovení funkčnosti. Pokud chyba přetrvává, zkuste restartovat váš počítač.</value>
+    <value>Restartování aplikace může problém vyřešit. Pokud chyba přetrvává, zkuste restartovat váš počítač.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Zadejte klávesovou zkratku</value>
@@ -167,7 +167,7 @@
     <value>Klávesová zkratka pro připojení</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Hledat aplikaci</value>
+    <value>Hledat aplikace</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Spuštění</value>
@@ -216,7 +216,7 @@
     <value>Resetovat nastavení</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Přehrávání se pozastaví když vyjmete jedno ze sluchátek nebo zastaví, když vyjmete obě.</value>
+    <value>Přehrávání se pozastaví, když vyjmete jedno ze sluchátek nebo se zastaví, když vyjmete obě.</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>Nízká latence zvuku</value>
@@ -262,10 +262,10 @@
     <value>Ikona baterie</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analogová</value>
+    <value>Ikona</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digitální</value>
+    <value>Text</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Povolit spuštění</value>
@@ -302,7 +302,7 @@
     <value>Tip</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Nenastavujte hodnotu vyšší než 65. V některých případech se animace nemusí náhodně objevit.</value>
+    <value>Nenastavujte hodnotu vyšší než 65, protože by se animace mohla objevovat náhodně.</value>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Vyskakovací okno</value>
@@ -403,10 +403,10 @@
     <value>Pravý dolní roh</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Nepřipomínat</value>
+    <value>Ignorovat</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Nepovedlo se připojit Airpods. Zkuste to manuálně.</value>
+    <value>Připojení k AirPods selhalo. Zkuste se připojit manuálně.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Při vyndání Airpodu z ucha se pozastaví přehrávání a ztlumí se hlasitost, nebo se zastaví přehrání a hlasitost se obnoví při vyndání obou Airpodů.</value>
@@ -526,7 +526,7 @@
     <value>Pouzdro</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% Zbývá baterie v AirPodech. Dobijte Airpody.</value>
+    <value>{0} % remaining. Charge your headphones.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Audio_Header.Header" xml:space="preserve">
