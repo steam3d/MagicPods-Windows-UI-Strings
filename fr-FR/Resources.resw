@@ -280,7 +280,7 @@
     <value>Conseil</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Ne paramétrez pas une valeur supérieure à 65. Dans certains cas, l'animation peut apparaître inopinément.</value>
+    <value>N'entrez pas une valeur supérieure à 65 car cela pourrait faire apparaitre l'animation par erreur.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Afficher le bouton « Connecter »</value>
@@ -316,10 +316,10 @@
     <value>Appliquer</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Ignorer</value>
+    <value>Ne plus me le rappeler</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Connexion aux AirPods échouée. Effectuez une connexion manuelle.</value>
+    <value>Connexion aux AirPods échouée. Essayez une connexion manuelle.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>La lecture se met en pause et le volume baisse quand vous retirez un AirPod de votre oreille, ou s'arrête et le volume se rétablit quand les deux Airpods sont retirés.</value>
@@ -691,9 +691,30 @@
     <value>Afficher le pourcentage de batterie</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>La fonction Mains libre (communication vocale) du casque ne sera pas disponible. Ne désactivez pas la fonction Mains libres manuellement. Redémarrez l'application pour appliquer les modifications.</value>
+    <value>La fonction Kit Mains Libres des écouteurs n'est pas disponible. Ne la désactivez pas manuellement. Redémarrez l'application pour appliquer les changements.</value>
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>Fonctionnalité expérimentale</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Traduire l'application</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Communauté</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Support et communauté</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Rapidement traduire du texte avec un raccourci clavier</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Montrer la fenêtre</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Rejoignez notre communauté, signalez des bugs, restez à l'affut des nouveautés, des mises à jour et des discussions</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Redémarrer le programme pour appliquer les modifications.</value>
   </data>
 </root>
