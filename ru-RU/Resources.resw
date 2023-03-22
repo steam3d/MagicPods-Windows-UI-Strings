@@ -607,7 +607,7 @@
     <value>Обновленный интерфейс, индивидуальные настройки и многое другое. Некоторые параметры были изменены. Откройте приложение для настройки.</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
-    <value>Глобальная горячая клавиша для подключения и отключения наушников.</value>
+    <value>Горячая клавиша для подключения и отключения наушников.</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>Горячая клавиша подключения</value>
@@ -695,5 +695,26 @@
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>Функция Hands-Free (голосовая связь) наушников будет недоступна. Не отключайте Hands-Free вручную. Перезапустите приложение, чтобы применить изменения.</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Сообщество</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Поддержка и сообщество</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Быстрый перевод текста по горячей клавише</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Перевод приложения</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Присоединяйтесь к нашему сообществу, сообщайте об ошибках, оставайтесь на связи, чтобы получать новости и информацию об обновлениях</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Перезапустите приложение для применение изменений.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Отобразить окно состояния</value>
   </data>
 </root>
