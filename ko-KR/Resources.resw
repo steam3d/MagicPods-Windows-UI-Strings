@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>AirPods의 배터리가 {0}% 남았어요. AirPods을 충전해주세요.</value>
+    <value>{0}% 남음. 헤드폰을 충전하세요</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>경고</value>
@@ -160,7 +160,7 @@
     <value>둘 다 (볼륨 줄이기 + 재생/일시 정지)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>귀에서 한 쪽 에어팟을 제거하면 재생이 일시 정지되며 모든 에어팟을 제거하면 재생이 중지됩니다.</value>
+    <value>하나 AirPod이 제거되면 재생이 일시 중지되고, 양쪽 모두 제거되면 재생이 중지됩니다</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>기타</value>
