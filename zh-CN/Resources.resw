@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>电量剩余{0}% ，请及时为您的耳机充电。</value>
+    <value>电量剩余{0}，请及时为您的耳机充电。</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
@@ -695,5 +695,26 @@
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>实验性特征</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>社区</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>翻译应用程序</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>加入我们的社区，报告错误，继续关注新闻、更新和讨论</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>一键快速翻译文本</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>技术支持与社区</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>通过重新启动应用程序来使更改生效。</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>显示桌面</value>
   </data>
 </root>
