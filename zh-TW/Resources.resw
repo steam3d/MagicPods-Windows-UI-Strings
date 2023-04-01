@@ -136,7 +136,7 @@
     <value>恢復預設值</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
-    <value>耳朵偵測</value>
+    <value>離耳偵測</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>播放/暫停</value>
@@ -154,7 +154,7 @@
     <value>低音訊延遲</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>搭配使用 Premiere Pro 或 Audition 時有很好的效果，啟用後需要重新連線 AirPods。此功能可能會增加電力消耗量。</value>
+    <value>使用 Premiere Pro 或 Audition 時會有很好的效果，啟用後需要重新連線 AirPods。此功能可能會增加電力消耗量。</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>取得協助</value>
@@ -178,7 +178,7 @@
     <value>開機時自動執行</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>您可以在「工作管理員」的「開機」活頁標籤中啟用或停用此服務。</value>
+    <value>您可以在「工作管理員」的「開機」分頁標籤中啟用或停用此服務。</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>開機自動執行功能已被群組原則停用，或者此裝置無法支援。</value>
@@ -683,10 +683,10 @@
     <value>底部置中</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
-    <value>從藍牙裝置串流音訊到您的電腦，將電腦作為藍牙揚聲器使用。</value>
+    <value>從藍牙裝置串流音訊到您的電腦，將電腦作為藍牙喇叭使用。</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
-    <value>當音效裝置變更為電腦揚聲器時，將串流裝置靜音。</value>
+    <value>當音效裝置變更為電腦喇叭時，將串流裝置靜音。</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
     <value>顯示電量百分比</value>
@@ -696,5 +696,26 @@
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>實驗功能</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>翻譯程式</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>論壇</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>加入我們的論壇以回報錯誤，並取得最新的更新與討論</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>支援與論壇</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>使用快捷鍵快速翻譯文字</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>重新開啟應用程式以套用更改。</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>顯示視窗</value>
   </data>
 </root>
