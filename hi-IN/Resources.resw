@@ -124,7 +124,7 @@
     <value>स्टार्टाप पर शुरू हो</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>मीडीया रुकेगा जब आप एक एयिर्पो निकालोगे और बंद होगा जब दोनो एयरपॉड निकालोगे.</value>
+    <value>मीडीया रुकेगा जब आप एक एयरपॉड निकालोगे और बंद होगा जब दोनो एयरपॉड निकालोगे.</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>कम ऑडियो विलंब</value>
@@ -142,7 +142,7 @@
     <value>प्रीमियर प्रो या ऑडिशन में काम करते समय उपयोगी। चालू करने के बाद फिर से जोड़ने की आवश्यकता है। इससे बैटरी की खपत बढ़ सकती है।</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>डिजिटल</value>
+    <value>टेक्स्ट</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>रद्द करना</value>
@@ -170,7 +170,7 @@
     <value>हां</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>अनुरूप</value>
+    <value>आइकन</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>सहायता</value>
@@ -248,7 +248,7 @@
     <value>लागू</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>मत करो</value>
+    <value>अनदेखा करना</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>VoiceOver सूचनाएं</value>
@@ -290,7 +290,7 @@
     <value>और जानें</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>एयरपॉड्स को जोड़ने में विफल। उन्हें कनेक्ट करें।</value>
+    <value>हेडफ़ोन से कनेक्ट करना विफल रहा. मैन्युअल रूप से कनेक्ट करने का प्रयास करें।</value>
   </data>
   <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>संशोधित</value>
@@ -425,7 +425,7 @@
     <value>अनुवाद करें, संपादित करें या नई भाषाएं जोड़ें</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>ऐप्स खोजें</value>
+    <value>अनुप्रयोगों के लिए खोजें</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
     <value>MagicPods 2.0 से मिलें</value>
@@ -500,7 +500,7 @@
     <value>एकाधिक कनेक्शन</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>65 से अधिक मान सेट न करें। कुछ मामलों में, एनीमेशन गलती से दिखाई दे सकता है।</value>
+    <value>65 से अधिक मान सेट न करें क्योंकि ऐनिमेशन गलती से प्रकट हो सकता है।</value>
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>चित्र पुनर्स्थापित करें</value>
@@ -542,7 +542,7 @@
     <value>अनुकूलित करने के लिए यहां दबाएं</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>हेडफोन डिस्कनेक्ट करने के बाद रुकें।</value>
+    <value>हेडफ़ोन डिस्कनेक्ट करने के बाद प्लेबैक रुकें।</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>जब एक एयरपॉड हटा दिया जाता है तो वॉल्यूम कम हो जाता है, और दोनों एयरपॉड्स डालने पर बहाल हो जाता है।</value>
@@ -636,5 +636,35 @@
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>ध्वनि आउटपुट बदलने पर पॉप-अप विंडो दिखाएं।</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>अनुवाद आवेदन</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>समुदाय</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>हमारे समुदाय में शामिल हों, बग की रिपोर्ट करें, समाचार और अपडेट और चर्चाओं के लिए बने रहें</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>समर्थन और समुदाय</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>परिवर्तनों को लागू करने के लिए एप्लिकेशन को पुनरारंभ करें।</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>हॉटकी के साथ पाठ का त्वरित अनुवाद करें</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>खिड़की दिखाएंं</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>बैटरी प्रतिशत दिखाएं</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>प्रायोगिक विशेषता</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>हेडफ़ोन का हैंड्स-फ़्री फ़ंक्शन (आवाज़ संचार) उपलब्ध नहीं होगा। हैंड्स-फ़्री को मैन्युअल रूप से अक्षम न करें। परिवर्तनों को लागू करने के लिए एप्लिकेशन को पुनरारंभ करें</value>
   </data>
 </root>
