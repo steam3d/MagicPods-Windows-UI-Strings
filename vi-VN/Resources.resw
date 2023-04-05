@@ -182,7 +182,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Khởi động lại ứng dụng để áp dụng.</value>
+    <value>Khởi động lại ứng dụng để áp dụng thay đổi.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Biểu tượng pin</value>
@@ -642,5 +642,20 @@
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
     <value>Thiết bị phát âm thanh</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Hỗ trợ và cộng đồng</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Khởi động lại ứng dụng để áp dụng thay đổi.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Hiện cửa sổ</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Cộng đồng</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Dịch văn bản nhanh với phím tắt</value>
   </data>
 </root>
