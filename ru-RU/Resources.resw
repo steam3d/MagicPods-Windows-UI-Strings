@@ -370,7 +370,7 @@
     <value>Аудио</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Автоматически переключать аудио выход</value>
+    <value>Автоматически переключать аудиовыход</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Переключать звук с AirPods на динамики по умолчанию, когда оба AirPods вне уха.</value>
@@ -719,5 +719,17 @@
   </data>
   <data name="Buttons_LearnMore.Content" xml:space="preserve">
     <value>Подробнее</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Нажатие горячей клавиши переключает аудиовыходы по кругу.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Изображение динамика</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Сбросить до заводских настроек</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Горячая клавиша переключения аудиовыхода</value>
   </data>
 </root>
