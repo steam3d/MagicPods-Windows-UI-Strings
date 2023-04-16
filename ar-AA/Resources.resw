@@ -62,7 +62,7 @@
     <value>خروج</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% شحن متبقي على السماعات. إشحن السماعات.</value>
+    <value>{0}% متبقي. اشحن سماعات الرأس الخاصة بك.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -132,7 +132,7 @@
     <value>إيقاف</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>ايقاف مؤقت عند نزع احد السماعات او كلاهما.</value>
+    <value>يتوقف التشغيل مؤقتًا عند إزالة سماعة AirPod واحدة أو يتوقف عند إزالة كليهما.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>بحث سريع</value>
@@ -186,7 +186,7 @@
     <value>تشغيل تلقائي</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>ارسل أمر التشغيل بعد توصيل الايربودز.</value>
+    <value>أرسل الأمر «تشغيل» بعد توصيل سماعات الرأس. إذا لم يكن هناك مشغلين آخرين، فسيتجاهل Windows الأمر.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>نعم, قم بأعادة الاعدادات</value>
@@ -202,10 +202,10 @@
     <value>تطبيق</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>لا تذكرني</value>
+    <value>تجاهل</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>فشل توصيل AirPods. حاول الاتصال يدويًا.</value>
+    <value>فشل الاتصال بسماعات الرأس. حاول الاتصال يدويًا.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>ضف الايربودز الى قائمة اجهزة بلوتوث ويندوز</value>
@@ -214,13 +214,13 @@
     <value>يدعم ماجك بودز معظم أنواع الايربودز و سماعات بيتس</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
-    <value>علامة البطارية</value>
+    <value>النمط</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>التناظرية</value>
+    <value>أيقونة</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>رقمي</value>
+    <value>نص</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>تمكين بدء التشغيل</value>
@@ -258,7 +258,7 @@
     <value>تلميح</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>لا تقم بتعيين قيمة أكبر من 65. في بعض الحالات ، قد تظهر الرسوم المتحركة عن طريق الخطأ.</value>
+    <value>لا تقم بتعيين قيمة أكبر من 65 ، فقد تظهر الرسوم المتحركة بدون قصد.</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>سيتم إغلاق التطبيق وتعطيل جميع الوظائف.</value>
@@ -289,5 +289,397 @@
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>يتوقف التشغيل مؤقتًا وينخفض مستوى الصوت عندما تزيل ايربودز واحد من أذنك ، أو يتوقف ويستعيد مستوى الصوت عند إزالة كل من AirPods.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>للحصول على أفضل تجربة للمستخدم ، نوصي بتمكين بدء التشغيل.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>بدء التشغيل</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>اتصال متعدد</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>سماعتان أو أكثر متصلتان ، اترك سماعة واحدة متصلة</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>جار الاتصال</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>قطع الاتصال</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>يتم قطع الاتصال</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>اليسار</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>اليمين</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>الحافظة</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>ترجمة</value>
+    <comment>Last used 2.0.45.0</comment>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>المجتمع</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>انضم الى مجتمعنا، بلغ عن الأخطاء، ترقب الأخبار والتحديثات والمناقشات</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>الدعم والمجتمع</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>تطبيق الترجمة</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>ضع حافظة AirPods بالقرب من جهاز الكمبيوتر الخاص بك قدر الإمكان وافتحها</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>اعد تشغيل البرنامج لتطبيق التغييرات.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>اظهر النافذة</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>فاقد الأهلية</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>فاقد الأهلية</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>لقد حدث خطأ غير متوقع</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>إعادة تشغيل</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>كيفية إقران سماعات الرأس</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>انقر للمزيد</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى دورات عبر مخرجات الصوت.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>التبديل التلقائي لمخرج الصوت</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>الجهاز غير متوفر او تمت إزالته</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>التالي</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>اكتب مفتاح الاختصار</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>الخصوصية والإشعارات</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>قم بتضمين مفتاح Win أو Shift أو Alt أو Ctrl</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>توقف تلقائي</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>للحصول على أفضل تجربة للمستخدم ، نوصي بتمكين بدء التشغيل. يمكنك القيام بذلك من علامة التبويب "بدء التشغيل" في إدارة المهام.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>ميزة "إشعار VoiceOver" متوقفة عن التشغيل ، ولا يمكن الوصول إلى الإشعارات. الرجاء فتح "الخصوصية والإشعارات" ، والسماح بالوصول إلى الإشعارات ، ثم تشغيل "إشعار VoiceOver".</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>إزالة مفتاح الاختصار</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>تشغيل البلوتوث لإظهار السماعات</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>إعدادات البلوتوث</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>أظهر إشعارًا عندما يكون شحن سماعة الرأس أقل من القيمة المحددة.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>إيقاف تشغيل البلوتوث</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>بلوتوث LE غير مدعوم</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>إشعار انخفاض البطارية</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>ترجم النص بسرعة مع مفاتيح التشغيل السريعة (hotkey)</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>إعادة التعيين الى الإعدادات الافتراضية</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>مفتاح التشغيل السريع لمخرج الصوت</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>لا توجد سماعات رأس مقترنة</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>قم بالترجمة، التعديل على الترجمة او اضف لغات آخرى</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>عرض نافذة منبثقة عندما يتغير إخراج الصوت.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>صورة مكبر الصوت</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>البحث عن AirPods</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>أسفل الزاوية اليسرى</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>قم بتبديل الصوت من AirPods إلى مكبرات الصوت الافتراضية عندما يكون كلا AirPods بعيدًا عن الأذن.</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>يتم الإعلان عن الإشعارات عند توصيل سماعات الرأس وتعيينها كجهاز إخراج الصوت.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>لم يتم تحديد متحدث او غير متوفر</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>لا يمكن لجميع التطبيقات من القائمة إرسال إشعارات ، وقد لا تكون بعض التطبيقات مدرجة في القائمة.</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>إعدادات التطبيق</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>اضغط أو انقر هنا للتخصيص</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>قم بإقران سماعات الرأس بالكمبيوتر وأعد تشغيل التطبيق</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>قم بتوصيل محول بلوتوث بدعم بلوتوث LE وأعد تشغيل التطبيق</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>تعرف على Magicpods 2.0</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>واجهة مُعاد تصميمها وإعدادات فردية والمزيد. تم تغيير بعض الإعدادات. افتح التطبيق للتخصيص.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>قم بتخصيص كل سماعة على حِدَةٍ لتناسب تفضيلاتك</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>سماعات الرأس</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>التفضيلات</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>بحث لانهائي</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>لا يمكن العثور على AirPods</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>اتبع هذا الدليل لإصلاح المشكلة.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>فاتح</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>استخدم سمة النظام</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>استخدم لغة النظام</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>مفتاح الإختصار العام لإتصال او فصل سماعات الرأس.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>قم بتوصيل مفتاح التشغيل السريع</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>البحث عن التطبيقات</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>محولات بلوتوث متعددة متصلة</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>تشغيل</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>المزيد من التفاصيل</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>لم يتم العثور على محول البلوتوث</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>قم بتوصيل محول بلوتوث</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>اترك محول بلوتوث واحد متصل</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>بلوتوث الكلاسيك غير مدعوم</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>قم بتوصيل محول البلوتوث بدعم البلوتوث الكلاسيك واعد تشغيل التطبيق</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>قد تؤدي إعادة تشغيل التطبيق إلى إصلاح المشكلة. إذا استمر الخطأ ، فحاول إعادة تشغيل جهاز الكمبيوتر الخاص بك.</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>أوقف التشغيل مؤقتًا بعد فصل سماعات الرأس.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>خطأ في تهيئة محول Bluetooth</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>غير الصورة</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>إستعادة الصورة</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>إعادة تشغيل التطبيق قد يساعدك</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>اظهر نسبة البطارية</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>لن تكون وظيفة التحدث الحر (الاتصال الصوتي) لسماعة الرأس متاحة. لا تقم بتعطيل Hands-Free يدويًا. أعد تشغيل التطبيق لتطبيق التغييرات.</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>ميزة تجريبية</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>فشل توصيل جهاز البث. تأكد من تمكين البلوتوث على جهاز البث.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>لا يوجد اجهزة مرتبطة، او البلوتوث مغلق في الجهاز</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>عرض متوسط نسبة البطارية لسماعات الرأس المتصلة.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>مجال البحث - المجال الذي سيبحث فيه الكمبيوتر عن علبة AirPods مفتوحة.</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>موضع النافذة</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>الزاوية اليسرى في الاعلى</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>الزاوية العليا اليمنى</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>المنتصف</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>أسفل الزاوية اليمنى</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>الصوت</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+    <value>انقر للمزيد</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>إخطارات VoiceOver</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>تهيئة</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>تكوين VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>اختر صوتًا</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>يمكن للمتحدث قراءة النص بلغة واحدة فقط.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>استمع إلى النص بالصوت المحدد</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>تحدث</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>إشعارات VoiceOver من المرسلين</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>تطبيقات مطورين آخرين</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>يمكنك نسخ النص من أي صورة</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>اركض واقفز وراوغ في لعبة مغامرة خطيرة</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+    <value>اضف جهاز جديد</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
+    <value>كتم صوت تلقائي</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
+    <value>كتم صوت جهاز البث عند تغيير الصوت إلى مكبرات صوت الكمبيوتر.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>جهاز البث</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>مخرج الصوت</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>منتصف الأعلى</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>منتصف الأسفل</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>صوت البث</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>VoiceOver جميع الإشعارات</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>اظهر جميع التطبيقات</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+    <value>اضف متحدث جديد</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
+    <value>سمة النافذة</value>
+  </data>
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
+    <value>اللغة</value>
+  </data>
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
+    <value>سمة</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+    <value>قدرة AirPods</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>شحن</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+    <value>إخفاء</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>تحميل</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>دفق الصوت من أجهزة بلوتوث إلى جهاز الكمبيوتر. يعمل الكمبيوتر كمكبر صوت بلوتوث.</value>
   </data>
 </root>
