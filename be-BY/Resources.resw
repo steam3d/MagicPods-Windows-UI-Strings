@@ -237,4 +237,92 @@
   <data name="Menu_Item5.Content" xml:space="preserve">
     <value>Навушнікі</value>
   </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Парада</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Аўтаматычнае падключэнне</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>Аўтаматычнае прайграванне</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>Адпраўце каманду Play пасля падлучэння навушнікаў. Калі няма адкрытых прайгравальнікаў, Windows праігнаруе каманду.</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Парада</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Дадайце AirPods у спіс прылад Windows Bluetooth</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Зыходзячы з вашага выкарыстання мы рэкамендуем усталяваць значэнне</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Ужыць</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Ігнараваць</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>Прайграванне прыпыняецца і гучнасць памяншаецца, калі вы здымаеце з вуха адну AirPods, або спыняецца і гучнасць аднаўляецца, калі вы здымаеце абодва AirPods.</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods падтрымлівае большасць навушнікаў AirPods і Beats</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Паднясіце чахол AirPods як мага бліжэй да кампутара і адкрыйце яго</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Далей</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>Пошук AirPods</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>Аўтаматычна падключацца да AirPods, калі вы вымаеце правы або левы AirPods з чахла.</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Не ўстанаўлівайце значэнне больш за 65, бо анімацыя можа з'явіцца выпадкова.</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Не ўдалося падключыцца да навушнікаў. Паспрабуйце падключыцца ўручную.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+    <value>Што такое радыус пошуку?</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>Паказаць кнопку Падключыць.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>Паказаць або схаваць кнопку Падключыць ва ўсплываючым акне. Націсканне кнопкі падключае AirPods.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>Усе налады будуць скінуты. Вы хочаце працягнуць?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>Так, скінуць налады</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>Радыус пошуку - радыус, у якім ваш кампутар будзе шукаць адкрыты футляр AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>Блізка</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>Становішча акна</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>Верхні левы кут</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>Верхні левы кут</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>Цэнтр</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>Левы ніжні кут</value>
+  </data>
 </root>
