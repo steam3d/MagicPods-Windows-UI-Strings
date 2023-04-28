@@ -370,7 +370,7 @@
     <value>音频</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>自动切换音频输出</value>
+    <value>自动切换声音输出</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>当两只 AirPods 都不在耳内时将音频输出切换至默认扬声器。</value>
@@ -716,5 +716,8 @@
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>显示桌面</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>重置到默认设置</value>
   </data>
 </root>
