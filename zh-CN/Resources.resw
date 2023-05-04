@@ -229,7 +229,7 @@
     <value>显示弹窗</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>是否在您打开充电盒时，显示和隐藏（如同 iPhone 上的）弹窗动画？</value>
+    <value>是否在您打开充电盒时显示或隐藏像iPhone上一样的弹窗动画。</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>弹窗尺寸</value>
@@ -719,5 +719,17 @@
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
     <value>重置到默认设置</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>了解更多</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>音频输出切换快捷键</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>按下快捷键可循环切换音频输出设备。</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>扬声器图标</value>
   </data>
 </root>
