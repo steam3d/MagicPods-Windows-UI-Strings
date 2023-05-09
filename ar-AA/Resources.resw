@@ -62,7 +62,7 @@
     <value>خروج</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% متبقي. اشحن سماعات الرأس الخاصة بك.</value>
+    <value>متبقي{0}%. اشحن سماعات الرأس الخاصة بك.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -81,22 +81,22 @@
     <value>حجم النافذة</value>
   </data>
   <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
-    <value>صغيرة</value>
+    <value>صغير</value>
   </data>
   <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
-    <value>متوسطة</value>
+    <value>متوسط</value>
   </data>
   <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
-    <value>كبيرة</value>
+    <value>كبير</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>إعادة تعيين الإعدادات</value>
+    <value>إعادة ضبط الإعدادات</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>كشف الأذن</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>شغل/وقف</value>
+    <value>تشغيل/وقف</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>كٍلا (خفض الصوت + تشغيل/توقيف)</value>
@@ -141,7 +141,7 @@
     <value>مفيد عند العمل مع برنامج "Premiere Pro" او "Audition". يحتاج لاعادة ربط السماعات بعد تشغيله. ربما سوف يستهلك اكثر من بطارية.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>تبين AirPods تهمة على الأيقونة</value>
+    <value>اظهار نسبة شحن البطاريه</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
@@ -151,11 +151,11 @@
     <value>تشغيل عند بدء التشغيل</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
-    <value>رمز إخفاء</value>
+    <value>إخفاء الرمز</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>أعد تشغيل التطبيق الخاص بالتطبيق للتطبيق.</value>
+    <value>أعد تشغيل التطبيق للتطبيق التغيرات.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>تم تعطيل بدء التشغيل حسب نهج المجموعة، أو غير مدعوم على هذا الجهاز.</value>
@@ -264,7 +264,7 @@
     <value>سيتم إغلاق التطبيق وتعطيل جميع الوظائف.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
-    <value>اغلاق ماجك بودز؟</value>
+    <value>اغلاق MagicPods؟</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
     <value>اغلاق</value>
