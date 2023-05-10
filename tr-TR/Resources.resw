@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>Airpods'ta %{0} şarj kaldı. AirPods'unuzu şarj edin.</value>
+    <value>%{0} şarj kaldı. Kulaklığınızı şarj edin.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Uyarı</value>
@@ -160,7 +160,7 @@
     <value>İkisi Birden (Sesi azalt + Oynat/Durdur)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Bir AirPods'u çıkardığınızda çalma duracak veya ikisini birden çıkardığınızda çalma sona erecek.</value>
+    <value>AirPods larınızan birisini çıkardığınızda çalma duracak veya ikisini birden çıkardığınızda çalma sona erecek.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Diğer</value>
@@ -196,7 +196,7 @@
     <value>Bunu, Görev Yöneticisindeki Başlangıç sekmesinden etkinleştirebilir veya devre dışı bırakabilirsiniz.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Başlangıç, grup politikası tarafından devre dışı bırakıldı veya bu cihazda desteklenmiyor.</value>
+    <value>Grup politikası başlangıçta çalıştırmayı devre dışı bıraktı veya bu cihazda desteklenmiyor.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Sistem tepsisi simgesi</value>
@@ -697,5 +697,44 @@
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>Deneysel özellik</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Uygulamayı çevir</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Topluluk</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Destek ve topluluk</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Kısayol ile hızlıca çevir</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Değişiklikleri uygulamak için uygulamayı yeniden başlat.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Pencereyi göster</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Varsayılan ayarlara geri dön</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>Daha fazlasını öğren</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Ses çıktısı kısayolunu değiştir</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Hoparlör resmi</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Topluluğa katıl, sorunları raporla, yeni güncellemeler haberler ver tartışmalar için takipte kal</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Kısayol tuşuna basmak ses çıktıları arasında değişikliğe neden olur.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Kulaklığın Hands-Free fonksiyonu müsait değil. Manuel olarak Hands-Free'yi kapatmayın. Değişiklikleri uygulamak için uygulamayı yeniden başlatın.</value>
   </data>
 </root>
