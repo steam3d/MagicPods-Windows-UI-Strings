@@ -177,7 +177,7 @@
     <value>The playback pauses when one AirPod is removed or stops when both are removed.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Windows prevented MagicPods from running automatically. Your organization may have blocked this change or your device does not support it.</value>
+    <value>It seems like the option to enable or disable startup programs may not be available. Windows prevented MagicPods from running automatically due to group policy restrictions or device limitations.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>The volume decreases when only one AirPod is removed.</value>
@@ -760,5 +760,20 @@
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>VoiceOver notifications</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>You have the option to turn this on or off in the Startup tab within Task Manager.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>This feature shows you the average battery percentage of your connected headphones. It helps you keep track of how much battery life is remaining.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>If you don't see the window, try opening the case with your AirPods inside and gently slide the slider to the right. Keep sliding until you see the animation appear on your screen.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>If you proceed, all settings will be reset. Are you sure you want to continue?</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>You have the option to show or hide the "Connect" button on the pop-up window. This button allows you to easily connect your AirPods.</value>
   </data>
 </root>
