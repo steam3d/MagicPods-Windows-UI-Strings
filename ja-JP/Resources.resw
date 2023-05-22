@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>バッテリー残量が{0}%です。 AirPodsを充電してください。</value>
+    <value>残り{0}%です。ヘッドフォンを充電してください。</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
@@ -103,7 +103,7 @@
     <value>リストのすべてのアプリケーションが通知を送信できるわけではありません。一部のアプリケーションはリストに含まれていない可能性があります。</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>65を超える値を設定しないでください。アニメーションが誤って表示される場合があります。</value>
+    <value>アニメーションが誤って表示される可能性があるため、65以上の値を設定しないでください。</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>ポップアップウィンドウの 「接続」 ボタンを表示または非表示にします。このボタンを押すと、AirPodsと接続します。</value>
@@ -139,7 +139,7 @@
     <value>音量を下げる</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>片方のAirPodsを外すと再生が一時停止し、両方のAirPodsを外すと再生が停止します。</value>
+    <value>片方のAirPodが外されると再生が一時停止され、両方が外されると再生が停止します。</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>その他</value>
@@ -190,7 +190,7 @@
     <value>アナログ</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>デジタル</value>
+    <value>テキスト</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>起動時に自動実行</value>
@@ -272,10 +272,10 @@
     <value>適用</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>今後表示しない</value>
+    <value>無視する</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>AirPodsに接続できません。手動で接続してみてください。</value>
+    <value>ヘッドフォンとの接続に失敗しました。手動で接続してみてください。</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>WindowsのBluetoothデバイスリストにAirPodsを追加してください</value>
@@ -368,7 +368,7 @@
     <value>声を追加</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>自動的にオーディオ出力を切り替える</value>
+    <value>自動的に音声出力を切り替える</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>片方のAirPodsを耳から外すと再生を一時停止、または音量を下げます。両方のAirPodsを外すと再生を停止し音量を元に戻します。</value>
