@@ -190,7 +190,7 @@
     <value>隱藏通知區域圖示</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>重新啟動應用程式來套用變更。</value>
+    <value>重新啟動應用程式來套用設定。</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>顯示電量百分比</value>
@@ -223,13 +223,13 @@
     <value>是</value>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
-    <value>動畫提示視窗</value>
+    <value>動畫彈出視窗</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>顯示視窗</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>當打開充電盒時，顯示或隱藏提示如同 iPhone 的動畫提示視窗。</value>
+    <value>在打開充電盒時，顯示或隱藏如同iPhone的動畫彈出視窗。</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>視窗大小</value>
@@ -238,7 +238,7 @@
     <value>當取下一耳時暫停播放，或取下兩耳時停止播放。</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
-    <value>電池資訊</value>
+    <value>電量資訊</value>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>一般設定</value>
@@ -253,7 +253,7 @@
     <value>支援</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>此應用程式將會被關閉，且所有功能將被停用。</value>
+    <value>將關閉應用程式並停用所有功能。</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>關閉 MagicPods？</value>
@@ -268,7 +268,7 @@
     <value>當取下一耳時降低音量，或當取下/戴上兩耳時復原音量。</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
-    <value>支援的播放器清單</value>
+    <value>支援的撥放器列表</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPods 搜尋半徑</value>
@@ -295,7 +295,7 @@
     <value>自動連線</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
-    <value>當其中一耳 AirPods 從充電盒取出時自動連線。</value>
+    <value>當AirPods 其中一耳從充電盒取出時自動連線。</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>自動播放</value>
@@ -304,16 +304,16 @@
     <value>當 AirPods 連線成功時自動送出「播放」指令。若沒有開啟任何播放器，Windows 將會忽略此指令。</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
-    <value>所有設定值將被設定為預設值，您確定要繼續嗎？</value>
+    <value>所有設定值將被恢復為預設值，您確定要繼續嗎？</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>是，回復預設值</value>
+    <value>是，恢復預設值</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>提示</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>依據您的使用狀況，我們建議將值設定為 {0}</value>
+    <value>依照您的使用狀況，我們建議將值設定為 {0}</value>
     <comment>{0} 將被一個數字取代</comment>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
@@ -332,7 +332,7 @@
     <value>新增 AirPods 至 Windows 藍牙裝置清單</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods 能夠與大多數的 AirPods 和 Beats 系列藍牙耳機搭配使用</value>
+    <value>MagicPods 支援絕大多數的 AirPods 和 Beats 系列藍牙耳機</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>請將 AirPods 充電盒盡可能地靠近您的電腦並打開</value>
@@ -440,7 +440,7 @@
     <value>找不到 AirPods</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
-    <value>請按照教學來解決問題。</value>
+    <value>請依照此教學來解決問題。</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>淺色</value>
@@ -485,16 +485,16 @@
     <value>已充電</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>為了最佳使用者體驗，我們建議您啟用開機時啟動。</value>
+    <value>為了最佳的使用者體驗，我們建議您啟用開機時啟動。</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
     <value>點選此處來自訂</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
-    <value>多重連線</value>
+    <value>重複連線</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>兩組或更多組耳機已連線，請保留只有一組連線</value>
+    <value>已有兩組或以上的耳機連線，請僅保留一組連線</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
     <value>正在連線</value>
@@ -503,7 +503,7 @@
     <value>中斷連線</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
-    <value>正在中斷</value>
+    <value>正在中斷連線</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
     <value>翻譯</value>
@@ -533,7 +533,7 @@
     <value>輸入快捷鍵</value>
   </data>
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>包含 Windows 標誌鍵、Shift、Alt 或 Ctrl 鍵</value>
+    <value>包括 Windows 鍵、Shift、Alt 或 Ctrl 鍵</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>移除快捷鍵</value>
@@ -569,7 +569,7 @@
     <value>如何配對耳機</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
-    <value>不支援低功耗藍牙</value>
+    <value>不支援低功耗藍牙技術</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
     <value>重新啟動應用程式或許可以解決問題。如果錯誤持續發生，請嘗試重新啟動您的電腦。</value>
@@ -581,7 +581,7 @@
     <value>耳機</value>
   </data>
   <data name="Menu_Item6.Content" xml:space="preserve">
-    <value>偏好設定</value>
+    <value>設定</value>
   </data>
   <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>開發者的其他應用程式</value>
@@ -605,7 +605,7 @@
     <value>重新設計的使用者介面、個別耳機設定與更多功能。有些設定值已經變更，請開啟應用程式來自訂這些設定。</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>個別設定每一副耳機以符合您的使用習慣</value>
+    <value>個人化每一個耳機以符合您的使用習慣</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
     <value>全域快捷鍵用來與耳機連線或中斷連線。</value>
@@ -614,10 +614,10 @@
     <value>連線快捷鍵</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
-    <value>變更圖片</value>
+    <value>變更圖示</value>
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
-    <value>復原圖片</value>
+    <value>復原圖示</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
     <value>啟動</value>
@@ -626,19 +626,19 @@
     <value>更多資訊</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
-    <value>連接一個藍牙傳輸器</value>
+    <value>連接一個藍牙接收器</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
-    <value>已連接多個藍牙傳輸器</value>
+    <value>已連接多個藍牙接收器</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
-    <value>無法支援傳統藍牙</value>
+    <value>不支援傳統藍牙技術</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
-    <value>找不到藍牙傳輸器</value>
+    <value>找不到藍牙接收器</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
-    <value>請確保僅有一個藍牙傳輸器已連接</value>
+    <value>請確保僅有一個藍牙接收器連接</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
     <value>藍牙傳輸器初始化失敗</value>
@@ -647,10 +647,10 @@
     <value>重新啟動應用程式可能會有幫助</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
-    <value>請連接一個支援傳統藍牙的藍牙傳輸器，並重新啟動應用程式</value>
+    <value>請連接一個支援傳統藍牙技術的藍牙接收器，並重新啟動應用程式</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
-    <value>請連接一個支援低功耗藍牙標準的藍牙傳輸器，並重新啟動應用程式</value>
+    <value>請連接一個支援低功耗藍牙技術的藍牙接收器，並重新啟動應用程式</value>
   </data>
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>音訊串流</value>
@@ -719,18 +719,18 @@
     <value>顯示視窗</value>
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
-    <value>恢复默认设置</value>
+    <value>恢復預設設定</value>
   </data>
   <data name="Buttons_LearnMore.Content" xml:space="preserve">
     <value>了解更多</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
-    <value>切換聲音輸出熱鍵</value>
+    <value>切換音效輸出快捷鍵</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
-    <value>按下热键会在声音输出之间循环。</value>
+    <value>按下快捷鍵時會在音效輸出之間循環。</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
-    <value>演講者形象</value>
+    <value>喇叭圖案</value>
   </data>
 </root>
