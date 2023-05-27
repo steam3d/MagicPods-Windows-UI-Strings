@@ -187,7 +187,7 @@
     <value>バッテリーアイコン</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>アナログ</value>
+    <value>アイコン</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>テキスト</value>
@@ -476,7 +476,7 @@
     <value>予期しないエラーが発生しました</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>アプリケーションを再起動すると、アプリケーションの動作が再開されます。エラーが続く場合は、コンピュータを再起動してみてください。</value>
+    <value>アプリケーションを再起動することで問題が解決する場合があります。エラーが解消されない場合は、コンピュータを再起動してみてください。</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>ホットキーを入力してください</value>
@@ -633,5 +633,50 @@
   </data>
   <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>中央の下</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>コミュニティー</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>サポートとコミュニティー</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>ホットキーでテキストを素早く翻訳する</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>変更を適用するためアプリケーションを再起動する。</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>ウィンドウを表示する</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>初期設定に戻す</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>詳しく知る</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>サウンド出力切り替えホットキー</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>スピーカー画像</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>アプリケーションを翻訳する</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>コミュニティーに参加して、バグの報告やニュースやアップデートの取得、ディスカッションに参加しましょう</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>ホットキーを押してサウンド出力を切り替える。</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>バッテリーのパーセンテージを表示する</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>試験的の機能</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>ヘッドホンのハンズフリー機能（音声通話）が利用できなくなります。手動でハンズフリー機能を無効にしないでください。変更を適用するにはアプリケーションを再起動します。</value>
   </data>
 </root>
