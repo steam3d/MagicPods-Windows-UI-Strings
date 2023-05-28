@@ -121,7 +121,7 @@
     <value>Starta om programmet för att tillämpa.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Uppspelningen stoppas när du tar ut ena eller båda utav dina AirPods ur örat.</value>
+    <value>Uppspelningen pausas när en AirPod tas bort eller stoppas när båda tas bort.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Annat</value>
@@ -148,7 +148,7 @@
     <value>Batteriikon</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digitalt</value>
+    <value>Text</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Aktivera uppstart</value>
@@ -202,10 +202,10 @@
     <value>Vad är sökområdet?</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Värde över 65 kan i vissa fall göra att animeringen visas av misstag.</value>
+    <value>Ställ inte in ett värde som är högre än 65 eftersom animeringen kan dyka upp av misstag.</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Påminn inte</value>
+    <value>Ignorera</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>Tip</value>
@@ -242,10 +242,10 @@
     <value>Tillämpa</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analogt</value>
+    <value>Ikon</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% batteristyrka kvar i AirPods. Du behöver ladda dina AirPods.</value>
+    <value>{0}% kvar. Ladda dina hörlurar.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
@@ -449,7 +449,7 @@
     <value>Ett oväntat fel har uppstått</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Starta om applikationen för att återuppta applikationens arbete. Om problemet kvarstår, testa att starta om din dator.</value>
+    <value>Starta om programmet för att återuppta programmets arbete. Om problemet kvarstår, testa att starta om din dator.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Ange en snabbtangent</value>
@@ -464,7 +464,7 @@
     <value>Automatisk pausning</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Pausa uppspelning efter hörlurarna kopplas bort.</value>
+    <value>Pausa uppspelning när hörlurarna kopplas bort.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>Notifikation vid låg batterinivå</value>
@@ -536,7 +536,7 @@
     <value>Översätt, redigera eller lägg till nya språk</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Sök efter applikation</value>
+    <value>Sök efter program</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>Fönster tema</value>
@@ -564,5 +564,107 @@
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>Återställ bild</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Översätt applikation</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Community</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Gå med i vårt community, rapportera buggar, håll utkik efter nyheter, uppdateringar och diskussioner</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Support och gemenskap</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Starta om programmet för att tillämpa ändringar.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Visa fönster</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Återställ till standardinställningar</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>Läs mer</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Ändra snabbtangent för ljudutgång</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Genom att trycka på snabbtangenten växlar du genom ljudutgångarna.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Högtalarbild</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Visa batteriprocent</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>Strömma ljud från Bluetooth enheter till datorn. Datorn fungerar som Bluetooth högtalare.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Visa popup-fönster när ljudutgång ändras.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Översätt text snabbt med snabbkommando</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Anslut</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Mer information</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter hittades inte</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Anslut till Bluetooth adapter</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Flera Bluetooth adaptrar anslutna</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Anslut endast en Bluetooth adapter</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic stöds inte</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Anslut en Bluetooth adapter med Bluetooth Classic stöd och starta om applikationen</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Anslut en Bluetooth adapter med Bluetooth LE stöd och starta om applikationen</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter initiering fel</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Omstart av applikation kan hjälpa</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Experimentell funktion</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Inga anslutna enheter eller Bluetoot avstängt</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Ljudströmning</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+    <value>Lägg till ny enhet</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Strömningsenhet</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Ljudutgång</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>Centrerat topp</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>Centrerat botten</value>
   </data>
 </root>
