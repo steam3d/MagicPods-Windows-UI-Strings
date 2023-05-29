@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,626 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% қалды. Құлпынушыларыңызды шарждағыша қояңыз.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Ескерту</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>Поп-ап терезесі</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Терезені көрсету</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>Терезе өлшемі</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>Кіші</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>Орта</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>Үлкен</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>Баптауларды қайтару</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>Құлақ табу</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Ойнату/Аялдату</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Дауысты төмендету</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Басқа</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>Түз аудио кідіртуі</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>Көмек алу</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>Есеп беру</value>
+  </data>
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
+    <value>Debug журналы</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>Жылдам іздеу</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>AirPods-ты іздеу уақытын азайтады. Сіздің әйгілі ешкім AirPods пайдаланбағанда оны қосыңыз.</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Иске қосу</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>Иске қосу кезінде жүктеу</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Топ саясаты бойынша иске қосу өшірілген, немесе бұл құрылғыда қолдау көрсетілмейді.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>Жүйелік трей белгішесі</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>Белгішені жасыру</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>Батарея пайызын көрсету</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>Байланыста болған құлпынушылардың орташа батарея пайызын көрсетеді.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>Стиль</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Белгіше</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Мәтін</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Иске қосуды қосу</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Шығу</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Көмек</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Жоқ</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Иә</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Батарея туралы ақпарат</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Жалпы баптаулар</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Эксперименттік функциялар</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>MagicPods-ты жабу</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Қолдау</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Бағдарлама жабылады және барлық функциялар өшіріледі.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>MagicPods-ты жабу керек пе?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Жабу</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Болдырмау</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>Қолдау көрсететін ойыншылар тізімі</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+    <value>Іздеу радиусы не?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Кеңес</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>65-тен асқан құндылықты орнатпаңыз, себебі анимация кездейсоқ пайда болуы мүмкін.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>«Қосу» батырмасын көрсету</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Автоматты түрде қосу</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>Оң жақ немесе сол жақ AirPods-ты ұясынан шығарған кезде автоматты түрде қосылады.</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>Автоматты түрде ойнату</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>Иә, баптауларды қайтару</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Кеңес</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Қолдану</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Елемеу</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Құлпынушыларға қосу сәтсіз аяқталды. Қолмен қосуды байқап көріңіз.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>AirPods-ты Windows Bluetooth құрылғылар тізіміне қосыңыз</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods көбінесе AirPods және Beats құлпынушыларын қолдайды</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>AirPods ұясын компьютеріңізге мүмкіндігінше жақын келтіріп, оны ашыңыз</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Келесі</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>Іздеу радиусы - компьютеріңіздің ашық AirPods ұясын іздеу радиусы.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>Жабу</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>AirPods ізденуде</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>Терезе орны</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>Жоғарғы сол бұрыш</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>Жоғарғы оң бұрыш</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>Ортасы</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>Төменгі сол бұрыш</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>Төменгі оң бұрыш</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>Дыбыс</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>Дыбысы өздіктік түрде ауыстыру</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>Құрылғы жоқ немесе жойылды</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+    <value>Көбірек білу</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>VoiceOver хабарландырулары</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>Конфигурациялау</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>VoiceOver конфигурациясы</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>Дыбысты таңдаңыз</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>Жариялаушы тек бір тілде мәтінді оқи алады.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Дыбыс таңдалмаған немесе қол жетімді емес</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>Таңдалған дыбысты тексмен тыңдаңыз</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>VoiceOver барлық хабарландырулар</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>Барлық бағдарламаларды көрсету</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Құпиялылық және хабарландырулар</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+    <value>Жаңа дыбыс қосу</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>Пайдаланушының ең жақсы тәжірибесі үшін біз бастауны қосу ұсынып отырып, бұлды «Бастау» қойыншасында қолдану басқарушысы арқылы жасай аласыз.</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>Шексіз іздеу</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>AirPods табу мүмкін болмады</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>Бұл нұсқаумені еріп, мәселені шешу.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Жарық</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Қараңғы</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Жүйе тақырыбын пайдалану</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
+    <value>Терезе тақырыбы</value>
+  </data>
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
+    <value>Тіл</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Жүйе тілін пайдалану</value>
+  </data>
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
+    <value>Тақырып</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Бастау</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Өзгерту үшін мұнда тереңдетіңіз немесе шертіңіз</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Көптеген байланыс</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Қосу</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Қосу</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Байланысты үзу</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Байланысты үзу</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Қалып</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Жүктеу</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+    <value>Жасыру</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>Жүктеу</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Аудару</value>
+    <comment>Last used 2.0.45.0</comment>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Өшірілген</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Өшірілген</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Қайта бастау</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Күтпеген қате пайда болды</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Бағдарламаны қайта жүктеу мәселені шешу мүмкін. Егер қате жалғастырса, компьютеріңізді қайта қосып көріңіз.</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Жарлық түймешігін теріңіз</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Win, Shift, Alt немесе Ctrl пернесін қосу</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Жарлық түймешігін өшіру</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Авто пауза</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Наушникилерді байланысты үзгеннен кейін ойнатуды тоқтату.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Төмен батарея хабарландырусы</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>Өшіру</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth өшірілген</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Наушникилерді көрсету үшін Bluetooth-ты қосу</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth баптаулары</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Жұптаған наушникилер жоқ</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Наушникилерді компьютермен жұптаңыз және бағдарламаны қайта жүктеңіз</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Наушникилерді қалай жұптау керек</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE қолдауланбайды</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Наушникилер</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Параметрлер</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>Басқа өндірушілердің бағдарламалары</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>Кез келген суреттен мәтінді көшіру</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>Қауіпті өзгеріс ойынында жүгіру, секіру және сақталу</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Аудару, өңдеу немесе жаңа тілдер қосу</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>MagicPods 2.0-мен танысыңыз</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Қосу жарлық түймешігі</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Суретті өзгерту</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Суретті қалпына келтіру</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Қосу</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Толығырақ мәлімет</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth адаптері табылмады</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Бірнеше Bluetooth адаптері қосылған</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Бірге Bluetooth адаптерін қосыңыз</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic қолданылмайды</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth LE қолдауы бар Bluetooth адаптерін қосу және бағдарламаны қайта қосу</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetooth адаптерін баптау қатесі</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Бағдарламаны қайта қосу көмексіздік көрсетуі мүмкін</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Аудио стриминг</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+    <value>Жаңа құрылғы қосу</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Стриминг құрылғысын қосу сәтсіз аяқталды. Стриминг құрылғысында Bluetooth қосылғанын тексеріңіз.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Байланысты құрылғылар жоқ немесе Bluetooth өшік</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Стриминг құрылғысы</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Дыбыс шыққысы</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>Жоғарғы орта</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>Төменгі орта</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Батареяның пайызын көрсету</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Эксперименталық мүмкіндік</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Бағдарламаны аудару</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Қоғамдастық</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Қолдау және қоғамдастық</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Өзгерістерді іске асыру үшін бағдарламаны қайта қосу.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Терезені көрсету</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Баптауларды қалпына келтіру</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>Толығырақ білу</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Жарлық түймешікті басу дыбыс шыққыстары арасында айналып жүріп, айналып жүреді.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Динамик суреті</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>iPhone ұясын ашқанда, поп-ап терезесін көрсету немесе жасыру.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Екеуі (Дауысты төмендету + Ойнату/Аялдату)</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>Бір AirPod алынып кеткенде ойнату аялдайды немесе екеуі алынып кеткенде тоқтайды.</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Premiere Pro немесе Audition жұмыс істеу кезінде пайдалы. Қосу болғаннан кейін AirPods-ты қайта байланысу қажет. Бұл батарея сарынды өсіру мүмкін.</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Бұл мүмкіндікті Тапсырмалар басқарушысындағы Иске қосу қойыншасында қосу немесе өшіруге болады.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>Өзгерістерді қолдану үшін бағдарламаны қайта іске қосыңыз.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>Бір AirPods-ты құлағыңыздан алғанда дауыс төмендеді, немесе екеуін алып / қойғанда беріктеледі.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>AirPods іздеу радиусы</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>Егер терезе пайда болмаса, AirPods-ті ішіне алып, слайдерді жұмсақ атап, анимация пайда болғанша оң жаққа сыржыңыз.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>«Қосу» батырмасын поп-ап терезесінде көрсету немесе жасыру. Батырма басылғанда AirPods қосылады.</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>Құлпынушыларды қосқаннан кейін «Ойнату» командасын жіберіңіз. Егер ашық ойыншылар жоқ болса, Windows команданы елемейді.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>Барлық баптаулар қайтарылады. Жалғастыру қажет пе?</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Сіздің пайдалануыңызды негізінде, біз {0} мәнін орнату ұсынамыз</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>Бір AirPods-ты құлағыңыздан алғанда ойнату үзілісіне кіреді және дыбысы азайады, немесе екеуін алғанда ойнату тоқтайды және дыбысы беріктеледі.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>Екеуі AirPods құлақтан шыққан кезде дыбысы AirPods-тан әдепкі динамиктерге ауыстырыңыз.</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>Құлпынушылар қосылған және дыбыс шығару құрылғысы ретінде орнатылған кезде хабарландырулар жарияланады.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>Сөйле</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>Бұл жіберушілерден VoiceOver хабарландырулары</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Тізімдегі барлық бағдарламалар хабарландыру жібере алмайды, кейбір бағдарламалар тізімде болмауы мүмкін.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>"VoiceOver хабарландыру" мүмкіндігі өшірілген, хабарландыруға қатынау алу мүмкін емес. «Құпиялылық және хабарландырулар»‎ ашыңыз, хабарландыруға қатынауға рұқсат беріңіз, содан кейін "VoiceOver хабарландыру" қосыңыз.</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>Бағдарлама баптаулары</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+    <value>AirPods мүмкіндігі</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>Пайдаланушылардың ең жақсы тәжірибесі үшін, біз қосуға ұсынысыз.</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Екі немесе одан да көп наушникилер қосылған, тек біреуін қосып қалу</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Наушникилерді жүктеу көрсетілген мәннен төменге түссе, хабарлама көрсету.</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Бағдарламаларды іздеу</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Қайта жасалған интерфейс, жеке баптаулар және тағы бірнеше. Кей бір баптаулар өзгертілді. Бағдарламаны өзгерту үшін ашыңыз.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Әр бір наушникті жеке өзгертіңіз, сіздің ұнататын дайындылығына сай</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Наушниктерді қосу немесе байланысты үзу үшін жалпы жарлық түймешік.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Bluetooth адаптерін қосу</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth Classic қолдауы бар Bluetooth адаптерін қосу және бағдарламаны қайта қосу</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>Bluetooth құрылғыларынан PC-ге аудио ағынды орналастыру. ПК Bluetooth динамикі ретінде ықпал етеді.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
+    <value>Авто өшіру</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
+    <value>Дыбыс шығысы ПК динамиктеріне өзгертілген кезде стриминг құрылғысының аудиосын өшіру.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Дыбыс шыққысы өзгертілген кезде поп-ап терезесін көрсету.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Наушниктердің Hands-Free функциясы (дыбыс байланысы) қол жетімді болмайды. Hands-Free функциясын қолмен өшірмеңіз. Өзгертуді іске асыру үшін бағдарламаны қайта қосу.</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Қоғамдастығымызға қосылыңыз, бөгде туралы хабарлау, жаңалықтар мен жаңартулар мен пікір талқылау үшін күтіп тұрыңыз</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Жылдам мәтінді жарлық түймешік арқылы аудару</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Дыбыс шыққысының жарлық түймешігін ауыстыру</value>
+  </data>
 </root>
