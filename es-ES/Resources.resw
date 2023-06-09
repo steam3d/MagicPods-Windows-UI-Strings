@@ -244,7 +244,7 @@
     <value>Audio</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Salida de audio automática</value>
+    <value>Cambio automático de salida de audio</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Dispositivo no disponible o eliminado</value>
@@ -575,7 +575,7 @@
     <value>Adaptador Bluetooth no ha sido encontrado</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
-    <value>Conecte un adaptador Bluetooth</value>
+    <value>Conectarse al adaptador Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
     <value>Varios adaptadores Bluetooth conectados</value>
@@ -642,5 +642,41 @@
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>La función Manos Libres (comunicación por voz) de los auriculares no estará disponible. No desactive Manos Libres manualmente. Reinicie la aplicación para aplicar los cambios.</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Aplicación de traducción</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Comunidad</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Únete a nuestra comunidad, reporta errores, mantente actualizado en novedades y debates</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Soporte y comunidad</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Traduce texto rápidamente con un atajo de teclado</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Reinicia la aplicación para aplicar los cambios.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Mostrar ventana</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Reiniciar a la configuración inicial</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>Más información</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Tecla predeterminada para cambiar la salida de audio</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Presionando la tecla predeterminada se modificará la salida de audio.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Imagen del altavoz</value>
   </data>
 </root>
