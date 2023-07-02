@@ -521,7 +521,7 @@
     <value>निचला बायां कोना</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>ऑडियो आउटपुट को अपने आप स्विच करें</value>
+    <value>ध्वनि की आउटपुट को अपने आप स्विच करें</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>जब दोनों एयरपॉड्स कान से बाहर हों तो ऑडियो को एयरपॉड्स से डिफ़ॉल्ट स्पीकर पर स्विच करें।</value>
@@ -557,7 +557,7 @@
     <value>सर्वोत्तम उपयोगकर्ता अनुभव के लिए, हम अनुशंसा करते हैं कि आप स्टार्टअप को सक्षम करें। आप इसे टास्क मैनेजर में «स्टार्टअप» टैब से कर सकते हैं।</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>एप्लिकेशन का काम फिर से शुरू करने के लिए एप्लिकेशन को पुनरारंभ करें। यदि त्रुटि बनी रहती है, तो अपने कंप्यूटर को पुनरारंभ करने का प्रयास करें।</value>
+    <value>एप्लिकेशन को पुनः प्रारंभ करने से समस्या ठीक हो सकती है। यदि त्रुटि बनी रहती है, तो अपने कंप्यूटर को पुनरारंभ करने का प्रयास करें।</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
     <value>जब हेडफ़ोन चार्ज निर्दिष्ट मान से कम हो तो एक सूचना दिखाएं।</value>
@@ -666,5 +666,17 @@
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>हेडफ़ोन का हैंड्स-फ़्री फ़ंक्शन (आवाज़ संचार) उपलब्ध नहीं होगा। हैंड्स-फ़्री को मैन्युअल रूप से अक्षम न करें। परिवर्तनों को लागू करने के लिए एप्लिकेशन को पुनरारंभ करें</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>और जाने</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>प्रारंभिक व्यवस्था को लागू करें</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>हॉटकी चक्र को दबाने से ध्वनि आउटपुट के माध्यम को परिवर्तन करें।</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>स्पीकर की छवि</value>
   </data>
 </root>
