@@ -65,7 +65,7 @@
     <value>Ralat tidak dijangka telah berlaku</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Ulanghidup aplikasi untuk menyambung semula kerja aplikasi. Jika ralat berterusan, cuba mulakan semula komputer anda.</value>
+    <value>Memulakan semula aplikasi mungkin boleh menyelesaikan masalah. Jika masalah berterusan, cuba mulakan semula komputer anda.</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
     <value>Tiada headphone berpasangan</value>
@@ -159,10 +159,10 @@
     <value>Ikon bateri</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analog</value>
+    <value>Ikon</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digital</value>
+    <value>Teks</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Aktifkan Permulaan</value>
@@ -214,7 +214,7 @@
     <value>Tip</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Jangan tetapkan nilai lebih daripada 65. Dalam sesetengah kes, animasi mungkin muncul secara tidak sengaja.</value>
+    <value>Jangan tetapkan nilai lebih daripada 65. Sebab animasi mungkin muncul secara tidak sengaja.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Tunjukkan butang «Sambung»</value>
@@ -244,7 +244,7 @@
     <value>Menerapkan</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Jangan ingatkan</value>
+    <value>Abaikan</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Gagal menyambungkan AirPods. Cuba sambung secara manual.</value>
@@ -678,5 +678,8 @@
   </data>
   <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>Tengah bawah</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Berbilang penyesuai Bluetooth disambungkan</value>
   </data>
 </root>
