@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% de batterie restant. Chargez vos AirPods.</value>
+    <value>{0}% de batterie restant. Chargez vos écouteurs.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Attention</value>
   </data>
   <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
-    <value>Petit</value>
+    <value>Petite</value>
   </data>
   <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
-    <value>Moyen</value>
+    <value>Moyenne</value>
   </data>
   <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
-    <value>Grand</value>
+    <value>Grande</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Réinitialiser les paramètres</value>
@@ -154,7 +154,7 @@
     <value>Faible latence audio</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Utile lorsque vous travaillez dans Premiere Pro ou Audition. Nécessite de reconnecter les AirPods après leur mise sous tension. Cela peut augmenter la consommation de la batterie.</value>
+    <value>Utile lorsque vous travaillez dans Premiere Pro ou Audition. Nécessite de reconnecter les AirPods après leur mise sous tension. Ceci peut augmenter la consommation de la batterie.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Obtenir de l'aide</value>
@@ -169,7 +169,7 @@
     <value>Recherche rapide</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Réduit le temps de recherche des AirPods. Activez-le lorsque vous êtes sûr que personne d'autre n'utilise les AirPods.</value>
+    <value>Réduit le temps de recherche des AirPods. Activez-le lorsque vous êtes sûr.e que personne d'autre n'utilise des AirPods à proximité.</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Démarrage</value>
@@ -187,16 +187,16 @@
     <value>Icône de barre d'état système</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
-    <value>Masquer l'icône système</value>
+    <value>Masquer l'icône</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>Redémarrez l'application pour appliquer les changements.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Afficher la batterie des AirPods sur l'icône système</value>
+    <value>Afficher le pourcentage de batterie</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Lorsque les AirPods sont connectés, affiche la batterie moyenne des AirPods gauche et droit sur l'icône système. L'icône est mise à jour chaque minute.</value>
+    <value>Affiche le pourcentage moyen de la batterie des écouteurs connectés.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Style</value>
@@ -364,7 +364,7 @@
     <value>En savoir plus</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Basculer automatiquement la sortie de son</value>
+    <value>Basculer automatiquement la sortie audio</value>
   </data>
   <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>Coin supérieur gauche</value>
