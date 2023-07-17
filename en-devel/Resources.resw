@@ -165,7 +165,7 @@
     <value>Search for applications</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>Customize each headphone individually to suit your preferences</value>
+    <value>Customize each of headphones individually to suit your preferences</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
     <value>AirPods could not be found. Be sure that AirPods are paired to this device then restart the app.</value>
@@ -186,7 +186,7 @@
     <value>Notifications are announced when headphones are connected and set as the audio output device.</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
-    <value>Charging</value>
+    <value>Charge</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
     <value>Restarting the application may fix the problem. If the error persists, try restarting your computer.</value>
@@ -290,7 +290,7 @@
     <value>If the window doesn't appear open the case with AirPods inside and smoothly slide the slider to the right until the animation appears.</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
-    <value>Hint</value>
+    <value>Tip</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
     <value>Change image</value>
@@ -326,7 +326,7 @@
     <value>MagicPods supports most AirPods and Beats headphones</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Bring your AirPods case close to your computer and open it</value>
+    <value>Bring your AirPods case as close to your computer as possible and open it</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Next</value>
@@ -359,7 +359,7 @@
     <value>Audio</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Auto switch audio output</value>
+    <value>Auto switch sound output</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Device not available or removed</value>
@@ -407,7 +407,7 @@
     <value>Other AirPods are already connected, please disconnect them first.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>For the best user experience, we recommend automatic enable on startup. You can do this from the «Startup» tab in Task Manager.</value>
+    <value>For the best user experience, we recommend that you enable startup. You can do this from the «Startup» tab in Task Manager.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Infinite search</value>
@@ -573,7 +573,7 @@
     <value>AirPods capability</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>For the best user experience, we recommend automatic enable on startup.</value>
+    <value>For the best user experience, we recommend that you enable startup.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Disabled</value>
@@ -875,5 +875,44 @@ English</value>
   </data>
   <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>Hide</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>Notifications are announced when headphones are connected and set as the audio output device.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>Listen to the text with the selected voice</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>Speak</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>VoiceOver notifications from these senders</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Not all applications from the list can send notifications, some applications may not be in the list.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>VoiceOver all notifications</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>Show all apps</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+    <value>Add a new voice</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
+    <value>Window theme</value>
+  </data>
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>Application settings</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+    <value>AirPods capability</value>
   </data>
 </root>
