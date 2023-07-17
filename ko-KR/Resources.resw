@@ -169,7 +169,7 @@
     <value>낮은 오디오 지연</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Premiere Pro 또는 Audition을 사용하는 상황에서 유용합니다. 기능의 활성화 이후 AirPods을 다시 연결해야 합니다. 배터리 소모량이 증가될 수 있습니다.</value>
+    <value>Premiere Pro 또는 Audition의 사용 상황에서 유용합니다. 기능의 활성화 이후 AirPods을 다시 연결해야 합니다. 배터리 소모량이 증가될 수 있습니다.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>도움말</value>
@@ -184,7 +184,7 @@
     <value>빠른 검색</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>에어팟의 검색 시간을 단축할 수 있습니다. 주변에 다른 에어팟이 없을 때 사용하세요.</value>
+    <value>AirPods의 검색 시간을 단축할 수 있습니다. 주변에 사용하고 있는 다른 AirPods이 없을 때 켜십시오.</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>시작 프로그램</value>
@@ -193,7 +193,7 @@
     <value>시작 프로그램 사용</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>작업 관리자의 시작프로그램 탭에서 이 설정을 변경할 수 있습니다.</value>
+    <value>작업 관리자의 시작 프로그램 탭에서 이 설정을 변경할 수 있습니다.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>그룹 정책에 의해 시작 프로그램이 비활성화되었거나 이 장치에서 지원되지 않아요.</value>
@@ -208,13 +208,13 @@
     <value>적용하려면 앱을 다시 시작 해주세요.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>아이콘에 AirPods 배터리 상태 표시</value>
+    <value>배터리 잔량 표시</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>에어팟이 연결되면 시스템 트레이 아이콘에 양쪽 에어팟 배터리 잔량의 평균치를 표시합니다. 배터리 정보는 1분마다 업데이트됩니다.</value>
+    <value>연결된 헤드폰의 평균 배터리 잔량을 표시합니다.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
-    <value>배터리 아이콘</value>
+    <value>스타일</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>아이콘</value>
@@ -223,13 +223,13 @@
     <value>글자</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>시작프로그램 활성화</value>
+    <value>시작 프로그램 활성화</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>나가기</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
-    <value>도움</value>
+    <value>도움말</value>
   </data>
   <data name="Text_No" xml:space="preserve">
     <value>아니오</value>
@@ -265,55 +265,55 @@
     <value>취소</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>한쪽 에어팟을 제거하면 음향 크기가 감소하고 양쪽 에어팟을 제거하거나 장착하면 음향 크기가 복원됩니다.</value>
+    <value>한쪽 AirPods을 귀에서 제거하면 음량이 감소하고 양쪽 AirPods을 제거하거나 장착하면 음량이 복원됩니다.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>지원되는 플레이어 목록</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
-    <value>AirPods 검색 범위</value>
+    <value>AirPods 검색 반경</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
-    <value>팝업이 나타나지 않으면 AirPods 케이스를 열고 애니메이션이 나타날 때까지 검색 범위를 높여보세요.</value>
+    <value>팝업이 나타나지 않으면  AirPods케이스를 열고 애니메이션이 나타날 때까지 검색 범위 수치를 올려보세요.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
-    <value>검색 범위란 무엇인가요?</value>
+    <value>검색 반경이란 무엇인가요?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>팁</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>65보다 큰 값을 설정할 경우 특정 상황에서 애니메이션의 재생에 문제가 발생할 수 있습니다.</value>
+    <value>65보다 큰 값을 설정할 경우 애니메이션이 의도하지 않게 나타날 수 있습니다.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>«연결» 버튼 표시</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>팝업에서 연결 버튼을 표시하거나 숨길 수 있습니다. 연결 버튼을 누르면 에어팟이 연결됩니다.</value>
+    <value>팝업 창에서 «연결» 버튼을 표시하거나 숨깁니다. 버튼을 누르면 AirPods이 연결됩니다.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>자동 연결</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
-    <value>케이스에서 왼쪽 또는 오른쪽 에어팟을 꺼내면 자동으로 연결됩니다.</value>
+    <value>케이스에서 왼쪽 또는 오른쪽 AirPods을 꺼내면 자동으로 연결됩니다.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
     <value>자동 재생</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>에어팟이 연결되면 재생 명령을 보냅니다.실행 중인 플레이어가 없는 경우 윈도우는 명령을 무시합니다.</value>
+    <value>헤드폰이 연결되면 «재생» 명령을 보냅니다. 실행 중인 플레이어가 없는 경우 Windows는 명령을 무시합니다.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>모든 설정이 초기화됩니다. 계속하시겠습니까?</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>예, 설정을 재설정합니다</value>
+    <value>예, 설정을 조기화합니다</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>팁</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>사용량에 따라 설정합니다. {0}으로 설정하는 것을 추천합니다</value>
+    <value>사용량에 따라 값을 {0}로 설정하는 것을 추천합니다.</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>적용</value>
@@ -322,31 +322,31 @@
     <value>무시</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>AirPods에 연결하지 못했어요. 수동으로 연결해주세요.</value>
+    <value>헤드폰에 연결하지 못했습니다. 수동으로 연결해 보십시오.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>귀에서 한쪽 에어팟을 제거하면 재생이 일시 중지되고 음향 크기가 감소됩니다. 양쪽 에어팟을 모두 제거하면 재생을 중지하고 음향 크기가 복구됩니다.</value>
+    <value>한쪽 AirPods을 귀에서 제거하면 재생이 일시 정지되며 음량이 줄어들고, 두개의 AirPods을 모두 제거하면 재생이 멈추고 음량이 복원됩니다.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Windows Bluetooth 장치 목록에 AirPods 추가</value>
+    <value>Windows Bluetooth 장치 목록에 AirPods을 추가합니다.</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods는 대부분의 에어팟과 비츠 헤드폰을 지원합니다</value>
+    <value>MagicPods는 대부분의 AirPods과 Beats 헤드폰을 지원합니다</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>에어팟 케이스를 컴퓨터 근처에 두고 케이스를 엽니다</value>
+    <value>AirPods 케이스를 컴퓨터에 최대한 가까이 두고 케이스를 엽니다</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>다음</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
-    <value>검색 범위 - 컴퓨터가 열려 있는 에어팟 케이스를 검색할 범위입니다.</value>
+    <value>검색 반경 - 컴퓨터가 열려 있는 AirPods 케이스를 검색하는 반경입니다.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>닫기</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
-    <value>에어팟 검색중</value>
+    <value>AirPods 검색중</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>창 위치</value>
@@ -370,10 +370,10 @@
     <value>오디오</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>오디오 출력 자동 변경</value>
+    <value>사운드 출력 자동 변경</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
-    <value>모든 에어팟이 착용되지 않았을 경우 기본 스피커로 출력이 변경됩니다.</value>
+    <value>두개의 AirPods이 모두 귀에 없으면 AirPods에서 기본 스피커로 오디오를 전환합니다.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>장치가 사용할 수 없는 상태이거나 제거되었습니다</value>
@@ -397,13 +397,13 @@
     <value>음성 선택</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
-    <value>에어팟이 연결되고 오디오 출력 장치로 설정되면 VoiceOver 알림이 작동합니다.</value>
+    <value>헤드폰이 연결되고 오디오 출력 장치로 설정되면 알림이 작동합니다.</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>음성 알림 기능은 한 가지 언어의 텍스트로만 읽을 수 있습니다.</value>
   </data>
   <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
-    <value>다음 응용 프로그램에서 발송된 VoiceOver 알림</value>
+    <value>이 발신자의 VoiceOver 알림</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>모든 알림 VoiceOver</value>
@@ -415,13 +415,13 @@
     <value>듣기</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
-    <value>알림 개인 정보 설정</value>
+    <value>개인 정보 및 알림</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
-    <value>음성이 선택되지 않거나 제공되지 않음</value>
+    <value>선택했거나 사용할 수 있는 음성이 없습니다</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
-    <value>문장을 선택된 음성으로 청취합니다</value>
+    <value>선택한 음성으로 텍스트 듣기</value>
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>목록에 있는 모든 응용 프로그램이 알림을 보낼 수 있는 것은 아니며 몇몇 응용 프로그램은 목록에 없을 수도 있습니다.</value>
@@ -433,13 +433,13 @@
     <value>무한 검색</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
-    <value>에어팟을 찾을 수 없어요</value>
+    <value>AirPods을 찾을 수 없습니다</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
-    <value>다음의 지침을 따르면 문제를 해결할 수 있습니다.</value>
+    <value>다음 안내에 따라 문제를 해결하세요.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>최고의 사용자 경험을 위해 시작프로그램으로 등록하는 것을 권장합니다. 작업 관리자의 시작프로그램 탭에서 해당 설정을 변경할 수 있습니다.</value>
+    <value>최상의 사용자 경험을 위해 시작 프로그램을 활성화하는 것이 좋습니다. 작업 관리자의 «시작 프로그램» 탭에서 이 작업을 수행할 수 있습니다.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>라이트</value>
@@ -463,10 +463,10 @@
     <value>시스템 언어 사용</value>
   </data>
   <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
-    <value>응용프로그램 설정</value>
+    <value>응용 프로그램 설정</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
-    <value>에어팟 호환</value>
+    <value>AirPods 호환</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
     <value>연결</value>
@@ -481,7 +481,7 @@
     <value>시작 프로그램</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>최고의 사용자 경험을 위해 시작프로그램으로 등록하는 것을 권장합니다.</value>
+    <value>최상의 사용자 경험을 위해 시작 프로그램을 활성화하는 것이 좋습니다.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>끔</value>
@@ -493,7 +493,7 @@
     <value>다중 연결</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>2개 이상의 기기에 연결되어 있으니 하나의 기기로만 접속해 주세요</value>
+    <value>두 개 이상의 헤드폰이 연결되어 있습니다. 하나의 기기만 연결해 주십시오.</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
     <value>연결 중</value>
@@ -517,7 +517,7 @@
     <value>예기치 못한 오류가 발생했습니다</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>애플리케이션을 재부팅하고 처리를 재개합니다. 에러가 계속되는 경우는 컴퓨터를 재부팅 해주세요.</value>
+    <value>응용 프로그램을 다시 시작하면 문제가 해결될 수 있습니다. 오류가 지속되면 컴퓨터를 다시 시작하십시오.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>단축키를 입력하세요</value>
@@ -529,13 +529,13 @@
     <value>단축키 제거</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
-    <value>자동 정지</value>
+    <value>자동 일시중지</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Pause playback after disconnecting headphones.</value>
+    <value>헤드폰 연결이 해제되면 재생을 일시 중지합니다.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
-    <value>낮은 배터리 알림</value>
+    <value>배터리 부족 알림</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
     <value>헤드폰의 배터리 잔량이 지정한 수치 보다 낮을 때 알림을 표시합니다.</value>
@@ -547,10 +547,10 @@
     <value>Bluetooth 설정</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
-    <value>연결된 헤드폰 없음</value>
+    <value>페어링된 헤드폰 없음</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
-    <value>헤드폰을 컴퓨터와 연결하고 애플리케이션을 재시작하세요</value>
+    <value>헤드폰을 컴퓨터와 연결하고 응용 프로그램을 재시작하세요</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
     <value>사용자의 기본 설정에 맞게 각 헤드폰 커스터마이징</value>
@@ -574,19 +574,19 @@
     <value>단축키 연결</value>
   </data>
   <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
-    <value>개발자의 다른 애플리케이션</value>
+    <value>개발자의 다른 앱</value>
   </data>
   <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
-    <value>뛰고 점프하고 피하는 위험한 어드벤처 게임</value>
+    <value>달리고, 뛰고, 피하는 위험한 어드벤처 게임</value>
   </data>
   <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>새로운 언어 번역, 편집 또는 추가</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>애플리케이션 검색</value>
+    <value>응용 프로그램 검색</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
-    <value>아무 이미지에서나 텍스트를 복사해보세요</value>
+    <value>아무 이미지에서 텍스트를 복사해보세요</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
     <value>해제 중</value>
@@ -686,5 +686,50 @@
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>사운드 출력이 변경되면 팝업 윈도우를 표시합니다.</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>응용 프로그램 번역하기</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>커뮤니티</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>커뮤니티에 가입하고, 버그 제보, 뉴스와 업데이트 및 토론을 확인해보세요</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>지원 및 커뮤니티</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>단축키로 빠른 텍스트 번역</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>변경 사항을 적용하려면 응용 프로그램을 다시 시작해야 합니다.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>창 표시</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>기본 설정으로 재설정</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>더 알아보기</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>사운드 출력 단축키 전환</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>단축키를 누르면 사운드 출력이 전환됩니다.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>스피커 이미지</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>배터리 잔량 표시</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>실험적인 기능</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>헤드폰의 핸즈프리 기능(음성 통신)을 사용할 수 없게 됩니다. 핸즈프리 기능을 수동으로 비 활성화하지 마십시오. 변경 사항을 적용하려면 응용 프로그램을 다시 시작하십시오.</value>
   </data>
 </root>
