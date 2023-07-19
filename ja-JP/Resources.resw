@@ -679,4 +679,97 @@
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>ヘッドホンのハンズフリー機能（音声通話）が利用できなくなります。手動でハンズフリー機能を無効にしないでください。変更を適用するにはアプリケーションを再起動します。</value>
   </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>ノイズキャンセリング</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>チップ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>オフ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>外部音取り込み</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>室内</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>ノイズキャンセリング切り替えのショートカットキー</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>使用前にAirpodsを両耳とも装着してください</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>オフ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>修正済み</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>左のAirPodsを長押し</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>音声アシスタント</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>ノイズコントロール（ノイズキャンセリング/外部音取り込み）</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>ノイズコントロール（ノイズキャンセリング/オフ/外部音取り込み）</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>右AirPodsの感度</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>押下スピード</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>AirPodsを2回または3回押すときの間隔を調整</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>早い</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>デフォルト</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>遅い</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>長押し</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>AirPodsを長押しするときの間隔を調整します。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>短い</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>デフォルト</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>長い</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>ファームウェア</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>このチップは未対応です</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>ノイズキャンセリング</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>設定したショートカットキーを押すと、ノイズキャンセリングモードが切り替わります</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>ヘッドトラッキング</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>右のAirPodsを長押し</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>左AirPodsの感度</value>
+  </data>
 </root>
