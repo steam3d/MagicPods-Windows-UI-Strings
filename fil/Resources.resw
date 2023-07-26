@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,216 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Ipakita ang window</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Paalala</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>Window Size</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>Maliit</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>Katamtaman</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>Malaki</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>I-reset ang mga setting</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>Ear detection</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>I-play/I-pause</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Bawasan ang volume</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Parehas (Bawasan ang volume + I-play/I-pause)</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Iba pa</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>Mababang latency ng audio</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>Humingi ng tulong</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>I-report ng isyu</value>
+  </data>
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
+    <value>Ang debug log</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>Mabilis na paghahanap</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>Binabawasan ang oras ng paghahanap para sa AirPods. I-on ito kapag sigurado kang walang ibang gumagamit ng AirPods.</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Magsimula</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>Run sa startup</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Maaari mong paganahin o huwag paganahin ito sa tab na Startup sa Task Manager.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Na-disable ang startup ayon sa group policy, o hindi sinusuportahan sa device na ito.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>Icon ng system tray</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>Itago ang icon</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>I-restart ang application para ilapat ang mga pagbabago.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>Ipakita ang porsyento ng baterya</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>i-Style</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Icon</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Teksto</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Paganahin ang Startup</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>I-exit</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Tulong</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Hindi</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Oo</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Impormasyon ng baterya</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Pangkalahatang mga Setting</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Mga experimental na feature</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Isara ang MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Suporta</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Isara ang MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Isara</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>Listahan ng mga sinusuportahang player</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>Radius ng paghahanap ng AirPods</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+    <value>Ano ang radius ng paghahanap?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Tip</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Huwag magtakda ng halagang value sa 65 dahil maaaring hindi sinasadyang lumabas ang animation.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>Ipakita ang pindutan ng "Konnect".</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>Ipakita o itago ang button na «Konnect» sa pop-up window. Ang pagpindot sa button ay magkokonekta sa AirPods.</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Auto Konnect</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>Auto-play</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>Ipadala ang command na «Play» pagkatapos ikonekta ang mga headphone. Kung walang bukas na mga manlalaro, babalewalain ng Windows ang utos.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>Ire-reset ang lahat ng mga setting. Gusto mo bang magpatuloy?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>Oo, i-reset ang mga setting</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Tip</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Batay sa iyong paggamit, inirerekomenda namin ang pagtatakda ng halaga sa {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Mag-apply</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>I-ignore</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% ang natitira. I-charge ang iyong mga headphone.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>Pop-up na window</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Ipakita o itago ang mga pop-up window tulad ng sa iPhone, kapag binuksan mo ang case.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>Ang pag-playback ay humihinto kapag ang isang AirPod ay tinanggal o huminto kapag pareho ang tinanggal.</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Kapaki-pakinabang kapag ginagamit sa Premiere Pro o Audition. Nangangailangan ng muling pagkonekta sa mga AirPod pagkatapos i-on. Maaari nitong mapataas ang pagkonsumo ng baterya.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>Ipinapakita ang average na porsyento ng baterya ng mga nakakonektang headphone.</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Isasara ang application at idi-disable ang lahat ng function.</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Kanselahin</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>Bumababa ang volume kapag nag-alis ka ng isang AirPod mula sa iyong tainga, o nagre-restore kapag inalis / inilagay mo ang parehong AirPods.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>Kung hindi lumabas ang window, buksan ang case na may mga AirPod sa loob at i-slide nang maayos ang slider pakanan hanggang sa lumitaw ang animation.</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>Awtomatikong kumonekta sa AirPods kapag kinuha mo ang kanan o kaliwang AirPods mula sa case.</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Nabigo ang pagkonekta sa mga headphone. Subukang kumonekta nang manu-mano.</value>
+  </data>
 </root>
