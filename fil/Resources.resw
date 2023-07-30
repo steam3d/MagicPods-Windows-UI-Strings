@@ -270,4 +270,22 @@
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Nabigo ang pagkonekta sa mga headphone. Subukang kumonekta nang manu-mano.</value>
   </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>Ang pag playback ay nag pause at ang lakas ng tunog ay bumababa kapag tinanggal mo ang isang AirPod mula sa iyong tainga, o tumitigil at ang lakas ng tunog ay nagpapanumbalik kapag tinanggal mo ang parehong AirPod.</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>Itaas na Kaliwang Sulok</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>Para sa pinakamahusay na karanasan ng user, inirerekomenda namin na paganahin mo ang startup. Magagawa mo ito mula sa tab na «Startup» sa Task Manager.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Ipakita ang Porsyento ng Baterya</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Hindi pinagana</value>
+  </data>
 </root>
