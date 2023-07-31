@@ -705,7 +705,7 @@
     <value>Show battery percentage</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>The Hands-Free function (voice communication) of the headphone will not be available. Do not disable Hands-Free manually. Restart application to apply changes.</value>
+    <value>The Handsfree function (voice communication) of the headphone will not be available. Do not disable Handsfree manually. Restart application to apply changes.</value>
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>Experimental feature</value>
@@ -910,5 +910,17 @@
   </data>
   <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
     <value>Place the AirPods in the case, open the lid then press the button about 10 seconds.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Auto disable Handsfree</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Disable Handsfree after connecting headphones to prevent the headphones from switching to Handsfree mode. The microphone will stop working. You can turn the Handsfree function back on manually.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Equalizer</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Turn on the music before changing the setting.</value>
   </data>
 </root>
