@@ -68,7 +68,7 @@
     <value>Catatan Debug</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% daya tersisa di AirPods. Isi daya AirPods Anda.</value>
+    <value>{0}% daya tersisa. Isi daya AirPods Anda.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -108,7 +108,7 @@
     <value>Keduanya (Turunkan volume + Putar/Jeda)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Pemutaran dijeda saat Anda melepas satu telinga AirPods atau berhenti saat Anda melepas kedua AirPods.</value>
+    <value>Pemutaran dijeda ketika Anda satu AirPods atau berhenti saat Anda melepas kedua AirPods.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Lainnya</value>
@@ -147,7 +147,7 @@
     <value>Ikon baterai</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digital</value>
+    <value>Teks</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Aktifkan Startup</value>
@@ -207,7 +207,7 @@
     <value>Tips</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analog</value>
+    <value>Ikon</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Otomatis Sambungkan</value>
@@ -235,7 +235,7 @@
     <value>Terapkan</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Jangan ingatkan</value>
+    <value>Abaikan</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Gagal menyambungkan AirPods. Coba sambungkan secara manual.</value>
@@ -341,7 +341,7 @@
     <value>Volume berkurang saat Anda melepaskan satu AirPods dari telinga Anda, atau pulih saat Anda melepas / memasang kedua AirPods.</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Jangan menetapkan nilai lebih besar dari 65. Dalam beberapa kasus, animasi mungkin muncul secara tidak sengaja.</value>
+    <value>Jangan menetapkan nilai lebih besar dari 65 karena animasi mungkin muncul secara tidak sengaja.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Tampilkan tombol «Sambungkan»</value>
@@ -564,5 +564,20 @@
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>Atur ulang gambar</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Keterangan lebih lanjut</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Adaptor Bluetooth tidak ditemukan</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Sambungkan adaptor Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Beberapa adaptor Bluetooth terhubung</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Nyalakan</value>
   </data>
 </root>
