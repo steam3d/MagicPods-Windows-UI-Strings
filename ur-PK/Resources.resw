@@ -132,7 +132,7 @@
     <value>دو یا زیادہ ہیڈ فون جڑے ہوئے ہیں، صرف ایک منسلک رہنے دیں</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>جب آپ ایک ایئر پوڈ کان ہٹاتے ہیں تو پلے بیک رک جاتا ہے یا جب آپ دونوں ایئر پوڈز کو ہٹاتے ہیں تو رک جاتا ہے۔</value>
+    <value>پلے بیک رک جاتا ہے جب ایک ایئر پوڈ ہٹا دیا جاتا ہے یا جب دونوں کو ہٹا دیا جاتا ہے تو رک جاتا ہے۔</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>پریمیئر پرو یا آڈیشن میں کام کرتے وقت مفید ہے۔ آن کے بعد ایئر پوڈز کو دوبارہ جوڑنے کی ضرورت ہے۔ اس سے بیٹری کی کھپت بڑھ سکتی ہے۔</value>
@@ -447,10 +447,10 @@
     <value>بیٹری کا آئیکن</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>اینالاگ</value>
+    <value>آئیکن</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>ڈیجیٹل</value>
+    <value>نمبر</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>باہر نکلیں</value>
@@ -485,7 +485,7 @@
     <value>تلاش کا رداس کیا ہے؟</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>ایئر پوڈز کو جوڑنے کے بعد "پلے" کمانڈ بھیجیں۔</value>
+    <value>ایئر پوڈز کو جوڑنے کے بعد "پلے" کمانڈ بھیجیں۔ اگر کھلے پلےير نہیں ہیں تو ونڈوز حکم کو نظر انداز کر دے گا۔</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>ہاں، ترتیبات کو دوبارہ ترتیب دیں</value>
@@ -497,7 +497,7 @@
     <value>لگا ییں</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>یاد نہ کرو</value>
+    <value>نزر انداز کرو</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>ایئر پوڈز کو مربوط کرنے میں ناکام۔ دستی طور پر جڑنے کی کوشش کریں۔</value>
