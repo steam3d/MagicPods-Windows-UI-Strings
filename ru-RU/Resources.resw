@@ -694,7 +694,7 @@
     <value>Экспериментальная функция</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>Функция Hands-Free (голосовая связь) наушников будет недоступна. Не отключайте Hands-Free вручную. Перезапустите приложение, чтобы применить изменения.</value>
+    <value>Функция Handsfree (голосовая связь) наушников будет недоступна. Не отключайте Handsfree вручную. Перезапустите приложение, чтобы применить изменения.</value>
   </data>
   <data name="Support_Setting_Discord.Header" xml:space="preserve">
     <value>Сообщество</value>
@@ -896,5 +896,23 @@
   </data>
   <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
     <value>Поместите AirPods в кейс, откройте крышку кейса и зажмите кнопку на нем примерно на 10 секунд.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Автоматически отключать Handsfree</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Эквалайзер</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Включите музыку перед изменением настройки.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Показывать окно для поддельных AirPods</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Показывать или скрывать всплывающее окно для поддельных AirPods, если они есть в списке устройств Bluetooth.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Отключать Handsfree после подключения наушников, чтобы наушники не переключались в режим Handsfree. Микрофон перестанет работать. Выключении опции снова активирует Handsfree.</value>
   </data>
 </root>
