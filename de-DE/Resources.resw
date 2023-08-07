@@ -172,7 +172,7 @@
     <value>Nützlich, wenn in Premiere Pro oder Audition gearbeitet wird. Ein erneutes Verbinden der AirPods ist nach der Aktivierung nötig. Möglicherweise erhöht es den Energieverbrauch.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
-    <value>Hilfe</value>
+    <value>Hilfe holen</value>
   </data>
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Fehler melden</value>
@@ -259,7 +259,7 @@
     <value>MagicPods beenden?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>Beenden</value>
+    <value>Schließen</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Abbrechen</value>
@@ -574,7 +574,7 @@
     <value>Kopfhörer</value>
   </data>
   <data name="Menu_Item6.Content" xml:space="preserve">
-    <value>Anwendungseinstellungen</value>
+    <value>Voreinstellungen</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
     <value>Tastenkombination zum Verbinden und Trennen der Kopfhörer.</value>
@@ -694,7 +694,7 @@
     <value>Mitte unten</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>Die Hands-Free-Funktion (Sprachkommunikation) des Kopfhörers ist nicht verfügbar. Deaktiviere die Freisprechfunktion nicht manuell. Starte die Anwendung neu, um die Änderungen zu übernehmen.</value>
+    <value>Die Freisprechfunktion (Sprachkommunikation) des Kopfhörers ist nicht verfügbar. Deaktiviere die Freisprechfunktion nicht manuell. Starte die Anwendung neu, um die Änderungen zu übernehmen.</value>
   </data>
   <data name="Support_Setting_Discord.Header" xml:space="preserve">
     <value>Gemeinschaft</value>
@@ -731,5 +731,188 @@
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
     <value>Drücke den Hotkey um durch die Soundoutputs durchzuschalten.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>Verbinde deine Kopfhörer für mehr Anpassungen</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Aus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Transparenz</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Chip</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>Firmware</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>Der Chip wird noch nicht unterstützt</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Geräuschunterdrückungsfilter</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Verkehr</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Innenbereich</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Hotkey für Geräuschunterdrückung umschalten</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>Verfolgung des Kopfes</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>Trage beide AirPods vor der Verwendung.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>Aus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Fixiert</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Kopf verfolgt</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Linker AirPod drücken und halten</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Rechter AirPod drücken und halten</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Sprachassistent</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Geräuschunterdrückung (ANC/Aus/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Geräuschunterdrückung (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Empfindlichkeit des linken AirPods</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Empfindlichkeit des rechten AirPods</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Druckgeschwindigkeit</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Schneller</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Mittel</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Langsamer</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Langes drücken</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Stellen Sie die Zeit ein, in der Sie den linken AirPod und den rechten AirPod drücken und halten.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Kürzer</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Mittel</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Länger</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Verbesserte Mehrpunktverbindung</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Mehrpunktmodus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Normalermodus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Reduzierung der Windgeräusche</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Empfindlichkeit der Windgeräuschunterdrückung</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Tief</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Mittel</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Hoch</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Sprachsteuerung</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>Es kann auch durch fünfmaliges Drücken auf den linken oder rechten AirPod aktiviert werden.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Game Mode</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>In den Kopfhörer-Einstellungen eine Warnung anzeigen, dass es sich um eine Fälschung handelt.</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>Es könnten gefälschte Kopfhörer sein</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>Zurücksetzen auf Werkseinstellungen</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>AirPods müssen auf Werkseinstellungen zurückgesetzt werden, um sie anzuwenden.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>AirPods müssen auf Werkseinstellungen zurückgesetzt werden, um sie zu verwenden.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Ermöglicht es Ihnen, zwei Geräte gleichzeitig mit Ihren Kopfhörern zu verbinden. AirPods müssen auf Werkseinstellungen zurückgesetzt werden, um zu funktionieren.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Automatisch deaktivieren Freisprecheinrichtung</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Deaktivieren Sie die Freisprechfunktion nach dem Anschließen des Kopfhörers, um zu verhindern, dass der Kopfhörer in den Freisprechmodus wechselt. Das Mikrofon funktioniert dann nicht mehr. Wenn Sie die Option deaktivieren, wird der Freisprechdienst wieder aktiviert.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Equalizer</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Schalten Sie die Musik ein, bevor Sie die Einstellung ändern.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Geräuschunterdrückung</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Geräuschunterdrückung</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Meditation</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Durch Drücken des Hotkeys werden die verschiedenen Modi der Geräuschunterdrückung durchlaufen.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Stellen Sie die Geschwindigkeit ein, die erforderlich ist, um den linken AirPod und den rechten AirPod zwei- oder dreimal zu drücken.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Markieren von gefälschten Kopfhörern</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Legen Sie die AirPods in das Etui, öffnen Sie den Deckel und drücken Sie die Taste etwa 10 Sekunden lang.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Fenster für gefälschte AirPods anzeigen</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Pop-up-Fenster für gefälschte AirPods anzeigen oder ausblenden, wenn sie in der Liste der Bluetooth-Geräte enthalten sind.</value>
   </data>
 </root>
