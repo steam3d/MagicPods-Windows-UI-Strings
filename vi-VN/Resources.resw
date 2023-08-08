@@ -65,7 +65,7 @@
     <value>Hữu dụng khi bạn làm việc với Premiere Pro hoặc Audition. Cần phải kết nối lại AirPods sau khi bật. Điều này có thể làm AirPods tốn pin hơn.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Giảm thời gian tìm kiếm AirPods. Bật chức năng này lên nếu bạn chắc chắn rằng không ai xung quanh bạn sử dụng AirPods.</value>
+    <value>Giảm thời gian tìm kiếm AirPods. Bật chức năng này lên nếu bạn chắc chắn rằng không ai xung quanh bạn đang sử dụng AirPods.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Hiển thị phần trăm pin còn lại</value>
@@ -76,7 +76,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>Ứng dụng sẽ được đóng và mọi chức năng sẽ bị tắt.</value>
+    <value>Ứng dụng sẽ được đóng và mọi chức năng sẽ bị vô hiệu hoá.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Âm lượng sẽ bị giảm khi bạn bỏ một bên AirPods khỏi tai, hoặc sẽ khôi phục lại âm lượng khi ngắt kết nối / đeo cả hai bên AirPods.</value>
@@ -85,7 +85,7 @@
     <value>Nếu cửa sổ không hiện lên hãy mở nắp hộp với hai bên AirPods đặt ở bên trong và kéo thanh trượt cho đến khi cửa sổ hiện lên.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Hiển thị hoặc ẩn phím Kết nối khi cửa sổ pop-up mở. Nhấn vào nút sẽ kết nối với AirPods.</value>
+    <value>Hiển thị hoặc ẩn nút Kết nối khi cửa sổ pop-up mở. Nhấn vào nút sẽ kết nối với AirPods.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Dựa trên sử dụng của bạn, chúng tôi khuyên cáo chỉnh thông số xuống {0}</value>
@@ -110,7 +110,7 @@
     <value>Tiếp tục/Tạm dừng</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>Tai nghe của bạn còn {0} pin. Hãy sạc tai nghe.</value>
+    <value>Tai nghe của bạn còn {0}% pin. Hãy sạc tai nghe.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -141,13 +141,13 @@
     <value>Khôi phục cài đặt</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Nội dung đang được phát lại sẽ được dừng khi bạn ngắt kết nối hay bỏ một bên AirPod hoặc sẽ dừng hẳn khi bạn ngắt kết nối hay bỏ cả hai bên AirPods</value>
+    <value>Nội dung đang được phát lại sẽ được dừng khi bạn ngắt kết nối hay bỏ một bên AirPod hoặc sẽ dừng hẳn khi bạn ngắt kết nối hay bỏ cả hai bên AirPods.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Khác</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
-    <value>Độ trễ âm thanh thấp</value>
+    <value>Giảm độ trễ âm thanh</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Hỗ trợ</value>
@@ -359,7 +359,7 @@
     <value>Thông báo VoiceOver từ những người gửi</value>
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Không phải ứng dụng nào trong danh sách dưới đây có thể thông báo,có một vài ứng dụng không được liệt kê trong danh sách.</value>
+    <value>Môt số ứng dụng không thể gửi thông báo nên chúng sẽ không xuất hiện trong danh sách này.</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>Đọc tất cả các thông báo</value>
@@ -678,5 +678,131 @@
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
     <value>Nhấn phím tắt sẽ chuyển qua các đầu ra âm thanh.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Trong nhà</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Thiền</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>Kết nối tai nghe của bạn để hiện thêm các tuỳ chỉnh</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Vi xử lý âm thanh</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>Phiên bản phần mềm</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>Bộ vi xử lý âm thanh này chưa được hỗ trợ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Khử tiếng ồn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Khử tiếng ồn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Tắt</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Xuyên âm</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Bộ lọc cho chức năng khử tiếng ồn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Giao thông</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Nhấn tổ hợp phím tắt để chuyển qua các chế độ khử tiếng ồn.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>Theo dõi đầu</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>Vui lòng đeo AirPods của bạn trước khi thực hiện.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>Tắt</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Tĩnh</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Theo dõi đầu (Head tracked)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Nhấn và giữ AirPod bên trái</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Trợ lý giọng nói</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Kiểm soát tiếng ồn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Kiểm soát tiếng ồn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Độ nhạy AirPod bên trái</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Độ nhạy AirPod bên phải</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Vừa</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Nhanh</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Chậm</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Tốc độ chạm</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Thời gian giữ thân tai nghe</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Điều chỉnh thời gian khi nhấn và giữ AirPod trái và phải.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Vừa</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Lâu hơn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Ngắn hơn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Kết nối đa thiết bị</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Đa thiết bị</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Một thiết bị</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Lọc tiếng ồn của gió</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>Yêu cầu khôi phục cài đặt gốc AirPods để hoạt động.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Phím tắt kích hoạt chức năng khử tiếng ồn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Nhấn và giữ AirPod bên phải</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Điều chỉnh tốc độ để chạm AirPod trái và phải hai hoặc ba lần.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Cho phép bạn kết nối hai thiết bị đến tai nghe của bạn. Yêu cầu khôi phục cài đặt gốc AirPods để hoạt động.</value>
   </data>
 </root>
