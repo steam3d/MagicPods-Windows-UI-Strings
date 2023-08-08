@@ -98,7 +98,7 @@
     <value>Otro</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
-    <value>Ayuda</value>
+    <value>Consigue Ayuda</value>
   </data>
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Reporte un problema</value>
@@ -136,7 +136,7 @@
     <value>Habilitar inicio automático</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
-    <value>Ayuda</value>
+    <value>Ayudas</value>
   </data>
   <data name="Text_No" xml:space="preserve">
     <value>No</value>
@@ -398,7 +398,7 @@
     <value>Usar tema del sistema</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
-    <value>Tema</value>
+    <value>Tema de ventana</value>
   </data>
   <data name="Preferences_Setting_Language.Header" xml:space="preserve">
     <value>Idioma</value>
@@ -407,7 +407,7 @@
     <value>Usar el idioma del sistema</value>
   </data>
   <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
-    <value>Tema</value>
+    <value>Temas</value>
   </data>
   <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>Ajustes de la aplicación</value>
@@ -587,10 +587,10 @@
     <value>Bluetooth Classic no es compatible</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
-    <value>Conecta un adaptador Bluetooth compatible con Bluetooth Classic y reinicia la aplicación</value>
+    <value>Conecta un adaptador Bluetooth compatible con Bluetooth Clasico y reinicia la aplicación</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
-    <value>Conecta un adaptador Bluetooth compatible con Bluetooth Classic y reinicia la aplicación</value>
+    <value>Conecta un adaptador Bluetooth compatible con Bluetooth Clásico y reinicia la aplicación</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
     <value>Error de inicialización del adaptador Bluetooth</value>
@@ -641,7 +641,7 @@
     <value>Mostrar porcentaje de batería</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>La función Manos Libres (comunicación por voz) de los auriculares no estará disponible. No desactive Manos Libres manualmente. Reinicie la aplicación para aplicar los cambios.</value>
+    <value>La función Handsfree (comunicación por voz) de los auriculares no estará disponible. No desactive Manos Libres manualmente. Reinicie la aplicación para aplicar los cambios.</value>
   </data>
   <data name="Support_Setting_Weblate.Header" xml:space="preserve">
     <value>Aplicación de traducción</value>
@@ -650,7 +650,7 @@
     <value>Comunidad</value>
   </data>
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
-    <value>Únete a nuestra comunidad. reporta errores, mantente actualizado en novedades y temas discusión.</value>
+    <value>Únase a nuestra comunidad, informe errores, esté atento a las noticias, actualizaciones y debates</value>
   </data>
   <data name="Settings_Header_Support.Header" xml:space="preserve">
     <value>Soporte y comunidad</value>
@@ -716,7 +716,7 @@
     <value>AirPod izquierdo mantén pulsado</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>Apagado</value>
+    <value>Apagar</value>
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
     <value>Sensibilidad del AirPod izquierdo</value>
@@ -731,7 +731,7 @@
     <value>Más rápido</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
-    <value>Medio</value>
+    <value>Nivel Medio</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>Más lento</value>
@@ -743,7 +743,7 @@
     <value>Conecta tus auriculares para más personalizaciones</value>
   </data>
   <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
-    <value>Chip</value>
+    <value>Targeta Chip</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>Tráfico</value>
@@ -767,6 +767,99 @@
     <value>Control del ruido (cancelación activa del ruido/transparencia)</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
-    <value>Control del ruido (cancelación activa del ruido/Apagado/Transparencia)</value>
+    <value>Control del ruido (Cancelación del ruido/Apagado/Transparencia)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Filtro de cancelacion de Ruido</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Ajuste la velocidad requerida para presionar el AirPod izquierdo y el AirPod derecho dos o tres veces.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Ajusta el tiempo de presionar y mantener presionado el AirPod izquierdo y el AirPod derecho.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Corto</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Medio</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Largo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Conexión multipunto mejorada</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Le permite conectar dos dispositivos a la vez a sus auriculares. Restablecimiento de fábrica de AirPods requerido para aplicar.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Modo Multipoint</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Modo Normal</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Reducción del ruido del viento</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>Restablecimiento de fábrica de AirPods requerido para aplicar.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Sensibilidad de reducción del ruido del viento</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Bajo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Medio</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Alto</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Control de voz</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Modo Juego</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>También se puede activar presionando cinco veces el AirPod izquierdo o derecho.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Etiquetado de auriculares falsos</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Muestra una advertencia en la configuración de los auriculares de que son falsos.</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>Podrían ser auriculares falsos</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>Reseteo de Fabrica</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>Restablecimiento de fábrica de AirPods requerido para aplicar.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>AutoDesactivar manos libres automáticamente</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Deshabilite Manos libres después de conectar los auriculares para evitar que los auriculares cambien al modo Manos libres. El micrófono dejará de funcionar. Desactivar la opción habilitará el servicio Manos libres una vez más.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Igualar</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Encienda la música antes de cambiar la configuración.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Mostrar ventana para AirPods falsos</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Muestre u oculte la ventana emergente para AirPods falsos si están en la lista de dispositivos Bluetooth.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Coloque los AirPods en el estuche, abra la tapa y luego presione el botón durante unos 10 segundos.</value>
   </data>
 </root>
