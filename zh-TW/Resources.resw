@@ -910,4 +910,28 @@
   <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>古典旋律</value>
   </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>自動關閉免持</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>等化器</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>在連接耳機後關閉免持，以防止耳機切換到免持模式。麥克風將停止工作。將此選項關閉將再次啟用免持服務。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>更改設定前請先打開音樂。</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>顯示盜版 AirPods 的視窗</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>如果盜版 AirPods 在藍牙設備清單中，則顯示或隱藏盜版 AirPods 的彈出視窗。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>充電盒音效</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>將 AirPods 放入充電盒中，保持盒蓋打開，等待充電盒燈光熄滅。開啟/關閉此選項，拿出 AirPods，同時保持充電盒蓋子打開，等待至少 2 秒，然後再次放入 AirPods，並等待充電盒燈光熄滅。</value>
+  </data>
 </root>
