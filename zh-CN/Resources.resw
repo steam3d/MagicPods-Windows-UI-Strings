@@ -715,7 +715,7 @@
     <value>通过重新启动应用程序来使更改生效。</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>显示桌面</value>
+    <value>显示弹窗</value>
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
     <value>重置到默认设置</value>
@@ -908,5 +908,29 @@
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>古典旋律</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>自动关闭免持</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>连接耳机后关闭免提，以防止耳机切换到免提模式。 麦克风将停止工作。 将此选项关闭将再次启用免提服务。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>均衡器</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>更改设置前请先打开音乐。</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>显示假冒 AirPods 的弹窗</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>如果假 AirPods 位于蓝牙设备列表中，则显示或隐藏假 AirPods 的弹出窗口。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>充电盒声音</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>将 AirPods 放入充电盒，充电盒盖打开，等待充电盒指示灯熄灭。 关闭/打开选项，拔出 AirPods，同时保持盒盖打开，等待至少 2 秒钟，然后再次将 AirPods 放入盒中，等待盒灯熄灭。</value>
   </data>
 </root>
