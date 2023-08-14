@@ -129,7 +129,7 @@
     <value>Molemmat (Pienennä voimakkuutta + Toista/Tauko)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Toisto keskeytetään kun poistat toisen AirPodin, tai lopetetaan kun poistat molemmat AirPodit.</value>
+    <value>Toisto keskeytetään kun yksi AirPodi poistetaan ja lopetetaan kun molemmat AirPodit poistetaan.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Hanki apua</value>
@@ -253,5 +253,8 @@
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>Käytä</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Automaattinen yhdistäminen</value>
   </data>
 </root>
