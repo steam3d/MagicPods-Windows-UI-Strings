@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% de bateria disponível nos fones de ouvido; carregue-os.</value>
+    <value>{0}% de bateria disponível. Carregue seus fones.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Aviso</value>
@@ -516,7 +516,7 @@
     <value>Desconectar</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
-    <value>Desativado</value>
+    <value>Desabilitado</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
     <value>Desabilitado</value>
@@ -558,7 +558,7 @@
     <value>Ative o Bluetooth para exibir os fones</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>Desativado</value>
+    <value>Desligado</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Configurações de Bluetooth</value>
@@ -714,7 +714,7 @@
     <value>Mostrar porcentagem da bateria</value>
   </data>
   <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
-    <value>Chip</value>
+    <value>Chipe</value>
   </data>
   <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
     <value>Firmware</value>
@@ -726,7 +726,7 @@
     <value>Cancelamento de ruído</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>Desativado</value>
+    <value>Desligado</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
     <value>Transparência</value>
@@ -750,7 +750,7 @@
     <value>Utilize ambos fones de ouvido antes de ativar.</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>Desativado</value>
+    <value>Desligado</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>Fixo</value>
@@ -901,5 +901,41 @@
   </data>
   <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
     <value>Controle de ruído (ANC/Desligado/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Desabilitar o modo mãos livres automaticamente</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Desabilite o modo mãos livres sempre que o fone conectar para previnir que o modo seja ativado. O microfone será desabilitador. Desligue este modo para habilitar o modo mãos livres novamente.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Equalizador</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Ligue a música antes de mudar esta configuração.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Mostrar a janela para AirPods falsos</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Exibir ou esconder a janela de pop-up para AirPods falsificados caso eles estejam na lista de dispositivos Bluetooth.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>Sons da caixinha</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>Coloque os AirPods na caixa, mantenha a tampa aberta e espere a luz da caixa desligar. Desligue/ligue a opção, retire os AirPods mantendo a tampa da caixa aberta, espere ao menos 2 segundos e coloque os AirPods na caixa novamente, e espere a luz desligar.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Stereo de cinema</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Ritmo de Palco</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Clássico</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Ao vivo</value>
   </data>
 </root>
