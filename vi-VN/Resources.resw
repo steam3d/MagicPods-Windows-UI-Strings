@@ -605,7 +605,7 @@
     <value>Tính năng thử nghiệm</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>Chức năng "Hands-Free" (Giao tiếp bằng giọng nói) của tai nghe sẽ không thể sử dụng. Không được tự vô hiệu hóa "Hands-Free". Khởi động lại ứng dụng để áp dụng thay đổi.</value>
+    <value>Chức năng Rảnh Tay(Giao tiếp bằng giọng nói) của tai nghe sẽ không thể sử dụng. Không được tự vô hiệu hóa "Rảnh Tay". Khởi động lại ứng dụng để áp dụng thay đổi.</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
     <value>Phát âm thanh từ thiết bị Bluetooth tới máy tính. Máy tính sẽ thành loa Bluetooth.</value>
@@ -804,5 +804,59 @@
   </data>
   <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
     <value>Cho phép bạn kết nối hai thiết bị đến tai nghe của bạn. Yêu cầu khôi phục cài đặt gốc AirPods để hoạt động.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Độ nhạy khử gió</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Thấp</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Vừa</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Cao</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Điều khiển bằng giọng nói</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Chế độ chơi game</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>Có thể kích hoạt bằng cách chạm 5 lần vào tai nghe trái hoặc phải</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Đánh dấu tai nghe giả</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>Đây có thẻ là Tai nghe Giả</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>Khôi phục cài đặt gốc</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>Khôi phục cài đặt gốc Airpods để áp dụng thay đổi</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Tự động vô hiệu hóa chế độ rảnh tay</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Vô hiệu hóa chế độ rảnh tay khi kết nối tai nghe để hạn chế tai nghe tự động chuyển sang chế độ rảnh tay. Microphone sẽ dừng hoạt động. tắt tùy chọn này sẽ kích hoạt lại chế độ rảnh tay</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Bộ chỉnh âm</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Bật nhạc trước khi tùy chỉnh cài đặt</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Hiển thị thông báo Airpods giả</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Hiện Cảnh báo ở phần cài đặt nếu tai nghe là giả</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Đặt Airpods vào trong hộp, mở nắp và bấm giữ nút lưng 10 giây</value>
   </data>
 </root>
