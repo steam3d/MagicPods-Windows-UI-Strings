@@ -79,7 +79,7 @@
     <value>Ứng dụng sẽ được đóng và mọi chức năng sẽ bị vô hiệu hoá.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>Âm lượng sẽ bị giảm khi bạn bỏ một bên AirPods khỏi tai, hoặc sẽ khôi phục lại âm lượng khi ngắt kết nối / đeo cả hai bên AirPods.</value>
+    <value>Âm lượng sẽ bị giảm khi bạn bỏ một bên AirPods khỏi tai, hoặc sẽ được khôi phục lại âm lượng khi ngắt kết nối / đeo cả hai bên AirPods.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Nếu cửa sổ không hiện lên hãy mở nắp hộp với hai bên AirPods đặt ở bên trong và kéo thanh trượt cho đến khi cửa sổ hiện lên.</value>
@@ -141,7 +141,7 @@
     <value>Khôi phục cài đặt</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Nội dung đang được phát lại sẽ được dừng khi bạn ngắt kết nối hay bỏ một bên AirPod hoặc sẽ dừng hẳn khi bạn ngắt kết nối hay bỏ cả hai bên AirPods.</value>
+    <value>Nội dung đang được phát lại sẽ dừng khi bạn ngắt kết nối hay bỏ một bên AirPod hoặc sẽ dừng hẳn khi bạn ngắt kết nối hay bỏ cả hai bên AirPods.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Khác</value>
@@ -171,7 +171,7 @@
     <value>Bạn có thể bật hoặc tắt chức năng này trong tab Startup trong Task Manager.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Khởi động cùng Windows bị tắt bởi group policy, hoặc nó không hỗ trợ trên thiết bị này.</value>
+    <value>Khởi động cùng Windows bị tắt bởi group policy, hoặc nó không được hỗ trợ trên thiết bị này.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Biểu tượng trên khay hệ thống</value>
@@ -248,7 +248,7 @@
     <value>Không đặt giá trị trên quá 65 vì hình ảnh minh họa có thể vô tình xuất hiện.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Hiển thị biểu tượng kết nối</value>
+    <value>Hiển thị nút kết nối</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Tự động kết nối</value>
@@ -275,10 +275,10 @@
     <value>Áp dụng</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Không quan tâm</value>
+    <value>Bỏ qua</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Kết nối tới AirPods thất bại. Hãy thử kết nối thủ công.</value>
+    <value>Kết nối tai nghe thất bại. Hãy thử kết nối thủ công.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Thêm AirPods vào danh sách kết nối Bluetooth của Windows</value>
@@ -293,7 +293,7 @@
     <value>Tiếp tục</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
-    <value>Bán kính tìm kiếm - bán kính mà PC của bạn tìm AirPods.</value>
+    <value>Bán kính tìm kiếm - bán kính mà máy tính của bạn tìm thấy AirPods.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Đóng</value>
@@ -320,7 +320,7 @@
     <value>Tự động chuyển đầu ra âm thanh</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
-    <value>Chuyển đầu ra âm thanh AirPods về mặc định khi cả hai bên AirPods được ngắt kết nối / bỏ ra khỏi tai.</value>
+    <value>Chuyển đầu ra âm thanh từ AirPods về mặc định khi cả hai bên AirPods được ngắt kết nối / bỏ ra khỏi tai.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Thiết bị không có sẵn hoặc đã bị gỡ bỏ</value>
@@ -368,16 +368,16 @@
     <value>Hiển thị tất cả ứng dụng</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Tính năng "Thông báo VoiceOver" đã tắt, không thể thông báo. Xin hãy mở "Riêng tư và Thông báo", cho phép truy cập thông báo, sau đó kích hoạt "Thông báo VoiceOver".</value>
+    <value>Tính năng "Thông báo VoiceOver" đã tắt vì không thể truy cập thông báo. Xin hãy mở "Cài đặt &gt; Riêng tư &gt; Thông báo", cho phép truy cập thông báo, sau đó kích hoạt "Thông báo VoiceOver".</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
-    <value>Riêng tư và thông báo</value>
+    <value>Mở "Riêng tư &gt; Thông báo"</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
     <value>Thêm giọng nói mới</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Để có trải nghiệm người dùng tốt nhất, chúng tôi khuyên bạn nên bật khởi động. Bạn có thể làm điều này từ tab "Khởi động" trong Trình quản lý Tác vụ.</value>
+    <value>Để có trải nghiệm người dùng tốt nhất, chúng tôi khuyên bạn nên cho ứng dụng khởi động cùng WIndows. Bạn có thể làm điều này từ tab "Khởi động" trong Trình quản lý Tác vụ.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Tìm kiếm vô hạn</value>
@@ -425,7 +425,7 @@
     <value>R</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>Để có trải nghiệm người dùng tốt nhất, chúng tôi khuyên bạn nên bật khởi động.</value>
+    <value>Để có trải nghiệm người dùng tốt nhất, chúng tôi khuyên bạn nên cho ứng dụng khởi động cùng Windows.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>Tắt</value>
@@ -470,7 +470,7 @@
     <value>Ẩn</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
-    <value>Tải</value>
+    <value>Tải về</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
     <value>Vô hiệu hóa</value>
@@ -506,10 +506,10 @@
     <value>Bật Bluetooth để hiển thị tai nghe</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
-    <value>Gặp MagicPods 2.0</value>
+    <value>Nói "chào" với MagicPods 2.0</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
-    <value>Giao diện được thiết kế , cài đặt cá nhân và hơn thế nữa. Một số cài đặt đã được thay đổi. Mở ứng dụng để tùy chỉnh.</value>
+    <value>Một giao diện mới, cài đặt cá nhân hoá mới và còn hơn thế nữa. Một số cài đặt đã được thay đổi. Hãy mở ứng dụng để tuỳ chỉnh.</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
     <value>Tùy chỉnh cho từng tai nghe riêng biệt để phù hợp với sở thích cá nhân của bạn</value>
@@ -527,7 +527,7 @@
     <value>Sao chép chữ trên bất kỳ hình ảnh nào</value>
   </data>
   <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
-    <value>Chạy, nhảy và né tránh trong một trò chơi phiêu lưu mạo hiểm</value>
+    <value>Chạy, nhảy và né tránh trong một trò chơi phiêu lưu mạo hiểm này</value>
   </data>
   <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>Dịch, chỉnh sửa hoặc thêm ngôn ngữ mới</value>
@@ -578,7 +578,7 @@
     <value>Hãy kết nối đầu thu Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
-    <value>PC này kết nối với nhiều đầu thu Bluetooth</value>
+    <value>Máy tính này kết nối với nhiều đầu thu Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
     <value>Hãy kết nối với 1 đầu thu Bluetooth duy nhất</value>
@@ -587,7 +587,7 @@
     <value>Bluetooth Classic không được hỗ trợ</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
-    <value>Kết nối trình điều khiển Bluetooth có hỗ trợ Bluetooth LE và khởi động lại ứng dụng</value>
+    <value>Kết nối đầu thu Bluetooth có hỗ trợ Bluetooth LE và khởi động lại ứng dụng</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
     <value>Lỗi khởi tạo đầu thu Bluetooth</value>
