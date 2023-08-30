@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,185 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Upozorenje</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>Pop-up prozor</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>Veličina prozora</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>Mali</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>Srednji</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>Velika</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>Resetiraj postavke</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>Detekcija uha</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Reprodukcija/Pauza</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Smanjenje glasnoće</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Oboje (Smanjenje glasnoće + reprodukcija/pauza)</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>Reprodukcija se zaustavlja kada se jedan AirPod izvadi ili se zaustavlja kada se oba uklone.</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>Niska latencija zvuka</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>Dobiti pomoć</value>
+  </data>
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
+    <value>Dnevnik otklanjanja pogrešaka</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>Brza pretraga</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Pokretanje</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>To možete omogućiti ili onemogućiti na kartici Pokretanje u Upravitelju zadataka.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>Ikona programske trake</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>Stil</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Ikona</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Tekst</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Omogući pokretanje</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Pomoć</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Ne</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Da</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Informacije o bateriji</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Opće postavke</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Zatvorite MagicPods</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Podrška</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Zatvoriti MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Otkazati</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>Radijus pretraživanja za AirPods</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+    <value>Što je radijus pretraživanja?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Tip</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>Prikaži gumb «Poveži se»</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>Prikažite ili sakrijte gumb «Poveži se» u skočnom prozoru. Pritiskom na gumb spojit ćete AirPods.</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>Automatsko povezivanje</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Izlaz</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>Preostalo {0}%. Napunite slušalice.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Prikaži prozor</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Prikažite ili sakrijte skočni prozor kao na iPhoneu, kada otvorite kućište.</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Ostalo</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>Korisno kada radite u Premiere Pro ili Audition. Zahtijeva ponovno povezivanje AirPods nakon uključivanja. Može povećati potrošnju baterije.</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>Prijavi problem</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>Smanjuje vrijeme traženja za AirPods. Uključite ga kada ste sigurni da nitko drugi u blizini ne koristi AirPods.</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>Pokreni pri pokretanju</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Pokretanje je onemogućeno pravilima grupe ili nije podržano na ovom uređaju.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>Sakrij ikonu</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>Ponovno pokrenite aplikaciju za primjenu promjena.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>Prikaži postotak baterije</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>Prikazuje prosječni postotak baterije povezanih slušalica.</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Eksperimentalne značajke</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Aplikacija će se zatvoriti i sve funkcije će biti onemogućene.</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Zatvoriti</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>Glasnoća se smanjuje kada izvadite jedan AirPods iz uha ili se vraća kada uklonite/stavite oba AirPoda.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>Popis podržanih igrača</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>Ako se prozor ne pojavi, otvorite kućište s AirPods unutra i glatko pomičite klizač udesno dok se ne pojavi animacija.</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Ne postavljajte vrijednost veću od 65 jer se animacija može pojaviti slučajno.</value>
+  </data>
 </root>
