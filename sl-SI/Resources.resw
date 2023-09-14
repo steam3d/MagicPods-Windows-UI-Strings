@@ -151,10 +151,10 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analogna</value>
+    <value>Ikona</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digitalna</value>
+    <value>Tekst</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Izhod</value>
@@ -210,7 +210,7 @@
     <value>Nasvet</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Ne nastavite vrednosti, večje od 65. V nekaterih primerih se lahko animacija pojavi naključno.</value>
+    <value>Ne nastavite vrednosti, večje od 65, saj se lahko animacija prikaže naključno.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Pokaži «Poveži» gumb</value>
@@ -237,10 +237,10 @@
     <value>Potrdi</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Ne opozori me več</value>
+    <value>Ignoriraj</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Povezanje slušalk AirPods je bilo neuspešno. Poskusite se povezati ročno.</value>
+    <value>Povezanje slušalk je bilo neuspešno. Poskusite se povezati ročno.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Predvajanje se ustavi in glasnost se zmanjša, ko odstranite eno slušalko AirPods z ušesa, ali pa se ustavi in glasnost se obnovi, ko odstranite obe slušalki AirPods.</value>
@@ -567,5 +567,41 @@
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
     <value>Spremeni sliko</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Več</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Poveži Bluetooth adapter</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Pustite le en Bluetooth adapter povezan</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic ni podpiran</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Izklopi</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>izklopljeno</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Povežite Bluetooth adpater z Bluetooth LE podporo in znova zaženite aplikacijo</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Poskusite znova zaganti aplikacijo</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Več Bluetooth adapterjev je povezanih</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter ni bil najden</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter napaka pri inicializaciji</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Povežite Bluetooth adpater z Bluetooth Classic podporo in znova zaženite aplikacijo</value>
   </data>
 </root>
