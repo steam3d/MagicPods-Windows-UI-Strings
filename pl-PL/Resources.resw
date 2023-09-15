@@ -102,7 +102,7 @@
     <value>Zmniejsz głośność</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Odtwarzanie zostanie wstrzymane, kiedy wyjmiesz co najmniej jedną słuchawkę z ucha.</value>
+    <value>Odtwarzanie zostanie wstrzymane, kiedy wyjmiesz jedną bądź zatrzymane jeśli wyjmiesz obie słuchawki.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Pozostałe opcje</value>
@@ -139,7 +139,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
-    <value>Ukryj</value>
+    <value>Ukryj ikonę</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
@@ -157,7 +157,7 @@
     <value>Wygląd ikony baterii</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Zamknij</value>
+    <value>Wyjdź</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>Analogowy</value>
@@ -178,7 +178,7 @@
     <value>Tak</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
-    <value>Stan baterii</value>
+    <value>informacje o baterii</value>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>Ogólne ustawienia</value>
@@ -196,13 +196,13 @@
     <value>Zamknąć MagicPods?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>Zamknij</value>
+    <value>Zamknięcie</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Anuluj</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Włącz</value>
+    <value>Pokaż okienko</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Włącza pokazywanie i chowanie okienka pop-up podobnego do tego w iOS, uruchamianego przy otwarciu etui.</value>
@@ -226,7 +226,7 @@
     <value>Wskazówki</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Nie ustawiaj wartości powyżej 65. W niektórych przypadkach wyskakujące okienko pojawia się przypadkowo.</value>
+    <value>Nie ustawiaj wartości powyżej 65 jeśli wyskakujące okienko pojawia się przypadkowo.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Pokaż przycisk „Połącz”</value>
@@ -298,7 +298,7 @@
     <value>Audio</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Automatyczne przełączanie wyjścia audio</value>
+    <value>Automatyczne przełączanie wyjścia dźwięku</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Urządzenie zostało usunięte lub jest niedostępne</value>
@@ -359,7 +359,7 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Połączenie z AirPods nie powiodło się. Wypróbuj połączenie ręczne.</value>
+    <value>Połączenie nie powiodło się. Spróbuj połączyć ręcznie.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Odtwarzanie jest wstrzymywane po wyjęciu AirPod z ucha lub zatrzymuje się po wyjęciu obu.</value>
@@ -428,7 +428,7 @@
     <value>Uruchamianie</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
-    <value>Stan baterii</value>
+    <value>Ładowanie</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>Aby zapewnić najlepsze wrażenia użytkownika, zalecamy włączenie uruchamiania.</value>
@@ -458,7 +458,7 @@
     <value>Etui</value>
   </data>
   <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
-    <value>Ukryj</value>
+    <value>Ukrycie</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>Ściągnij</value>
@@ -500,7 +500,7 @@
     <value>Pojawił się niespodziewany błąd</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Uruchom ponownie aplikację aby wznowić pracę aplikacji, jeśli błąd będzie występować nadal spróbuj uruchomić ponownie komputer.</value>
+    <value>Ponowne uruchomienie aplikacji może rozwiązać problem. Jeśli błąd będzie występować nadal spróbuj uruchomić ponownie komputer.</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
     <value>Wyłącz Bluetooth</value>
@@ -548,7 +548,7 @@
     <value>Tłumacz, edytuj bądź dodawaj nowe języki</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Szukaj aplikacji</value>
+    <value>Szukaj dla aplikacji</value>
   </data>
   <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>Inne developerskie aplikacje</value>
@@ -566,7 +566,7 @@
     <value>Przywróć obraz</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
-    <value>Włącz</value>
+    <value>Włączanie</value>
   </data>
   <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
     <value>Więcej informacji</value>
@@ -678,5 +678,206 @@
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>Funkcja sterowania głosem w słuchawkach przestanie być dostępna. Nie wyłączaj funkcji sterowania głosem ręcznie. Zrestartuj aplikację, by zatwierdzić zmiany.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>Połącz słuchawki dla większej ilości ustawień</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Mikroprocesor</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>Oprogramowanie</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Wyciszenie otoczenia</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Wyciszenie</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Wyłącz</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Tryb transparentny</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Filtr usuwania szumów</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Ruch drogowy</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Wewnątrz</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Medytacja</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Klawisz skrótu wyciszenia</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>Śledzenie ruchu głowy</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>Włóż obie słuchawki Airpods przed użyciem.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>Wyłącz</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Naprawiony</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Śledzenie ruchów głowy</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Naciśnij i przytrzymaj lewą słuchawkę Airpoid</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Naciśnij i przytrzymaj prawą słuchawkę Airpod</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Regulacja hałasu (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Regulacja hałasu (ANC/wyłącz/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Wrażliwość lewej słuchawki Airpod</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Prędkość naciśnięcia</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Dostosuj prędkość naciśnięcia lewej i prawej słuchawki Airpod dwa lub trzy razy.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Szybciej</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Średni</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Wolniej</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Długie naciśniecie</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Krócej</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Średnio</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Dłużej</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Ulepszone połączenie wielopunktowe</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Połącz dwa urządzenia naraz do słuchawek. Aby zatwierdzić zresetuj Airpodsy do ustawień fabrycznych.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Tryb wielopunktowy</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Tryb normalny</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Redukcja dźwięku wiatru</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Czułość redukcji dźwięku wiatru</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Asystent</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Niski</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Średni</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Wysoki</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Kontrola głosu</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Tryb gry</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Oznaczenie fałszywych słuchawek</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Pokaż ostrzeżenie w ustawieniach słuchawek jeśli są fałszywe.</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>To mogą być podróbki</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>Ustawienia fabryczne</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Włóż słuchawki AirPod do etui, otwórz pokrywkę i naciśnij przycisk przez około 10 sekund.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>Aby zatwierdzić wymagane przywrócenie Airpodsów do ustawień fabrycznych.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>Chip nie jest jeszcze obsługiwany</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Naciśniecie skrótu klawiszowego przełącza tryby wyciszenia otoczenia.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Wrażliwość prawej słuchawki Airpod</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Dostosuj czas naciśnięcia i przytrzymania lewej i prawej słuchawki Airpod.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>Aby zatwierdzić wymagane przywrócenie Airpodsów do ustawień fabrycznych.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>Może być także aktywowane poprzez pięciokrotne naciśnięcie prawej bądź lewej słuchawki AirPod.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Auto wyłączanie trybu Handsfree</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Wyłącz tryb Handsfree po połączeniu słuchawek aby uniknąć przełączania się słuchawek w tryb Handsfree. Mikrofon może przestać działać. Wyłączenie tej opcji umożliwi pracę słuchawek w trybie Handsfree ponownie.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Włącz muzykę przed zmianą ustawień.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>korektor dźwięku</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Pokaż okienko dla podróbek Airpods-ów</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Pokaż lub schowaj okienko pop-up dla podróbek AirPods-ów jeśli są na liście urządzeń.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>dźwięk etui</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>Włóż słuchawki Airpods do etui, trzymaj otwarte wieczko i poczekaj aż zgaśnie dioda etui. Włącz w opcjach off/on. wyjmij słuchawki Airpods podczas trzymania otartej klapki etui, poczekaj co najmniej 2 sekundy i włóż słuchawki z powrotem do etui, poczekaj aż dioda w etui zgaśnie.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Wydarzenie na żywo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Tryb kinowy stereo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Rytm sceniczny</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Klasyczny</value>
   </data>
 </root>
