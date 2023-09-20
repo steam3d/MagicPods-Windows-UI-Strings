@@ -274,7 +274,7 @@
     <value>AirPods 검색 반경</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
-    <value>팝업이 나타나지 않으면 AirPods케이스를 열고 애니메이션이 나타날 때까지 검색 범위 수치를 올려보세요.</value>
+    <value>팝업이 나타나지 않으면 AirPods 케이스를 열고 애니메이션이 나타날 때까지 검색 반경을 높여보세요.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
     <value>검색 반경이란 무엇인가요?</value>
@@ -289,7 +289,7 @@
     <value>«연결» 버튼 표시</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>팝업 창에서 «연결» 버튼을 표시하거나 숨깁니다. 버튼을 누르면 AirPods이 연결됩니다.</value>
+    <value>팝업 창에서 «연결» 버튼을 표시하거나 숨길 수 있습니다. 버튼을 누르면 AirPods이 연결됩니다.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>자동 연결</value>
@@ -427,7 +427,7 @@
     <value>목록에 있는 모든 응용 프로그램이 알림을 보낼 수 있는 것은 아니며 몇몇 응용 프로그램은 목록에 없을 수도 있습니다.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>알림에 접근할 수 없어 VoiceOver 알림 기능이 종료되었습니다. 윈도우의 알림 개인 정보 설정에서 접근을 허용 한 후 VoiceOver 알림을 다시 실행하십시오.</value>
+    <value>"VoiceOver 알림" 기능이 꺼져 있어 알림에 접근할 수 없습니다. «개인 정보 및 알림» 을 열고 알림 접근을 허용한 다음 "VoiceOver 알림"을 켜십시오.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>무한 검색</value>
@@ -439,7 +439,7 @@
     <value>다음 안내에 따라 문제를 해결하세요.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>최상의 사용자 경험을 위해 시작 프로그램을 활성화하는 것이 좋습니다. 작업 관리자의 «시작 프로그램» 탭에서 이 작업을 수행할 수 있습니다.</value>
+    <value>최고의 사용자 경험을 위해 시작 프로그램으로 등록하는 것을 권장합니다. 작업 관리자의 시작 프로그램 탭에서 해당 설정을 변경할 수 있습니다.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>라이트</value>
@@ -481,13 +481,13 @@
     <value>시작 프로그램</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>최상의 사용자 경험을 위해 시작 프로그램을 활성화하는 것이 좋습니다.</value>
+    <value>최고의 사용자 경험을 위해 시작 프로그램으로 등록하는 것을 권장합니다.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
     <value>끔</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
-    <value>탭 또는 클릭하여 커스터마이징 하기</value>
+    <value>탭 또는 클릭하여 사용자화 하기</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
     <value>다중 연결</value>
@@ -550,7 +550,7 @@
     <value>페어링된 헤드폰 없음</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
-    <value>헤드폰을 컴퓨터와 연결하고 응용 프로그램을 재시작하세요</value>
+    <value>헤드폰을 컴퓨터에 페어링하고 응용 프로그램을 다시 시작하십시오</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
     <value>사용자의 기본 설정에 맞게 각 헤드폰 커스터마이징</value>
@@ -595,7 +595,7 @@
     <value>케이스</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
-    <value>충전</value>
+    <value>잔량</value>
   </data>
   <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>숨기기</value>
@@ -730,7 +730,7 @@
     <value>실험적인 기능</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>헤드폰의 핸즈프리 기능(음성 통신)을 사용할 수 없게 됩니다. 핸즈프리 기능을 수동으로 비 활성화하지 마십시오. 변경 사항을 적용하려면 응용 프로그램을 다시 시작하십시오.</value>
+    <value>헤드폰의 핸즈프리 기능(음성 통신)을 사용할 수 없게 됩니다. 핸즈프리 기능을 수동으로 비활성화하지 마십시오. 변경 사항을 적용하려면 응용 프로그램을 다시 시작하십시오.</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
     <value>블루투스 장치 목록에 가짜 Airpods가 있는 경우 팝업 윈도우를 표시하거나 숨깁니다.</value>
