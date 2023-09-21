@@ -304,7 +304,7 @@
     <value>Search Radius - Ang radius kung saan ang computer mo ay magse-search nang kung anomang bukas na AirPods case.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
-    <value>Malapit</value>
+    <value>Isara</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Nag se-search para sa AirPods</value>
@@ -666,7 +666,7 @@
     <value>mas mabilis</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
-    <value>katamtaman</value>
+    <value>Katamtaman</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>mabagal</value>
@@ -678,7 +678,7 @@
     <value>mas maikli</value>
   </data>
   <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
-    <value>katamtaman</value>
+    <value>Katamtaman</value>
   </data>
   <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
     <value>Mas mahaba</value>
@@ -702,7 +702,7 @@
     <value>mababa</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
-    <value>katamtaman</value>
+    <value>Katamtaman</value>
   </data>
   <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
     <value>Maaari din itong i-activate sa pamamagitan ng pagpindot ng limang beses sa kaliwa o kanang AirPod.</value>
@@ -802,5 +802,14 @@
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
     <value>Ipakita o itago ang pop-up window para sa mga pekeng AirPod kung sila ay nasa listahan ng mga Bluetooth device.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Isara</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Na-disable ang startup ayon sa group policy, o hindi sinusuportahan sa device na ito.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Kanselahin</value>
   </data>
 </root>
