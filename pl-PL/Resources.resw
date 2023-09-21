@@ -196,7 +196,7 @@
     <value>Zamknąć MagicPods?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>Zamknięcie</value>
+    <value>Zamknąć</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Anuluj</value>
@@ -879,5 +879,14 @@
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>Klasyczny</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Zamknąć</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Automatyczne uruchamianie zablokowane przez polisę lub nie jest wspierane na tym urządzeniu.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Anuluj</value>
   </data>
 </root>
