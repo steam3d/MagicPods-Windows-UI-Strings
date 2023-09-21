@@ -880,4 +880,19 @@
   <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>Classico</value>
   </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Chiudi</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Avvio disabilitato dai criteri di gruppo o non supportato su questo dispositivo.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Avvio disabilitato dai criteri di gruppo</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Avvio disabilitato manualmente</value>
+  </data>
 </root>
