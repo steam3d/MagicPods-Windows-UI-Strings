@@ -196,7 +196,7 @@
     <value>Bunu, Görev Yöneticisindeki Başlangıç sekmesinden etkinleştirebilir veya devre dışı bırakabilirsiniz.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Grup politikası başlangıçta çalıştırmayı devre dışı bıraktı veya bu cihazda desteklenmiyor.</value>
+    <value>Başlangıç, grup politikası tarafından devre dışı bırakıldı veya bu cihazda desteklenmiyor.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Sistem tepsisi simgesi</value>
@@ -937,5 +937,14 @@
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>Klasik</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Başlangıç, grup politikası tarafından devre dışı bırakıldı veya bu cihazda desteklenmiyor.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>İptal</value>
   </data>
 </root>
