@@ -216,7 +216,7 @@
     <value>Închideți MagicPods?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>Închideți</value>
+    <value>Închide</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Anulare</value>
@@ -286,7 +286,7 @@
     <value>Arie de căutare - aria în care computerul dvs. va căuta o carcasă AirPods deschisă.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
-    <value>Închideți</value>
+    <value>Închide</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Căutare AirPods</value>
@@ -879,5 +879,14 @@
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>Clasic</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Închide</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Deschiderea la pornire este dezactivată prin politicile de grup sau nu este disponibilă pe acest dispozitiv.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Anulare</value>
   </data>
 </root>
