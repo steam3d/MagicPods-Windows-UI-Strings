@@ -934,4 +934,10 @@
   <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
     <value>將 AirPods 放入充電盒中，保持盒蓋打開，等待充電盒燈光熄滅。開啟/關閉此選項，拿出 AirPods，同時保持充電盒蓋子打開，等待至少 2 秒，然後再次放入 AirPods，並等待充電盒燈光熄滅。</value>
   </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>開機自動執行功能已被群組原則停用，或者此裝置無法支援。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>前往啟動項目</value>
+  </data>
 </root>
