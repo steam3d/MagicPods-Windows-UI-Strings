@@ -933,4 +933,16 @@
   <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
     <value>将 AirPods 放入充电盒，充电盒盖打开，等待充电盒指示灯熄灭。 关闭/打开选项，拔出 AirPods，同时保持盒盖打开，等待至少 2 秒钟，然后再次将 AirPods 放入盒中，等待盒灯熄灭。</value>
   </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>开机启动已被组策略停用</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>转到启动</value>
+  </data>
 </root>
