@@ -731,7 +731,7 @@
     <value>早い</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
-    <value>デフォルト</value>
+    <value>中</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>遅い</value>
@@ -746,7 +746,7 @@
     <value>短い</value>
   </data>
   <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
-    <value>デフォルト</value>
+    <value>中</value>
   </data>
   <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
     <value>長い</value>
@@ -771,5 +771,17 @@
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
     <value>左AirPodsの感度</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>中</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>閉じる</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>グループポリシーによってスタートアップが無効になっているか、このデバイスではサポートされていません。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>キャンセル</value>
   </data>
 </root>
