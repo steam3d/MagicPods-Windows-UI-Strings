@@ -374,4 +374,28 @@
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>Пошук прыкладанняў</value>
   </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth адаптар не найдзен</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Падключана некалькі адаптараў Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Памылка ініцыялізацыі адаптара Bluetooth</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Выкл</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>Выкл</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Злучыць</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>Л</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>П</value>
+  </data>
 </root>
