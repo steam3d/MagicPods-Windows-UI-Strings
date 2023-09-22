@@ -239,4 +239,46 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Ne postavljajte vrijednost veću od 65 jer se animacija može pojaviti slučajno.</value>
   </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>Pretraživanje AirPods</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>Isključeno</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapter nije pronađen</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Poništavanje buke</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Spojiti</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>D</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth isključen</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Povezano je više Bluetooth adaptera</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Pogreška inicijalizacije Bluetooth adaptera</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Poništavanje buke</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Isključeno</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Transparentnost</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>Isključeno</value>
+  </data>
 </root>
