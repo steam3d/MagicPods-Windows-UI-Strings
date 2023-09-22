@@ -499,4 +499,22 @@
   <data name="Battery_Short_Left.Title" xml:space="preserve">
     <value>L</value>
   </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Etui</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth-adapter blev ikke fundet</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Fejl ved initialisering af Bluetooth-adapter</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Fra</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>Fra</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Flere Bluetooth-adaptere tilsluttet</value>
+  </data>
 </root>
