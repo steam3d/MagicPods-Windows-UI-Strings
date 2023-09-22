@@ -308,4 +308,28 @@
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>在您取出一只 AirPods 时暂停播放并降低系统音量，或者在您取出两只 AirPods 时停止播放并恢复系统音量大小。</value>
   </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>正在搜索 AirPods</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>连接</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>蓝牙已关闭</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>未找到蓝牙适配器</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>蓝牙设备适配器初始化错误</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>多个蓝牙适配器已连接</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>左</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>右</value>
+  </data>
 </root>
