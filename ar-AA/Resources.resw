@@ -165,7 +165,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>يمكنك تفعيل أو تعطيل هذا في قائمة بدء التشغيل " Startup tab"في إدارة المهام"Task Manager".</value>
+    <value>تفعيل أو تعطيل تشغيل التطبيق عند بدء تشغيل ويندوز.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>ينخفض مستوى الصوت عند إزالة AirPods واحد من أذنك ، أو يستعيد الصوت عند إزالة / وضع كلا AirPods.</value>
@@ -554,7 +554,7 @@
     <value>اظهر نسبة البطارية</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>لن تكون وظيفة التحدث الحر (الاتصال الصوتي) لسماعة الرأس متاحة. لا تقم بتعطيل Hands-Free يدويًا. أعد تشغيل التطبيق لتطبيق التغييرات.</value>
+    <value>لن تكون وظيفة التحدث الحر (الاتصال الصوتي) لسماعة الرأس متاحة. لا تقم بتعطيل السماعة يدويًا. أعد تشغيل البرنامج لتطبيق التغييرات.</value>
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>ميزة تجريبية</value>
@@ -681,5 +681,98 @@
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
     <value>دفق الصوت من أجهزة بلوتوث إلى جهاز الكمبيوتر. يعمل الكمبيوتر كمكبر صوت بلوتوث.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>رقاقة</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>البرامج الثابتة</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>الرقاقةغير مدعومة بعد</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>إلغاء الضوضاء</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>إلغاء الضوضاء</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>إيقاف التشغيل</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>الشفافية</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>فلتر إلغاء الضوضاء</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>المرور</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>داخلي</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>التأمل</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>تغيير مفتاح الاختصار لإلغاء الضوضاء</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>تعقب الرأس</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>إيقاف التشغيل</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>ثابت</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>تتبع الرأس</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>اضغط باستمرار على السماعة اليسرى</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>مساعد صوتي</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>التحكم في الضوضاء (.ANC/Tran)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>التحكم في الضوضاء (.ANC/Off/Tran)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>حساسية AirPod اليسرى</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>حساسية AirPod اليمنى</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>اضغط بسرعة</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>أكثر سرعة</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>متو سط</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>أبطأ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>قم بتوصيل سماعات الرأس الخاصة بك لمزيد من التخصيصات</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>الضغط على مفتاح التشغيل السريع إلى الانتقال عبر أوضاع إلغاء الضوضاء.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>قم بارتداء كلتا السماعتين قبل الاستخدام.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>اضغط باستمرار على السماعة اليمنى</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>ضبط السرعة المطلوبة بالضغط مرتين أو ثلاث مرات على AirPod اليسرى و اليمنى.</value>
   </data>
 </root>
