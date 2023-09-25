@@ -936,4 +936,32 @@
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>Annuler</value>
   </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Ouvrez les Paramètres Windows, puis dans page des Applications allez dans «Démarage» et activez «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Allez dans démarrage</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Mise à jour disponible</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Cliquez ici pour aller dans le Microsoft store.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Touche de raccourci pour la réduction de bruit</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>L'appui sur cette touche de raccourci permet de basculer entre les modes de réduction de bruit.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Démarrage désactivé par une politique de groupe</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Démarrage désactivé manuellement</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Vérifie les mises à jour</value>
+  </data>
 </root>
