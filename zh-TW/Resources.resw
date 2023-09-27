@@ -154,7 +154,7 @@
     <value>低音訊延遲</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>使用 Premiere Pro 或 Audition 時會有很好的效果，啟用後需要重新連線 AirPods。此功能可能會增加電力消耗量。</value>
+    <value>用在 Premiere Pro 或 Audition 時會有很好的效果，啟用後需要重新連線 AirPods。此功能可能會增加耗電量。</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>取得協助</value>
@@ -178,7 +178,7 @@
     <value>開機時自動執行</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>開啟或關閉在 Windows 啟動時啟動應用程式。</value>
+    <value>選擇是否要在Windows開機時自動啟動此程式。</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>開機自動執行功能已被群組原則停用，或者此裝置無法支援。</value>
@@ -229,7 +229,7 @@
     <value>顯示視窗</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>在打開充電盒時，顯示或隱藏如同iPhone的動畫彈出視窗。</value>
+    <value>當充電盒打開時，選擇是否要顯示如同iPhone的彈出視窗。</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>視窗大小</value>
@@ -244,7 +244,7 @@
     <value>一般設定</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>實驗功能</value>
+    <value>實驗性功能</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>關閉 MagicPods</value>
@@ -253,7 +253,7 @@
     <value>支援</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>將關閉應用程式並停用所有功能。</value>
+    <value>應用程式即將關閉並停用所有功能。</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>關閉 MagicPods？</value>
@@ -271,13 +271,13 @@
     <value>支援的撥放器列表</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
-    <value>AirPods 搜尋半徑</value>
+    <value>AirPods 搜尋範圍</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
-    <value>若打開充電盒且耳機在內，而動畫視窗沒有顯示時，請將調整滑桿往右調整，直到動畫可正常顯示。</value>
+    <value>當耳機在充電盒內打開時沒有顯示彈出視窗，請將滑桿向右滑動，直到彈出視窗顯示。</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
-    <value>何為搜尋半徑？</value>
+    <value>何為搜尋範圍？</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>提示</value>
@@ -863,7 +863,7 @@
     <value>也可以通過在左右 AirPod 上按五下來啟動。</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
-    <value>標記盜版耳機</value>
+    <value>盜版耳機提醒</value>
   </data>
   <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
     <value>可能是盜版的耳機</value>
@@ -896,7 +896,7 @@
     <value>強化多點連接</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
-    <value>在耳機設定中顯示警告，指出它們是盜版的。</value>
+    <value>在設定中顯示盜版耳機警告。</value>
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
     <value>演唱現場</value>
@@ -923,10 +923,10 @@
     <value>更改設定前請先打開音樂。</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
-    <value>顯示盜版 AirPods 的視窗</value>
+    <value>顯示盜版 AirPods 的彈出視窗</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
-    <value>如果盜版 AirPods 在藍牙設備清單中，則顯示或隱藏盜版 AirPods 的彈出視窗。</value>
+    <value>若盜版AirPods在藍芽列表內，選擇是否顯示彈出視窗。</value>
   </data>
   <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
     <value>充電盒音效</value>
@@ -945,5 +945,24 @@
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>取消</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>點選這裡到Microsoft商店。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>進入Windows設定內的應用程式頁面，並到 «啟動» 開啟«{0}»。</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>已有可用的更新</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>群組原則禁止了自動啟動功能</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>已手動停用自動啟動</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>檢查更新</value>
   </data>
 </root>
