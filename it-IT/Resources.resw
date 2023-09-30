@@ -895,4 +895,20 @@
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
     <value>Avvio disabilitato manualmente</value>
   </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Apri le impostazioni di Windows nella pagina Applicazione, vai nella sezione «Avvio» ed abilita «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Vai alla sezione Avvio</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Controlla se ci sono aggiornamenti</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Ci sono aggiornamenti disponibili</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Clicca qui per apire Microsoft Store.</value>
+  </data>
 </root>
