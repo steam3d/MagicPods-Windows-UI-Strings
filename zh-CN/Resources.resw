@@ -178,7 +178,7 @@
     <value>开机自动运行</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>您可以在“任务管理器”的“启动”选项卡中启用或禁用此功能。</value>
+    <value>启用或禁用在 Windows 启动时启动应用程序。</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>启动项被组策略禁用，或者此设备不支持。</value>
@@ -944,5 +944,24 @@
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>转到启动</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>更新可用</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>单击此处转到Microsoft商店。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>在应用程序页面上打开Windows设置，转到“启动”并启用«{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>启动被组策略禁用，或在此设备上不受支持。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>手动禁用启动</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>检查更新</value>
   </data>
 </root>
