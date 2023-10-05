@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,858 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>অন্যান্য</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>সতর্কীকরণ</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>পপ আপ উইন্ডো</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>আইকন লুকান</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>ধরন</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>আইকন</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>লিখা</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>প্রস্থান</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>না</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>সহায়তা</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>MagicPods বন্ধ করবেন?</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>শো উইন্ডো</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>মাঝারি</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>সাহায্য পান</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>বন্ধ</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>কেন্দ্র</value>
+  </data>
+  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
+    <value>ডিবাগ লগ</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>স্টার্টআপ</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>বাতিল করুন</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>আওয়াজ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>সমর্থিত প্লেয়ারের তালিকা</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>সাহায্য</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>অটো কানেক্ট</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>হ্যাঁ</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>টিপ</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>সাধারণ সেটিংস</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>সমস্ত সেটিংস রিসেট করা হবে। আপনি কি রিসেট করতে চান?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>হ্যাঁ, সেটিংস রিসেট করুন</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>টিপ</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>MagicPods বন্ধ করুন</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>অবলম্বন করুন</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>উপেক্ষা করুন</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>উইন্ডোজ Bluetooth ডিভাইসের তালিকায় এয়ারপডস যোগ করুন</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods অধিকাংশ এয়ারপডস এবং Beats হেডফোন সমর্থন করে</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>আপনার এয়ারপডস কেস যতটা সম্ভব আপনার কম্পিউটারের কাছাকাছি আনুন এবং এটি খুলুন</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>পরবর্তী</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>বন্ধ করুন</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>এয়ারপড অনুসন্ধান করা হচ্ছে</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>উইন্ডোর অবস্থান</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>উপরের বাঁদিকের কোণা</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>হেডফোন সংযোগ বিচ্ছিন্ন করার পরে প্লেব্যাক বিরাম দিন।</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>যখন উভয় এয়ারপডস কানের বাইরে থাকে তখন এয়ারপডস থেকে ডিফল্ট স্পীকারে অডিও স্যুইচ করুন।</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>ডিভাইস অ্যাভেইলেবল না বা সরানো হয়েছে</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+    <value>আরও জানুন</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>ভয়েসওভার বিজ্ঞপ্তি</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>সজ্জিত করা</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>ভয়েসওভার কনফিগারেশন</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>স্থির</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>কোনো ভয়েস নির্বাচিত বা উপলব্ধ নেই</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>ছোট</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>বড়</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>কান সনাক্তকরণ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>চালু/বন্ধ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>ভলিউম হ্রাস</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>ভয়েসওভার সমস্ত বিজ্ঞপ্তি</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>গোপনীয়তা এবং বিজ্ঞপ্তি</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+    <value>একটি নতুন ভয়েস যোগ করুন</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>অসীম অনুসন্ধান</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>এয়ারপডস খুঁজে পাওয়া যায়নি</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>সমস্যা সমাধানের জন্য এই নির্দেশিকা অনুসরণ করুন।</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>আলো</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>অন্ধকার</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>সিস্টেম থিম ব্যবহার করুন</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
+    <value>উইন্ডো থিম</value>
+  </data>
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
+    <value>ভাষা</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>সিস্টেম ভাষা ব্যবহার করুন</value>
+  </data>
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
+    <value>থিম</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>অ্যাপ্লিক্যাশনের সেটিংস</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+    <value>এয়ারপডস সক্ষমতা</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>স্টার্টআপ</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>কাস্টমাইজ করতে এখানে ট্যাপ বা ক্লিক করুন</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>একাধিক সংযোগ</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>সংযোগ করুন</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>সংযোগ করা হচ্ছে</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>সংযোগ বিচ্ছিন্ন করুন</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>সংযোগ বিচ্ছিন্ন করা হচ্ছে</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>বাম</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>ডান</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>কেস</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>চার্জ</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+    <value>লুকান</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>ডাউনলোড করুন</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>বন্ধ করা হয়েছে</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>পুনরারম্ভ</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>একটি অপ্রত্যাশিত ত্রুটি ঘটেছে</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>একটি হটকি টাইপ করুন</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Win, Shift, Alt বা Ctrl কী অন্তর্ভুক্ত করুন</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>হটকি সরান</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>সব অ্যাপ দেখান</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>ব্লুটুথ বন্ধ</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>হেডফোন প্রদর্শন করতে ব্লুটুথ চালু করুন</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>ব্লুটুথ সেটিংস</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>কোনো জোড়া হেডফোন নেই</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>কিভাবে হেডফোন জোড়া লাগাবেন</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>ব্লুটুথ LE সমর্থিত নয়</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>হেডফোন</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>পছন্দসমূহ</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>অন্যান্য ডেভেলপারের অ্যাপ</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>একটি বিপজ্জনক অ্যাডভেঞ্চার গেমে দৌড়ান, লাফ দিন এবং ডজ করুন</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>অ্যাপ্লিকেশনের জন্য অনুসন্ধান করুন</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>MagicPods 2.0 এর সাথে পরিচিত হন</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>আপনার পছন্দ অনুসারে প্রতিটি হেডফোন আলাদাভাবে কাস্টমাইজ করুন</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>হেডফোন সংযোগ বা সংযোগ বিচ্ছিন্ন করার জন্য গ্লোবাল হটকি।</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>হটকি সংযুক্ত করুন</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>ছবি পুনরুদ্ধার করুন</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>চালু করা</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>আরো বিস্তারিত</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>একটি ব্লুটুথ অ্যাডাপ্টার সংযুক্ত করুন</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>একাধিক ব্লুটুথ অ্যাডাপ্টার সংযুক্ত</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>ব্লুটুথ ক্লাসিক সমর্থিত নয়</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>ব্লুটুথ ডিভাইস থেকে পিসিতে অডিও স্ট্রিম করুন। পিসি একটি ব্লুটুথ স্পিকার হিসাবে কাজ করে।</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>অডিও স্ট্রিমিং</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
+    <value>স্বয়ংক্রিয় নিঃশব্দ</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>ব্লুটুথ অ্যাডাপ্টার আরম্ভ করার ত্রুটি</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>বন্ধ অবস্থা</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>কোনো জোড়া ডিভাইস বা ব্লুটুথ বন্ধ নেই</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>স্ট্রিমিং ডিভাইস</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>শব্দ আউটপুট</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>সাউন্ড আউটপুট পরিবর্তিত হলে পপ-আপ উইন্ডো দেখান।</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>কেন্দ্র শীর্ষ</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>কেন্দ্র নীচে</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>অ্যাপ্লিকেশন অনুবাদ করুন</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>সম্প্রদায়</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>আমাদের সম্প্রদায়ে যোগ দিন, বাগ রিপোর্ট করুন, খবর এবং আপডেট এবং আলোচনার জন্য সাথে থাকুন</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>সমর্থন এবং সম্প্রদায়</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>পরিবর্তনগুলি প্রয়োগ করতে অ্যাপ্লিকেশন পুনরায় চালু করুন।</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>উইন্ডো দেখাও</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>আরও জানুন</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>স্পিকার ইমেজ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>চিপ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>ফার্মওয়্যার</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>চিপটি এখনও সমর্থিত নয়</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>শব্দ বন্ধকরণ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>শব্দ বন্ধকরণ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>স্বচ্ছতা</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>ট্রাফিক</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>গৃহমধ্যস্থ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>ধ্যান</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>নয়েজ ক্যান্সেলেশন স্যুইচ করার হটকি</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>হেড ট্র্যাকিং</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>ব্যবহারের আগে উভয় এয়ারপডস পরেন।</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>সাউন্ড আউটপুট হটকি স্যুইচ করুন</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>পরীক্ষামূলক উপাদান</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>বন্ধ অবস্থা</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>বন্ধ অবস্থা</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>ডান এয়ারপড টিপুন এবং ধরে রাখুন</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>ভয়েস সহকারী</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>শব্দ নিয়ন্ত্রণ (ANC/বন্ধ/Tran.।)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>বাম এয়ারপড সংবেদনশীলতা</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>ডান এয়ারপড সংবেদনশীলতা</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>চাপার গতি</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>আরও দ্রুত</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>মধ্যম</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>আরও ধীর</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>দীর্ঘ চাপ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>আরও কম</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>মধ্যম</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>আরও দীর্ঘক্ষণ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>উন্নত মাল্টিপয়েন্ট সংযোগ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>মাল্টিপয়েন্ট মোড</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>স্বাভাবিক মোড</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>বাতাসের শব্দ কমানো</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>আবেদন করার জন্য প্রয়োজনীয় এয়ারপডস ফ্যাক্টরি রিসেট।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>বাতাসের শব্দ কমানোর সংবেদনশীলতা</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>কম</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>মধ্যম</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>উচ্চ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>হাইভয়েস কন্ট্রোল</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>গেম মোড</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>এটি বাম বা ডান এয়ারপড এ পাঁচবার টিপেও সক্রিয় করা যেতে পারে।</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>নকল হেডফোন ট্যাগিং</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>এটা নকল হেডফোন হতে পারে</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>ফ্যাক্টরি রিসেট</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>স্বয়ংক্রিয়ভাবে হ্যান্ডসফ্রী অক্ষম করুন</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% বাকি। আপনার হেডফোন চার্জ করুন।</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>উইন্ডোর আকার</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>রিসেট সেটিংস করুন</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>উভয়ই (ভলিউম কমান + প্লে/পজ)</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>একটি এয়ারপড সরানো হলে প্লেব্যাক বিরতি দেয় বা দুটি সরানো হলে বন্ধ হয়ে যায়।</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>কম অডিও লেটেন্সি</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>প্রিমিয়ার প্রো বা অডিশনে কাজ করার সময় দরকারী। চালু করার পরে এয়ারপডগুলি পুনরায় সংযোগ করা প্রয়োজন৷ এটি ব্যাটারি খরচ বাড়াতে পারে।</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>সমস্যা অবগত করুন</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>দ্রুত অনুসন্ধান</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>এয়ারপডস জন্য অনুসন্ধান সময় হ্রাস. যখন আপনি নিশ্চিত হন যে আশেপাশে অন্য কেউ এয়ারপডস ব্যবহার করছে না তখন এটি চালু করুন।</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>জাল এয়ারপডস এর জন্য উইন্ডো দেখান</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>স্টার্টআপ গ্রুপ নীতি দ্বারা অক্ষম করা হয়েছে</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>সরাসরি অনুষ্ঠান</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>সিনেমা স্টেরিও</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>মঞ্চের ছন্দ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>ক্লাসিক</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>নিকট</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>স্টার্টআপ গ্রুপ নীতি দ্বারা অক্ষম করা হয়েছে, বা এই ডিভাইসে সমর্থিত নয়।</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>বাতিল করুন</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>স্টার্টআপে যান</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>স্টার্টআপ ম্যানুয়ালি অক্ষম করা হলো</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>হালনাগাদ এর জন্য অনুসন্ধান করুন</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>আপডেট আছে</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>মাইক্রোসফট স্টোরে যেতে এখানে ক্লিক করুন।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>কেস এর শব্দ</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>স্টার্টআপে চালানো</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>উইন্ডোজ শুরু হলে অ্যাপ্লিকেশানটি চালু হওয়া চালু বা নিষ্ক্রিয় করুন।</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>স্টার্টআপ গ্রুপ নীতি দ্বারা বন্ধ করা হয়েছে, বা এই ডিভাইসে সমর্থিত নয়।</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>সিস্টেম ট্রে আইকন</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>পরিবর্তনগুলি প্রয়োগ করতে অ্যাপ্লিকেশন পুনরায় চালু করুন।</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>ব্যাটারি শতাংশ দেখান</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>সংযুক্ত হেডফোনগুলির গড় ব্যাটারি শতাংশ প্রদর্শন করে।</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>স্টার্টআপ চালু করুন</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>ব্যাটারির তথ্য</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>পরীক্ষামূলক বৈশিষ্ট্য</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>অ্যাপ্লিকেশন বন্ধ করা হবে এবং সমস্ত ফাংশন নিষ্ক্রিয় করা হবে।</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>আপনি যখন আপনার কান থেকে একটি এয়ারপড অপসারণ করেন তখন ভলিউম হ্রাস পায়, অথবা আপনি যখন উভয় এয়ারপড অপসারণ / লাগান তখন পুনরুদ্ধার হয়।</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>এয়ারপডস এর অনুসন্ধান ব্যাসার্ধ</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>যদি উইন্ডোটি উপস্থিত না হয় তবে ভিতরে এয়ারপডস সহ কেসটি খুলুন এবং অ্যানিমেশনটি উপস্থিত না হওয়া পর্যন্ত স্লাইডারটিকে মসৃণভাবে ডানদিকে স্লাইড করুন।</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+    <value>অনুসন্ধান ব্যাসার্ধ কি?</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>স্বয়ংক্রিয়ভাবে চালু</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>৬৫ এর বেশি মান সেট করবেন না কারণ অ্যানিমেশনটি দুর্ঘটনাক্রমে প্রদর্শিত হতে পারে।</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>«সংযোগ» বোতাম দেখান</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>পপ-আপ উইন্ডোতে «সংযোগ» বোতামটি দেখান বা লুকান। বোতাম টিপলে এয়ারপডস সংযোগ হবে।</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>হেডফোন সংযোগ করার পরে «চালু» কমান্ড পাঠান। কোন ওপেন প্লেয়ার না থাকলে উইন্ডোজ কমান্ডটি উপেক্ষা করবে।</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>আপনার ব্যবহারের উপর ভিত্তি করে, আমরা {0} এ মান সেট করার পরামর্শ দিই</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>হেডফোনের সাথে সংযোগ ব্যর্থ হয়েছে৷ ম্যানুয়ালি সংযোগ করার চেষ্টা করুন।</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>আপনি যখন আপনার কান থেকে একটি এয়ারপড অপসারণ করেন তখন প্লেব্যাক বিরতি দেয় এবং ভলিউম হ্রাস পায়, বা বন্ধ হয়ে যায় এবং আপনি উভয় এয়ারপড সরিয়ে দিলে ভলিউম পুনরুদ্ধার হয়।</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>অনুসন্ধান ব্যাসার্ধ - ব্যাসার্ধ যেখানে আপনার কম্পিউটার একটি খোলা এয়ারপডস কেস অনুসন্ধান করবে।</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>উপরের ডান কোণে</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>নিচের বাম কোণে</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>নিচের ডান কোণে</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>স্বয়ংক্রিয় সুইচ শব্দ আউটপুট</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>যখন হেডফোনগুলি সংযুক্ত থাকে এবং অডিও আউটপুট ডিভাইস হিসাবে সেট করা হয় তখন বিজ্ঞপ্তিগুলি ঘোষণা করা হয়।</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>একটি ভয়েস চয়ন করুন</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>ঘোষণাকারী শুধুমাত্র একটি ভাষায় পাঠ্য পড়তে পারেন।</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>নির্বাচিত ভয়েস দিয়ে পাঠ্যটি শুনুন</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>কথা বলুন</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>এই প্রেরকদের থেকে ভয়েসওভার বিজ্ঞপ্তি</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>তালিকা থেকে সমস্ত অ্যাপ্লিকেশন বিজ্ঞপ্তি পাঠাতে পারে না, কিছু অ্যাপ্লিকেশন তালিকায় নাও থাকতে পারে।</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>বৈশিষ্ট্য «ভয়েসওভার বিজ্ঞপ্তি» বন্ধ করা হয়েছে, বিজ্ঞপ্তিগুলিতে অ্যাক্সেস পেতে পারে না৷ অনুগ্রহ করে «গোপনীয়তা এবং বিজ্ঞপ্তি» খুলুন, বিজ্ঞপ্তি অ্যাক্সেসের অনুমতি দিন, তারপর «ভয়েসওভার বিজ্ঞপ্তি» চালু করুন।</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>সেরা ব্যবহারকারীর অভিজ্ঞতার জন্য, আমরা আপনাকে স্টার্টআপ সক্ষম করার পরামর্শ দিই। আপনি টাস্ক ম্যানেজারে «স্টার্টআপ» ট্যাব থেকে এটি করতে পারেন।</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>সেরা ব্যবহারকারীর অভিজ্ঞতার জন্য, আমরা আপনাকে স্টার্টআপ সক্ষম করার পরামর্শ দিই।</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>দুই বা ততোধিক হেডফোন সংযুক্ত, শুধুমাত্র একটি সংযুক্ত রাখুন</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>অনুবাদ করুন</value>
+    <comment>Last used 2.0.45.0</comment>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>আওয়াজ বাতিল ফিল্টার</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>অ্যাপ্লিকেশনটি পুনরায় চালু করলে সমস্যার সমাধান হতে পারে। ত্রুটি অব্যাহত থাকলে, আপনার কম্পিউটার পুনরায় চালু করার চেষ্টা করুন।</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>স্বয়ংক্রিয় বিরতি</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>কম ব্যাটারি বিজ্ঞপ্তি</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>হেডফোন চার্জ নির্দিষ্ট মানের নিচে হলে একটি বিজ্ঞপ্তি দেখান।</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>কম্পিউটারে হেডফোন যুক্ত করুন এবং অ্যাপ্লিকেশনটি পুনরায় চালু করুন</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>যেকোন ছবি থেকে টেক্সট কপি করুন</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>অনুবাদ, সম্পাদনা বা নতুন ভাষা যোগ করুন</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>ছবি পরিবর্তন করুন</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>ব্লুটুথ অ্যাডাপ্টার পাওয়া যায়নি</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>শুধুমাত্র একটি ব্লুটুথ অ্যাডাপ্টার সংযুক্ত রাখুন</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>অ্যাপটি পুনরায় চালু করা সাহায্য করতে পারে</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+    <value>একটি নতুন ডিভাইস যোগ করুন</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
+    <value>পিসি স্পীকারে সাউন্ড আউট হয়ে গেলে স্ট্রিমিং ডিভাইসের অডিও মিউট করুন।</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>স্ট্রিমিং ডিভাইস সংযোগ করতে ব্যর্থ হয়েছে. নিশ্চিত করুন যে স্ট্রিমিং ডিভাইসে ব্লুটুথ চালু আছে।</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>ব্যাটারি শতাংশ দেখান</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>হেডফোনের হ্যান্ডসফ্রি ফাংশন (ভয়েস কমিউনিকেশন) পাওয়া যাবে না। ম্যানুয়ালি হ্যান্ডসফ্রি অক্ষম করবেন না। পরিবর্তনগুলি প্রয়োগ করতে অ্যাপ্লিকেশন পুনরায় চালু করুন।</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>একটি হটকি দিয়ে দ্রুত পাঠ্য অনুবাদ করুন</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>ডিফল্ট সেটিংসে রিসেট করুন</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>আরো কাস্টমাইজেশনের জন্য আপনার হেডফোন সংযুক্ত করুন</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>ব্লুটুথ ক্লাসিক সমর্থন সহ একটি ব্লুটুথ অ্যাডাপ্টার সংযুক্ত করুন এবং অ্যাপ্লিকেশনটি পুনরায় চালু করুন</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>হেড ট্র্যাকড</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>বাম এয়ারপড টিপুন এবং ধরে রাখুন</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>শব্দ নিয়ন্ত্রণ (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>দুই বা তিনবার বাম এয়ারপড এবং ডান এয়ারপড টিপতে প্রয়োজনীয় গতি সামঞ্জস্য করুন।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>প্রেস করার সময় সামঞ্জস্য করুন এবং বাম এয়ারপড এবং ডান এয়ারপড ধরে রাখুন।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>আপনাকে আপনার হেডফোনের সাথে একসাথে দুটি ডিভাইস সংযুক্ত করতে দেয়৷ আবেদন করার জন্য প্রয়োজনীয় এয়ারপডস ফ্যাক্টরি রিসেট।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>কার্যকর করার জন্য প্রয়োজনীয় এয়ারপডস ফ্যাক্টরি রিসেট।</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>হেডফোন সেটিংসে একটি সতর্কতা দেখান যে তারা জাল।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>এয়ারপডস কেসে রাখুন, ঢাকনা খুলুন তারপর প্রায় ১০ সেকেন্ড বোতাম টিপুন।</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>হেডফোনগুলিকে হ্যান্ডসফ্রি মোডে স্যুইচ করা থেকে আটকাতে হেডফোনগুলি সংযুক্ত করার পরে হ্যান্ডসফ্রি অক্ষম করুন৷ মাইক্রোফোন কাজ করা বন্ধ করবে। বিকল্পটি বন্ধ করলে হ্যান্ডসফ্রি পরিষেবা আবার চালু হবে।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>ইকুয়ালাইজার</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>সেটিং পরিবর্তন করার আগে সঙ্গীত চালু করুন।</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>ব্লুটুথ ডিভাইসের তালিকায় থাকলে নকল এয়ারপডের জন্য পপ-আপ উইন্ডো দেখান বা লুকান।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>কেসের মধ্যে এয়ারপডস রাখুন, কেসের ঢাকনা খোলা রাখুন এবং কেস লাইট বন্ধ হওয়ার জন্য অপেক্ষা করুন। অপশনটি বন্ধ/অন করুন, কেসের ঢাকনা খোলা রেখে এয়ারপডস টানুন, কমপক্ষে 2 সেকেন্ড অপেক্ষা করুন এবং এয়ারপডস আবার কেসে রাখুন এবং কেস লাইট বন্ধ হওয়ার জন্য অপেক্ষা করুন।</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>অ্যাপ্লিকেশন পৃষ্ঠায় উইন্ডোজ সেটিংস খুলুন, «স্টার্টআপ» এ যান এবং «{0}» সক্ষম করুন।</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>পুনরায় ডিজাইন করা ইন্টারফেস, স্বতন্ত্র সেটিংস এবং আরও অনেক। কিছু সেটিংস পরিবর্তন করা হয়েছে। কাস্টমাইজ করতে অ্যাপটি খুলুন।</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>নিষ্ক্রিয় করা হলো</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>স্বয়ংক্রিয়ভাবে এয়ারপডস এর সাথে সংযোগ করুন যখন আপনি কেস থেকে ডান বা বাম এয়ারপডগুলি নিয়ে যান।</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth LE সমর্থন সহ একটি ব্লুটুথ অ্যাডাপ্টার সংযুক্ত করুন এবং অ্যাপ্লিকেশনটি পুনরায় চালু করুন</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>হটকি চাপার মাধ্যমে সাউন্ড আউটপুটগুলো ঘুরে আসে।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>হটকি চাপার মাধ্যমে নয়েস ক্যান্সেলেশন মোড গুলো ঘুরে আসে।</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>যখন আপনি কেস খুলবেন আইফোনের মতো পপ-আপ উইন্ডো দেখান বা লুকান।</value>
+  </data>
 </root>
