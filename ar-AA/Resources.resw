@@ -764,7 +764,7 @@
     <value>قم بتوصيل سماعات الرأس الخاصة بك لمزيد من التخصيصات</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
-    <value>الضغط على مفتاح التشغيل السريع إلى الانتقال عبر أوضاع إلغاء الضوضاء.</value>
+    <value>الضغط على مفتاح الاختصار يقوم بتنقل بين أوضاع إلغاء الضوضاء.</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
     <value>قم بارتداء كلتا السماعتين قبل الاستخدام.</value>
@@ -774,5 +774,32 @@
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
     <value>ضبط السرعة المطلوبة بالضغط مرتين أو ثلاث مرات على AirPod اليسرى و اليمنى.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>اقصر</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>متوسط</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>اطول</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>وضع متعدد النقاط</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>الوضع الطبيعي</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>اضغط ضغطه مطوله</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>اضبط وقت الضغط مع الاستمرار على السماعه الأيسر و السماعه الأيمن.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>اتصال محسن متعدد النقاط</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>يتيح لك توصيل جهازين في وقت واحد بسماعات الرأس. مطلوب إعادة ضبط المصنع للسماعات للتطبيق.</value>
   </data>
 </root>
