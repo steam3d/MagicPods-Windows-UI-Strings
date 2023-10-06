@@ -125,7 +125,7 @@
     <value>Значок батарэі</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Лічбавы</value>
+    <value>Тэкст</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Уключыць аўтазагрузку</value>
@@ -140,7 +140,7 @@
     <value>Так</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Аналагавы</value>
+    <value>Значок</value>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>Агульныя налады</value>
@@ -167,7 +167,7 @@
     <value>Радыус пошуку AirPods</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>На AirPods засталося {0}% зарада. Зарадзіце AirPods.</value>
+    <value>Засталося {0}% зарада. Зарадзіце навушники.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
@@ -177,7 +177,7 @@
     <value>Абодва (Памяншэнне гучнасці + Прайграванне/Паўза)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Прайграванне прыпыняецца, калі вы дастаеце адзін AirPods, цi спыняецца, калі вы дастаеце абодва AirPods.</value>
+    <value>Прайграванне прыпыняецца, калі вы дастаеце адзін навушник, цi спыняецца, калі вы дастаеце абодва навушника.</value>
   </data>
   <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
     <value>Журнал адладкі</value>
@@ -192,7 +192,7 @@
     <value>Запуск пры старце сістэмы</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Вы можаце ўключыць або адключыць гэта на ўкладцы «Запуск» у дыспетчару задач.</value>
+    <value>Уключыць або адключыць аўтазагрузку аплікацыі пры запуску Windows.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Запуск адключаны групавой палітыкай або не падтрымліваецца на гэтай прыладзе.</value>
@@ -397,5 +397,71 @@
   </data>
   <data name="Battery_Short_Right.Title" xml:space="preserve">
     <value>П</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>Аўтаматычна пераключаць выхад аўдыё</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>Пераключаць звук з AirPods на гучнікі па змаўчанні, калі абодва AirPods знаходзяцца па-за вухамі.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Прыватнасць і паведамленні</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>Аўдіо</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+    <value>Дакладней</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>Чытаць паведамленні</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>Сканфігураваць</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>Канфiгураыя VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>Выбраць голас</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>Дыктар можа чытаць тэкст толькі на адной мове.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>Азвучыць</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>Азвучваць паведамленні ад гэтых праграм</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>Азвучваць усе паведамленні</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>Паказаць усе праграмы</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+    <value>Дадаць новы голас</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>Нижні правы вугал</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>Прылада недаступная альбо выдаленая</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>Паведамляць уведамленні, калі наушнікі падключаныя і выбраныя як прылада для прайгравання.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Голас не выбраны альбо недаступны</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>Азвучыць тэкст выбраным голасам</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Не ўсе праграмы зі спісу могуць адправляць паведамленні, некаторыя праграмы могуць адсутнічаць у спісе.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Функцыя «Азвучваць увядзенне» адключана, няма доступу да паведамленняў. Калі ласка, адкрыйце «Канфідэнцыяльнасць і паведамленні», дазвольце доступ да паведамленняў, а затым уключыце «Азвучваць увядзенне».</value>
   </data>
 </root>
