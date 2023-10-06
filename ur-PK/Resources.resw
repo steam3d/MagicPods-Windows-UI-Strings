@@ -892,4 +892,26 @@
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>منسوخ کریں</value>
   </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>گروپ پالیسی کے ذریعے اسٹارٹ اپ کو غیر فعال کر دیا گیا</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>اسٹارٹ اپ پر جائیں</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>اسٹارٹ اپ دستی طور پر غیر فعال ہے</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>اپ ڈیٹ کے لیے چیک کریں</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>ایپلیکیشن پیج پر ونڈوز سیٹنگز کو کھولیں، "اسٹارٹ اپ" پر جائیں اور فعال کری ۔«{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>اپ ڈیٹ دستیاب ہے</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>مائیکروسافٹ اسٹور پر جانے کے لیے یہاں کلک کریں۔</value>
+  </data>
 </root>
