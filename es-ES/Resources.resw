@@ -326,7 +326,7 @@
     <value>Advertencia</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Puede habilitar o deshabilitar esta opción en el Administrador de Tareas, en el pestaña de Inicio.</value>
+    <value>Puede habilitar o deshabilitar esta opción en el Administrador de Tareas, en la pestaña de Inicio.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Conectar automaticamente los AirPods cuando retira del case el Airpod derecho o izquierdo.</value>
@@ -870,5 +870,45 @@
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>Cancelar</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Inicio desactivado por política de grupo</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Abra la configuración de Windows en la página de la aplicación, vaya a «Inicio» y habilite «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Al Inicio</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Inicio deshabilitado manualmente</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Buscar actualizaciones</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Actualización disponible</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Haz clic aquí para ir a Microsoft Store.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>Sonido de Estuche</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>Coloque los AirPods en el estuche, mantenga la tapa abierta y espere a que se apague la luz del estuche. Apague/encienda la opción, saque los AirPods mientras mantiene abierta la tapa del estuche, espere al menos 2 segundos, coloque los AirPods en el estuche nuevamente y espere a que se apague la luz del estuche.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Show en vivo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Estereo de cine</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Ritmo escénico</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Clásico</value>
   </data>
 </root>
