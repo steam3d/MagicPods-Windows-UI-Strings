@@ -750,4 +750,109 @@
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>끔</value>
   </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>헤드폰을 연결하여 커스터마이징을 해보세요</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>칩</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>펌웨어</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>노이즈 캔슬링 필터</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>트래픽</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>실내</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>명상</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>단축키로 노이즈 캔슬링으로 전환하세요</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>머리 추적</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>사용하기 전에 양쪽 귀에 에어팟을 착용하세요.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>고정</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>머리 추적</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>보이스 어시스턴트</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>노이즈 캔슬링 전환(노캔/주변소리)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>왼쪽 에어팟 감도</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>오른쪽 에어팟 감도</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>중간</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>더 느리게</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>길게 누르기</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>짧게</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>중간</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>길게</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>풍향음 감소 정도</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>낮게</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>중간</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>크게</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>보이스 컨트롤</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>게임모드</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>기능을 적용하려면 에어팟 공장 초기화가 필요합니다.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>해당 칩은 아직 프로그램에서 지원되지 않습니다</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>노이즈 캔슬링 전환 (노캔/끄기/주변소리)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>더 빠르게</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>풍향음 감소</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>기능을 적용하려면 에어팟 공장 초기화가 필요합니다.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>공장 초기화</value>
+  </data>
 </root>
