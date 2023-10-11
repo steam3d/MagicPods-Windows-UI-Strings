@@ -126,7 +126,7 @@
     <value>Uruchamianie</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Możesz włączyć lub wyłączyć tą funkcję w zakładce Uruchamianie w Menadżerze zadań.</value>
+    <value>Włączenie lub wyłączenie uruchamiania aplikacji przy starcie systemu Windows.</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>Uruchom z systemem</value>
@@ -352,7 +352,7 @@
     <value>Jeśli nie widzisz wyskakującego okienka, otwórz etui AirPods-ów i przesuń suwak w prawo, aż się pojawi.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Wysyła polecenie odtwarzania po podłączeniu AirPods-ów. Jeśli nie ma otwartych graczy, system Windows zignoruje polecenie.</value>
+    <value>Wyślij polecenie "Odtwórz" po podłączeniu słuchawek. Jeśli nie ma otwartych odtwarzaczy, system Windows zignoruje polecenie.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Na podstawie Twojego użycia sugerujemy wartość o {0}</value>
@@ -888,5 +888,27 @@
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>Anuluj</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Uruchamianie wyłączone przez zasady grupy</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Przejdź do zakładki Uruchamianie</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Uruchamianie wyłączone ręcznie</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Sprawdź aktualizacje</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Aktualizacja dostępna</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Kliknij tutaj, aby przejść do sklepu Microsoft Store.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Otwórz ustawienia Windows na stronie aplikacji, przejdź do "Uruchamianie" i włącz "{0}".</value>
+    <comment>{0} will be replaced with a name of the app</comment>
   </data>
 </root>
