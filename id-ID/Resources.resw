@@ -126,7 +126,7 @@
     <value>Jalankan saat Startup</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Anda dapat mengaktifkan atau menonaktifkan ini di tab Startup pada Task Manager.</value>
+    <value>Mengaktifkan atau menonaktifkan peluncuran aplikasi saat memulai Windows</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Startup dinonaktifkan oleh group policy, atau tidak didukung pada perangkat ini.</value>
@@ -597,5 +597,8 @@
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>Mati</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Sambungkan ke adapter Bluetooth dengan dukungan Bluetooth Classic dan mulai ulang aplikasi</value>
   </data>
 </root>
