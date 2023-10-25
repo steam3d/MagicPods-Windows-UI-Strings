@@ -168,7 +168,7 @@
     <value>Chạy ứng dụng khi khởi động Windows</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Bạn có thể bật hoặc tắt chức năng này từ tab "Khởi động" trong Trình quản lý tác vụ.</value>
+    <value>Bật hoặc tắt chức năng khởi động cùng Window.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Khởi động cùng Windows bị tắt bởi group policy, hoặc nó không được hỗ trợ trên thiết bị này.</value>
@@ -897,5 +897,14 @@
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
     <value>Khởi động bị tắt theo cách thủ công</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Ứng dụng đã có phiên bản mới.</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Click vào đây để mở Microsoft Store.</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Kiểm tra bản cập nhật mới.</value>
   </data>
 </root>
