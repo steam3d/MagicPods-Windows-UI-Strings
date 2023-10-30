@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>AirPods atlikušais uzlādes līmenis ir {0}%. Uzlādējat savus AirPods.</value>
+    <value>{0}% atlikuši. Uzlādējiet savus AirPods.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -115,7 +115,7 @@
     <value>Samazina AirPods meklēšanas laiku. Ieslēdziet, kad jūs esat pārliecināts, ka neviens cits apkārt neizmanto AirPods.</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Jūs varat ieslēgt, vai izslēgt šo Task Manager "Startup" sadaļā.</value>
+    <value>Ieslēgt vai izslēgt aplikācijas uzsākšanu kopā ar Windows.</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Slēpt ikonu</value>
@@ -132,10 +132,10 @@
     <value>Baterijas ikona</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Analogs</value>
+    <value>Ikona</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
-    <value>Digitāls</value>
+    <value>Teksts</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>Ieslēgt palaišanu</value>
@@ -194,7 +194,7 @@
     <value>Padoms</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Nenoteiciet vērtību, kas lielāka par 65. Dažos gadījumos animācija var parādīties nejauši.</value>
+    <value>Nenoteiciet vērtību, kas lielāka par 65, jo animācija var parādīties nejauši.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Rādīt pogu "Savienot"</value>
@@ -215,7 +215,7 @@
     <value>Piemērot</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Neatgādināt</value>
+    <value>Ignorēt</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>AirPods pievienošana Windows Bluetooth ierīču sarakstam</value>
@@ -268,7 +268,7 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Neizdevās savienot AirPods. Mēģiniet savienot manuāli.</value>
+    <value>Neizdevās savienot austiņas. Mēģiniet savienot manuāli.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>Atskaņošana apstājas un skaļums samazinās, kad no auss noņemat vienu AirPods austiņu, vai apstājas un skaļums atjaunojas, kad noņemat abas AirPods austiņas.</value>
@@ -278,5 +278,367 @@
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>Meklēšanas rādiuss - rādiuss, kurā dators meklēs atvērtu AirPods futlāri.</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>Labais augšējais stūris</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>Centrs</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>Kreisais apakšējais stūris</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>Labais apakšējais stūris</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+    <value>Uzzināt vairāk</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>BalssPalīdzības paziņojumi</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>Konfigurēt</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>Izvēlies balsi</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>Paziņotājs var lasīt tekstu tikai vienā valodā.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>Runāt</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Samazināt skaļumu</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Abi (Samazināt skaļumu + Atskaņot/Pauzēt)</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Uzsākšana</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Privātums un paziņojumi</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Gaišs</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Nav pārī savienotas ierīces vai Bluetooth ir izslēgts</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Straumēšanas ierīce</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Skaņas izeja</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>Centra augšdaļa</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Automātiskā palaišana</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Nospiediet šeit, lai pielāgotu</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Vairāki savienojumi</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Savienot</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Savienojas</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Atskaņot/Pauze</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>Uzsākt kopā ar datoru</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Ievadiet karsto taustiņu kombināciju</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Noņemt karsto taustiņu</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Auto pauze</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Apturēt atstaņošanu pēc austiņu atvienošanas.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Zema akumulatora līmeņa paziņojums</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>Sistēmas ikonu josla</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Automātiskā startēšana izslēgta grupas politikas dēļ, vai to neatbalsta Jūsu ierīce.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Pielāgojiet katras austiņas individuāli, lai atbilstu jūsu preferencei</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+    <value>Globālā karstā taustiņa kombinācija, lai pievienotu vai atvienotu austiņas.</value>
+  </data>
+  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+    <value>Savienošanas karstais taustiņs</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>Centra apakšdaļa</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>Kreisais augšējais stūris</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>Automātiski mainīt skaņas izeju</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>Nomainīt skaņas izdeju no AirPodiem uz noklusējuma skaņas iekārtu, kad abi AirPods ir izņemti no ausīm.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>Iekārta nav pieejama vai noņemta</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Nomainīt attēlu</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Atjaunot attēlu</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>Paziņojumi tiks paziņoti, kad austiņas tiek pieslēgtas un iestatītas kā skaņas izeja.</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>BalssPalīdzības konfigurācija</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Neviena balss nav izvēlēta vai nav pieejama</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>Klausieties tekstu ar izvēlēto balsi</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>BalssPalīdzības paziņojumi no šiem sūtītājiem</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Ne visas aplikācijas no sarakstā iekļautajām lietotnēm var sūtīt paziņojumus; dažas lietotnes var nebūt sarakstā.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Funkcija "BalssPalīdzības paziņojums" ir izslēgta, nevar piekļūt paziņojumiem. Lūdzu atveriet "Privātumu un paziņojumus", atļaujiet piekļuvi paziņojumiem un tad ieslēdziet "BalssPalīdzības paziņojumu".</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>Labākai lietotāja pieredzei iesakām ieslēgt automātiskās palaišanās opciju. To varat izdarīt sadaļā "Startup" uzdevumu pārvaldniekā.</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Lietot sistēmas tēmu</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Lietot sistēmas valodu</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>Labākai lietotāja pieredzei iesakām ieslēgt automātisko palaišanu.</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Divas vai vairāk austiņas jau ir savienotas, lūdzu atstājiet tikai vienu savienotu</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Atvienot</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+    <value>Paslēpt</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Problēmu iespējams novērst, restartējot aplikāciju. Ja kļūda turpina parādīties, mēģiniet restartēt savu datoru.</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Iekļaujiet taustiņu kombinācijā Win, Shift, Alt vai Ctrl</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Parādīt paziņojumu, kad austiņu akumulatora līmenis sasniedz noteiktu vērtību.</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Nav pārī savienotu austiņu</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Sapārojiet austiņas ar datoru vai restartējiet aplikāciju</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>Citu izstrādātāju aplikācijas</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Tulkojiet, rediģējiet vai pievienojiet jaunas valodas</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Pārstrādāts interfeiss, individuālie iestatījumi un citi uzlabojumi. Daži iestatījumi ir mainīti. Atveriet lietotni, lai pielāgotu.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Pievienojiet Bluetooth adapteri</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Pievienojiet Bluetooth adapteri ar Bluetooth Classic atbalstu un restartējiet aplikāciju</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>Straumēt audio no Bluetooth ierīces uz Datoru. Dators imitēs Bluetooth skaļruni.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
+    <value>Apklusināt straumēšanas ierīces audio, kad skaņas izeja mainās uz skaļruni.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Parādīt uznirstošo logu, kad skaņas izeja nomainās.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth iestatījumi</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Ieslēgt</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Vairāk detaļu</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapteris netika atrasts</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Vairāki Bluetooth adapteri pievienoti</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Atstājiet tikai vienu Bluetooth adapteri pievienotu</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic netiek atbalstīts</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Pievienojiet Bleutooth adapteri ar Bluetooth LE atbalstu un restartējiet aplikāciju</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetooth adapteru inicializēšanas kļūda</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Parādīt akumulatora uzlādi</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Neizdevās pieslēgties straumēšanas ierīcei. Pārliecinieties, ka Bluetooth ir ieslēgts uz straumēšanas ierīces.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>Izmantot BalssPalīdzību visiem paziņojumiem</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>Parādīt visas aplikācijas</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+    <value>Pievienot jaunu balsi</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>Mūžīgā meklēšana</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>Nevarēja atrast AirPods</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>Seko šim ceļvedim, lai novērstu problēmu.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Tumšs</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
+    <value>Windows tēma</value>
+  </data>
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
+    <value>Valoda</value>
+  </data>
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
+    <value>Tēma</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>Aplikācijas iestatījumi</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+    <value>AidPods spējas</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Atvienojas</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Kārba</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Uzlāde</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>Lejupielādēt</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Tulkot</value>
+    <comment>Last used 2.0.45.0</comment>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Atslēgts</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Atslēgt</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Restartēt</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Notikusi nezināma kļūda</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+    <value>Izslēgts</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth ir izslēgts</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Ieslēdziet Bluetooth lai parādītu austiņas</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Kā sapārot austiņas</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE netiek atbalstīts</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Austiņas</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Priekšroces</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>Kopējiet tekstu no jebkura attēla</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>Skrieniet, leciet un izvairieties bīstamā piedzīvojumu spēlē</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Meklēt aplikācijas</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Iepazīstiet MagicPods 2.0</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Aplikācijas restartēšana iespējams palīdzēs</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Audio straumēšana</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+    <value>Pievienot jaunu ierīci</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
+    <value>Auto klusināšana</value>
   </data>
 </root>
