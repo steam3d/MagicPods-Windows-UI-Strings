@@ -431,7 +431,7 @@
     <value>Para la mejor experiencia de usuario, le recomendamos que active el inicio.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>apagado</value>
+    <value>Apagado</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
     <value>Pausa la reproducción después de desconectar los auriculares.</value>
@@ -716,7 +716,7 @@
     <value>AirPod izquierdo mantén pulsado</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>Apagar</value>
+    <value>Apagado</value>
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
     <value>Sensibilidad del AirPod izquierdo</value>
@@ -910,5 +910,14 @@
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>Clásico</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Cancelación de Ruido</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Apagado</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Cancelación de Ruido</value>
   </data>
 </root>
