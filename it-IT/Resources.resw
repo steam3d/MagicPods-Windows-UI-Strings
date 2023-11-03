@@ -458,7 +458,7 @@
     <value>Digita scorciatoia da tastiera</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>Non mostrare</value>
+    <value>Spegni</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
     <value>Bluetooth disattivato</value>
@@ -910,5 +910,14 @@
   </data>
   <data name="Notification_Updates_Description" xml:space="preserve">
     <value>Clicca qui per apire Microsoft Store.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Cancellazione del rumore</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Cancellazione del rumore</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Spegni</value>
   </data>
 </root>
