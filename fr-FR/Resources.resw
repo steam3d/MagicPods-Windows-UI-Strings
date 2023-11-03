@@ -772,7 +772,7 @@
     <value>Annulation du bruit</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>Désactiver</value>
+    <value>Désactivé</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
     <value>Transparence</value>
@@ -844,7 +844,7 @@
     <value>Connexion multipoint améliorée</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>Fermé</value>
+    <value>Désactivé</value>
   </data>
   <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
     <value>Permet de connecter deux appareils à la fois à vos écouteurs. Une réinitialisation d'usine des AirPods est nécessaire pour l'appliquer.</value>
@@ -963,5 +963,14 @@
   </data>
   <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
     <value>Vérifie les mises à jour</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Annulation active du bruit</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Annulation active du bruit</value>
   </data>
 </root>
