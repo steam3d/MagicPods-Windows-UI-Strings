@@ -689,10 +689,10 @@
     <value>Oprogramowanie</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
-    <value>Wyciszenie otoczenia</value>
+    <value>Redukcja szumów</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
-    <value>Wyciszenie</value>
+    <value>Redukcja szumów</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Wyłącz</value>
@@ -910,5 +910,14 @@
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
     <value>Otwórz ustawienia Windows na stronie aplikacji, przejdź do "Uruchamianie" i włącz "{0}".</value>
     <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Redukcja szumów</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Wyłącz</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Redukcja szumów</value>
   </data>
 </root>
