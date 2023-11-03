@@ -707,7 +707,7 @@
     <value>การทำสมาธิ</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>ปิดโหมด</value>
+    <value>ปิด</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>แก้แล้ว</value>
@@ -773,7 +773,7 @@
     <value>จำเป็นต้องรีเซ็ต AirPods เป็นค่าเริ่มต้นจากโรงงาน</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>ปิดโหมด</value>
+    <value>ปิด</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
     <value>โหมดรับเสียง</value>
@@ -816,5 +816,14 @@
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>ยกเลิก</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>โหมดตัดเสียง</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>โหมดตัดเสียง</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>ปิด</value>
   </data>
 </root>
