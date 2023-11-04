@@ -226,7 +226,7 @@
     <value>Opstarten inschakelen</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Sluiten</value>
+    <value>Afsluiten</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>Help</value>
@@ -514,7 +514,7 @@
     <value>Verbinden</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
-    <value>Verbinding Verbreken</value>
+    <value>Verbreek Verbinding</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
     <value>Doosje</value>
@@ -706,7 +706,7 @@
     <value>Toon batterijpercentage</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>De handsfree-functie (spraakcommunicatie) van de hoofdtelefoon is niet beschikbaar. Schakel handsfree niet handmatig uit. Start de toepassing opnieuw op om de wijzigingen toe te passen.</value>
+    <value>De handsfree-functie (spraakcommunicatie) van de hoofdtelefoon is niet beschikbaar. Schakel handsfree niet handmatig uit. Start de toepassing opnieuw om de wijzigingen toe te passen.</value>
   </data>
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Geluid streamen</value>
@@ -776,5 +776,203 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Uit</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>Draag beiden AirPods voor dat je de functie gebruikt.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Linker AirPod ingedrukt houden</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Middelmatig</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>Je kan het ook activeren door vijf keer de linker of rechter AirPod in te drukken.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Zet muziek aan voordat je deze instelling veranderd.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Stel de snelheid in die nodig is om je AirPod twee maal of drie maal in te drukken.</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>De koptelefoon kan nep zijn</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Stel de snelheid in die nodig is om je AirPods twee maal of driemaal in te drukken.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>Een fabrieksreset is nodig om deze instelling toe te passen.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Laat je twee apparaten tegelijkertijd verbinden met je koptelefoon. Een fabrieksreset is nodig om deze instelling toe te passen.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Sluiten</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>Geluidseffecten van de case</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Klik hier om naar de Microsoft winkel te gaan.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Plaats de AirPods in de case, open de deksel en druk voor 10 seconden op de knop.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Sla instellingen op</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Sla de transparantie instellingen op in de koptelefoon zijn geheugen.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Zet Handsfree uit na verbinding met de koptelefoon om te voorkomen dat de koptelefoon in handsfree modus gaat. De microfoon stopt met weken. Als je de optie uit zet gaat handsfree weer aan.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Klassiek</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Druk op de sneltoets om van ruisonderdrukking modus te veranderen.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Ruis onderdrukking filter</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Verkeer</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Vast</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Hoofd getrackt</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Rechter AirPod ingedrukt houden</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Voice assistend</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>Hoofd getracht</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Linker AirPod sensitiviteit</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Rechter AirPod sensitiviteit</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Indruksnelheid</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Ruisbeheering (ANC/uit/Tans.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Ruisbeheering (ANC/Tans.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Sneller</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Gemiddeld</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Langzamer</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Langer</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Korter</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Gemiddeld</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Verbeterde Multipoint-verbinding</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Multipoint-modus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Normale modus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Wind vermindering modus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>Een fabrieksreset is nodig om deze instelling toe te passen.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Wind onderdrukking sensitiviteit</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Ingedrukt houden</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Laag</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Hoog</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Game modus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Stembediening</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Nep-koptelefoons aangegeven</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Laat een waarschuwing zien in de instellingen dat je koptelefoon nep is.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>fabrieksreset</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Wind onderdrukking</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Transparantie</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Verstopt of laat een pop-up zien voor neppen AirPods als ze in de lijst met Bluetooth apparaten zitten.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>Plaats de AirPods in de case, slut de deksel en wacht totdat het licht uit is. Zet nu de optie aan/uit, haal nu de AirPods uit de case terwel je de deksel openlaat, wacht minimaal 2 seconden en stop de AirPods trug, wacht nu tot het licht weer uit is.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Volume van transparantie</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Concerteer op stem</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Je kan mensen hun stem horen en achtergrond geluid word onderdrukt.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Hoe hoger het getal hoe meer de buiten wereld doorkomt.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Controleer op updates</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Zet handsfree automatisch uit</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Concert</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Bioscoop</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Muziek</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Er is een update beschikbaar</value>
   </data>
 </root>
