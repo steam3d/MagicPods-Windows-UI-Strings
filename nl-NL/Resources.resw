@@ -706,7 +706,7 @@
     <value>Toon batterijpercentage</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>De handsfree-functie (spraakcommunicatie) van de hoofdtelefoon is niet beschikbaar. Schakel handsfree niet handmatig uit. Start de toepassing opnieuw om de wijzigingen toe te passen.</value>
+    <value>De handsfree-functie (spraakcommunicatie) van de hoofdtelefoon is niet beschikbaar. Schakel handsfree niet handmatig uit. Start de toepassing opnieuw op om de wijzigingen toe te passen.</value>
   </data>
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Geluid streamen</value>
@@ -751,7 +751,7 @@
     <value>De chip wordt nog niet ondersteund</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
-    <value>Noise cancellation</value>
+    <value>Ruis onderdrukking</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
     <value>Binnen</value>
@@ -761,5 +761,8 @@
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
     <value>Wissel noise cancellation hotkey</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Transparantie</value>
   </data>
 </root>
