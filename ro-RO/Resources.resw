@@ -159,7 +159,7 @@
     <value>Deschidere la pornire</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Puteți activa sau dezactiva această setare în fila Pornire din Managerul de activități.</value>
+    <value>Activați sau dezactivați lansarea aplicației la pornirea Windows.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Pictogramă în bara de activități</value>
@@ -647,7 +647,7 @@
     <value>Traduceți aplicația</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>Funcția Hands-Free (comunicare vocală) a căștilor nu va fi valabilă. Nu opriți Hands-Free manual. Reporniți aplicația pentru a confirma alegerile.</value>
+    <value>Funcția Hands-Free (comunicare vocală) a căștilor nu va fi disponibilă. Nu dezactivați Hands-Free manual. Reporniți aplicația pentru a confirma modificările.</value>
   </data>
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Difuzare audio</value>
@@ -897,5 +897,51 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Anularea zgomotului</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Pornirea a fost dezactivată de politica de grup</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Accesați Startup</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Pornirea a fost dezactivată manual</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Verifică pentru actualizări</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Sunet ambiental</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Volumul sunetului ambiental</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Concentrare pe voce</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Vocile oamenilor vor fi auzite și zgomotul ambiental va fi suprimat.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Salvează setările</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Salvați setările de sunet ambiental în memoria căștilor.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Deschideți setările Windows pe pagina Aplicații, accesați „Pornire” și activați «{0}»</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Actualizare disponibilă</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Faceți clic aici pentru a accesa Microsoft Store.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Anularea vântului</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Cu cât valoarea este mai mare, cu atât ambientalul poate fi auzit mai bine.</value>
   </data>
 </root>
