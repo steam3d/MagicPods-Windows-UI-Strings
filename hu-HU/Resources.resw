@@ -110,7 +110,7 @@
     <value>Futtatás indításkor</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Ezt engedélyezheti vagy letilthatja a feladatkezelő indítási lapján.</value>
+    <value>Engedélyezheti vagy letilthajta a Windows-al való indulást.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Tálca ikon</value>
@@ -693,5 +693,8 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Kikapcsolva</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>Lehetséges, hogy nem eredeti az eszközöd</value>
   </data>
 </root>
