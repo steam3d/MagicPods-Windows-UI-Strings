@@ -752,7 +752,7 @@
     <value>通透模式</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
-    <value>降造濾鏡</value>
+    <value>降躁濾鏡</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>交通</value>
@@ -791,10 +791,10 @@
     <value>語音助手</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
-    <value>降噪控制（降造/通透模式）</value>
+    <value>降噪控制（降躁/通透模式）</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
-    <value>降噪控制（降造/關閉/通透模式）</value>
+    <value>降噪控制（降躁/關閉/通透模式）</value>
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
     <value>左耳 AirPod 靈敏度</value>
@@ -839,10 +839,10 @@
     <value>讓您同時連接兩個裝置到您的耳機。需要將 AirPods 恢復原廠設定以應用此功能。</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
-    <value>風聲降造</value>
+    <value>風聲降躁</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
-    <value>風聲降造靈敏度</value>
+    <value>風聲降躁靈敏度</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
     <value>低</value>
@@ -973,5 +973,29 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>關閉</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>風噪消除</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>環境聲音音量</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>數值越高，環境聲音越清晰。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>快速注意模式</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>能夠聽到人聲，同時抑制環境噪音。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>保存設定</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>將環境聲設定保存到耳機中。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>環境聲模式</value>
   </data>
 </root>
