@@ -81,7 +81,7 @@
     <value>AirPodsを探す時間を減らします。周りの人がAirPodsを使用していないことが確実な場合に有効にしてください。</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>この設定をタスクマネージャーのスタートアップ タブで有効または無効にできます。</value>
+    <value>Windows 起動時のアプリケーションの起動を有効または無効にします。</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>変更を適用するにはアプリケーションを再起動してください。</value>
@@ -677,7 +677,7 @@
     <value>試験的の機能</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>ヘッドホンのハンズフリー機能（音声通話）が利用できなくなります。手動でハンズフリー機能を無効にしないでください。変更を適用するにはアプリケーションを再起動します。</value>
+    <value>ヘッドホンのハンズフリー機能（音声通話）は利用できなくなります。 ハンズフリーを手動で無効にしないでください。 アプリケーションを再起動して変更を適用します。</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
     <value>ノイズキャンセリング</value>
@@ -792,5 +792,26 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>オフ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>渋滞</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>瞑想</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>ヘッドフォンを接続してさらにカスタマイズ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>ノイズキャンセルフィルター</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>ヘッドトラッキング</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>強化されたマルチポイント接続</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>2 つのデバイスを一度にヘッドフォンに接続できます。 適用するにはAirPodsの工場出荷時設定へのリセットが必要です。</value>
   </data>
 </root>
