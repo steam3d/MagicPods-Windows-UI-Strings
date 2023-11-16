@@ -110,7 +110,7 @@
     <value>Tiếp tục/Tạm dừng</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>Tai nghe của bạn của còn {0} pin. Hãy sạc tai nghe.</value>
+    <value>Tai nghe của bạn của còn {0}% pin. Hãy sạc tai nghe.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -899,13 +899,13 @@
     <value>Khởi động bị tắt theo cách thủ công</value>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
-    <value>Ứng dụng đã có phiên bản mới.</value>
+    <value>Ứng dụng đã có phiên bản mới</value>
   </data>
   <data name="Notification_Updates_Description" xml:space="preserve">
     <value>Click vào đây để mở Microsoft Store.</value>
   </data>
   <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
-    <value>Kiểm tra bản cập nhật mới.</value>
+    <value>Kiểm tra bản cập nhật mới</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
     <value>Khử tiếng ồn</value>
@@ -915,5 +915,33 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Tắt</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Mở cài đặt Windows và vào trang Ứng Dụng, đến mục 'Khởi động cùng Windows' và bật «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Khử tiếng gió</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Âm thanh xung quanh</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Âm lượng âm thanh xung quanh</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Âm lượng càng cao, âm thanh xung quanh càng lớn.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Tập trung giọng nói</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Tiếng ồn xung quanh sẽ được giảm và giọng nói sẽ được nghe rõ hơn.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Lưu cài đặt</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Lưu các tùy chỉnh âm thanh xung quanh vào bộ nhớ của tai nghe.</value>
   </data>
 </root>
