@@ -814,4 +814,134 @@
   <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
     <value>2 つのデバイスを一度にヘッドフォンに接続できます。 適用するにはAirPodsの工場出荷時設定へのリセットが必要です。</value>
   </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>マルチポイントモード</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>ノーマルモード</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>風切り音の低減</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>適用するにはAirPodsの工場出荷時設定へのリセットが必要です。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>風切り音低減感度</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>低い</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>高さ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>音声制御</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>ゲームモード</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>偽のヘッドフォンにタグを付ける</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>偽物のヘッドフォンかもしれない</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>AirPodsをケースに入れて蓋を開け、ボタンを10秒ほど押します。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>風キャンセル</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>周囲の音</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>周囲の音量</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>値が大きいほど、周囲の音がよく聞こえます。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>人の声が聞こえ、周囲の騒音が抑制されます。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>設定を保存する</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>適用するにはAirPodsの工場出荷時設定へのリセットが必要です。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>アプリケーションページで Windows 設定を開き、«スタートアップ» に移動し、«{0}» を有効にします。</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>スタートアップに移動</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>スタートアップを手動で無効にする</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>アップデートを確認</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>イコライザ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>設定を変更する前に音楽をオンにしてください。</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>偽AirPodsのショーウィンドウ</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>偽の AirPods が Bluetooth デバイスのリストにある場合、そのポップアップ ウィンドウを表示または非表示にします。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>ケース音</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>ライブ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>シネマステレオ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>ステージのリズム</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>クラシック</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>利用可能なアップデート</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>ここをクリックして Microsoft ストアにアクセスしてください。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>左右の AirPod を 5 回押して起動することもできます。</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>ヘッドフォンの設定に偽物であるという警告を表示します。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>工場出荷時設定にリセット</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>ハンズフリーを自動無効にする</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>ヘッドフォンがハンズフリー モードに切り替わらないようにするには、ヘッドフォンを接続した後、ハンズフリーを無効にします。 マイクが動作しなくなります。 オプションをオフにすると、ハンズフリー サービスが再び有効になります。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>AirPods をケースに置き、ケースの蓋を開いたままにして、ケースのライトが消えるまで待ちます。 オプションをオフ/オンにして、ケースの蓋を開いたまま AirPods を引き出し、少なくとも 2 秒待ってから再度 AirPods をケースに置き、ケースのライトが消えるまで待ちます。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>グループポリシーによってスタートアップが無効になっています</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>声に焦点を当てる</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>周囲の音の設定をヘッドフォンのメモリに保存します。</value>
+  </data>
 </root>
