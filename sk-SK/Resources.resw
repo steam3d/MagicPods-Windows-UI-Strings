@@ -89,7 +89,7 @@
     <value>Spustenie zakázané zásadami skupiny alebo nie je v tomto zariadení podporované.</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>Povolenie spúšťania</value>
+    <value>Povoliť spustenie</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Odísť</value>
@@ -152,13 +152,13 @@
     <value>Hlasitosť sa zníži, keď vyberiete jedno slúchadlo z ucha, alebo sa obnoví, keď vyberiete/nasadíte obe slúchadlá.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
-    <value>Okruh vyhľadávania AirPods</value>
+    <value>Okruh vyhľadávania slúchadiel AirPods</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Ak sa okno nezobrazí, otvorte puzdro so slúchadlami AirPods vo vnútri a plynulo posúvajte jazdec doprava, kým sa nezobrazí animácia.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Zobrazenie alebo skrytie tlačidla "Pripojiť" vo vyskakovacom okne. Stlačením tlačidla pripojíte AirPods.</value>
+    <value>Zobrazenie alebo skrytie tlačidla "Pripojiť" vo vyskakovacom okne. Stlačením tlačidla pripojíte slúchadlá AirPods.</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
     <value>Automaticky sa pripojí k slúchadlám AirPods, keď pravé alebo ľavé slúchadlo AirPods vyberiete z puzdra.</value>
@@ -219,7 +219,7 @@
     <value>Rýchle vyhľadávanie</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
-    <value>Spustiť pri spustení</value>
+    <value>Spustenie aplikácie po štarte systému</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Túto funkciu môžete povoliť alebo zakázať v karte Spustenie v Správcovi úloh.</value>
@@ -239,7 +239,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Reštartujte aplikácie, aby sa uplatnili zmeny.</value>
+    <value>Reštartujte aplikáciu na vykonanie zmien.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Zobrazenie stavu batérie</value>
@@ -259,7 +259,7 @@
     <value>Všetky nastavenia budú obnovené. Prajete si pokračovať?</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Nepodarilo sa pripojiť AirPods. Skúste sa pripojiť manuálne.</value>
+    <value>Nepodarilo sa pripojiť slúchadlá. Skúste ich pripojiť manuálne.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>Áno, obnoviť nastavenia</value>
@@ -272,7 +272,7 @@
     <value>Použiť</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Nepripomínať</value>
+    <value>Ignorovať</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
     <value>Spustenie</value>
@@ -296,7 +296,7 @@
     <value>Nie každá aplikácia z tohto listu podporuje zasielanie notifikácií, niektoré aplikácie nemusia byť v liste zobrazené.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Pre lepší užívateľský zážitok, odporúčame nastaviť spúšťanie aplikácie po štarte systému. Toto nastavenie môžete vykonať v správcovi úloh v záložke «Spustenie».</value>
+    <value>Pre lepší užívateľský zážitok, odporúčame povoliť spustenie aplikácie po štarte systému. Toto nastavenie môžete vykonať v správcovi úloh v záložke «Spustenie».</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Nasledujte tento postup pre vyriešenie problému.</value>
@@ -305,7 +305,7 @@
     <value>Nastavenia aplikácie</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>Pre lepší používateľský zážitok, odporúčame povoliť spúšťanie aplikácie po štarte systému.</value>
+    <value>Pre lepší používateľský zážitok, odporúčame povoliť spustenie aplikácie po štarte systému.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Vypnúť</value>
@@ -332,7 +332,7 @@
     <value>MagicPods podporuje väčšinu slúchadiel AirPods a Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Priložte puzdro s AirPods čo najbližšie k počítaču a otvorte ho</value>
+    <value>Priložte puzdro AirPods čo najbližšie k počítaču a otvorte ho</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Ďalej</value>
@@ -356,13 +356,13 @@
     <value>Použiť jazyk zariadenia</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>Prehrávanie sa pozastaví a hlasitosť sa zníži, keď si vyberiete jedno AirPods z ucha, alebo sa zastaví a hlasitosť sa obnoví, keď obe slúchadlá AirPod vyberiete.</value>
+    <value>Prehrávanie sa pozastaví a hlasitosť sa zníži, keď si vyberiete jedno slúchadlo AirPods z ucha, alebo sa zastaví a hlasitosť sa obnoví, keď obe slúchadlá AirPods vyberiete.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Zatvoriť</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
-    <value>Hľadajú sa AirPods</value>
+    <value>Hľadajú sa slúchadlá AirPods</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>Pozícia okna</value>
@@ -389,7 +389,7 @@
     <value>Zadajte klávesovú skratku</value>
   </data>
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Vrátane kláves Win, Shift, Alt alebo Ctrl</value>
+    <value>Musí obsahovať klávesu Win, Shift, Alt alebo Ctrl</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>Odobrať klávesovú skratku</value>
@@ -440,10 +440,10 @@
     <value>Motív</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
-    <value>Schopnosti AirPods</value>
+    <value>Kompatibilita slúchadiel AirPods</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
-    <value>Windows motív</value>
+    <value>Motív okna</value>
   </data>
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Použiť nastavenie systému</value>
@@ -527,7 +527,7 @@
     <value>Zmeniť obrázok</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Pridajte AirPods do zoznamu Windows Bluetooth zariadení</value>
+    <value>Pridajte slúchadlá AirPods do zoznamu Windows Bluetooth zariadení</value>
   </data>
   <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>V spodnom pravom rohu</value>
@@ -566,7 +566,7 @@
     <value>Nekonečné vyhľadávanie</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
-    <value>Nemôžem nájsť AirPody</value>
+    <value>Nebolo možné nájsť slúchadlá AirPods</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
     <value>Zapnúť</value>
@@ -608,7 +608,7 @@
     <value>Podpora a komunita</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
-    <value>Rýchlo preložiť text pomocou hotkey</value>
+    <value>Rýchlo preložte text pomocou klávesovej skratky</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Zobraziť okno</value>
@@ -620,10 +620,10 @@
     <value>Naučte sa viac</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
-    <value>Zmeniť hotkey pre výstup zvuku</value>
+    <value>Klávesová skratka pre zmenu výstupu zvuku</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
-    <value>Stlačenie hotkey zmení výstup zvuku.</value>
+    <value>Stlačením klávesovej skratky zmeníte výstup zvuku.</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>Žiadne spárovanie zariadenia alebo Bluetooth je vypnutý</value>
@@ -650,16 +650,16 @@
     <value>Pripojte sa do našej komunity, nahláste chyby, dostávajte novinky a aktualizácie a diskusie</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
-    <value>Reštartujte aplikáciu, aby sa uložili zmeny.</value>
+    <value>Reštartujte aplikáciu na vykonanie zmien.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
     <value>Obrázok reproduktoru</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
-    <value>Zmeniť tlačidlo hotkey pre potláčanie hluku</value>
+    <value>Klávesová skratka pre zmenu potlačenia hluku</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
-    <value>Použite obe AirPody pred použitím.</value>
+    <value>Použite obe slúchadlá AirPods pred použitím.</value>
   </data>
   <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
     <value>Pripojte slúchadla pre viac možností prispôsobenia</value>
@@ -740,7 +740,7 @@
     <value>Stredné</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
-    <value>Stredné</value>
+    <value>Stredná</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
     <value>Zatvoriť</value>
@@ -759,5 +759,192 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Potlačanie hluku</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Je dostupná aktualizácia</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Kliknite sem pre presmerovanie do obchodu Microsoft Store.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Premávka</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Meditácia</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Citlivosť ľavého AirPodu</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Citlivosť pravého AirPodu</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Rýchlejšie</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Ovládanie potlačenia hluku (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Ovládanie potlačenia hluku (ANC/Vyp./Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Rýchlosť stlačenia</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Stlačením klávesovej skratky zmeníte režim potlačenia hluku.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Nadstavte rýchlosť stlačenia Pravého a Ľavého AirPodu pre vyvolanie dvojkliku alebo trojkliku.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Sledovanie hlavy</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Pomalšie</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Zníženie šumu vetra</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Citlivosť zníženia šumu vetra</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Ovládanie hlasom</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>Je možné ho aktivovať päťklikom Pravého alebo Ľavého AirPodu.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Zistenie falošných slúchadiel</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Dlhé stlačenie</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Kratší</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Dlhší</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Vylepšené viacbodové pripojenie</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Normálny režim</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Viacbodový režim</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Herný režim</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Nadstavte čas Pravého a Ľavého AirPodu pre vyvolanie dlhého stlačenia.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Nízka</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Vysoká</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>Je možné že slúchadlá sú falošné</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>Továrenské nadstavenia</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>Pre aktiváciu je nutné resetovať slúchadlá AirPods do továrenských nadstavení.</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Skontrolovať aktualizácie</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Otvorte nastavenia Windows na stránke Aplikácie, prejdite do kategórie "Spustenie" a povoľte «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Otvoriť Spustenie</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Spustenie je zakázané zásadami skupiny</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Spustenie bolo manuálne vypnuté</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Zvuky okolia</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Hlasitosť zvukov okolia</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Čím vyššia hodnota, tým lepšie môžete počuť zvuky okolia.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Sústredenie na hlas</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Ekvalizér</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Uložiť nastavenia</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Hlasy ľudí bude počuť a okolitý hluk bude potlačený.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Uložte nadstavenia zvukov okolia do pamäte slúchadiel.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Zobraziť okno pre napodobeniny slúchadiel AirPods</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>Zvuky puzdra</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Živé predstavenie</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Stereo v kine</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Klasická hudba</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Javiskový rytmus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>Pre aktiváciu je nutné resetovať slúchadlá AirPods do továrenských nadstavení.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Zobraziť varovanie o falošných slúchadlách v nadstaveniach.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Funkcia Handsfree (hlasová komunikácia) nebude dostupná. Nevypínajte Handsfree ručne. Reštartujte aplikáciu na vykonanie zmien.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Automatické vypnutie Handsfree</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Zapnite hudbu pred zmenou nadstavení.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Vložte slúchadlá AirPods do puzdra, nechajte kryt otvorený a stlačte tlačidlo po dobu 10 sekúnd.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>Vložte slúchadlá AirPods do puzdra, nechajte kryt otvorený a počkajte kým dióda puzdra neprestane svietiť. Vypnite alebo zapnite túto možnosť, vytiahnite slúchadlá AirPods zatiaľ čo je puzdro otvorené, počkajte najmenej 2 sekundy, opäť vložte slúchadlá AirPods do puzdra a počkajte kým dióda puzdra neprestane svietiť.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Umožní pripojiť slúchadlá na dve zariadenia naraz. Pre aktiváciu je nutné resetovať slúchadlá AirPods do továrenských nadstavení.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Zobraziť alebo skryť vyskakovacie okno pre napodobeniny slúchadiel AirPody ak sú uvedené v liste Bluetooth zariadení.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Potlačenie šumu vetra</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Po pripojení slúchadiel vypnite Handsfree aby sa predišlo prepnutiu do režimu Handsfree. Mikrofón prestane fungovať. Vypnutím tejto možnosti opäť povolíte služby Handsfree.</value>
   </data>
 </root>
