@@ -275,7 +275,7 @@
     <value>تمام تنظیمات بازنشانی خواهند شد.دامه دهید؟</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>مهم نیست.</value>
+    <value>مهم نیست</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>MagicPods اکثر مدل‌های AirPods و هدست‌‌های Beats رو پشتیبانی میکند</value>
@@ -320,7 +320,7 @@
     <value>موقعیت پنچره</value>
   </data>
   <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
-    <value>پایین سمت راست</value>
+    <value>گوشه پایین سمت راست</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>هنگام درآوردن هر دو AirPods از گوش خروجی صدا به سیستم تغییر کند.</value>
@@ -704,7 +704,7 @@
     <value>ورژن کلاسیک بلوتوث، پشتیبانی نمیشود</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
-    <value>یک Bluetooth adapter با قابلیت پشتیبانی از ورژن کلاسیک بلوتوث را متصل کنید و برنامه را مجددا راه اندازی کنید.</value>
+    <value>یک Bluetooth adapter با قابلیت پشتیبانی از ورژن کلاسیک بلوتوث را متصل کنید و برنامه را مجددا راه اندازی کنید</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
     <value>یک Bluetooth adapter با قابلیت پشتیبانی از Bluetooth LE متصل کرده و برنامه را مجددا راه اندازی کنید</value>
@@ -734,7 +734,7 @@
     <value>بازگشت به تنظیمات اولیه</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
-    <value>فشردن کلید های ویژه از طریق پخش کننده های صدا.</value>
+    <value>فشردن کلید های ویژه از طریق خروجی های صدا.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
     <value>تصویر اسپیکر</value>
@@ -750,5 +750,189 @@
   </data>
   <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
     <value>قسمت کنترل لمسی AirPod راست را فشار داده و نگه دارید</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>تنظیم دقیق سرعت فشردن (دوبار یا سه بار) هدفون سمت چپ و راست.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>متوسط</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>آرام تر</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>فشار و نگاه داشتن</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>کوتاه تر</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>متوسط</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>طولانی تر</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>بهبود اتصال چند نقطه ای</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>حالت عادی</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>کم کردن نویز باد</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>حساسیت مربوط به کم کردن نویز باد</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>کم</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>متوسط</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>زیاد</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>کنترل صدا</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>حالت بازی</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>فعال سازی با پنج بار فشردن هدفون راست یا چپ.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>شناسایی هدفون های تقلبی</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>نمایش اخطار در تنظیمات هدفون های تقلبی.</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>احتمال دارد که این هدفون تقلبی باشد</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>بازگشت به تنظیمات کارخانه</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>هدفون خود را در کیس بگذارید، در کیس را باز کنید و دکمه را برای حدود 10 ثانیه نگه دارید.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>خاموش</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>نویز کنسلیشن</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>کنسل کردن نویز باد</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>صدای محیط</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>حجم صدای محیطی</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>هرچه این مقدار بیشتر باشد، محیط بهتر شنیده می شود.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>تمرکز روی صدا</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>ذخیره تنظیمات</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>تنظیمات صدای محیط را در حافظه هدفون ذخیره کنید.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>راه اندازی توسط خط مشی گروه غیرفعال شد</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>لغو</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>تنظیمات ویندوز را در صفحه برنامه باز کنید، به «Startup» بروید و «{0}» را فعال کنید.</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>به Startup بروید</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>راه اندازی به صورت دستی غیرفعال شد</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>به روز رسانی را بررسی کنید</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>صدای کیس</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>اکولایزر</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>قبل از تغییر تنظیمات موزیک را پخش کنید.</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>به روز رسانی موجود است</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>برای رفتن به فروشگاه مایکروسافت اینجا را کلیک کنید.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>اجرای زنده</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>استریو سینما</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>کلاسیک</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>سریع تر</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>تنظیم زمان فشار و نگه داشتن هدفون چپ و راست.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>اجازه میدهد دو دستگاه همزمان به هدفون شما متصل شوند. برای اعمال نیاز به راه اندازی مجدد با تنظیمات کارخانه هست.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>چند حالته</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>برای اعمال نیازمند راه اندازی مجدد با تنظیمات کارخانه است.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>برای اعمالAirpods نیازمند راه اندازی مجدد با تنظیمات کارخانه دارد.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>غیر فعال سازی خودکار هندزفری</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>غیر فعال سازی هندزفری پس از اتصال هدفون به منظور جلوگیری از تغییر خودکار به حالت هندزفری. میکروفون از کار خواهد افتاد. خاموش کردن این گزینه حالت هندزفری را دوباره فعال میکند.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>نمایش پنجره برای هدفون های تقلبی</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>نمایش یا عدم نمایش پنجره برای هدفون های تقلبی اگر در لیست دستگاه های بلوتوث بودند.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>AirPods را در کیس قرار دهید، درب کیس را باز نگه دارید و منتظر بمانید تا چراغ کیس خاموش شود. گزینه را خاموش/روشن کنید، AirPods را در حالی که درب کیس را باز نگه داشته اید بیرون بکشید، حداقل 2 ثانیه صبر کنید و دوباره AirPods را در قاب قرار دهید و منتظر بمانید تا چراغ کیس خاموش شود.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>ریتم صحنه</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>بستن</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>راه اندازی توسط خط مشی گروه غیرفعال شده است یا در این دستگاه پشتیبانی نمی شود.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>نویز کنسلیشن</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>صدای مردم شنیده می شود و سر و صدای محیط سرکوب می شود.</value>
   </data>
 </root>
