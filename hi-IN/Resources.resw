@@ -133,7 +133,7 @@
     <value>समस्या की रिपोर्ट करें</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>आप इसे शुरू या बंद कर सकते है टास्क मॅनेजर के स्टार्टाप ऑप्षन मे.</value>
+    <value>विंडोज़ शुरू होने पर एप्लिकेशन का लॉन्च सक्षम या अक्षम करें।।</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
     <value>एयरपॉड्स के लिए खोज समय कम करता है। इसे तब चालू करें जब आप सुनिश्चित हों कि आपके आस-पास कोई और एयरपॉड्स का उपयोग नहीं कर रहा है।</value>
@@ -665,7 +665,7 @@
     <value>प्रायोगिक विशेषता</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>हेडफ़ोन का हैंड्स-फ़्री फ़ंक्शन (आवाज़ संचार) उपलब्ध नहीं होगा। हैंड्स-फ़्री को मैन्युअल रूप से अक्षम न करें। परिवर्तनों को लागू करने के लिए एप्लिकेशन को पुनरारंभ करें</value>
+    <value>हेडफोन का हैंड्सफ्री फ़ंक्शन (आवाज संवाद) उपलब्ध नहीं होगा।. कृपया हैंड्सफ्री को मैन्युअली बंद न करें।. परिवर्तन लागू करने के लिए एप्लिकेशन को रीस्टार्ट करें।।</value>
   </data>
   <data name="Buttons_LearnMore.Content" xml:space="preserve">
     <value>और जाने</value>
@@ -687,5 +687,116 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>बंद</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>ध्वनि आउटपुट स्विच करने के लिए बटन</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>अधिक अनुकूलन के लिए अपने हेडफ़ोन को कनेक्ट करें।.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>माइक्रोप्रोसेसर</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>फर्मवेयर</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>यह माइक्रोप्रोसेसर अभी तक समर्थित नहीं है।.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>शोर कमी</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>शोर कमी</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>पारदर्शिता</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>शोर समाप्ति फ़िल्टर</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>यातायात</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>इनडोर</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>शोर समाप्ति बदलने के लिए बटन</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>हेड ट्रैकिंग</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>उपयोग से पहले दोनों AirPods पहनें।।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>स्थिर</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>हेड ट्रैक्ड</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>बाईं AirPod दबाएं और धरें</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>दाएं AirPod दबाएं और धरें</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>आवाज सहायक</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>शोर सेटिंग नियंत्रण (ANC/Off/Tran)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>बाईं AirPod संवेदनशीलता</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>दाएं AirPod संवेदनशीलता</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>दबाने की गति</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>तेज</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>धीमा</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>लॉन्ग प्रेस</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>छोटा</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>मध्यम</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>अधिक</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>बढ़ाई गई मल्टीपॉइंट कनेक्शन</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>मध्यम</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>ध्यान</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>इस बटन को दबाने से शोर समाप्ति मोड बदल जाता है।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>शोर सेटिंग नियंत्रण</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>बाईं AirPod और दाएं AirPod को दो या तीन बार दबाने के लिए आवश्यक गति को समायोजित करें।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>बाईं AirPod और दाएं AirPod को दबाएं और धरें का समय समायोजित करें।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>आपको अपने हेडफ़ोन को एक साथ दो डिवाइसों से कनेक्ट करने की अनुमति देता है। लागू करने के लिए AirPods को फैक्टरी रीसेट करना आवश्यक है।</value>
   </data>
 </root>
