@@ -1151,4 +1151,37 @@
   <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
     <value>將 AirPods 放入充電盒中，保持充電盒蓋打開，等待充電盒指示燈熄滅。 關閉/開啟該選項，在保持盒蓋打開的情況下拉出 AirPods，等待至少 2 秒，然後將 AirPods 再次放入盒中，然後等待盒指示燈熄滅。</value>
   </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>降噪</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>降噪</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>風噪消除</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>環境聲模式</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>環境聲音量</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>數值越高，環境聲音越清晰。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>通話加强</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>人聲能被聽到，環境噪音會被抑制。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>保存設置</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>保存環境音設定至耳機中。</value>
+  </data>
 </root>
