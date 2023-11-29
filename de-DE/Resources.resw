@@ -925,7 +925,7 @@
     <value>Platziere die AirPods im Gehäuse, lasse den Deckel geöffnet und warte bis das Licht am Gehäuse ausgeht. Schalte die Option ein/aus, nimm die AirPods aus dem Gehäuse während es noch geöffnet ist, warte 2 Sekunden und platziere sie wieder im Gehäuse. Warte anschließend bis das Licht ausgeht.</value>
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
-    <value>Live show</value>
+    <value>direkt anzeige</value>
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
     <value>Cinematisches Stereo</value>
@@ -966,5 +966,35 @@
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
     <value>Öffne die Windows Einstellungen auf der Anwendungsseite, gehe zu «Hochfahren» und aktivere «{0}».</value>
     <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Lautstärke der Umgebungsgeräusche</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Je höher der Wert ist, desto besser kann die Umgebung wahrgenommen werden.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Auf Stimme fokussieren</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Die Stimme von Menschen wird wahrnehmbar, während Umgebungsgeräusche ausgeblendet werden.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Einstellungen speichern</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Auf Updates prüfen</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Update verfügbar</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Hier klicken, um den Microsoft Store zu besuchen.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Start Manuell deaktiviert</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Speichern Sie die Umgebungsgeräuscheinstellungen im Speicher der Kopfhörer.</value>
   </data>
 </root>
