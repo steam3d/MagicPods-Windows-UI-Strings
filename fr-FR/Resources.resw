@@ -496,25 +496,25 @@
     <value>Connexions multiples</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>Deux paires d'écouteurs ou plus sont connectées, n'en laissez qu'une seule connectée</value>
+    <value>Deux paires d'écouteurs ou plus sont connectées, ne laissez qu'une seule connectée</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
     <value>Connexion</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
-    <value>Déconnexion</value>
+    <value>Déconnecter</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
     <value>Mettre en pause la lecture après déconnexion des écouteurs.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
-    <value>Afficher une notification quand le niveau de batterie des écouteurs est en dessous de la valeur spécifiée.</value>
+    <value>Affiche une notification quand le niveau de batterie des écouteurs est inférieur à la valeur spécifiée.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
-    <value>Désactivé</value>
+    <value>Désactiver</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
-    <value>Désactivé</value>
+    <value>Désactiver</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
     <value>Redémarrer</value>
@@ -523,7 +523,7 @@
     <value>Une erreur inattendue s'est produite</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Redémarrez l'application peut régler le problème. S'il persiste, essayez de redémarrer votre appareil.</value>
+    <value>Le redémarrage de l'application peut régler le problème. S'il persiste, essayez de redémarrer votre appareil.</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Tapez un raccourci clavier</value>
@@ -972,5 +972,29 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Annulation active du bruit</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Annulation du vent</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Son ambient</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Volume son ambiant</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Plus la valeur est élevée, plus le son ambiant peut être entendu.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Les voix seront audibles et les bruits ambiants seront supprimés.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Mise en avant des voix</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Sauvegarder les paramètres</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Sauvegarde les paramètres des sons ambiants sur la mémoire des écouteurs.</value>
   </data>
 </root>
