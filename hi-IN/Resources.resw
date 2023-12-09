@@ -799,4 +799,152 @@
   <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
     <value>आपको अपने हेडफ़ोन को एक साथ दो डिवाइसों से कनेक्ट करने की अनुमति देता है। लागू करने के लिए AirPods को फैक्टरी रीसेट करना आवश्यक है।</value>
   </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>खेल मोड</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>मल्टीपॉइंट मोड</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>सामान्य मोड</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>हवा के शोर में कमी</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>लागू करने के लिए AirPods फ़ैक्टरी रीसेट आवश्यक है।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>हवा के शोर में कमी की संवेदनशीलता</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>लागू करने के लिए AirPods फ़ैक्टरी रीसेट आवश्यक है।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>कम</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>मध्यम</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>ऊंचाई</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>आवाज नियंत्रण</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>नकली हेडफ़ोन को टैग करना</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>हेडफ़ोन सेटिंग में चेतावनी दिखाएं कि वे नकली हैं।</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>शोर रद्द</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>शोर रद्द</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>पवन रद्दीकरण</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>परिवेशीय ध्वनि</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>परिवेशीय ध्वनि की मात्रा</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>मूल्य जितना अधिक होगा, परिवेश को उतना ही बेहतर सुना जा सकेगा।</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>आवाज पर ध्यान दें</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>लोगों की आवाजें सुनी जाएंगी और आसपास के शोर को दबा दिया जाएगा।</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>सेटिंग्स सेव करें</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>बंद करना</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>स्टार्टअप समूह नीति द्वारा अक्षम है, या इस डिवाइस पर समर्थित नहीं है।</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>समूह नीति द्वारा स्टार्टअप अक्षम किया गया</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>रद्द करना</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>एप्लिकेशन पेज पर विंडोज़ सेटिंग्स खोलें, "स्टार्टअप" पर जाएं और "{0}" सक्षम करें।</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>स्टार्टअप पर जाएं</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>अद्यतन के लिए जाँच</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>हैंड्सफ्री को स्वतः अक्षम करें</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>तुल्यकारक</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>सेटिंग बदलने से पहले संगीत चालू करें।</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>नकली AirPods के लिए विंडो दिखाएँ</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>यदि नकली एयरपॉड ब्लूटूथ डिवाइस की सूची में हैं तो उनके लिए पॉप-अप विंडो दिखाएं या छिपाएं।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>केस लगता है</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>लाइव शो</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>सिनेमा स्टीरियो</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>स्टेज लय</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>क्लासिक</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>उपलब्ध अद्यतन</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>माइक्रोसॉफ्ट स्टोर पर जाने के लिए यहां क्लिक करें।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>इसे AirPod को बाएं या दाएं पांच बार दबाकर भी सक्रिय किया जा सकता है।</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>यह नकली हेडफ़ोन हो सकता है</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>नए यंत्र जैसी सेटिंग</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>एयरपॉड्स को केस में रखें, ढक्कन खोलें और फिर बटन को लगभग 10 सेकंड तक दबाएँ।</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>हेडफ़ोन को हैंड्सफ़्री मोड में जाने से रोकने के लिए हेडफ़ोन कनेक्ट करने के बाद हैंड्सफ़्री को अक्षम करें। माइक्रोफ़ोन काम करना बंद कर देगा. विकल्प को बंद करने से हैंड्सफ्री सेवा एक बार फिर से सक्षम हो जाएगी।</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>एयरपॉड्स को केस में रखें, केस का ढक्कन खुला रखें और केस की लाइट बंद होने तक प्रतीक्षा करें। विकल्प को बंद/चालू करें, केस का ढक्कन खुला रखते हुए AirPods को बाहर निकालें, कम से कम 2 सेकंड प्रतीक्षा करें और AirPods को फिर से केस में रखें, और केस की लाइट बंद होने तक प्रतीक्षा करें।</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>स्टार्टअप मैन्युअल रूप से अक्षम किया गया</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>हेडफ़ोन की मेमोरी में परिवेशीय ध्वनि सेटिंग्स सहेजें।</value>
+  </data>
 </root>
