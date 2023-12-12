@@ -193,7 +193,7 @@
     <value>Başlangıçta çalıştır</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Bunu, Görev Yöneticisindeki Başlangıç sekmesinden etkinleştirebilir veya devre dışı bırakabilirsiniz.</value>
+    <value>Uygulamanın Windows başlatıldığında başlatılmasını etkinleştirin veya devre dışı bırakın.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Başlangıç, grup politikası tarafından devre dışı bırakıldı veya bu cihazda desteklenmiyor.</value>
@@ -360,7 +360,7 @@
     <value>Sol üst köşe</value>
   </data>
   <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
-    <value>Orta</value>
+    <value>Merkez</value>
   </data>
   <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>Sol alt köşe</value>
@@ -958,5 +958,48 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Kapalı</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Güncelleştirme mevcut</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Microsoft Mağazasına gitmek için burayı tıklayın.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Uygulama sayfasında Windows ayarlarını açın, «Başlangıç» bölümüne gidin ve «{0}» seçeneğini etkinleştirin.</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Başlangıça git</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Güncelleştirmeleri Denetle</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Rüzgar engelleici</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Ortam Sesi (ambient sound)</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Ortam Sesi seviyesi</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Ayarları kaydet</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Ortam sesi ayarlarını kulaklığın belleğine kaydedin.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Başlatma el ile devre dışı bırakıldı</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Değer ne kadar yüksek olursa ortam o kadar iyi duyulabilir.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Konuşmaya odaklan</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>İnsanların sesleri daha belirgin hale gelir ve ortam gürültüsü azaltılır.</value>
   </data>
 </root>
