@@ -975,4 +975,26 @@
   <data name="Notification_Updates_Header" xml:space="preserve">
     <value>Er is een update beschikbaar</value>
   </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Opstart uitgeschakeld door groep beleid , of niet ondersteund op dit toestel.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Opstart uitgeschakeld door groeps beleid</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Ga naar Opstart</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Opstart manueel uitgeschakeld</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Toonregelaar</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Toon venster voor nep AirPods</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Open de Windows-instellingen op de applicatiepagina, ga naar «Opstarten» en schakel «{0}» in.</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
 </root>
