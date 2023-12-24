@@ -141,7 +141,7 @@
     <value>Madaltaa AirPodien hakuaikaa. Kytke päälle mikäli olet varma, ettei kukaan lähistöllä käytä AirPodeja.</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Voit aktivoida tai deaktivoida tämän Startup välilehdellä Tehtävienhallinnassa.</value>
+    <value>Aktivoi tai deaktivoi ohjelman käynnistys kun Windows käynnistyy.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Äänenvoimakkuus laskee kun poistat toisen AirPodin korvastasi, tai palautuu kun poistat tai laitat molemmat AirPodit.</value>
@@ -291,10 +291,10 @@
     <value>Läpikuuluminen</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
-    <value>Melunvaimennus</value>
+    <value>Vastamelu</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
-    <value>Melunvaimennus</value>
+    <value>Vastamelu</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Pois päältä</value>
@@ -643,5 +643,309 @@
   </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
     <value>Suoratoistolaitteen yhdistäminen epäonnistui. Varmista, että Bluetooth on käytössä suoratoistolaitteessa.</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Käännä ohjelma</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Yhteisö</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Liity yhteisöömme, ilmoita bugeista, pysy kuulolla uutisista ja päivityksistä ja keskusteluja</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Tuki ja yhteisö</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Käännä teksti nopeasti pikanäppäimellä</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Näytä ikkuna</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Palauta oletusasetukset</value>
+  </data>
+  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+    <value>Lue lisää</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Vaihda äänilähdön pikanäppäin</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Melunvaimennussuodatin</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>Yhdistä kuulokkeet saadaksesi lisää kustomointeja</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Siru</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>Laiteohjelmisto</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>Sirua ei vielä tueta</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Sisätila</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Meditaatio</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Vaihda melunvaimennuksen pikanäppäin</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Liikenne</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Pikanäppäimen painaminen selaa melunvaimennustiloja.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>Pään seuranta</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>Käytä molempia AirPodeja ennen käyttöä.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Korjattu</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Pää seurattu</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Paina ja pidä painettuna vasenta AirPodia</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Paina ja pidä painettuna oikeaa AirPodia</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Ääniavustaja</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Melunhallinta (ANC/Off/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Vasemman AirPodin herkkyys</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Oikean AirPodin herkkyys</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Painamisnopeus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Nopeampi</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Hitaampi</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Pitkä painallus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Säädä painamisen ja pitämisen aikaa vasempaan ja oikeaan AirPodiin.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Lyhyempi</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Parannettu multipoint yhteys</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Multipoint-tila</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Normaalitila</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Tuulenvaimennus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Tuulenvaimennuksen herkkyys</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Matala</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Korkea</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Puheohjaus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Pelitila</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>Se voidaan aktivoida myös painamalla viisi kertaa vasempaa tai oikeaa AirPodia.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Väärennettyjen kuulokkeiden merkitseminen</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>Voivat olla väärennetyt kuulokkeet</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>Tehdasasetusten palautus</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Aseta AirPodit koteloon, avaa kansi ja paina painiketta noin 10 sekuntia.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Toistolaite</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Äänilähtö</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Näytä ponnahdusikkuna, kun äänilähtö vaihdetaan.</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>Keski ylä</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>Keski ala</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Näytä akun varaustaso</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Ei yhdistettyjä laitteita tai Bluetooth on pois päältä</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Kuulokkeiden Handsfree-toiminto (ääniviestintä) ei ole käytettävissä. Älä poista Handsfree-toimintoa manuaalisesti. Ota muutokset käyttöön käynnistämällä sovellus uudelleen.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Ympäristön äänien äänenvoimakkuus</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Mitä suurempi arvo, sitä paremmin ympäristön äänet kuuluvat.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Keskity ääneen</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Ihmisten äänet kuullaan ja ympäristön melu vaimennetaan.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Tallenna asetukset</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Tallenna ympäristön ääniasetukset kuulokkeiden muistiin.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Tuulen poisto</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Taustamelu</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Sulje</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Käynnistys on poistettu käytöstä ryhmäpolitiikan vuoksi tai sitä ei tueta tässä laitteessa.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Käynnistys poistettu käytöstä ryhmäkäytännön vuoksi</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Peruuta</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Avaa Windowsin asetukset Sovelluksen sivulla, siirry kohtaan «Käynnistys» ja ota käyttöön «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Siirry kohtaan Käynnistys</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Käynnistys poistettu käytöstä manuaalisesti</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Tarkista päivitykset</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>Vaatii AirPods-tehdasasetusten palautuksen, jotta voidaan käyttää.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>Vaatii AirPods-tehdasasetusten palautuksen, jotta voidaan käyttää.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>Kotelon äänet</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Handsfreen automaattinen poisto</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Poista Handsfree käytöstä kuulokkeiden liittämisen jälkeen, jotta kuulokkeet eivät vaihtaisi Handsfree-tilaan. Mikrofoni lakkaa toimimasta. Asetuksen poistaminen käytöstä ottaa Handsfree-toiminnon jälleen käyttöön.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Taajuuskorjain</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Kytke musiikki päälle ennen asetuksen muuttamista.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Näytä ikkuna väärennetyille AirPod-laitteille</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Näytä tai piilota ponnahdusikkuna väärennetyille AirPod-laitteille, jos ne ovat Bluetooth-laitteiden luettelossa.</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Päivitys saatavilla</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Klikkaa tätä siirtyäksesi Microsoft Storeen.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Live esitys</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Elokuva stereo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Lavarytmi</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Klassinen</value>
+  </data>
+  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+    <value>Kokeellinen ominaisuus</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Ota muutokset käyttöön käynnistämällä sovellus uudelleen.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Pikanäppäimen painaminen selaa äänilähtöjä.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Kaiuttimen kuva</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Melunhallinta (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Säädä vasemman ja oikean AirPodin painamisnopeutta, kun painetaan kaksi tai kolme kertaa.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Pidempi</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Voit liittää kuulokkeihisi kaksi laitetta kerrallaan. Vaatii AirPods-tehdasasetusten palautuksen, jotta voidaan käyttää.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Näytä kuulokkeiden asetuksissa varoitus, että ne ovat väärennettyjä.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>Aseta AirPodsit koteloon, pidä kotelon kansi auki ja odota, että kotelon valo sammuu. Kytke asetus pois/päälle, vedä AirPodsit ulos pitäen kotelon kansi auki, odota vähintään 2 sekuntia ja aseta AirPodsit uudelleen koteloon ja odota, että kotelon valo sammuu.</value>
   </data>
 </root>
