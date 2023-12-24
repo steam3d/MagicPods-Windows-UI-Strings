@@ -59,22 +59,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
-    <value>ขนาดใหญ่</value>
+    <value>ใหญ่</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
-    <value>แจ้งเตือน</value>
+    <value>โปรดระวัง</value>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
-    <value>หน้าต่าง สถานะ</value>
+    <value>หน้าต่างป๊อปอัพ</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>แสดงหน้าต่าง</value>
+    <value>เปิดหน้าข้อมูล</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
-    <value>ขนาดของหน้าต่าง สถานะ</value>
+    <value>ขนาดหน้าต่าง</value>
   </data>
   <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
-    <value>ขนาดกลาง</value>
+    <value>กลาง</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>ลดระดับเสียง</value>
@@ -265,7 +265,7 @@
     <value>เพิ่มเสียงใหม่</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>คืนค่าการตั้งค่า</value>
+    <value>ลบการตั้งค่าทั้งหมด</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>การค้นหาที่ไม่มีที่สิ้นสุด</value>
@@ -295,7 +295,7 @@
     <value>การตั้งค่าแอพพลิเคชั่น</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
-    <value>ตรวจจับ ใบหู</value>
+    <value>การตรวจจับหู</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>ทั้งสองอย่าง (ลดระดับเสียง + เล่น/หยุดชั่วคราว)</value>
@@ -336,7 +336,7 @@
     <value>ฟีเจอร์ "การแจ้งเตือน VoiceOver" ปิดอยู่ ไม่สามารถเข้าถึงการแจ้งเตือนได้ โปรดเปิด «ความเป็นส่วนตัวและการแจ้งเตือน»‎ อนุญาตการเข้าถึงการแจ้งเตือน จากนั้นเปิด "การแจ้งเตือน VoiceOver"</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>AirPods เหลือแบตเตอรี่ {0}% ชาร์จไฟ AirPods ของคุณ</value>
+    <value>หูฟังแอร์พรอด เหลือแบตเตอรี่ {0}% โปรดชาร์จไฟ หูฟังแอร์พรอด ของคุณ</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Text_Help" xml:space="preserve">
@@ -367,10 +367,10 @@
     <value>เพื่อประสบการณ์การใช้งานที่ดีที่สุด เราขอแนะนำให้คุณเปิดใช้งานการเริ่มต้นระบบ คุณสามารถทำได้จากแท็บ «เริ่มต้น» ในตัวจัดการงาน</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>แสดง หรือ ซ่อน หน้าต่างสถานะ ,เมื่อเปิดใช้งานอุปกรณ์</value>
+    <value>มีหน้าหูฟังแอร์พรอดเด้งโชว์ขึนมาเหมืนไอโฟน,เวลาที่คุณเปิดเคสของแอร์พรอด</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>คุณสามารถเปิดหรือปิดใช้งานสิ่งนี้ได้ในแท็บเริ่มต้นในหน้าต่างจัดการงาน</value>
+    <value>เปิดหรือปิดใช้งานการเปิดตัวแอปพลิเคชันเมื่อ Windows เริ่มทำงาน</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>แอปพลิเคชันจะถูกปิดและฟังก์ชันทั้งหมดจะถูกปิดใช้งาน</value>
@@ -391,7 +391,7 @@
     <value>การตั้งค่าทั้งหมดจะถูกรีเซ็ต คุณต้องการดำเนินการต่อหรือไม่?</value>
   </data>
   <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
-    <value>ขนาดเล็ก</value>
+    <value>เล็ก</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
     <value>ความไวในการตอบสนองต่อเสียง</value>
@@ -629,7 +629,7 @@
     <value>กลางล่าง</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>ฟังก์ชันแฮนด์ฟรี (การสื่อสารด้วยเสียง) ของหูฟังจะไม่สามารถใช้งานได้ อย่าปิดการใช้งานแฮนด์ฟรีด้วยตนเอง รีสตาร์ทแอปพลิเคชันเพื่อใช้การเปลี่ยนแปลง</value>
+    <value>ฟังก์ชันแฮนด์ฟรี (การสื่อสารด้วยเสียง) หากไม่การตอบสนองหรือใช้งานไม่ได้ ให้ทำการตัดการเชื่อมต่อและเชื่อมต่อหูฟังใหม่อีกรอบ</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
     <value>เชื่อมต่ออะแดปเตอร์บลูทูธที่รองรับ Bluetooth Classic และเริ่มแอปพลิเคชั่นใหม่</value>
@@ -824,6 +824,124 @@
     <value>โหมดตัดเสียง</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>ปิด</value>
+    <value>ปิดโหมด</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>อัปเดตพร้อมใช้งาน</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>คลิกที่นี่เพื่อไปที่ ร้านค้าของ Microsoft</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>การรับส่งข้อมูล</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>กดปุ่มลัดที่ตั้งค่าเพื่อตัดเสียงรบกวนรอบด้าน</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>การเชื่อมต่อหลายจุดที่ได้รับการปรับปรุง</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>ปรับระดับเสียงพูด</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>ระบุว่าเป็นหูฟังปลอม</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>โชว์การแจ้งเตือนหากตรวจสอบพบหูฟังปลอม</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>อาจเป็นหูฟังปลอม</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>การเริ่มต้นถูกปิดใช้งานโดยนโยบายกลุ่ม</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>เปิดการตั้งค่า Windows บนหน้าแอปพลิเคชัน ไปที่ "Startup" และเปิดใช้งาน "{0}"</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>ไปที่ปุ่มเริ่มต้น</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>การเริ่มต้นปิดใช้งานด้วยตนเอง</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>ตรวจสอบสำหรับการอัพเดต</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>ปิดการใช้งานแฮนด์ฟรีอัตโนมัติ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>อีควอไลเซอร์</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>เปิดเพลงก่อนที่จะเปลี่ยนการตั้งค่า</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>การแสดงสด</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>โรงภาพยนต์ สเตอริโอ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>การแสดงหน้าเวที</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>รูปแบบเดิมๆ</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>ตัดรายละเอียดเสียงลมเข้ามา</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>เสียงรอบข้าง</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>ระดับเสียงรอบข้าง</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>เน้นเสียงร้อง</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>เสียงบุคคลดังมากขนาดไหน ระบบตัดเสียงรบกวนจะทำงานมากขึ้น</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>บันทึกการทั้งค่า</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>บันทึกการตั้งค่าการตัดเสียรบกวนในหูฟัง</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>การตั้งค่าปุ่มละหูฟังซ้าย และขวา โดยการกดปุ่มเหูฟังสองถึงสามครั้ง</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>หากคุณใช้งานการเชื่อมต่อหูฟังเครื่องอื่นด้วย โปรดยกเลิกการเชื่อมต่อเครื่องอื่นและเริ่มตั้งค่าการเชื่อมต่อใหม่</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>ปิดการใช้งานแฮนด์ฟรีหลังจากเชื่อมต่อหูฟังเพื่อป้องกันไม่ให้หูฟังสลับไปเป็นโหมดแฮนด์ฟรี ไมโครโฟนจะหยุดทำงาน การปิดตัวเลือกจะเป็นการเปิดใช้บริการแฮนด์ฟรีอีกครั้ง</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>แสดงหน้าต่างแจ้งเตือนสำหรับหูฟังปลอม</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>แสดงหรือซ่อนหน้าต่างป๊อปอัปสำหรับ AirPods ปลอม หากอยู่ในรายการอุปกรณ์ Bluetooth</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>ยิ่งค่าสูงเท่าใด เสียงรบกวนรอบข้างยิ่งมากเท่านั้น</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>ปรับความเร็วในการกดปุ่มโดยการกดปุ่มหูฟังซ้ายและขวาค้างไว้</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>นอกจากนี้ยังสามารถเปิดใช้งานได้ด้วยการกด AirPod ซ้ายหรือขวาห้าครั้ง</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>วาง AirPods ไว้ในเคส เปิดฝา จากนั้นกดปุ่มประมาณ 10 วินาที</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>แสดงหรือซ่อนหน้าต่างป๊อปอัปสำหรับ AirPods ปลอม หากอยู่ในรายการอุปกรณ์ Bluetooth</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>วาง AirPods ไว้ในเคส เปิดฝาเคสไว้ และรอให้ไฟเคสดับลง ปิด/เปิดตัวเลือก ดึง AirPods ออกมาในขณะที่เปิดฝาเคสไว้ รออย่างน้อย 2 วินาทีแล้ววาง AirPods ไว้ในเคสอีกครั้ง และรอให้ไฟเคสดับลง</value>
   </data>
 </root>
