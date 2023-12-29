@@ -93,7 +93,7 @@
     <value>Mała</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>Przywróć domyślne</value>
+    <value>Przywróć</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Wznów/Zatrzymaj odtwarzanie</value>
@@ -120,7 +120,7 @@
     <value>Szybkie wyszukiwanie</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Zmniejsza czas wyszukiwania AirPods-ów. Włącz tylko gdy nikt w pobliżu nie używa innych AirPods'ów.</value>
+    <value>Zmniejsza czas wyszukiwania AirPods'ów. Włącz tylko gdy nikt w pobliżu nie używa innych AirPods'ów.</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Uruchamianie</value>
@@ -244,10 +244,10 @@
     <value>Automatyczne odtwarzanie</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
-    <value>Wszystkie ustawienia zostaną zresetowane. Czy chcesz kontynuować?</value>
+    <value>Wszystkie ustawienia zostaną przywrócone do wartości fabrycznych. Czy chcesz kontynuować?</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>Tak, zresetuj</value>
+    <value>Tak, przywróć</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>Wskazówek</value>
@@ -259,13 +259,13 @@
     <value>Ignoruj</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Dodaj AirPods-y do swoich urządzeń Bluetooth w systemie Windows</value>
+    <value>Dodaj AirPods'y do swoich urządzeń Bluetooth w systemie Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>MagicPods posiada wsparcie większości słuchawek z serii AirPods oraz Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Przytrzymaj etui AirPods-ów blisko komputera i otwórz je</value>
+    <value>Przytrzymaj etui AirPods'ów blisko komputera i otwórz je</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Dalej</value>
@@ -641,7 +641,7 @@
     <value>Społeczność</value>
   </data>
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
-    <value>Dołącz do naszej społeczności, zgłaszaj błędy, bądź na bieżąco z newsami, aktualizacjami i dyskusjami</value>
+    <value>Dołącz do naszej społeczności, zgłaszaj błędy, bądź na bieżąco z wiadomościami, aktualizacjami i dyskusjami</value>
   </data>
   <data name="Settings_Header_Support.Header" xml:space="preserve">
     <value>Wsparcie i społeczność</value>
@@ -656,7 +656,7 @@
     <value>Funkcja eksperymentalna</value>
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
-    <value>Przywróć domyślne ustawienia</value>
+    <value>Przywróć ustawienia domyślne</value>
   </data>
   <data name="Buttons_LearnMore.Content" xml:space="preserve">
     <value>Dowiedz się więcej</value>
@@ -698,7 +698,7 @@
     <value>Wyłącz</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
-    <value>Tryb transparentny</value>
+    <value>Tryb kontaktu</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
     <value>Filtr usuwania szumów</value>
@@ -719,7 +719,7 @@
     <value>Śledzenie ruchu głowy</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
-    <value>Włóż obie słuchawki Airpods przed użyciem.</value>
+    <value>Włóż obie słuchawki AirPods przed użyciem.</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>Wyłącz</value>
@@ -731,10 +731,10 @@
     <value>Śledzenie ruchów głowy</value>
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
-    <value>Naciśnij i przytrzymaj lewą słuchawkę Airpods</value>
+    <value>Naciśnij i przytrzymaj lewą słuchawkę AirPods</value>
   </data>
   <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
-    <value>Naciśnij i przytrzymaj prawą słuchawkę Airpods</value>
+    <value>Naciśnij i przytrzymaj prawą słuchawkę AirPods</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
     <value>Regulacja hałasu (ANC/Tran.)</value>
@@ -743,7 +743,7 @@
     <value>Regulacja hałasu (ANC/wyłącz/Tran.)</value>
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
-    <value>Wrażliwość lewej słuchawki Airpods</value>
+    <value>Wrażliwość lewej słuchawki AirPods</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
     <value>Prędkość naciśnięcia</value>
@@ -821,22 +821,22 @@
     <value>Ustawienia fabryczne</value>
   </data>
   <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
-    <value>Włóż AirPods-y do etui, otwórz pokrywkę i naciśnij przycisk przez około 10 sekund.</value>
+    <value>Włóż AirPods'y do etui, otwórz pokrywkę i naciśnij przycisk przez około 10 sekund.</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
-    <value>Aby zatwierdzić wymagane przywrócenie Airpods-ów do ustawień fabrycznych.</value>
+    <value>Wymagane przywrócenie AirPods'ów do ustawien fabrycznych.</value>
   </data>
   <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
     <value>Chip nie jest jeszcze obsługiwany</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
-    <value>Naciśniecie skrótu klawiszowego przełącza tryby wyciszenia otoczenia.</value>
+    <value>Naciśnięcie skrótu klawiszowego przełącza tryby wyciszenia otoczenia.</value>
   </data>
   <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
-    <value>Wrażliwość prawej słuchawki Airpods</value>
+    <value>Wrażliwość prawej słuchawki AirPods</value>
   </data>
   <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
-    <value>Dostosuj czas naciśnięcia i przytrzymania lewej i prawej słuchawki Airpods.</value>
+    <value>Dostosuj czas naciśnięcia i przytrzymania lewej i prawej słuchawki AirPods.</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
     <value>Aby zatwierdzić wymagane przywrócenie Airpods-ów do ustawień fabrycznych.</value>
@@ -919,5 +919,29 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Redukcja szumów</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Redukcja hałasu wiatru</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Dźwięki otoczenia</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Głośność dźwięków otoczenia</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Koncentracja na głosie</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Zapisz ustawienia</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Zapisz ustawienia dźwięków otoczenia do pamięci wewnętrznej słuchawek.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Im wyższa wartość, tym lepiej słychać otoczenie.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Głosy ludzi będą słyszalne, a hałas otoczenia zostanie stłumiony.</value>
   </data>
 </root>
