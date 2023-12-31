@@ -448,4 +448,77 @@
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Isključeno</value>
   </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Višestruka konekcija</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Dvoje ili više slušalica povezano, ostavite samo jedne povezane</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Povezivanje</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Prekini vezu</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Prekidanje veze</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Slučaj</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Punjenje</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Prevedi</value>
+    <comment>Last used 2.0.45.0</comment>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Onemogućeno</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Onemogućeno</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>Podešavanja aplikacije</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Pipni ili klikni ovde da podesiš</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Ponovo pokretanje aplikacije može rešiti problem. Ako je problem idalje tu pokušajte ponovo pokretanje kompjutera.</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Pokreni ponovo</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Ukucajte prečicu</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Obuhvatiti Win, Shift, Alt ili Ctrl dugme</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Uklonite prečicu</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Pauziraj reprodukciju nakon prekidanja veze sa slučalicama.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Obaveštenje o niskoj bateriji</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Desio se neočekivani problem</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Automatska pauza</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+    <value>Mogućnosti AirPods-a</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+    <value>Sakrij</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>Preuzmi</value>
+  </data>
 </root>
