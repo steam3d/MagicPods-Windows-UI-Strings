@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>电量剩余{0}%，请及时为您的耳机充电。</value>
+    <value>电量剩余 {0}%，请为您的耳机充电。</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
@@ -229,7 +229,7 @@
     <value>显示弹窗</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>是否在您打开充电盒时显示或隐藏像iPhone上一样的弹窗动画。</value>
+    <value>当您打开充电盒时，显示或隐藏类似 iPhone 上的弹窗。</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>弹窗尺寸</value>
