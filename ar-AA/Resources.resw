@@ -93,22 +93,22 @@
     <value>إعادة ضبط الإعدادات</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
-    <value>كشف الأذن</value>
+    <value>اكتشاف الأذن</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>تشغيل/وقف</value>
+    <value>تشغيل/ايقاف</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>كٍلا (خفض الصوت + تشغيل/توقيف)</value>
+    <value>كلاهما (خفض الصوت + تشغيل/توقيف)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
-    <value>تخفيض الصوت</value>
+    <value>خفض الصوت</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
-    <value>أخري</value>
+    <value>أخرى</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
-    <value>زمن إستجابة قليل</value>
+    <value>تقليل زمن استجابة الصوت</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>طلب المساعدة</value>
@@ -132,20 +132,20 @@
     <value>إيقاف</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>يتوقف التشغيل مؤقتًا عند إزالة سماعة AirPod واحدة أو يتوقف عند إزالة كليهما.</value>
+    <value>يتوقف تشغيل الصوت تلقائيا عند إزالة سماعة AirPod واحدة أو يتوقف عند إزالة كلا السماعتين.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
     <value>بحث سريع</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>مفيد عند العمل مع برنامج "Premiere Pro" او "Audition". يحتاج لاعادة ربط السماعات بعد تشغيله. قد يستهلك اكثر من البطارية.</value>
+    <value>مفيد عند العمل مع برنامج "Premiere Pro" او "Audition". يحتاج لإعادة ربط السماعات بعد تشغيله. قد يستهلك اكثر من البطارية.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>اظهار نسبة شحن البطاريه</value>
+    <value>أظهر نسبة شحن البطارية</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>بدء</value>
+    <value>البدء</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>تشغيل عند بدء التشغيل</value>
@@ -155,10 +155,10 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>أعد تشغيل التطبيق لتطبيق التغيرات.</value>
+    <value>أعد تشغيل التطبيق لتطبيق التغيبرات.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>تم تعطيل بدء التشغيل حسب نهج المجموعة، أو غير مدعوم على هذا الجهاز.</value>
+    <value>تم تعطيل بدء التشغيل حسب نهج المجموعة، أو بدئ التشغيل غير مدعوم على هذا الجهاز.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>أيقونة خيارات النظام</value>
@@ -168,10 +168,10 @@
     <value>تفعيل أو تعطيل تشغيل التطبيق عند بدء تشغيل ويندوز.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>ينخفض مستوى الصوت عند إزالة AirPods واحد من أذنك ، أو يستعيد الصوت عند إزالة / وضع كلا AirPods.</value>
+    <value>ينخفض مستوى الصوت عند إزالة ايربودز واحدة من أذنك، أو يستعاد الصوت عند إزالة أو وضع كلاهما.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
-    <value>قائمة المشغلات المدعومات</value>
+    <value>قائمة المشغلات المدعومة</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>اظهر زر الربط</value>
@@ -239,14 +239,14 @@
     <comment>Not used now</comment>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
-    <value>الاعدادات العامة</value>
+    <value>الإعدادات العامة</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>الميزات التجريبية</value>
+    <value>المميزات التجريبية</value>
     <comment>Not used now</comment>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
-    <value>اغلق البرنامج</value>
+    <value>أغلق البرنامج</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>مدى بحث الايربودز</value>
@@ -258,7 +258,7 @@
     <value>تلميح</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>لا تقم بتعيين قيمة أكبر من 65 ، فقد تظهر الرسوم المتحركة بدون قصد.</value>
+    <value>لا تقم بتعيين قيمة أكبر من 65، فقد تظهر الرسوم المتحركة بدون قصد.</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>سيتم إغلاق التطبيق وتعطيل جميع الوظائف.</value>
@@ -276,7 +276,7 @@
     <value>الدعم</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>قلل وقت البحث للايربودز. شغل الخيار عندما تكون متأكد لا يوجد احد قريب يقوم بأستخدام ايربودز.</value>
+    <value>يقلل من وقت البحث للايربودز. شغل الخيار عندما تكون متأكد من عدم وجود أحد قريب يقوم بإستخدام الايربودز.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>إذا لم تظهر النافذة ، فافتح الغطاء مع وجود الايربودز بالداخل وحرك شريط التمرير بسلاسة إلى اليمين حتى تظهر الرسوم المتحركة.</value>
@@ -566,7 +566,7 @@
     <value>لا يوجد اجهزة مرتبطة، او البلوتوث مغلق في الجهاز</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>عرض متوسط نسبة البطارية لسماعات الرأس المتصلة.</value>
+    <value>إعرض متوسط نسبة البطارية لسماعات الرأس المتصلة.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
     <value>مجال البحث - المجال الذي سيبحث فيه الكمبيوتر عن علبة AirPods مفتوحة.</value>
@@ -716,13 +716,13 @@
     <value>التأمل</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
-    <value>تغيير مفتاح الاختصار لإلغاء الضوضاء</value>
+    <value>مفتاح الاختصار لتشغيل إلغاء الضوضاء</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
     <value>تعقب الرأس</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>إيقاف التشغيل</value>
+    <value>إيقاف</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>ثابت</value>
@@ -834,5 +834,117 @@
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
     <value>عرض مباشر</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>يمكن أيضا التفعيل بالضغط خمسة مرات على إحدى سماعات الايربودز.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>تم إكتشاف سماعات رأس مزيفة</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>أظهر تحذيرا في اعدادات سماعات الرأس يظهر أنها مزيفة.</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>ممكن أن تكون سماعات الرأس مزيفة</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>أظهر النافذة للسماعات المزيفة</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>أظهر أو أخفي النوافذ المنبثفة لسماعات الايربودز المزيفة اذا كانت في قائمة أجهزة Bluetooth.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>ضع الايربودز في العلبة, وثم افتح غطاء العلبةو اضغط على الزر الخلفي للعبة لمدة 10 ثواني.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>أصوات العلبة</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>ضع الايربودز في العلبة، وأبق غطاء العلبة مفتوحًا وانتظر حتى ينطفئ ضوء العلبة. قم بإيقاف هذا الخيار ثم تشغيله مرة أخرى، واسحب الايربودز للخارج مع إبقاء غطاء العلبة مفتوحًا، وانتظر ثانيتين على الأقل ثم ضع الايربودز في العلبة مرة أخرى، وانتظر حتى ينطفئ ضوء العلبة.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>بدء التشغيل معطل من قبل سياسة المجموعة</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>تم تعطيل بدء التشغيل حسب نهج المجموعة، أو غير مدعوم على هذا الجهاز.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>أغلق</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>الغاء</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>إذهب إلى بدء التشغيل</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>بدء التشغيل معطل يدويا</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>تحقق من التحديثات</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>عزل الصوت</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>عزل الصوت</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>عزل الرياح</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>الصوت المحيط</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>إيقاف</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>مستوى الصوت المحيط</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>كلما ارتفعت القيمة، كان من الممكن سماع الاصوات المحيطة بشكل أفضل.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>ركز على الصوت</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>سيتم سماع أصوات الناس وسيتم عزل الضوضاء المحيطة.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>احفظ الإعدادات</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>احفظ إعدادات الصوت المحيط في ذاكرة سماعات الرأس.</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>هناك تحديث متوفر</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>إضغط هنا للذهاب لمتجر Microsoft Store.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>يجب إعادة تعيين إعدادات المصنع للتفعيل.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>قم بتعطيل Handsfree بعد توصيل سماعات الرأس لمنع سماعات الرأس من التبديل إلى وضع Handsfree. سيتوقف الميكروفون عن العمل. سيؤدي إيقاف تشغيل الخيار إلى تمكين خدمة Handsfree مرة أخرى.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>المعادل</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>قم بتشغيل الموسيقى قبل القيام بتغيير الإعدادات.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>افتح إعدادات Windows على صفحة التطبيق وعند خيار «بدء التشغيل» قم بتمكين «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>ستيريو السينما</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>إيقاع المسرح</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>تقليدي</value>
   </data>
 </root>
