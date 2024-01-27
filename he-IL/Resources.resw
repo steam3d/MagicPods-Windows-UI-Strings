@@ -566,7 +566,7 @@
     <value>שחזר תמונה</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
-    <value>הפעלה</value>
+    <value>להפעיל</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
     <value>לא נמצאו מכשירי Bluetooth</value>
@@ -584,7 +584,7 @@
     <value>נא לחבר מתאם Bluetooth עם תמיכה בBluetooth קלאסי, והפעל מחדש את האפליקציה</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
-    <value>יש שגיאה באתחול מתאם הBluetooth</value>
+    <value>שגיאת אתחול מתאם Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
     <value>הפעלה מחדש של האפליקציה עשויה לעזור</value>
@@ -910,5 +910,14 @@
   </data>
   <data name="Notification_Updates_Description" xml:space="preserve">
     <value>לחץ כאן על מנת ללכת לחנות Microsoft.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>הפחתת רעש</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>כיבוי</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>הפחתת רעש</value>
   </data>
 </root>
