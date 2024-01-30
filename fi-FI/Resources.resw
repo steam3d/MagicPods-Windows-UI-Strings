@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
-    <value>Korvan tunnistus</value>
+    <value>Korvantunnistus</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% akkua jäljellä. Lataa kuulokkeet.</value>
@@ -69,7 +69,7 @@
     <value>Varoitus</value>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
-    <value>Ponnahdus ikkuna</value>
+    <value>Ponnahdusikkuna</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Näytä ikkuna</value>
@@ -96,7 +96,7 @@
     <value>Vähennä äänenvoimakkuutta</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
-    <value>Aja käynnistyksessä</value>
+    <value>Kytke päälle käynnistyksessä</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Näytä tai piilota ponnahdusikkuna kuten iPhonessa, kun avaat kotelon kannen.</value>
@@ -129,7 +129,7 @@
     <value>Molemmat (Pienennä voimakkuutta + Toista/Tauko)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Toisto keskeytetään kun yksi AirPodi poistetaan ja lopetetaan kun molemmat AirPodit poistetaan.</value>
+    <value>Toisto keskeytetään kun yksi AirPod poistetaan ja lopetetaan kun molemmat AirPodit poistetaan.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Hanki apua</value>
@@ -150,10 +150,10 @@
     <value>Raportoi ongelma</value>
   </data>
   <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
-    <value>Virheenkorjaus loki</value>
+    <value>Virheenkorjausloki</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Käynnistys deaktivoitu ryhmä politiikan vuoksi, tai se ei ole tuettu tällä laitteella.</value>
+    <value>Käynnistys deaktivoitu ryhmäkäytännön vuoksi, tai se ei ole tuettu tällä laitteella.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Tyyli</value>
@@ -182,11 +182,11 @@
     <value>Käynnistä sovellus uudelleen ottaaksesi muutokset käyttöön.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Näytä akun varaus kuvakkeessa</value>
+    <value>Näytä akunvaraus kuvakkeessa</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Näyttää keskiarvon yhdistettyjen kuulokkeiden akun varauksesta.</value>
+    <value>Näyttää keskiarvon yhdistettyjen kuulokkeiden akunvarauksista.</value>
     <comment>Changed</comment>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
@@ -201,7 +201,7 @@
     <comment>Not used now</comment>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
-    <value>Matala äänen viive</value>
+    <value>Matala äänenviive</value>
   </data>
   <data name="Text_No" xml:space="preserve">
     <value>Ei</value>
@@ -231,16 +231,16 @@
     <value>Lista tuetuista soittimista</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
-    <value>AirPodien haku alue</value>
+    <value>AirPodien hakualue</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
-    <value>Mikä on haku alue?</value>
+    <value>Mikä on hakualue?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>Vinkki</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Älä aseta suurempaa arvoa kuin 65, koska joissain tapauksissa animaatio saattaa ilmaantua vahingossa.</value>
+    <value>Älä aseta suurempaa arvoa kuin 65, joissain tapauksissa animaatio saattaa ilmaantua vahingossa.</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Yhdistäminen epäonnistui. Kokeile yhdistää kuulokkeet manuaalisesti.</value>
@@ -249,7 +249,7 @@
     <value>Ohita</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Käytännöllinen käytettäessä Premiere Prota tai Auditionia. Vaatii AirPodsien uudelleenyhdistämisen. Voi lisätä akun kulutusta.</value>
+    <value>Käytännöllinen käytettäessä Premiere Prota tai Auditionia. Vaatii AirPodien uudelleenyhdistämisen. Mahdollisesti lisää akun kulutusta.</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>Käytä</value>
@@ -396,7 +396,7 @@
     <value>Jos ikkuna ei tule näkyviin, avaa kotelo, jossa AirPodit ovat sisällä, ja liu'uta liukusäädintä oikealle, kunnes animaatio tulee näkyviin.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Näytä «Yhdistät»-painike</value>
+    <value>Näytä «Yhdistä»-painike</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Näytä tai piilota «Yhdistä»-painike ponnahdusikkunassa. Painikkeen painaminen yhdistää AirPodit.</value>
