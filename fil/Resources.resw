@@ -96,13 +96,13 @@
     <comment>Not used now</comment>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
-    <value>Mababang latency ng audio</value>
+    <value>Mababang latency ng tunog</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Humingi ng tulong</value>
   </data>
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
-    <value>I-report ng isyu</value>
+    <value>I-report ang isyu</value>
   </data>
   <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
     <value>Ang debug log</value>
@@ -120,7 +120,7 @@
     <value>buksan ang program pagka bukas ng laptop/pc</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Maari mo itong paganahin o hindi paganahin sa startup tab ng Task manager.</value>
+    <value>Paganahin ang application pagkabukas ng Windows.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Na-disable ang startup ayon sa group policy, o hindi sinusuportahan sa device na ito.</value>
@@ -247,7 +247,7 @@
     <value>Ang pag-playback ay humihinto kapag ang isang AirPod ay tinanggal o huminto kapag pareho ang tinanggal.</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Kapaki-pakinabang kapag ginagamit sa Premiere Pro o Audition. Nangangailangan ng muling pagkonekta sa mga AirPod pagkatapos i-on. Maaari nitong mapataas ang pagkonsumo ng baterya.</value>
+    <value>Makakatulong ito tuwing ginagamit sa Premiere Pro o Audition. Kailangang muling mag-reconnect sa AirPods pagkatapos i-on. Maaari nitong mapabilis ang pagkonsumo ng baterya.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Ipinapakita ang average na porsyento ng baterya ng mga nakakonektang headphone.</value>
@@ -271,7 +271,7 @@
     <value>Nabigo ang pagkonekta sa mga headphone. Subukang kumonekta nang manu-mano.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>Ang pag playback ay nag pause at ang lakas ng tunog ay bumababa kapag tinanggal mo ang isang AirPod mula sa iyong tainga, o tumitigil at ang lakas ng tunog ay nagpapanumbalik kapag tinanggal mo ang parehong AirPod.</value>
+    <value>Hihinto ang tumutugtog at hihina ang volume kapag tinanggal ang isang AirPods sa tenga, o titigil at lalakas ang volume kapag tinanggal ang magkabilang AirPods.</value>
   </data>
   <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>Itaas na Kaliwang Sulok</value>
@@ -814,5 +814,135 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Naka patay</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Pagkansela ng ingay</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Pagkansela ng ingay</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Pagkansela ng hangin</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Tunog ng kapaligiran</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Lebel ng tunog ng kapaligiran</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Kung mas mataas ang lebel, mas maririnig ang kapaligiran.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Tumutok sa boses</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Maririnig ang boses ng mga tao pero di maririnig ang ingay sa paligid.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>I-save ang settings</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>I-save ang settings ng tunog ng paligid sa memory ng headphones.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Na-disable ang startup ayon sa patakaran ng grupo</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Pumunta sa Startup</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Manu-manong na-disable ang startup</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Tingnan ang mga update</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Pag-stream ng audio</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Aparato na pang-stream</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Output ng tunog</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Komunidad</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Larawan ng speaker</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Chip</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>Firmware</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+    <value>Pagkansela ng ingay</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Pagkansela ng ingay</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Aninaw na Tunog</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Filter sa pagkansela ng ingay</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Trapiko</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>Pagsubaybay sa ulo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Nasubaybayan ang ulo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Assistant na boses</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Multipoint mode</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Normal na mode</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Kontrol ng boses</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Mode sa paglalaro</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>I-reset ng buo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Hight</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Equalizer</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Stereo ng sine</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Ritmo ng entablado</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Klasiko</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Mag-click dito upang pumunta sa Microsoft Store.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Buksan ang Windows settings sa pahina ng Application, pumunta sa «Startup» at paganahin ang «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Available ang update</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Live na palabas</value>
   </data>
 </root>
