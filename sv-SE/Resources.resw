@@ -898,4 +898,50 @@
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Brusreducering</value>
   </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Uppdatering tillgänglig</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Klicka här för att gå till Microsoft Store.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Start inaktiverad av grupprincip</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Öppna Windows-inställningar, gå in på Appar, välj Autostart, och aktivera «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Gå till Autostart</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Kolla efter uppdateringar</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Autostart inaktiverad manuellt</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>vindreduktion</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Bakgrundsljud</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Volym för bakgrundsljud</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Ju högre värde, desto bättre hörs bakgrundsljud.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Fokusera på röst</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Spara inställningar</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Människors röster kommer kunna höras och bakgrundsljud kommer reduceras.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Spara inställningar för bakgrundsljud i hörlurarnas minne.</value>
+  </data>
 </root>
