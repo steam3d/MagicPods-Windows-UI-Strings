@@ -154,7 +154,7 @@
     <value>Faible latence audio</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Utile lorsque vous travaillez dans Premiere Pro ou Audition. Nécessite de reconnecter les AirPods après leur mise sous tension. Ceci peut augmenter la consommation de la batterie.</value>
+    <value>Utile lorsque vous travaillez dans Premiere Pro ou Audition. Nécessite de reconnecter les AirPods après leur allumage. Ceci peut augmenter la consommation de la batterie.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Obtenir de l'aide</value>
@@ -190,7 +190,7 @@
     <value>Masquer l'icône</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Redémarrez l'application pour appliquer les changements.</value>
+    <value>Redémarrez l'application pour appliquer les modifications.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Afficher le pourcentage de batterie</value>
@@ -229,7 +229,7 @@
     <value>Afficher la fenêtre</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>Afficher ou cacher la fenêtre pop-up comme sur un iPhone, quand le boîtier est ouvert.</value>
+    <value>Afficher ou cacher la fenêtre pop-up comme sur un iPhone, lorsque vous ouvrez le boîtier.</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Taille de la fenêtre</value>
@@ -996,5 +996,8 @@
   </data>
   <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
     <value>Sauvegarde les paramètres des sons ambiants sur la mémoire des écouteurs.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Ajoutez un peu de magie à vos écouteurs</value>
   </data>
 </root>
