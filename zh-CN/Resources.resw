@@ -136,7 +136,7 @@
     <value>还原设置</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
-    <value>入耳检测</value>
+    <value>人耳检测</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>播放/暂停</value>
@@ -154,7 +154,7 @@
     <value>低延迟音频</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>在与 Premiere Pro 或 Audition 协作时显得非常实用。开启后需要重新连接 AirPods ，此功能可能会增加电量消耗。</value>
+    <value>当 Premiere Pro 或 Audition 运行时会很有用。开启后需重新连接 AirPods ，此功能可能会增加电量消耗。</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>获取帮助</value>
@@ -169,37 +169,37 @@
     <value>快速搜索</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>减少搜索 AirPods 所需的时间。当您附近没有其他人使用 AirPods 时启用此功能。</value>
+    <value>用于减少搜索 AirPods 所需的时间。建议您附近没有其他人使用 AirPods 时启用此功能。</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>启动项</value>
+    <value>自启动</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
-    <value>开机自动运行</value>
+    <value>开机自启动</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>启用或禁用在 Windows 启动时启动应用程序。</value>
+    <value>开启或关闭在 Windows 启动时一并启动应用程序。</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>启动项被组策略禁用，或者此设备不支持。</value>
+    <value>自启动被组策略禁用，或是在此设备上不支持。</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
-    <value>任务栏图标</value>
+    <value>托盘图标</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
-    <value>隐藏图标</value>
+    <value>隐藏托盘图标</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>重新启动此应用程序以应用设置。</value>
+    <value>重启程序以应用更改。</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>显示 AirPods 剩余电量</value>
+    <value>显示剩余电量</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>当耳机连接时，显示平均剩余电量。</value>
+    <value>显示已连接耳机的平均剩余电量。</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
-    <value>电量显示样式</value>
+    <value>显示样式</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>图标</value>
@@ -208,7 +208,7 @@
     <value>文字</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>开机自启动</value>
+    <value>允许开机自启</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>退出</value>
@@ -232,10 +232,10 @@
     <value>当您打开充电盒时，显示或隐藏类似 iPhone 上的弹窗。</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
-    <value>弹窗尺寸</value>
+    <value>弹窗大小</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>后台播放将自动在您取下任意 AirPods 时停止。</value>
+    <value>人耳检测将自动在您取下任意 AirPods 时停止媒体播放。</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
     <value>电量信息</value>
