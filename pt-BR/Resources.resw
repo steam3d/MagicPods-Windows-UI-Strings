@@ -248,7 +248,7 @@
     <value>Configurações gerais</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>Funcionalidades experimentais</value>
+    <value>Recursos experimentais</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>Fechar MagicPods</value>
@@ -420,7 +420,7 @@
     <value>Narrar de todas as notificações</value>
   </data>
   <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
-    <value>Mostrar todas as aplicações</value>
+    <value>Mostrar todas os aplicativos</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>Para a melhor experiência do usuário, recomendamos que você habilite a execução na inicialização. Você pode fazer isso na guia "Inicializar" no Gerenciador de Tarefas.</value>
@@ -955,5 +955,54 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Cancelamento de ruído</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Inicialização desativada por política de grupo</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Cancelamento de vento</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Som ambiente</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Abra as configurações do Windows na pagina Aplicação, vá para «Inicialização» e ative «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Vá para Inicialização</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Inicialização desativada manualmente</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Buscar atualizações</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Volume do som ambiente</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Quanto maior o valor, melhor o ambiente pode ser ouvido.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Foco na voz</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Salvar configurações</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Salvar configurações do som ambiente para a memória dos fones de ouvido.</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Atualização disponível</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Clique aqui para ir até a Microsoft Store.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>As vozes das pessoas serão ouvidas e o ruído ambiente será suprimido.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Adiciona um pouco de magia nos seus fones de ouvido</value>
   </data>
 </root>
