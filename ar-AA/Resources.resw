@@ -75,7 +75,7 @@
     <value>أظهر النافذة</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>إظهار أو إخفاء النافذة المنبثقة كما على آيفون,عند فتح غطاء السماعات.</value>
+    <value>إظهار أو إخفاء النافذة المنبثقة كما على آيفون، عند فتح غطاء السماعات.</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>حجم النافذة</value>
@@ -138,7 +138,7 @@
     <value>بحث سريع</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>مفيد عند العمل مع برنامج "Premiere Pro" او "Audition". يحتاج لإعادة ربط السماعات بعد تشغيله. قد يستهلك اكثر من البطارية.</value>
+    <value>مفيد عند العمل مع برنامج "Premiere Pro" او "Audition". يحتاج لإعادة ربط السماعات بعد تشغيله. قد يزيد من إستهلاك البطارية.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>أظهر نسبة شحن البطارية</value>
@@ -189,7 +189,7 @@
     <value>أرسل الأمر «تشغيل» بعد توصيل سماعات الرأس. إذا لم يكن هناك مشغلين آخرين، فسيتجاهل Windows الأمر.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>نعم, قم بأعادة الاعدادات</value>
+    <value>نعم، قم بأعادة الاعدادات</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>تلميح</value>
@@ -285,7 +285,7 @@
     <value>إظهار أو إخفاء الزر "اتصال" في النافذة المنبثقة. سيؤدي الضغط على الزر إلى توصيل AirPods.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
-    <value>جميع الاعدادات سوف تعاد, هل تريد التكملة؟</value>
+    <value>جميع الاعدادات سوف تعاد، هل تريد التكملة؟</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
     <value>يتوقف التشغيل مؤقتًا وينخفض مستوى الصوت عندما تزيل ايربودز واحد من أذنك ، أو يتوقف ويستعيد مستوى الصوت عند إزالة كل من AirPods.</value>
@@ -946,5 +946,8 @@
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>تقليدي</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>أضف بعض اللمسات إلى سماعاتك</value>
   </data>
 </root>
