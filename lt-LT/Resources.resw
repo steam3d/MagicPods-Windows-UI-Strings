@@ -449,7 +449,7 @@
     <value>Sutrumpina AirPods paieškos laiką. Įjunkite šia funkcija, jei esate įsitikinę, kad niekas kitas šalia nesinaudoja AirPods ausinėmis.</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Šia funkcija galite įjungti arba išjungti užduočių tvarkyklės skirtuke Paleistis.</value>
+    <value>Įgalinkite arba išjunkite programos paleidimą, kai paleidžiama „Windows“.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Paleistis išjungta dėl grupinės strategijos arba ji nepalaikoma šiame įrenginyje.</value>
@@ -726,5 +726,26 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>Aplinkos garsas</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>Norėdami daugiau tinkinti, prijunkite ausines</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Lustas</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>Programinės įrangos versija</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>Lustas dar nepalaikomas</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Triukšmo slopinimo filtras</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Eismo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Vidaus</value>
   </data>
 </root>
