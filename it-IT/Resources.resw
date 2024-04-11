@@ -165,7 +165,7 @@
     <value>Cambia l'audio dagli AirPods agli altoparlanti predefiniti quando entrambi gli AirPod sono fuori dall'orecchio.</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% carica rimanente. Ricarica le cuffie.</value>
+    <value>{0}% carica rimanente. Ricarica gli auricolari.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -187,28 +187,28 @@
     <value>Grande</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>Resetta le impostazioni</value>
+    <value>Ripristina le impostazioni</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Rilevamento dell'orecchio</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>Play/Pausa</value>
+    <value>Riproduci/Metti in pausa</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Diminuisci il volume</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>Entrambi (Diminuisci volume + Play/Pausa)</value>
+    <value>Entrambi (Riduci il volume e Riproduci/Metti in pausa)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>La riproduzione si interrompe quando rimuovi un AirPod dall'orecchio o si interrompe quando le rimuovi entrambe.</value>
+    <value>La riproduzione si mette in pausa quando si rimuove un AirPod o si interrompe quando vengono rimossi entrambi.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Altro</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
-    <value>Latenza audio bassa</value>
+    <value>Bassa latenza audio</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Ottieni aiuto</value>
@@ -268,7 +268,7 @@
     <value>Chiudi</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
-    <value>Icona della barra delle applicazioni</value>
+    <value>Icona nella barra delle applicazioni</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
@@ -276,14 +276,14 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Riavvia le applicazioni per applicare.</value>
+    <value>Riavvia l'applicazione per applicare le modifiche.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Mostra la carica in percentuale</value>
+    <value>Mostra la percentuale della batteria</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Mostra la percentuale media della batteria delle cuffie connesse.</value>
+    <value>Mostra la percentuale media della batteria delle cuffie collegate.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
@@ -314,16 +314,16 @@
     <value>Cos'è il raggio di ricerca?</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>Visualizza o nascondi la finestra pop-up come in iPhone, quando apri il case.</value>
+    <value>Mostra o nascondi la finestra a comparsa come su iPhone, quando apri il case.</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
     <value>Utile quando si lavora in Premiere Pro o Audition. Richiede di riconnettere le AirPods dopo l'abilitazione. Potrebbe aumentare il consumo di batteria.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Riduce il tempo di ricerca degli AirPods. Abilita quando sei sicuro che nessun altro nei dintorni stia usando AirPods.</value>
+    <value>Riduce il tempo di ricerca degli AirPods. Abilita questa impostazione quando sei sicuro che nessun altro nei dintorni stia usando AirPods.</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Puoi abilitare o disabilitare quest'impostazione nel tab Avvio in Gestione Attività.</value>
+    <value>Abilita o disabilita l'avvio dell'applicazione all'avvio di Windows.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Avvio disabilitato dai criteri di gruppo o non supportato su questo dispositivo.</value>
@@ -943,5 +943,8 @@
   </data>
   <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
     <value>Ricorda le impostazioni ambientali in memoria delle cuffie.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Aggiungi un po' di magia alle tue cuffie</value>
   </data>
 </root>
