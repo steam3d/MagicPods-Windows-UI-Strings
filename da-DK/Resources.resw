@@ -547,4 +547,32 @@
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>Baggrundslyd</value>
   </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Multiple forbindelse</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Inkluder Win-, Shift-, Alt- eller Ctrl-tasten</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Par hovedtelefoner til computeren, og genstart applikationen</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Slå Bluetooth til for at vise hovedtelefoner</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>To eller flere hovedtelefoner tilsluttet, lad kun én være tilsluttet</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>En uventet fejl er opstået</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth-indstillinger</value>
+    <comment>Was used in 2.0.5.0 and less</comment>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Genstart af programmet kan løse problemet. Hvis fejlen fortsætter, prøv at genstarte din computer.</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Sådan parrer du hovedtelefoner</value>
+  </data>
 </root>
