@@ -950,4 +950,47 @@
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Adiciona magia aos teus auriculares</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Chave de licença não encontrada</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Licença</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>Comprar chave</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Introduza a chave</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Licença</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Chave do produto</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Chave de licença</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Cole a chave de licença aqui</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>A chave de licença não é valida. Por favor tente novamente ou introduza outra chave de licença.</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Comprar chave</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Compre ou introduza uma chave existente por baixo de «{1}» na página «{0}»</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>A chave de licença vai ter que ser reentroduzida depois da reinstalação da aplicação</value>
+  </data>
 </root>
