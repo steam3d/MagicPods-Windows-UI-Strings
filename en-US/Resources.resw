@@ -1014,4 +1014,47 @@
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Add a little magic to your headphones</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Buy key</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>License key not found</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Purchase or enter an existing key on the «{0}» page under «{1}»</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>License</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>Buy key</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Enter key</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>License</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Product key</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>License key</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Paste the license key here</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>The license key is not valid. Please try again or use a different license key.</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>The license key needs to be re-entered after the application is reinstalled</value>
+  </data>
 </root>
