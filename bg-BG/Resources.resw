@@ -932,4 +932,11 @@
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Добави малко магия към слушалките си</value>
   </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Класическо</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Отворете настройки на Windows в страницата на приложението, отидете на „Стартиране“ и го пуснете „{0}“.</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
 </root>
