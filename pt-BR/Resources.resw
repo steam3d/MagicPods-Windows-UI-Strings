@@ -139,19 +139,19 @@
     <value>Detecção de Orelha</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>Tocar/Pausa</value>
+    <value>Tocar/Pausar</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Diminuir Volume</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>Ambos (Diminuir Volume + Play Pause)</value>
+    <value>Ambos (Diminuir Volume + Play/Pause)</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Sair</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>A reprodução é interrompida quando você remove um lado dos fones de ouvido ou é interrompida quando você remove ambos os lados dos fones de ouvido.</value>
+    <value>A reprodução é pausada quando você remove um lado dos fones de ouvido ou é interrompida quando você remove ambos os lados dos fones de ouvido.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Outros</value>
@@ -181,7 +181,7 @@
     <value>Inicialização desabilitada por política de grupo, ou não suportada neste dispositivo.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
-    <value>Ícone na área de notificação da barra de tarefas</value>
+    <value>Ícone na bandeja do sistema</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
@@ -192,7 +192,7 @@
     <value>Exibir ou esconder a janela pop-up como em um iPhone, quando você abrir o estojo.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Reduz o tempo de busca de AirPods. Ative quando tiver certeza de que ninguém mais nas proximidades está usando AirPods.</value>
+    <value>Reduz o tempo de busca dos AirPods. Ative quando tiver certeza de que ninguém mais nas proximidades está usando AirPods.</value>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Janela pop-up</value>
@@ -217,7 +217,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Quando os fones de ouvido estão conectados, o ícone da bandeja do sistema mostra a carga média dos fones de ouvido esquerdo e direito. Ícone de atualização a cada minuto.</value>
+    <value>Mostra a carga média da bateria dos fones conectados.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
@@ -314,7 +314,7 @@
     <value>Adicione AirPods à lista de dispositivos Bluetooth do Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods é compatível com a maioria dos fones de ouvido AirPods e Beats</value>
+    <value>MagicPods é compatível com a maioria dos AirPods e fones da Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Mantenha seu estojo de AirPods o mais próximo possível do seu computador e abra-o</value>
@@ -378,7 +378,7 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
-    <value>A reprodução é interrompida e o volume diminui quando você remove um AirPods do ouvido, ou para e o volume é restaurado quando você remove os dois AirPods.</value>
+    <value>A reprodução é pausada e o volume diminui quando você remove um AirPods do ouvido, ou para e o volume é restaurado quando você remove os dois AirPods.</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
     <value>Alterne o áudio dos AirPods para os alto-falantes padrão quando os dois AirPods estiverem fora do ouvido.</value>
@@ -417,7 +417,7 @@
     <value>Narrar notificações destes remetentes</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
-    <value>Narrar de todas as notificações</value>
+    <value>Narrar todas as notificações</value>
   </data>
   <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>Mostrar todas os aplicativos</value>
