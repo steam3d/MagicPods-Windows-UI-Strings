@@ -950,4 +950,47 @@
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>توضیحات پلاگین مجیک پادز: پشتیبانی، درباره نرم افزار، تنظیمات</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>کلید فعالسازی برنامه یافت نشد</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>لایسنس</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>دکمه خرید</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>ذخیره</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>کلید لایسنس را در اینجا کپی کنید</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>انصراف</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>کلید لایسنس وارد شده معتبر نیست. لطفا دوباره تلاش کنید یا از یک کلید متفاوت استفاده کنید.</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>وارد کردن کلید لایسنس</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>لایسنس برنامه</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>کد محصول</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>کلید لایسنس</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>خرید لایسنس</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>لایسنس برنامه باید پس از نصب مجدد برنامه دوباره وارد شود ( حتما آن را در جایی یادداشت کنید )</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>لایسنس برنامه را خریداری کنید یا درصورت در اختیار داشتن کد فعالسازی، در صفحه {0} زیر بخش {1} آنرا وارد کنید</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
 </root>
