@@ -944,4 +944,50 @@
   <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
     <value>Głosy ludzi będą słyszalne, a hałas otoczenia zostanie stłumiony.</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Kup klucz</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Dodaj trochę magii do twoich słuchawek</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Nie znaleziono takiego klucza licencyjnego</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Kup lub wprowadź klucz licencyjny na {0} stronie pod {1}</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Licencja</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>Kup klucz</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Wprowadź klucz</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Licencja</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Zapisz</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Klucz produktu</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Klucz licencyjny</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Wklej klucz licencyjny tutaj</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>Ten klucz licencyjny nie jest poprawny. Spróbuj ponownie lub wprowadź inny.</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Po ponownej instalacji aplikacji będziesz musiał wprowadzić klucz licencyjny od nowa</value>
+  </data>
 </root>
