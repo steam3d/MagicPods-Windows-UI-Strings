@@ -950,4 +950,41 @@
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>أضف بعض اللمسات إلى سماعاتك</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>لم يتم العثور على مفتاح الترخيص</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>رخصة</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>شراء المفتاح</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>ادخل المفتاح</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>احفظ</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>الغاء</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>مفتاح الترخيص</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>لصق مفتاح الترخيص</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>يجب إعادة إدخال مفتاح الترخيص بعد إعادة تثبيت التطبيق</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>شراء المفتاح</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>قم بشراء أو إدخال مفتاح موجود في صفحة «{0}» ضمن «{1}»</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>مفتاح الترخيص غير صالح. الرجاء المحاولة مرة أخرى أو استخدام مفتاح ترخيص مختلف.</value>
+  </data>
 </root>
