@@ -1001,4 +1001,47 @@
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>為您的耳機添加一點魔力</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>購買密鑰</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>未找到認證密鑰</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>認證</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>購買密鑰</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>輸入密鑰</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>認證</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>產品密鑰</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>認證密鑰</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>粘貼認證密鑰</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>此認證密鑰不可用。請重新或使用不同認證密鑰。</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>該應用重新安裝時，認證密鑰需要重新輸入</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>在{0}頁面中，{1}項目下，購買或輸入現有密鑰</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
 </root>
