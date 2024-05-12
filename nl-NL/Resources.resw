@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>Nog {0}% lading op AirPods. Laad uw AirPods op.</value>
+    <value>{0}% resterend. Laad uw hoofdtelefoon op.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Waarschuwing</value>
@@ -130,7 +130,7 @@
     <value>Toon venster</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>Toon of verberg pop-up venster zoals op de iPhone, wanneer u de behuizing opent.</value>
+    <value>Toon of verberg pop-up venster zoals op iPhone, wanneer u de behuizing opent.</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Venstergrootte</value>
@@ -145,7 +145,7 @@
     <value>Groot</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>Reset instellingen</value>
+    <value>Fabrieksinstellingen</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
     <value>Oordetectie</value>
@@ -154,13 +154,13 @@
     <value>Afspelen/Pauzeren</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
-    <value>Volume verminderen</value>
+    <value>Volume verlagen</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>Beide (Volume verminderen + Afspelen/Pauzeren)</value>
+    <value>Beide (Volume verlagen + Afspelen/Pauzeren)</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
-    <value>Het afspelen wordt gepauzeerd als je één AirPod verwijdert of stopt als je beide AirPods verwijdert.</value>
+    <value>Het afspelen wordt gepauzeerd als je één AirPod verwijdert of stopt als je beide AirPods verwijderd.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Andere</value>
@@ -169,7 +169,7 @@
     <value>Lage audiovertraging</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Handig voor bij het werken in Premiere Pro of Audition. Vereist opnieuw verbinden van de AirPods na het inschakelen. Dit kan het batterijverbruik verhogen.</value>
+    <value>Handig voor bij het werken in Premiere Pro of Audition. Vereist opnieuw verbinden van AirPods na het inschakelen. Dit kan het batterijverbruik verhogen.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Hulp krijgen</value>
@@ -999,5 +999,11 @@
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Voeg een beetje magie toe aan je koptelefoon</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>De licentie sleutel is niet geldig. Probeer het opnieuw of gebruik een andere licentie sleutel.</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>De licentie sleutel moet opnieuw ingevoerd worden nadat de applicatie opnieuw is geïnstalleerd</value>
   </data>
 </root>
