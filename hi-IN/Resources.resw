@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% बची हैं। अपने हेडफोन को चार्ज करें।</value>
+    <value>{0}% शेष हैं। अपने हेडफोन को चार्ज करें।</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -946,5 +946,51 @@
   </data>
   <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
     <value>हेडफ़ोन की मेमोरी में परिवेशीय ध्वनि सेटिंग्स सहेजें।</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>अपने हेडफ़ोन में थोड़ा जादू जोड़ें</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>लाइसेंस की नहीं मिली</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>लाइसेंस</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>की खरीदें</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>लाइसेंस</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>संरक्षित करें</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>रद्द करना</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>उत्पाद चाबी</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>लाइसेंस चाबी</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>एप्लिकेशन को पुनः स्थापित करने के बाद लाइसेंस कुंजी को पुनः दर्ज करें।</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>चाबी डालें</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>«{0}» पृष्ठ पर «{1}» के अंतर्गत एक मौजूदा की दर्ज करें या खरीदें</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>लाइसेंस की यहाँ डालें</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>यह लाइसेंस चाबी वैध नहीं है। कृपया पुनः प्रयास करें या किसी अलग लाइसेंस चाबी का उपयोग करें।</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>की खरीदें</value>
   </data>
 </root>
