@@ -920,4 +920,74 @@
   <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
     <value>הפחתת רעש</value>
   </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>ביטול רוח</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>צליל סביבה</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>עוצמת צליל אווירה</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>קולות האנשים יישמעו ורעש הסביבה ידכא.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>ככל שהערך גבוה יותר, כך ניתן לשמוע טוב יותר את הסביבה.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>התמקד בקול</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>שמור הגדרות</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>שמור את הגדרות צליל הסביבה בזיכרון האוזניות.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>הוסף קצת קסם לאוזניות שלך</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>קנה מפתח</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>מפתח רישיון לא נמצא</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>רישיון</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>קנה מפתח</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>מקש אנטר</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>רישיון</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>שמור</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>לְבַטֵל</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>מפתח מוצר</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>מפתח רישיון</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>הדבק את מפתח הרישיון כאן</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>יש להזין מחדש את מפתח הרישיון לאחר התקנה מחדש של היישום</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>קנה או הזן מפתח קיים בדף «{0}» תחת «{1}»</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>מפתח הרישיון אינו תקף. אנא נסה שוב או השתמש במפתח רישיון אחר.</value>
+  </data>
 </root>
