@@ -1000,4 +1000,20 @@
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Ajoutez un peu de magie à vos écouteurs</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Clé de licence non trouvé</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Achetez ou entrez une clé existante sur la page «{0}» sous «{1}»</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Licence</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Entrez la clé</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Licence</value>
+  </data>
 </root>
