@@ -178,7 +178,7 @@
     <value>Correr al Inicio</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Puedes activar o desactivar esto desde la pestaña de Inicio en el Administrador de Tareas.</value>
+    <value>Habilite o deshabilite el inicio de la aplicación al iniciar Windows.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Inicio desactivado por la politica de grupos, o no esta disponible en el dispositivo.</value>
@@ -283,7 +283,7 @@
     <value>Consejo</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>No introduzcas un valor mayor a 65. En algunos casos, la animación aparecerá accidentalmente.</value>
+    <value>No establezca un valor superior a 65 ya que la animación puede aparecer accidentalmente.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Muestra el botón «Conectar»</value>
@@ -310,10 +310,10 @@
     <value>Aplicar</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>No volver a preguntar</value>
+    <value>Ignorar</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Fallo al conectarse a los AirPods. Intenta conectarte manualmente.</value>
+    <value>Error al conectar los auriculares. Intente conectarse manualmente.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Añade los AirPods a la lista de dispositivos Bluetooth en Windows</value>
@@ -349,7 +349,7 @@
     <value>Esquina inferior izquierda</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
-    <value>Cambio automático de la salida de audio</value>
+    <value>Auto interruptor salida del sonido</value>
   </data>
   <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
     <value>Dispositivo no disponible o desconectado</value>
@@ -455,7 +455,7 @@
     <value>Quitar atajo</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>Pausar la reproducción después de desconectar los audífonos.</value>
+    <value>Pausa la reproducción después de desconectar los auriculares.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
     <value>Mostrar una notificación cuando la carga de los audífonos esta por debajo del valor especificado.</value>
@@ -521,7 +521,7 @@
     <value>La función "notificación de VoiceOver" esta apagada, no se pudo conseguir acceso a las notificaciones. Por favor abre «Privacidad y notificaciones»‎, permite el acceso a las notificaciones, entonces enciende "notificación de VoiceOver".</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Reinicia la aplicación para reanudar el funcionamiento de la aplicación. Si el error persiste, intenta reiniciar tu computadora.</value>
+    <value>Reiniciar la aplicación puede solucionar el problema. Si el error persiste, intente reiniciar su computadora.</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>El bluetooth LE no esta soportado</value>
@@ -608,7 +608,7 @@
     <value>Como emparejar los audífonos</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Buscar aplicación</value>
+    <value>Buscar aplicaciones</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
     <value>Atajo para conectar</value>
@@ -731,7 +731,7 @@
     <value>No hay dispositivos emparejados o el Bluetooth está desactivado</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>La función de manos libres (comunicación por voz) de los audífonos no estará disponible. No desactive manualmente la función de manos libres. Reinicie la aplicación para aplicar los cambios.</value>
+    <value>La función Manos libres (comunicación por voz) de los auriculares no estará disponible. No desactives Manos libres manualmente. Reinicie la aplicación para aplicar los cambios.</value>
   </data>
   <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
     <value>Firmware</value>
@@ -795,5 +795,253 @@
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>Sonido Ambiental</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Mantenga presionado el AirPod izquierdo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Asistente de voz</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Sensibilidad del AirPod izquierdo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Sensibilidad del AirPod derecho</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Presione velocidad</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Rápido</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Medio</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Lento</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Pulsación larga</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Corto</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Medio</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Largo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Conexión multipunto mejorada</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Modo multipunto</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Modo normal</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Reducción del ruido del viento</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>Se requiere restablecimiento de fábrica de AirPods para aplicar.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Sensibilidad de reducción del ruido del viento</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Bajo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Medio</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Alto</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Control de voz</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Modo de juego</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Etiquetar auriculares falsos</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>Podrían ser auriculares falsos</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>Restablecimiento de fábrica</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Coloque los AirPods en el estuche, abra la tapa y luego presione el botón durante unos 10 segundos.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Volumen del sonido ambiental</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Cuanto mayor sea el valor, mejor se escuchará el ambiente.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Centrarse en la voz</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Se escucharán las voces de las personas y se suprimirá el ruido ambiental.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Guardar ajustes</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Guarde la configuración de sonido ambiental en la memoria de los auriculares.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Cerrar</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Inicio deshabilitado por la política de grupo o no compatible con este dispositivo.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Inicio deshabilitado por política de grupo</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Ir a inicio</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Inicio deshabilitado manualmente</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Chequear por actualizaciones</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>Se requiere restablecimiento de fábrica de AirPods para aplicar.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Desactivar automáticamente manos libres</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Igualador</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Encienda la música antes de cambiar la configuración.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Abra la configuración de Windows en la página de la aplicación, vaya a «Inicio» y habilite «{0}».</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Actualización disponible</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Oculta o muestra la ventana emergente de AirPods falsos si están en la lista de dispositivos Bluetooth.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Mostrar ventana para AirPods falsos</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>Sonidos del estuche</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>Coloque los AirPods en el estuche, mantenga la tapa abierta y espere a que se apague la luz del estuche. off/on la opción, saque los AirPods mientras mantiene abierta la tapa del estuche, espere al menos 2 segundos, coloque los AirPods en el estuche nuevamente y espere a que se apague la luz del estuche.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Espectáculo en vivo</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Estéreo de cine</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Ritmo escénico</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Clásico</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Comprar clave</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Clave de licencia no encontrada</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Es necesario volver a ingresar la licencia después de reinstalar la aplicación</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Compre o ingrese una clave existente en el «{0}» página debajo «{1}»</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Licencia</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>Comprar clave</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Introducir clave</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Licencia</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Clave de producto</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Clave de licencia</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Pegue la clave de licencia aquí</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>La clave de licencia no es válida. Inténtelo de nuevo o utilice una clave de licencia diferente.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Cabeza seguida</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Chip</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Interior</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Mantenga presionado el AirPod derecho</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Control de ruido (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Ajusta el tiempo. Mantenga presionado el AirPod izquierdo y el AirPod derecho.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>También se puede activar presionando cinco veces en el AirPod izquierdo o derecho.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Desactive Manos libres después de conectar los auriculares para evitar que los auriculares cambien al modo Manos libres. El micrófono dejará de funcionar. Al desactivar la opción se habilitará nuevamente el servicio de manos libres.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Control de ruido (ANC/Off/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Ajusta la velocidad. Es necesario presionar el AirPod izquierdo y el AirPod derecho dos o tres veces.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Le permite conectar dos dispositivos a la vez a sus auriculares. Se requiere restablecimiento de fábrica de AirPods para aplicar.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Mostrar una advertencia en la configuración de los auriculares que son falsos.</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Haga clic aquí para ir a Microsoft Store.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Añade un poco de magia a tus auriculares</value>
   </data>
 </root>
