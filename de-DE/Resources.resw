@@ -133,7 +133,7 @@
     <value>Zeige oder verstecke ein Pop-up wie auf dem iPhone, wenn du das Case öffnest.</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
-    <value>Fenstergröße</value>
+    <value>Fenster größe</value>
   </data>
   <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>Klein</value>
@@ -999,5 +999,48 @@
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Gib deinen Kopfhörern ein bisschen Magie</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Der Lizenzschlüssel muss erneut angegeben werden nach dem das Programm neu installiert wurde</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Lizenzschlüssel kaufen</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Kaufe oder gebe deinen existierenden Lizenzschlüssel auf der Seite {0} uter {1} ein</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Lizenzschlüssel nicht gefunden</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Lizenz</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>Lizenzschlüssel kaufen</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Lizenzschlüssel eingeben</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Lizenz</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Produktschlüssel</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Lizenzschlüssel</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Lizenzschlüssel hier einfügen</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>Der Lizenzschlüssel ist ungültig. Bitte versuche es noch einmal oder nutze ein anderen Lizenzschlüssel.</value>
   </data>
 </root>
