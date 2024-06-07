@@ -1006,4 +1006,38 @@
   <data name="Support_Setting_License.Description" xml:space="preserve">
     <value>De licentie sleutel moet opnieuw ingevoerd worden nadat de applicatie opnieuw is geïnstalleerd</value>
   </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Plak de licentie sleutel hier</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Licentiesleutel niet gevonden</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Koop of voer een bestaande sleutel op de «{0}» pagina onder «{1}»</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Licentie</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>Koop sleutel</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Voer sleutel in</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Licentie</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Opslaan</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Product Code</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Licentie sleutel</value>
+  </data>
 </root>
