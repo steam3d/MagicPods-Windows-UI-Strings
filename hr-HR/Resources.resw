@@ -290,4 +290,104 @@
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Isključeno</value>
   </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>Sve postavke će se resetirati. Želite li nastaviti?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>Da, resetiraj postavke</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Savjet</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Na temelju vaše upotrebe, preporučujemo da vrijednost postavite na {0}</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Primijeniti</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Zanemariti</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Povezivanje sa slušalicama nije uspjelo. Pokušajte se spojiti ručno.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Dodajte AirPods na popis Windows Bluetooth uređaja</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods podržava većinu AirPods i Beats slušalica</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Sljedeći</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>Gornji lijevi kut</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>Gornji desni kut</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>Centar</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>Donji desni kut</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+    <value>Saznajte više</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>Glasovne obavijesti</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>Obavijesti se oglašavaju kada su slušalice spojene i postavljene kao audioizlazni uređaj.</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>Konfigurirati</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>Odaberite glas</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+    <value>Glas nije odabran niti dostupan</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>Automatski se povežite s AirPods kada izvadite desni ili lijevi AirPods iz kućišta.</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>Pošaljite naredbu za reprodukciju nakon spajanja slušalica. Ako nema otvorenih igrača, Windows će zanemariti naredbu.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+    <value>Reprodukcija se pauzira i glasnoća se smanjuje kada izvadite jedan AirPods iz uha ili se zaustavlja i glasnoća se vraća kada uklonite oba AirPodsa.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>Zatvoriti</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>Konfiguracija VoiceOvera</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Približite kućište za AirPods što je moguće bliže računalu i otvorite ga</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>Radijus pretraživanja - radijus u kojem će vaše računalo tražiti otvorenu futrolu za AirPods.</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>Položaj prozora</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>Donji lijevi kut</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+    <value>Automatsko prebacivanje izlaza zvuka</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+    <value>Prebaci zvuk s AirPods slušalica na zadane zvučnike kada su oba AirPods slušalice izvan uha.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+    <value>Uređaj nije dostupan ili uklonjen</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>Spiker može čitati tekst samo na jednom jeziku.</value>
+  </data>
 </root>
