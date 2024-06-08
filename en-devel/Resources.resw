@@ -807,7 +807,7 @@
     <value>Quickly translate text with a hotkey</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
-    <value>Restart application to apply changes</value>
+    <value>Restart application to apply changes.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Show window</value>
@@ -855,7 +855,7 @@
     <value>Auto mute</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
-    <value>Mute streaming device audio when sound out changed to PC speakers</value>
+    <value>Mute streaming device audio when sound out changed to PC speakers.</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
     <value>Streaming device</value>
@@ -1015,5 +1015,23 @@
   </data>
   <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>Voice assistant</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Faster</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Slower</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Long press</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Adjust the speed required to press the Left AirPod and the right AirPod twice or three times.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Adjust the time of press and hold the left AirPod and the right AirPod.</value>
   </data>
 </root>
