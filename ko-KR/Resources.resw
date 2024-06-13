@@ -193,7 +193,7 @@
     <value>시작 프로그램 사용</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>윈도우가 시작하면 애플리케이션의 실행을 활성화하거나 비활성화합니다.</value>
+    <value>Windows가 시작하면 애플리케이션의 실행을 활성화하거나 비활성화합니다.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>그룹 정책에 의해 시작 프로그램이 비활성화되었거나 이 장치에서 지원되지 않아요.</value>
@@ -307,7 +307,7 @@
     <value>모든 설정이 초기화됩니다. 계속하시겠습니까?</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>예, 설정을 조기화합니다</value>
+    <value>예, 설정을 초기화합니다</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>팁</value>
@@ -346,7 +346,7 @@
     <value>닫기</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
-    <value>AirPods 검색중</value>
+    <value>AirPods 검색 중</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>창 위치</value>
@@ -529,10 +529,10 @@
     <value>단축키 제거</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
-    <value>자동 일시중지</value>
+    <value>자동 일시 정지</value>
   </data>
   <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
-    <value>헤드폰 연결이 해제되면 재생을 일시 중지합니다.</value>
+    <value>헤드폰 연결이 해제되면 재생을 일시 정지합니다.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>배터리 부족 알림</value>
@@ -670,7 +670,7 @@
     <value>스트리밍 기기와 연결하지 못했어요. 스트리밍 기기의 Bluetooth 설정이 켜져 있는지 확인해 주세요.</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
-    <value>페어링 된 기기가 없거나 Bluetooth가 꺼져있어요</value>
+    <value>페어링된 기기가 없거나 Bluetooth가 꺼져있어요</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
     <value>스트리밍 기기</value>
@@ -733,7 +733,7 @@
     <value>헤드폰의 핸즈프리 기능(음성 통신)을 사용할 수 없게 됩니다. 핸즈프리 기능을 수동으로 비활성화하지 마십시오. 변경 사항을 적용하려면 응용 프로그램을 다시 시작하십시오.</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
-    <value>블루투스 장치 목록에 가짜 Airpods가 있는 경우 팝업 윈도우를 표시하거나 숨깁니다.</value>
+    <value>Bluetooth 장치 목록에 가짜 AirPods가 있는 경우 팝업 창을 표시하거나 숨깁니다.</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
     <value>노이즈 캔슬링</value>
@@ -772,13 +772,13 @@
     <value>명상</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
-    <value>단축키로 노이즈 캔슬링으로 전환하세요</value>
+    <value>노이즈 캔슬링 단축키 전환</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
     <value>머리 추적</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
-    <value>사용하기 전에 양쪽 귀에 에어팟을 착용하세요.</value>
+    <value>사용하기 전에 양쪽 귀에 AirPods을 착용하세요.</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>고정</value>
@@ -790,19 +790,19 @@
     <value>보이스 어시스턴트</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
-    <value>노이즈 캔슬링 전환(노캔/주변소리)</value>
+    <value>노이즈 캔슬링 전환(노캔/주변음)</value>
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
-    <value>왼쪽 에어팟 감도</value>
+    <value>왼쪽 AirPod 감도</value>
   </data>
   <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
-    <value>오른쪽 에어팟 감도</value>
+    <value>오른쪽 AirPod 감도</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
     <value>중간</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>더 느리게</value>
+    <value>느리게</value>
   </data>
   <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
     <value>길게 누르기</value>
@@ -832,31 +832,31 @@
     <value>보이스 컨트롤</value>
   </data>
   <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
-    <value>게임모드</value>
+    <value>게임 모드</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
-    <value>기능을 적용하려면 에어팟 공장 초기화가 필요합니다.</value>
+    <value>기능을 적용하려면 AirPods 공장 초기화가 필요합니다.</value>
   </data>
   <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
     <value>해당 칩은 아직 프로그램에서 지원되지 않습니다</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
-    <value>노이즈 캔슬링 전환 (노캔/끄기/주변소리)</value>
+    <value>노이즈 캔슬링 전환 (노캔/끄기/주변음)</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
-    <value>더 빠르게</value>
+    <value>빠르게</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
     <value>풍향음 감소</value>
   </data>
   <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
-    <value>기능을 적용하려면 에어팟 공장 초기화가 필요합니다.</value>
+    <value>기능을 적용하려면 AirPods 공장 초기화가 필요합니다.</value>
   </data>
   <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
     <value>공장 초기화</value>
   </data>
   <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
-    <value>여러기기 연결 모드</value>
+    <value>여러 기기 연결 모드</value>
   </data>
   <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
     <value>일반 모드</value>
@@ -871,13 +871,13 @@
     <value>짝퉁 제품일 수도 있습니다</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
-    <value>누르는 속도</value>
+    <value>누르기 속도</value>
   </data>
   <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
-    <value>향상된 여러기기 연결</value>
+    <value>향상된 여러 기기 연결</value>
   </data>
   <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
-    <value>왼쪽 혹은 오른쪽 AirPod을 다섯번 눌러 활성화 할 수 있습니다.</value>
+    <value>AirPods을 다섯 번 눌러 활성화 할 수 있습니다.</value>
   </data>
   <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
     <value>이퀄라이저</value>
@@ -895,22 +895,22 @@
     <value>노이즈 캔슬링</value>
   </data>
   <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
-    <value>헤드폰을 두 개의 기기에 동시에 연결합니다. 헤드폰을 초기화 해야 적용됩니다.</value>
+    <value>헤드폰을 두 개의 기기에 동시에 연결합니다. AirPods을 공장 초기화 해야 적용됩니다.</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
     <value>단축키를 누르면 노이즈 캔슬링 모드가 전환됩니다.</value>
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
-    <value>왼쪽 에어팟 누르고 있기</value>
+    <value>왼쪽 AirPod 누르고 있기</value>
   </data>
   <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
-    <value>오른쪽 에어팟 누르고 있기</value>
+    <value>오른쪽 AirPod 누르고 있기</value>
   </data>
   <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
-    <value>왼쪽 에어팟과 오른쪽 에어팟을 누르고 있는 속도를 조정합니다.</value>
+    <value>AirPods을 길게 누를 때 필요한 시간을 조절합니다.</value>
   </data>
   <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
-    <value>에어팟을 케이스 안에 넣은 뒤, 뚜껑을 열고 약 10초간 버튼을 누르고 계세요.</value>
+    <value>AirPods을 케이스 안에 넣은 뒤, 뚜껑을 열고 약 10초간 버튼을 누르고 계세요.</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
     <value>바람 차단</value>
@@ -940,19 +940,19 @@
     <value>닫기</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
-    <value>그룹 정책에 의해 스타트업이 비활성화되었거나, 해당 디바이스에서는 지원하지 않는 기능입니다.</value>
+    <value>그룹 정책에 의해 시작 프로그램이 비활성화되었거나, 이 장치에서는 지원되지 않아요.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
-    <value>그룹 정책에 의해 스타트업이 비활성화됨</value>
+    <value>그룹 정책에 의해 시작 프로그램이 비활성화됨</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>취소</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
-    <value>스타트업으로 가기</value>
+    <value>시작 프로그램으로 가기</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
-    <value>스타트업이 수동으로 비활성화됨</value>
+    <value>시작 프로그램이 수동으로 비활성화됨</value>
   </data>
   <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
     <value>업데이트 확인하기</value>
@@ -979,7 +979,7 @@
     <value>업데이트 가능</value>
   </data>
   <data name="Notification_Updates_Description" xml:space="preserve">
-    <value>이곳을 눌러 마이크로소프트 스토어로 이동하세요.</value>
+    <value>이곳을 눌러 Microsoft Store로 이동하세요.</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>헤드폰에 마법을 더해보세요</value>
@@ -1018,19 +1018,19 @@
     <value>애플리케이션이 재설치된 뒤에 라이센스 키가 입력되어야 함</value>
   </data>
   <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
-    <value>왼쪽 에어팟과 오른쪽 에어팟을 두 번 혹은 세 번 누르는 속도를 조정합니다.</value>
+    <value>AirPods을 두 번 또는 세 번 누를 때 필요한 속도를 조절합니다.</value>
   </data>
   <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
     <value>케이스 사운드</value>
   </data>
   <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
-    <value>에어팟을 케이스 안에 넣은 뒤, 케이스 뚜껑을 열고 케이스 불이 꺼질 때까지 기다리세요. 옵션을 꺼/켜, 뚜껑을 연 상태로 에어팟을 꺼낸 뒤, 최소 2초간 기다린 뒤 에어팟을 다시 케이스에 넣어, 케이스의 불이 꺼질 때까지 기다리세요.</value>
+    <value>AirPods을 케이스 안에 넣은 뒤, 케이스 뚜껑을 열고 케이스 불이 꺼질 때까지 기다리세요. 옵션을 꺼/켜, 뚜껑을 연 상태로 AirPods을 꺼낸 뒤, 최소 2초간 기다린 뒤 AirPods을 다시 케이스에 넣어, 케이스의 불이 꺼질 때까지 기다리세요.</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
-    <value>가짜 에어팟을 위한 윈도우 보여주기</value>
+    <value>가짜 AirPods을 위한 창 보여주기</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>애플리케이션 페이지에서 윈도우 설정을 연 뒤, «스타트업»에서 «{0}»을 활성화하세요.</value>
+    <value>애플리케이션 페이지에서 Windows 설정을 연 뒤, «시작 프로그램»에서 «{0}»을 활성화하세요.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
@@ -1042,5 +1042,197 @@
   </data>
   <data name="License_KeyNotValid.Text" xml:space="preserve">
     <value>라이센스 키가 유효하지 않습니다. 다시 시도하거나 다른 라이센스 키를 입력하세요.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Header.Text" xml:space="preserve">
+    <value>헤드폰 관리하기</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Description.Text" xml:space="preserve">
+    <value>헤드폰이 연결되면, 아래 설정들이 적용됩니다.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>주변음 허용</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>적응형 오디오</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>끔</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+    <value>전환</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>노이즈 캔슬링</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>적응형 오디오</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>끔</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
+    <value>대화 인지</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
+    <value>대화 중에 미디어 음량을 자동으로 줄이고 앞에서 말하는 사람의 목소리가 크게 들리도록 할 수 있습니다.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
+    <value>개인 맞춤형 음량</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
+    <value>AirPods Max의 버튼을 누르거나 AirPods Pro의 왼쪽 혹은 오른쪽 AirPod을 길게 눌러 소음 제어 모드 간에 전환할 수 있습니다.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Left_Header.Text" xml:space="preserve">
+    <value>왼쪽 AirPod 이중 탭</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Right_Header.Text" xml:space="preserve">
+    <value>오른쪽 AirPod 이중 탭</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>재생/일시 정지</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>다음 트랙</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>이전 트랙</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>끔</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>뒤에서 앞으로</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>앞에서 뒤로</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Header.Text" xml:space="preserve">
+    <value>통화 종료하기/음소거</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>한 번 누르기/두 번 누르기</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>두 번 누르기/한 번 누르기</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Header.Text" xml:space="preserve">
+    <value>마이크</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>자동</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>항상 오른쪽</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>항상 왼쪽</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Header.Text" xml:space="preserve">
+    <value>누르기 속도</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Description.Text" xml:space="preserve">
+    <value>AirPods을 두 번 또는 세 번 누를 때 필요한 속도를 조절합니다.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>기본</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>느리게</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>가장 느리게</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Header.Text" xml:space="preserve">
+    <value>길게 누르기 지속 시간</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Description.Text" xml:space="preserve">
+    <value>AirPods을 길게 누를 때 필요한 시간을 조절합니다.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>기본</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>더 짧게</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>가장 짧게</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Header.Text" xml:space="preserve">
+    <value>Digital crown</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>노이즈 캔슬링</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Description.Text" xml:space="preserve">
+    <value>주변 환경에 대응하여 미디어 음량을 미세 조정합니다.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Header.Text" xml:space="preserve">
+    <value>AIrPods 한 개 착용 시 노이즈 캔슬링</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Description.Text" xml:space="preserve">
+    <value>AirPods에서 재생되는 사운드 효과의 톤 음량을 조절합니다. {0}이 활성화되어있으면 음량이 적용되지 않습니다.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Header.Text" xml:space="preserve">
+    <value>소음 제어</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>주변음 허용</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Description.Text" xml:space="preserve">
+    <value>AIrPods을 한 쪽만 귀에 착용할 때도 노이즈 캔슬링 모드가 적용됩니다.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Header.Text" xml:space="preserve">
+    <value>톤 음량</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Description.Text" xml:space="preserve">
+    <value>활성화된 AirPod 마이크를 자동으로 왼쪽에서 오른쪽으로 변경하거나 한 쪽으로 고정할 수 있습니다.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
 </root>
