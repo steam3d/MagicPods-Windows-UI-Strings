@@ -939,4 +939,98 @@
     <value>Отворете настройки на Windows в страницата на приложението, отидете на „Стартиране“ и го пуснете „{0}“.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Прозрачност</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Адаптивен</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Изклчючен</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Адаптивен</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>Изключен</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
+    <value>Осведоменост за разговор</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
+    <value>Персонализирано ниво на звука</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Купи ключ</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Не е намерн ключ</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>лиценз</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>Купи ключ</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Въведи ключ</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>лиценз</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Запази</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Откажи</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>продуктов ключ</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Лицензионен ключ</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Постави лицензионния ключ тук</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Лицензионният ключ трябва да бъде въведен отново след преинсталиране на приложението</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Прозрачност</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Купи или въведи съществуващ ключ на {0} страница под {1}</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>Лицензионният ключ е невалиден. Моля опитайте отново или използвайте друг лицензионен ключ</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Header.Text" xml:space="preserve">
+    <value>Контрол на шума</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Шумопотискане</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
+    <value>Натиснете бутона на AirPods Max или натиснете и задръжте левия или десния AirPod на AirPods Pro за да превключвате между избраните режими за контрол на шума</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Шумопотискане</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
+    <value>Намалява звука на медията и намалява задните шумове когато започнете да говорите с други хора</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
 </root>
