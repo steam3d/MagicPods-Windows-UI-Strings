@@ -65,7 +65,7 @@
     <value>已連接</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>退</value>
+    <value>退出</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
     <value>左</value>
@@ -191,5 +191,73 @@
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>启动</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>在开始时运行</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>启用或禁用在 Windows 启动时启动应用程序。</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>系统托盘图标</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>隐藏图标</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>重新启动应用程序以应用更改。</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>样式</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>图标</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>文本</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>启用开机自启动</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>帮助</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>不</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>是的</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>电池信息</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>通用设置</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>关闭 MagicPods</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>关闭MagicPods?</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>显示电池百分比</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>实验性功能</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>支持</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>该应用程序将被关闭，所有功能将被禁用。</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>启动项已被组策略禁用，或在此设备上不受支持。</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>显示所连接耳机的平均电池百分比。</value>
   </data>
 </root>
