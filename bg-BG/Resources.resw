@@ -948,7 +948,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
-    <value>Изклчючен</value>
+    <value>Изключено</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
@@ -956,7 +956,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
-    <value>Изключен</value>
+    <value>Изключено</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
@@ -1031,6 +1031,10 @@
   </data>
   <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
     <value>Намалява звука на медията и намалява задните шумове когато започнете да говорите с други хора</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>Изключено</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
 </root>
