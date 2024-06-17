@@ -291,10 +291,10 @@
     <value>Läpikuuluminen</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
-    <value>Vastamelu</value>
+    <value>Melunvaimennus</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
-    <value>Vastamelu</value>
+    <value>Melunvaimennus</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Pois päältä</value>
@@ -947,5 +947,33 @@
   </data>
   <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
     <value>Aseta AirPodsit koteloon, pidä kotelon kansi auki ja odota, että kotelon valo sammuu. Kytke asetus pois/päälle, vedä AirPodsit ulos pitäen kotelon kansi auki, odota vähintään 2 sekuntia ja aseta AirPodsit uudelleen koteloon ja odota, että kotelon valo sammuu.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Läpikuuluminen</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Pois päältä</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Läpikuuluminen</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>Pois päältä</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>Pois päältä</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Melunvaimennus</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Melunvaimennus</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
 </root>
