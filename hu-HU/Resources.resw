@@ -692,7 +692,7 @@
     <value>Zajszűrés</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>Kikapcsolva</value>
+    <value>Ki</value>
   </data>
   <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
     <value>Lehetséges, hogy nem eredeti az eszközöd</value>
@@ -946,5 +946,33 @@
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Adjon egy kis varázslatot a fejhallgatójához</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Átlátszóság</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Ki</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Zajszűrés</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>Ki</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Zajszűrés</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Átlátszóság</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>Ki</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
 </root>
