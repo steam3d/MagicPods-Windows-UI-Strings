@@ -824,7 +824,7 @@
     <value>โหมดตัดเสียง</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>ปิดโหมด</value>
+    <value>ปิด</value>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
     <value>อัปเดตพร้อมใช้งาน</value>
@@ -943,5 +943,33 @@
   </data>
   <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
     <value>วาง AirPods ไว้ในเคส เปิดฝาเคสไว้ และรอให้ไฟเคสดับลง ปิด/เปิดตัวเลือก ดึง AirPods ออกมาในขณะที่เปิดฝาเคสไว้ รออย่างน้อย 2 วินาทีแล้ววาง AirPods ไว้ในเคสอีกครั้ง และรอให้ไฟเคสดับลง</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>โหมดรับเสียง</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>ปิด</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>โหมดรับเสียง</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>ปิด</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>ปิด</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>โหมดตัดเสียง</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>โหมดตัดเสียง</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
 </root>
