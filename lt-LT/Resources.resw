@@ -366,7 +366,7 @@
     <value>Rodyti pranešimą, kai ausinių įkrovimas yra mažesnis už nurodytą vertę.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>Išjungta</value>
+    <value>Išjunk</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Bluetooth parametrai</value>
@@ -683,10 +683,10 @@
     <value>Ausinių laisvų rankų funkcija (balso ryšio susisiekimas) nebus pasiekiama. Neišjunkite laisvos rankų įrenginio rankiniu būdu. Iš naujo paleiskite programą, kad būtų išsaugoti pakeitimai.</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>Išjungta</value>
+    <value>Išjunk</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>Išjungta</value>
+    <value>Išjunk</value>
   </data>
   <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
     <value>Kairiojo AirPod jautrumas</value>
@@ -704,7 +704,7 @@
     <value>Vėjo triukšmo slopinimo jautrumas</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>Išjungta</value>
+    <value>Išjunk</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
     <value>Triukšmo slopinimas</value>
@@ -756,5 +756,33 @@
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
     <value>Galvos sekimas</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Skaidrumas</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Skaidrumas</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Triukšmo slopinimas</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Triukšmo slopinimas</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>Išjunk</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Išjunk</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>Išjunk</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
 </root>
