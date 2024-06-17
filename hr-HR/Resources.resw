@@ -390,4 +390,32 @@
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>Spiker može čitati tekst samo na jednom jeziku.</value>
   </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Transparentnost</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Poništavanje buke</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Transparentnost</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>Isključeno</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>Isključeno</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Poništavanje buke</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Isključeno</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
 </root>
