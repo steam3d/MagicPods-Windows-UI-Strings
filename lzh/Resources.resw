@@ -288,4 +288,19 @@
     <value>通透模式</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>闭</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>罢</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>所支援之播放器列表</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>AirPods 搜索之范围</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>当取一耳，减其音；或取戴两耳，复其音。</value>
+  </data>
 </root>
