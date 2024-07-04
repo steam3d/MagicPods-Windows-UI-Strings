@@ -972,4 +972,50 @@
     <value>オフ</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>イヤホンに少しの魔法を</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>鍵の購入です</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>ライセンスキーが見つかりません</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>免許</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>キーホルダ买おう</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>、エンターキー</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>免許</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>救う</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>プロダクトキー</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>ここにライセンスキーを貼り付けます</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>アプリケーションを再インストールした後、ライセンスキーを再入力する必要があります</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>「{1}」の下の「{0}」ページで既存のキーを購入または入力します</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>ライセンスキー</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>ライセンスキーは無効です。再度お試しいただくか、別のライセンスキーを使用してください。</value>
+  </data>
 </root>
