@@ -1018,4 +1018,164 @@
   <data name="License_KeyNotValid.Text" xml:space="preserve">
     <value>ライセンスキーは無効です。再度お試しいただくか、別のライセンスキーを使用してください。</value>
   </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Header.Text" xml:space="preserve">
+    <value>騒音制御</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>アダプティヴ</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+    <value>間のサイクル</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
+    <value>AirPods Maxのボタンを押すか、AirPods Proの左右のAirPodを長押しして、選択したノイズコントロールモードを切り替えます。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>アダプティヴ</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
+    <value>会話の認識</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
+    <value>メディアの音量を下げ、他の人と話し始めるときのバックグラウンドノイズを減らします。</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
+    <value>パーソナライズされたボリューム</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Description.Text" xml:space="preserve">
+    <value>環境に応じてメディアの音量を調整します。</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Left_Header.Text" xml:space="preserve">
+    <value>左のAirPodをダブルタップする</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Right_Header.Text" xml:space="preserve">
+    <value>右のAirPodをダブルタップする</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri (シリ)</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>再生/一時停止</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>次のトラック</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Header.Text" xml:space="preserve">
+    <value>デジタルクラウン</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>フロントに戻る</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>前から後ろへ</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Header.Text" xml:space="preserve">
+    <value>通話の終了/ミュートとミュート解除</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>1回押す/2回押す</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>2回押す/1回押す</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Header.Text" xml:space="preserve">
+    <value>マイク</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>自動</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>常に正しいAirPod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>常にAirPodを放置する</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Header.Text" xml:space="preserve">
+    <value>プレス速度</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Description.Text" xml:space="preserve">
+    <value>AirPodsを2〜3回押すのに必要な速度を調整します。</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>デフォルト</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>遅い</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>遅い</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Header.Text" xml:space="preserve">
+    <value>長押し期間</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Description.Text" xml:space="preserve">
+    <value>AirPodsを長押しするのに必要な時間を調整します。</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>デフォルト</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>短い</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>最短</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Description.Text" xml:space="preserve">
+    <value>AirPodsが1つしか耳に装着されていないときに、AirPodsをノイズキャンセリングモードにすることができます。</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Header.Text" xml:space="preserve">
+    <value>トーンボリューム</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Header.Text" xml:space="preserve">
+    <value>ヘッドフォンを管理する</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Description.Text" xml:space="preserve">
+    <value>ヘッドホンが接続されている場合は、以下のオプションが適用されます。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Description.Text" xml:space="preserve">
+    <value>オーディオが再生されていないときにAirPodsで再生される効果音の音量を調整します。«{0}»がオンになっている間は、音量は適用されません。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>前のトラック</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Description.Text" xml:space="preserve">
+    <value>アクティブなAirPodマイクは、自動的に左から右に変更することも、片側に固定することもできます。</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
 </root>
