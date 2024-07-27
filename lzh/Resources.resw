@@ -150,7 +150,7 @@
     <value>重置设置</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
-    <value>耳朵检测</value>
+    <value>入耳之测</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>播放/暂停</value>
@@ -302,5 +302,44 @@
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>当取一耳，减其音；或取戴两耳，复其音。</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>若弹窗动画未显，宜将 AirPods 置于充电盒中，缓缓向右滑动滑块，直至动画显现。</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+    <value>何为搜索之界？</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>示警</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>毋将斯数置于六十五以上，庶防动画或自现。</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>显“连接”钮</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>显隐弹窗动画中“连接”钮，逾此钮以结AirPods。</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>自连引接</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>取一只AirPods自充电盒时自动建立连接。</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>自播放</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+    <value>与AirPods之连接后发送“播放”指令。若无播放器，视窗系统将忽略此指令。</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>所有设置将化为虚无。继续否？</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>是，化为虚无</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>示警</value>
   </data>
 </root>
