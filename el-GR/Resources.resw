@@ -91,14 +91,14 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Θα πρέπει να γίνει επανεκκίνηση της εφαρμογής για να εφαρμοστού οι νέες ρυθμίσεις.</value>
+    <value>Θα πρέπει να γίνει επανεκκίνηση της εφαρμογής για να εφαρμοστούν οι νέες ρυθμίσεις.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Εμφάνιση εικονιδίου φόρτισης των AirPods</value>
+    <value>Εμφάνιση εικονιδίου ποσοστού μπαταρίας των AirPods</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Όταν τα AirPods είναι συνδεδεμένα, το εικονίδιο γραμμής εργασιών θα εμφανίσει την μέση τιμή του δεξιού και του αριστερού ακουστικού. Το εικονίδιο ενημερώνεται ανά ένα λεπτό.</value>
+    <value>Όταν τα AirPods είναι συνδεδεμένα, το εικονίδιο γραμμής εργασιών θα εμφανίσει την μέση τιμή του δεξιού και του αριστερού ακουστικού. Το εικονίδιο ενημερώνεται ανά λεπτό.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
@@ -126,13 +126,13 @@
     <value>Ναι</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
-    <value>Εμφάνιση ποσοστού μπαταρίας</value>
+    <value>Πληροφορίες μπαταρίας</value>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>Γενικές Ρυθμίσεις</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>Πειραματικές Ρυθμίσεις</value>
+    <value>Πειραματικές Λειτουργίες</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>Κλείσιμο MagicPods</value>
@@ -141,7 +141,7 @@
     <value>Υποστήριξη</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>Ή εφαρμογή θα κλείσει και όλες οι λειτουργίες θα απενεργοποιηθούν.</value>
+    <value>Η εφαρμογή θα κλείσει και όλες οι λειτουργίες θα απενεργοποιηθούν.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>Κλείσιμο MagicPods;</value>
@@ -168,7 +168,7 @@
     <value>Μην θέσετε τιμή μεγαλύτερη του 65. Σε κάποιες περιπτώσεις, το εφέ μπορεί να εμφανίζετε ξαφνικά.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Προβολή του κουμπιού &lt;&lt;Σύνδεσης&gt;&gt;</value>
+    <value>Προβολή του κουμπιού &lt;&lt;Σύνδεση&gt;&gt;</value>
   </data>
   <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
     <value>Αυτόματη Σύνδεση</value>
@@ -186,14 +186,14 @@
     <value>Συμβουλή</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>Βασισμένοι στην χρήση σας , προτείνεται η τιμή {0}</value>
+    <value>Βάση της χρήση σας, προτείνεται η τιμή {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>Εφαρμογή</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Να μην γίνει υπενθύμιση</value>
+    <value>Αγνόηση</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Προσθήκη των AirPods στην λίστα Bluetooth των Windows</value>
@@ -253,7 +253,7 @@
     <value>Ανίχνευση Αυτιού</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>Το επίπεδο της μπαταρίας των AirPods είναι {0}. Παρακαλώ φορτώστε τα AirPods.</value>
+    <value>Το επίπεδο της μπαταρίας των AirPods είναι {0}. Παρακαλώ φορτίστε τα AirPods.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
@@ -308,7 +308,7 @@
     <value>Προσθήκη νέας φωνής</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Για καλύτερη εμπειρία χρήσης, προτείνετε την ενεργοποίηση κατά την εκκίνηση. Αυτό γίνετε από το μενού εκκίνησης των Windows.</value>
+    <value>Για καλύτερη εμπειρία χρήσης, προτείνουμε την ενεργοποίηση κατά την εκκίνηση. Μπορείτε να το κάνετε αυτό στην καρτέλα &lt;&lt;Εφαρμογές Εκκίνησης&gt;&gt; στη Διαχείριση Εργασιών.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Επανάληψη αναζήτησης</value>
@@ -317,13 +317,13 @@
     <value>Ακολουθήστε αυτόν τον οδηγό.</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
-    <value>Ήχος χαμηλής συχνότητας</value>
+    <value>Ήχος χαμηλής καθυστέρησης</value>
   </data>
   <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
-    <value>Χρήσιμο κατά την χρήση του Premiere Pro ή του Audition. Απαιτεί επανασύνδεση των AirPods κατά την ενεργοποίηση του. Μπορεί να αυξήσει την κατανάλωση ενέργειας.</value>
+    <value>Χρήσιμο κατά την χρήση του Premiere Pro ή του Audition. Απαιτεί επανασύνδεση των AirPods κατά την ενεργοποίηση του. Ίσως να αυξήσει την κατανάλωση ενέργειας.</value>
   </data>
   <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
-    <value>Μειώνει τον χρόνο αναζήτησης των Airpods. Ενεργοποιήστε όταν είστε σίγουροι ότι δεν υπάρχουν άτομα με AirPods γύρο σας.</value>
+    <value>Μειώνει τον χρόνο αναζήτησης των Airpods. Ενεργοποιήστε το όταν είστε σίγουροι ότι δεν υπάρχουν άτομα με AirPods γύρω σας.</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Κατά την εκκίνηση</value>
@@ -332,7 +332,7 @@
     <value>Άνοιγμα κατά την εκκίνηση</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Μπορεί να γίνει ενεργοποίηση ή απενεργοποίηση στις Εφαρμογές εκκίνησης.</value>
+    <value>Ενεργοποιήστε ή απενεργοποιήστε την εκκίνηση της εφαρμογής κατά την έναρξη των Windows.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
     <value>Η ένταση θα μειωθεί όταν αφαιρεθεί το ένα AirPod από το αυτί, ή θα την επαναφέρει όταν αφαιρεθούν/φορεθούν και τα δύο AirPods.</value>
@@ -341,10 +341,10 @@
     <value>Εάν το παράθυρο δεν εμφανιστεί ανοίξτε την θήκη με τα AirPods μέσα και απαλά σύρετε την μπάρα μέχρι να εμφανιστεί σωστά το εφέ.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Εμφάνιση ή κρύψιμο του κουμπιού &lt;&lt;Σύνδεσης&gt;&gt; σε αναδυόμενο παράθυρο. Πατώντας του κουμπί θα γίνει σύνδεση με τα AirPods.</value>
+    <value>Εμφάνιση ή κρύψιμο του κουμπιού &lt;&lt;Σύνδεση&gt;&gt; σε αναδυόμενο παράθυρο. Πατώντας του κουμπί θα γίνει σύνδεση με τα AirPods.</value>
   </data>
   <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
-    <value>Εκκινεί την αναπαραγωγή μόλις συνδεθούν τα AirPods. Εάν δεν υπάρχουν ανοιχτά παράθυρα αναπαραγωγής ,δεν θα γίνει τίποτα.</value>
+    <value>Εκκινεί την αναπαραγωγή μόλις συνδεθούν τα AirPods. Εάν δεν υπάρχουν ανοιχτά παράθυρα αναπαραγωγής, δεν θα γίνει τίποτα.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Θα γίνει επαναφορά όλων των ρυθμίσεων. Θέλετε να συνεχίσετε;</value>
@@ -356,7 +356,7 @@
     <value>Θα γίνει παύση του κομματιού και η ένταση θα μειωθεί όταν αφαιρεθεί το ένα AirPod από το αυτί, ή θα σταματήσει και θα γίνει επαναφορά της φωνής όταν αφαιρεθούν και τα δύο AirPods.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
-    <value>Ακτίνα αναζήτησης- η απόσταση όπου ο υπολογιστής θα αναζητήσει για ανοιχτή θήκη AirPods.</value>
+    <value>Ακτίνα αναζήτησης - η απόσταση όπου ο υπολογιστής θα αναζητήσει για ανοιχτή θήκη AirPods.</value>
   </data>
   <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>Κάτω αριστερή γωνία</value>
@@ -383,7 +383,7 @@
     <value>Δεν έχουν ειδοποιήσεις όλες οι παρακάτω εφαρμογές, κάποιες εφαρμογές μπορεί να μην είναι στην λίστα.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Η λειτουργεία "Ανάγνωση ειδοποιήσεων" είναι απενεργοποιημένη, καθώς δεν έχει πρόσβαση στις ειδοποιήσεις. Πηγαίντε στις ρυθμίσεις ειδοποιήσεων και ανοίξτε το "VoiceOver notification".</value>
+    <value>Η λειτουργία "Ανάγνωση ειδοποιήσεων" είναι απενεργοποιημένη, καθώς δεν έχει πρόσβαση στις ειδοποιήσεις. Ανοίξτε τις ρυθμίσεις ειδοποιήσεων και ενεργοποιήστε την "Ανάγνωση ειδοποιήσεων".</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Τα AirPods δεν βρέθηκαν</value>
@@ -443,13 +443,13 @@
     <value>Θήκη</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
-    <value>Φώρτηση</value>
+    <value>Φόρτιση</value>
   </data>
   <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
     <value>Απόκρυψη</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
-    <value>Κατεβάστε</value>
+    <value>Κατέβασμα</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
     <value>Μετάφραση</value>
@@ -488,7 +488,7 @@
     <value>Εμφάνιση ειδοποίησης όταν η φόρτιση των ακουστικών είναι κάτω από την καθορισμένη τιμή.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
-    <value>Σβήνω</value>
+    <value>Ανενεργό</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
     <value>Ρυθμίσεις Bluetooth</value>
@@ -509,7 +509,7 @@
     <value>Παρουσιάστηκε μη αναμενόμενο σφάλμα</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Επανεκκινήστε την εφαρμογή για να συνεχιστεί η εργασία της εφαρμογής. Εάν το σφάλμα παραμένει, δοκιμάστε να επανεκκινήσετε τον υπολογιστή σας.</value>
+    <value>Η επανεκκίνηση της εφαρμογής ίσως φτιάξει το πρόβλημα. Εάν το σφάλμα παραμένει, δοκιμάστε να επανεκκινήσετε τον υπολογιστή σας.</value>
   </data>
   <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
     <value>Ειδοποίηση χαμηλής μπαταρίας</value>
@@ -554,7 +554,7 @@
     <value>Καθολικό πλήκτρο πρόσβασης για σύνδεση ή αποσύνδεση ακουστικών.</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
-    <value>Συνδέστε το πλήκτρο πρόσβασης</value>
+    <value>Πλήκτρο συντόμευσης σύνδεσης</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
     <value>Προσαρμόστε κάθε ακουστικό ξεχωριστά για να ταιριάζει στις προτιμήσεις σας</value>
@@ -605,7 +605,7 @@
     <value>Εμφάνιση ποσοστού μπαταρίας</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>Η λειτουργία Hands-Free (φωνητική επικοινωνία) των ακουστικών δεν θα είναι διαθέσιμη. Μην απενεργοποιείτε χειροκίνητα το Hands-Free. Επανεκκινήστε την εφαρμογή για να εφαρμόσετε αλλαγές.</value>
+    <value>Η λειτουργία Hands-Free (φωνητική επικοινωνία) των ακουστικών δεν θα είναι διαθέσιμη. Μην απενεργοποιήσετε χειροκίνητα το Hands-Free. Επανεκκινήστε την εφαρμογή για να εφαρμόσετε τις αλλαγές.</value>
   </data>
   <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
     <value>Πειραματικό χαρακτηριστικό</value>
@@ -641,7 +641,7 @@
     <value>Ροή ήχου</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
-    <value>Ροή ήχου από συσκευές Bluetooth σε υπολογιστή. Ο υπολογιστής λειτουργεί ως ηχείο Bluetooth.</value>
+    <value>Ροή ήχου από συσκευές Bluetooth στον υπολογιστή. Ο υπολογιστής λειτουργεί ως ηχείο Bluetooth.</value>
   </data>
   <data name="Support_Setting_Weblate.Header" xml:space="preserve">
     <value>Μετάφραση εφαρμογής</value>
@@ -656,7 +656,7 @@
     <value>Μεταφράστε γρήγορα κείμενο με ένα πλήκτρο πρόσβασης</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
-    <value>Επανεκκινήστε την εφαρμογή για να εφαρμόσετε αλλαγές.</value>
+    <value>Επανεκκινήστε την εφαρμογή για να εφαρμόσετε τις αλλαγές.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Εμφάνιση παραθύρου</value>
@@ -665,10 +665,10 @@
     <value>Επαναφορά στις προεπιλεγμένες ρυθμίσεις</value>
   </data>
   <data name="Buttons_LearnMore.Content" xml:space="preserve">
-    <value>Μάθε περισσότερα</value>
+    <value>Μάθετε περισσότερα</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
-    <value>Εναλλαγή πλήκτρου πρόσβασης εξόδου ήχου</value>
+    <value>Εναλλαγή πλήκτρου συντόμευσης εξόδου ήχου</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
     <value>Πατώντας το πλήκτρο συντόμευσης εναλλάσσονται οι έξοδοι ήχου.</value>
@@ -680,16 +680,16 @@
     <value>Γίνετε μέλος της κοινότητάς μας, αναφέρετε σφάλματα, μείνετε συντονισμένοι για νέα και ενημερώσεις και συζητήσεις</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>Σβήνω</value>
+    <value>Ανενεργό</value>
   </data>
   <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>Σβήνω</value>
+    <value>Ανενεργό</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Σβήνω</value>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
-    <value>Λειτουργία Κατάργησης Θορύβου</value>
+    <value>Ακύρωση Θορύβου</value>
   </data>
   <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Λειτουργία Κατάργησης Θορύβου</value>
@@ -706,11 +706,11 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
-    <value>Σβήνω</value>
+    <value>Ανενεργό</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
-    <value>Λειτουργία Κατάργησης Θορύβου</value>
+    <value>Ακύρωση Θορύβου</value>
   </data>
   <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
     <value>Σβήνω</value>
@@ -719,5 +719,467 @@
   <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
     <value>Σβήνω</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Τσιπ</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>Yλικολογισμικό</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>Το τσιπ δεν υποστηρίζεται ακόμη</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Διαφάνεια</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Φίλτρο ακύρωσης θορύβου</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Κίνηση</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Εσωτερικός Χώρος</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Διαλογισμός</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Πλήκτρο(α) συντόμευσης ακύρωσης θορύβου</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+    <value>Εντοπισμός θέσεως κεφαλής</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+    <value>Φορέστε και τα δύο AirPods πριν την χρήση της λειτουργίας.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Εντοπισμός κίνησης κεφαλής</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Δεξί AirPod κρατήστε το πατημένο</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Φωνητικός βοηθός</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Έλεγχος Θορύβου (ΛΑΘ,Διαφ.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Έλεγχος θορύβου (ΛΑΘ/Ανενεργό/Διαφ.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Ευαισθησία αριστερού AirPod</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Ταχύτητα πατήματος</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Μεσαίο</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Γρήγορο</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>Παρατεταμένο πάτημα</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Λίγο</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Κανονικό</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Παρατεταμένο</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>Βελτιωμένη σύνδεση πολλαπλών συσκευών</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Κανονική λειτουργία</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Χαμηλή</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Μεσαία</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>Έλεγχος φωνής</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>Λειτουργία παιχνιδιού</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Ενημέρωση για ψεύτικα ακουστικά</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Εμφάνιση προειδοποίησης στις ρυθμίσεις των ακουστικών όταν είναι ψεύτικα.</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>Ίσως τα ακουστικά να είναι ψεύτικα</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>Επαναφορά εργοστασιακών ρυθμίσεων</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Η εκκίνηση είναι απενεργοποιημένη από πολιτική ομάδας</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Ακύρωση</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Πήγαινε στην Εκκίνηση</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Η εκκίνηση έχει απενεργοποιηθεί χειροκίνητα</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Κλειστό (ανενεργό)</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Περιβάλλων ήχος</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>Αποθήκευση ρυθμίσεων</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Σινεμά στέρεο</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Κλασσικό</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>Ισοσταθμιστής</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>Ενεργοποιήστε την μουσική πριν αλλάξετε την ρύθμιση.</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Διαθέσιμη ενημέρωση</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Πατήστε εδώ για να πάτε στο Microsoft Store.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Δείξτε το παράθυρο για τα ψεύτικα AirPods</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Εμφάνιση ή απόκρυψη του αναδυόμενου παραθύρου όταν τα ψεύτικα AirPods βρίσκονται στη λίστα συσκευών Bluetooth.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>Ήχοι θήκης</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Header.Text" xml:space="preserve">
+    <value>Έλεγχος θορύβου</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Διαφάνεια</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Προσαρμοστικό</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Διαφάνεια</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Προσαρμοστικό</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
+    <value>Κατεβάζει την ένταση της αναπαραγωγής όπως και του θορύβου παρασκηνίου όταν αρχίζετε να μιλάτε σε άλλα άτομα.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
+    <value>Προσωποποιημένη ένταση</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Left_Header.Text" xml:space="preserve">
+    <value>Διπλό άγγιγμα στο αριστερό AirPod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Right_Header.Text" xml:space="preserve">
+    <value>Διπλό άγγιγμα στο δεξί AirPod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Αναπαραγωγή/Παύση</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>Επόμενο κομμάτι</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>Προηγούμενο κομμάτι</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Header.Text" xml:space="preserve">
+    <value>Digital Crown</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>Από πίσω προς τα μπροστά</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>από μπροστά προς τα πίσω</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>Πατήστε μία φορά/Πατήστε δύο φορές</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>Πατήστε δύο φορές/Πατήστε μία φορά</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Header.Text" xml:space="preserve">
+    <value>Μικρόφωνο</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>Αυτόματο</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>Πάντα στο δεξί AirPod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>Πάντα στο αριστερό AirPod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Ταχύτητα πατήματος</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>Προεπιλογή</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Αργό</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>Πολύ Αργό</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Header.Text" xml:space="preserve">
+    <value>Διάρκεια παρατεταμένου πατήματος</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>Προεπιλογή</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>Σύντομο</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Header.Text" xml:space="preserve">
+    <value>Ακύρωση θορύβου με ένα AirPod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Header.Text" xml:space="preserve">
+    <value>Ένταση ηχητικών εφέ</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Description.Text" xml:space="preserve">
+    <value>Προσαρμόστε την ένταση των ηχητικών εφέ από τα AirPods όταν δεν υπάρχει ροή αναπαραγωγής. Όταν η "{0}" είναι ενεργοποιημένη, η λειτουργία δεν θα υποστηρίζεται.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Header.Text" xml:space="preserve">
+    <value>Διαχείριση ακουστικών</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Βάλτε λίγη μαγεία στα ακουστικά σας</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Άδεια χρήσης</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Αγοράστε ή γράψτε ένα αγορασμένο κλειδί άδειας χρήσης στη "{0}" σελίδα κάτω από το "{1}"</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Το κλειδί άδειας χρήσης δεν βρέθηκε</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Αγορά κλειδιού άδειας χρήσης</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>Αγορά κλειδιού άδειας χρήσης</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Εισάγετε το κλειδί άδειας χρήσης</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Άδεια Χρήσης</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Αποθήκευση</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Ακύρωση</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Κλειδί άδειας χρήσης προϊόντος</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Κλειδί άδειας χρήσης</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Επικολλήστε το κλειδί άδειας χρήσης εδώ</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>Το κλειδί άδειας χρήσης δεν είναι έγκυρο. Παρακαλώ δοκιμάστε ξανά ή δοκιμάστε άλλο κλειδί.</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Το κλειδί άδειας χρήσης πρέπει να επανακαταχωρηθεί μετά την επανεκκίνηση της εφαρμογής</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+    <value>Συνδέστε τ' ακουστικά σας για περισσότερη παραμετροποίηση</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Με το πάτημα του πλήκτρου γίνεται εναλλαγή των λειτουργιών ακυρώσεων θορύβου.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Σταθερή</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>Αριστερό AirPod κρατήστε το πατημένο</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Ευαισθησία Δεξιού AirPod</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Ελέγξτε την ταχύτητα που απαιτείται για να πατήσετε τα AirPods δύο ή και τρεις φορές.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Αργό</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>Ελέγξτε τον χρόνο παρατεταμένου πατήματος των AirPods.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>Συνδέστε μέχρι και δύο συσκευές στα ακουστικά σας. Απαιτείται επαναφορά των AirPods στις εργοστασιακές ρυθμίσεις.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Λειτουργία πολλαπλών συνδέσεων</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>Απαιτείται επαναφορά των AirPods στις εργοστασιακές ρυθμίσεις.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>Ευαισθησία μείωσης θορύβου ανέμου</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>Απαιτείται επαναφορά των AirPods στις εργοστασιακές ρυθμίσεις.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Υψηλή</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>Μπορεί επίσης να ενεργοποιηθεί με πέντε πατήματα σε ένα από τα AirPods.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Ακύρωση ήχου ανέμου</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>Ελάττωση θορύβου ανέμου</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>Αυτόματη απενεργοποίηση του Handsfree</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>Βάλτε τα AirPods στη θήκη, ανοίξτε το καπάκι και πατήστε το κουμπί για 10 δευτερόλεπτα.</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>Απενεργοποιεί τη λειτουργία Handsfree μετά από την σύνδεση των ακουστικών ώστε να αποτρέψει την απρόσμενη αλλαγή στη λειτουργία. Το μικρόφωνο θα σταματήσει να λειτουργεί. Απενεργοποιώντας αυτή την ρύθμιση, θα ενεργοποιήσετε την λειτουργία Handsfree ξανά.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Ανοίξτε τις Ρυθμίσεις των Windows στην σελίδα Εφαρμογές, ανοίξτε την "Εκκίνηση" και ενεργοποιήστε το "{0}".</value>
+    <comment>{0} will be replaced with a name of the app</comment>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Έλεγχος για ενημερώσεις</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>Ένταση περιβάλλων ήχου</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>Όσο υψηλότερη είναι η τιμή, τόσο καλύτερα θα ακούγεται ο περιβάλλων ήχος.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>Συγκέντρωση φωνής</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
+    <value>Πατήστε το κουμπί στα AirPods Max ή πατήστε παρατεταμένα το αριστερό ή δεξί AirPod στα AirPods Pro για να κάνετε εναλλαγές μεταξύ των λειτουργιών θορύβου ελέγχου.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+    <value>Εναλλαγή μεταξύ λειτουργιών θορύβου</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Description.Text" xml:space="preserve">
+    <value>Ελέγχει την ένταση της αναπαραγωγής με βάση τον θόρυβο στο περιβάλλον.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Description.Text" xml:space="preserve">
+    <value>Το ενεργό μικρόφωνο του AirPod μπορεί να αλλαχθεί αυτόματα μεταξύ του αριστερού και δεξιού ή να παραμείνει ενεργό σε μία πλευρά μόνο.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>Βάλτε τα Airpods στη θήκη, αφήστε το καπάκι της θήκης ανοιχτό και περιμένετε μέχρι να σβήσει η λυχνία της θήκης. Ενεργοποιήστε ή Απενεργοποιήστε την επιλογή, βγάλτε τα AirPods, ενώ έχετε το καπάκι ανοιχτό, περιμένετε τουλάχιστον 2 δευτερόλεπτα και ξαναβάλτε τα AirPods στη θήκη, και περιμένετε μέχρι η λυχνία να σβήσει.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Ζωντανή μετάδοση</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Ρυθμός σκηνής</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Η εκκίνηση είναι απενεργοποιημένη από πολιτική ομάδας ή δεν υποστηρίζεται από την συσκευή.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>Οι φωνές θα ακούγονται πιο δυνατά και ο περιβάλλων ήχος θα είναι μειωμένος.</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>Αποθήκευση ρυθμίσεων περιβάλλων ήχου στη εσωτερική μνήμη των ακουστικών.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
+    <value>Αναγνώριση συζητήσεων</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Header.Text" xml:space="preserve">
+    <value>Τέλος κλήσης/Σίγαση και τέλος σίγασης</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Προσαρμόστε την ταχύτητα που απαιτείται για να πατήσετε δύο ή τρεις φορές τα AirPods.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Description.Text" xml:space="preserve">
+    <value>Προσαρμόστε την διάρκεια που απαιτείται για να πατάτε παρατεταμένα τα AirPods.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>Πολύ σύντομο</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Description.Text" xml:space="preserve">
+    <value>Επιτρέψτε στα AirPods να μπούνε σε λειτουργία ακύρωσης θορύβου όταν ένα από τα AirPod είναι στο αυτί σας.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Description.Text" xml:space="preserve">
+    <value>Όταν τα ακουστικά είναι συνδεδεμένα, οι παρακάτω επιλογές θα είναι σε χρήση.</value>
   </data>
 </root>
