@@ -1234,4 +1234,46 @@
   <data name="Headphones_Settings_Aap_TuneVolume_Description.Text" xml:space="preserve">
     <value>Настройки громкость тона звуковых эффектов для наушников AirPods, когда звук не воспроизводится. Пока «{0}» включено, громкость применяться не будет.</value>
   </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Темная тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Шрифт</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвет текста</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвет текста когда батарея заряжается</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвет текста когда батарея разряжена</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Светлая тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвет иконок</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвет индикатора</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвет индикатора когда батарея заряжается</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Шрифт не найден</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Светлая тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Размер шрифта</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Темная тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвет индикатора при разряженной батарее</value>
+  </data>
 </root>
