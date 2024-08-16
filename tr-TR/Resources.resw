@@ -257,7 +257,7 @@
     <value>Destek</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>Uygulama kapatılacak ve bütün fonksiyonlar devre dığı bırakılacak.</value>
+    <value>Uygulama kapatılacak ve bütün fonksiyonlar devre dışı bırakılacak.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>MagicPods'u kapat?</value>
@@ -1028,6 +1028,14 @@
   </data>
   <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
     <value>Şeffaf Mod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Adaptif</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Adaptif</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
 </root>
