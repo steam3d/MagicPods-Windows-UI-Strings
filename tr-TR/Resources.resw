@@ -1077,16 +1077,16 @@
     <value>Lisans</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
-    <value>kaydet</value>
+    <value>Kaydet</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
-    <value>iptal etmek</value>
+    <value>Iptal etmek</value>
   </data>
   <data name="License_ProductKey_Header.Text" xml:space="preserve">
-    <value>ürün anahtarı</value>
+    <value>Ürün anahtarı</value>
   </data>
   <data name="License_LicenseKey_Header.Text" xml:space="preserve">
-    <value>lisans anahtarı</value>
+    <value>Lisans anahtarı</value>
   </data>
   <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
     <value>Lisans anahtarını buraya yazınız</value>
@@ -1105,7 +1105,7 @@
     <value>Seçilen gürültü kontrolü modları arasında geçiş yapmak için AirPods Max düğmesine basın veya AirPods Pro sol veya sağ AirPod basılı tutun</value>
   </data>
   <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
-    <value>konuşma farkındalığı</value>
+    <value>Konuşma farkındalığı</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
@@ -1113,7 +1113,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
-    <value>özelleştirilmiş ses</value>
+    <value>Özelleştirilmiş ses</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_PersonalisedVolume_Description.Text" xml:space="preserve">
@@ -1153,7 +1153,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
-    <value>önden geriye</value>
+    <value>Önden geriye</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_EndCallMuteMic_Header.Text" xml:space="preserve">
@@ -1165,7 +1165,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
-    <value>iki kere tıkla/Bi kere tıkla</value>
+    <value>Iki kere tıkla/Bi kere tıkla</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_MicrophonePosition_Header.Text" xml:space="preserve">
@@ -1229,7 +1229,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_TuneVolume_Description.Text" xml:space="preserve">
-    <value>Ses efektlerinin AirPods tarafından çalındığı ses seviyesini, ses çalınmıyorken ayarlar. 0 açıkken, ses seviyesi uygulanmaz.</value>
+    <value>Ses efektlerinin AirPods tarafından çalındığı ses seviyesini, ses çalınmıyorken ayarlar. {0} açıkken, ses seviyesi uygulanmaz.</value>
   </data>
   <data name="Headphones_Settings_Aap_ApplySettings_Header.Text" xml:space="preserve">
     <value>Kulaklıkları Ayarla</value>
@@ -1277,9 +1277,9 @@
     <value>Gösterge rengi</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
-    <value>batarya şarj olurken gösterge rengi</value>
+    <value>Batarya şarj olurken gösterge rengi</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
-    <value>yazı tipi bulunamadı</value>
+    <value>Yazı tipi bulunamadı</value>
   </data>
 </root>
