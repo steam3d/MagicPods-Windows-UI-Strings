@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,188 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>ਵਿੰਡੋ ਦਾ ਆਕਾਰ</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>ਛੋਟਾ</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>ਦਰਮਿਆਨਾ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>ਕੰਨ ਦੀ ਖੋਜ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>ਵਾਲੀਅਮ ਘਟਾਓ</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>ਹੋਰ</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+    <value>ਘੱਟ ਆਡੀਓ ਲੇਟੈਂਸੀ</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>ਮਦਦ ਪ੍ਰਾਪਤ ਕਰੋ</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>ਮੁੱਦੇ ਦੀ ਰਿਪੋਰਟ ਕਰੋ</value>
+  </data>
+  <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
+    <value>ਡੀਬੱਗ ਲੌਗ</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+    <value>ਤੇਜ਼ ਖੋਜ</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>ਸ਼ੁਰੂ ਕਰਣਾ</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>ਸਟਾਰਟਅੱਪ 'ਤੇ ਚਲਾਓ</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>ਵਿੰਡੋਜ਼ ਸ਼ੁਰੂ ਹੋਣ 'ਤੇ ਐਪਲੀਕੇਸ਼ਨ ਦੇ ਲਾਂਚ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>ਆਈਕਨ ਲੁਕਾਓ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>ਬੈਟਰੀ ਪ੍ਰਤੀਸ਼ਤ ਦਿਖਾਓ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>ਸ਼ੈਲੀ</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>ਆਈਕਨ</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>ਟੈਕਸਟ</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>ਸਟਾਰਟਅੱਪ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>ਨਿਕਾਸ</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>ਮਦਦ ਕਰੋ</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>ਨੰ</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>ਹਾਂ</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>ਆਮ ਸੈਟਿੰਗ</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>MagicPods ਬੰਦ ਕਰੋ</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>ਸਪੋਰਟ</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>ਮੈਜਿਕਪੌਡਸ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>ਬੰਦ ਕਰੋ</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>ਰੱਦ ਕਰੋ</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>ਏਅਰਪੌਡ ਖੋਜ ਦਾ ਘੇਰਾ</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+    <value>ਖੋਜ ਦਾ ਘੇਰਾ ਕੀ ਹੈ?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>ਟਿਪ</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>"ਕਨੈਕਟ" ਬਟਨ ਦਿਖਾਓ</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>ਪੌਪ-ਅੱਪ ਵਿੰਡੋ 'ਤੇ "ਕਨੈਕਟ" ਬਟਨ ਦਿਖਾਓ ਜਾਂ ਓਹਲੇ ਕਰੋ। ਬਟਨ ਦਬਾਉਣ ਨਾਲ AirPods ਜੁੜ ਜਾਵੇਗਾ।</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>ਪੌਪ-ਅੱਪ ਵਿੰਡੋ</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>ਚੇਤਾਵਨੀ</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>ਸੈਟਿੰਗਾਂ ਰੀਸੈਟ ਕਰੋ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>ਦੋਵੇਂ (ਵਾਲੀਅਮ ਘਟਾਓ + ਚਲਾਓ/ਰੋਕੋ)</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>0% ਬਾਕੀ। ਆਪਣੇ ਹੈੱਡਫੋਨ ਚਾਰਜ ਕਰੋ</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>ਵਿੰਡੋ ਦਿਖਾਓ</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>ਜਦੋਂ ਤੁਸੀਂ ਕੇਸ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਆਈਫੋਨ ਵਾਂਗ ਪੌਪ-ਅੱਪ ਵਿੰਡੋ ਦਿਖਾਓ ਜਾਂ ਲੁਕਾਓ।</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>ਵੱਡਾ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>ਚਲਾਓ/ਰੋਕੋ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+    <value>ਪਲੇਬੈਕ ਰੁਕ ਜਾਂਦਾ ਹੈ ਜਦੋਂ ਇੱਕ ਏਅਰਪੌਡ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ ਜਾਂ ਜਦੋਂ ਦੋਵਾਂ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਰੁਕ ਜਾਂਦਾ ਹੈ।</value>
+  </data>
+  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+    <value>ਪ੍ਰੀਮੀਅਰ ਪ੍ਰੋ ਜਾਂ ਆਡੀਸ਼ਨ ਵਿੱਚ ਕੰਮ ਕਰਨ ਵੇਲੇ ਉਪਯੋਗੀ। ਚਾਲੂ ਹੋਣ ਤੋਂ ਬਾਅਦ ਏਅਰਪੌਡਸ ਨੂੰ ਦੁਬਾਰਾ ਕਨੈਕਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਇਹ ਬੈਟਰੀ ਦੀ ਖਪਤ ਨੂੰ ਵਧਾ ਸਕਦਾ ਹੈ।</value>
+  </data>
+  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+    <value>ਏਅਰਪੌਡਸ ਲਈ ਖੋਜ ਸਮਾਂ ਘਟਾਉਂਦਾ ਹੈ। ਇਸਨੂੰ ਉਦੋਂ ਚਾਲੂ ਕਰੋ ਜਦੋਂ ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੋਵੇ ਕਿ ਆਸ ਪਾਸ ਕੋਈ ਹੋਰ ਏਅਰਪੌਡ ਨਹੀਂ ਵਰਤ ਰਿਹਾ ਹੈ।</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>ਸਿਸਟਮ ਟਰੇ ਆਈਕਨ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>ਕਨੈਕਟ ਕੀਤੇ ਹੈੱਡਫੋਨਾਂ ਦੀ ਔਸਤ ਬੈਟਰੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਦਿਖਾਉਂਦਾ ਹੈ।</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>ਐਪਲੀਕੇਸ਼ਨ ਬੰਦ ਹੋ ਜਾਵੇਗੀ ਅਤੇ ਸਾਰੇ ਫੰਕਸ਼ਨ ਅਸਮਰੱਥ ਹੋ ਜਾਣਗੇ।</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>ਗਰੁੱਪ ਪਾਲਿਸੀ ਦੁਆਰਾ ਸਟਾਰਟਅੱਪ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਾਂ ਇਸ ਡਿਵਾਈਸ 'ਤੇ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>ਤਬਦੀਲੀਆਂ ਨੂੰ ਲਾਗੂ ਕਰਨ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਰੀਸਟਾਰਟ ਕਰੋ।</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>ਬੈਟਰੀ ਜਾਣਕਾਰੀ</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>ਪ੍ਰਯੋਗਾਤਮਕ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ</value>
+    <comment>Not used now</comment>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+    <value>ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਕੰਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਏਅਰਪੌਡ ਨੂੰ ਹਟਾਉਂਦੇ ਹੋ, ਜਾਂ ਜਦੋਂ ਤੁਸੀਂ ਦੋਵੇਂ ਏਅਰਪੌਡਸ ਨੂੰ ਹਟਾਉਂਦੇ/ਲਾਉਂਦੇ ਹੋ ਤਾਂ ਰੀਸਟੋਰ ਹੁੰਦਾ ਹੈ।</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+    <value>ਸਮਰਥਿਤ ਖਿਡਾਰੀਆਂ ਦੀ ਸੂਚੀ</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>ਜੇਕਰ ਵਿੰਡੋ ਦਿਖਾਈ ਨਹੀਂ ਦਿੰਦੀ ਹੈ ਤਾਂ ਅੰਦਰ ਏਅਰਪੌਡਸ ਨਾਲ ਕੇਸ ਖੋਲ੍ਹੋ ਅਤੇ ਐਨੀਮੇਸ਼ਨ ਦਿਖਾਈ ਦੇਣ ਤੱਕ ਸਲਾਈਡਰ ਨੂੰ ਸੱਜੇ ਪਾਸੇ ਸਲਾਈਡ ਕਰੋ।</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>65 ਤੋਂ ਵੱਧ ਮੁੱਲ ਸੈਟ ਨਾ ਕਰੋ ਕਿਉਂਕਿ ਐਨੀਮੇਸ਼ਨ ਅਚਾਨਕ ਦਿਖਾਈ ਦੇ ਸਕਦੀ ਹੈ।</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+    <value>ਆਟੋ ਕਨੈਕਟ ਕਰੋ</value>
+  </data>
+  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+    <value>ਜਦੋਂ ਤੁਸੀਂ ਸੱਜੇ ਜਾਂ ਖੱਬੇ ਏਅਰਪੌਡਸ ਨੂੰ ਕੇਸ ਤੋਂ ਬਾਹਰ ਕੱਢਦੇ ਹੋ ਤਾਂ ਏਅਰਪੌਡਸ ਨਾਲ ਆਟੋਮੈਟਿਕਲੀ ਕਨੈਕਟ ਕਰੋ।</value>
+  </data>
 </root>
