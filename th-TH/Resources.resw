@@ -972,4 +972,49 @@
     <value>โหมดตัดเสียง</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>ไม่พบรหัสใช้งาน</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>รหัสใช้งาน</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>ซื้อรหัสใช้งาน</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>กรอกรหัสใช้งาน</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>รหัสใช้งาน</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>บันทึก</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>ยกเลิก</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>รหัสใช้งานผลิตภัณฑ์</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>รหัสใช้งาน</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>วางรหัสใช้งานที่นี่</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>ซื้อรหัสใช้งาน</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>ซื้อหรือกรอกรหัสใช้งานในหน้า {0} ใน {1}</value>
+    <comment>{0} {1} are replaced with page and section names</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+    <value>สลับระหว่างกัน</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Header.Text" xml:space="preserve">
+    <value>ควบคุมเสียงรบกวน</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
 </root>
