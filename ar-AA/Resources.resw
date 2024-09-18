@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Text_Exit" xml:space="preserve">
-    <value>خروجخروج</value>
+    <value>خروج</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>متبقي{0}%. اشحن سماعات الرأس الخاصة بك.</value>
@@ -1107,5 +1107,124 @@
   <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
     <value>اضغط مرتين/اضغط مرة</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>اوتوماتيكي</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Header.Text" xml:space="preserve">
+    <value>سرعة الضغط</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Description.Text" xml:space="preserve">
+    <value>قم بضبط السرعة المطلوبة للضغط مرتين أو ثلاث مرات على AirPods.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>الإفتراضيات</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>أبطأ</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>الأبطأ</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Header.Text" xml:space="preserve">
+    <value>مدة الضغط مع الاستمرار</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Description.Text" xml:space="preserve">
+    <value>قم بضبط المدة المطلوبة للضغط مع الاستمرار على AirPods.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>الإفتراضيات</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>أقصر</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Description.Text" xml:space="preserve">
+    <value>اسمح بوضع AirPods في وضع إلغاء الضوضاء عند وجود AirPod واحد فقط في أذنك.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Header.Text" xml:space="preserve">
+    <value>حجم النغمة</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Header.Text" xml:space="preserve">
+    <value>إدارة سماعات الرأس</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Description.Text" xml:space="preserve">
+    <value>عند توصيل سماعات الرأس، يتم تطبيق الخيارات أدناه.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>سماعة AirPod اليمنى</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>سماعة AirPod اليسرى</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>قصير</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Description.Text" xml:space="preserve">
+    <value>يمكن لميكروفون AirPod النشط أن يتغير تلقائيًا من اليسار إلى اليمين، أو أن يكون ثابتًا على جانب واحد.</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Description.Text" xml:space="preserve">
+    <value>يضبط مستوى صوت المؤثرات الصوتية التي يتم تشغيلها بواسطة AirPods عند عدم تشغيل أي صوت. أثناء تشغيل «{0}»، لن يتم تطبيق مستوى الصوت.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Header.Text" xml:space="preserve">
+    <value>إلغاء الضوضاء باستخدام سماعة AirPod واحدة</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>لون الأيقونة</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>لون المؤشر</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>لون المؤشر عند شحن البطارية</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>لون المؤشر عند انخفاض مستوى البطارية</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>لم يتم العثور على الخط</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>المظهر الداكن</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>الخط</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>حجم الخط</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>لون النص</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>لون النص عند شحن البطارية</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>لون النص عند انخفاض مستوى البطارية</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>المظهر الداكن</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>ضوء السمة</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>ضوة السمه</value>
   </data>
 </root>
