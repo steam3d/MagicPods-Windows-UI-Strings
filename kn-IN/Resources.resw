@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,41 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>ಎಚ್ಚರಿಕೆ</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>ಪಾಪ್-ಅಪ್ ವಿಂಡೋ</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>ವಿಂಡೋ ತೋರಿಸಿ</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>ವಿಂಡೋ ಗಾತ್ರ</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>ಸಣ್ಣ</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>ಮಧ್ಯಮ</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>ದೊಡ್ಡ</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>ಸೆಟ್ಟಿಂಗ್ ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+    <value>ಕಿವಿ ಪತ್ತೆ</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0 }% ಉಳಿದಿದೆ. ನಿಮ್ಮ ಹೆಡ್ ಫೋನ್ ಗಳನ್ನು ಚಾರ್ಜ್ ಮಾಡಿ.</value>
+    <comment>{0} will be replaced with a number</comment>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>ನೀವು ಪ್ರಕರಣವನ್ನು ತೆರೆದಾಗ ಐಫೋನ್ ನಂತೆ ಪಾಪ್-ಅಪ್ ವಿಂಡೋವನ್ನು ತೋರಿಸಿ ಅಥವಾ ಮರೆಮಾಡಿ.</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>ಪ್ಲೇ / ವಿರಾಮ</value>
+  </data>
 </root>
