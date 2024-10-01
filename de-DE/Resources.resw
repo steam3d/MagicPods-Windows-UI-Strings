@@ -580,7 +580,7 @@
     <value>Systemweite Tastenkombination zum Verbinden und Trennen der Kopfhörer.</value>
   </data>
   <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
-    <value>Verbindungs Tastenkombination</value>
+    <value>Tastenkombination zum Verbinden</value>
   </data>
   <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>Andere Apps des Entwicklers</value>
@@ -1108,6 +1108,34 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
-    <value>Drücke den Knopf auf AirPods Max oder drücke und halte den linken oder rechten AirPod von AirPods Pro um zwischen den Geräuschmodi zu wechseln.</value>
+    <value>Drücke den Knopf auf den AirPods Max oder drücke und halte den linken oder rechten AirPod von AirPods Pro um zwischen den Geräuschmodi zu wechseln.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Fortsetzen/Pause</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>Nächster Titel</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>Vorheriger Titel</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+    <value>Wechsel zwischen</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Left_Header.Text" xml:space="preserve">
+    <value>Doppeltippen auf den linken AirPod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Header.Text" xml:space="preserve">
+    <value>Digitale Krone</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Right_Header.Text" xml:space="preserve">
+    <value>Doppeltippen auf den rechten AirPod</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
 </root>
