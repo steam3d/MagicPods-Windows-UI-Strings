@@ -1182,4 +1182,46 @@
     <value>Оберіть відповідний інтервал у подвійному/потрійному натисканні на навушниках AirPods.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Світла тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Розмір шрифту</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Колір тексту при низькому заряді</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Темна тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Шрифт</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Колір тексту</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Колір тексту під час заряджання</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Світла тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Темна тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Колір іконки</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Колір індикатора</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Колір індикатора під час заряджання</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Колір індикатора при низькому заряді</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Шрифт не знайдено</value>
+  </data>
 </root>
