@@ -1291,4 +1291,79 @@
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
     <value>Font not found</value>
   </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth control</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey turns Bluetooth on or off. </value>
+  </data>
+  <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
+    <value>Headphones</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>Noise control</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey cycles through noise cancellation modes if «{0}» is available in the headphone settings.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Sound output</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Sound output control</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey cycles through the sound outputs.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Skip reading</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey skips reading the current notification.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Connect / Disconnect</value>
+  </data>
+  <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
+    <value>Connect</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
+    <value>Headphones</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Streaming devices</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Search by name</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>To display devices, turn on Bluetooth, wait for headphones to load</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Get charge level via Handsfree</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Use this option if the headphone charge isn’t displayed. Reconnect the headphones to apply the changes. Voice communication will be unavailable.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Single battery icon</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Switch sound output to headphones</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Force the sound output to switch to the headphones after connection. This option does not apply if «{0}» is enabled.</value>
+  </data>
 </root>
