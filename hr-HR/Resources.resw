@@ -110,7 +110,7 @@
     <value>Pokretanje</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>To možete omogućiti ili onemogućiti na kartici Pokretanje u Upravitelju zadataka.</value>
+    <value>Omogući ili onemogući pokretanje aplikacije pri pokretanju sustava Windows.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Ikona programske trake</value>
@@ -417,5 +417,161 @@
   <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
     <value>Isključeno</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>Govori</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>VoiceOver sve obavijesti</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+    <value>Dodaj novi glas</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>Beskonačno pretraživanje</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>Nije moguće pronaći AirPods</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Svijetlo</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Tamno</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
+    <value>Tema prozora</value>
+  </data>
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
+    <value>Jezik</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Koristi jezik sustava</value>
+  </data>
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>Postavke aplikacije</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>Za najbolje korisničko iskustvo, preporučujemo da omogućite pokretanje s Windowsima.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Pokretanje</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Dodirnite ili kliknite ovdje za prilagodbu</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Višestruka veza</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Povezivanje</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Prekini vezu</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Prekidanje veze</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Kućište</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>Preuzmi</value>
+  </data>
+  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Onemogućeno</value>
+  </data>
+  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Onemogućeno</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Došlo je do neočekivane pogreške</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Unesite prečac tipkovnice</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Uključite Win, Shift, Alt ili Ctrl tipku</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Ukloni prečac tipkovnice</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+    <value>Automatsko pauziranje</value>
+  </data>
+  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+    <value>Pauziraj reprodukciju nakon isključivanja slušalica.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+    <value>Obavijest o niskoj bateriji</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>VoiceOver obavijesti iz ovih izvora</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>Prikaži sve aplikacije</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>Za najbolje korisničko iskustvo, preporučujemo da omogućite pokretanje s Windowsima. To možete učiniti iz kartice «Pokretanje» u Upravitelju zadataka.</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Koristi sistemsku temu</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+    <value>Sakrij</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Prevedi</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Ponovno pokreni</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Postavke Bluetooth-a</value>
+  </data>
+  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+    <value>Automatska reprodukcija</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>Zvuk</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>Poslušaj tekst s odabranim glasom</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Nisu sve aplikacije s popisa u mogućnosti slati obavijesti, neke aplikacije možda nisu na popisu.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Značajka "VoiceOver obavijesti" je isključena, ne može se pristupiti obavijestima. Otvorite «Privatnost i obavijesti», omogućite pristup obavijestima, a zatim uključite "VoiceOver obavijesti".</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Privatnost i obavijesti</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>Slijedite ovaj vodič kako biste riješili problem.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+    <value>Mogućnosti AirPods-a</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Spojena su dva ili više slušalica, ostavite spojene samo jedne</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Napunjenost</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Ponovno pokretanje aplikacije može riješiti problem. Ako se pogreška ponovi, pokušajte ponovno pokrenuti računalo.</value>
+  </data>
+  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+    <value>Prikaži obavijest kada je napunjenost slušalica ispod određenog nivoa.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Uključi Bluetooth za prikaz slušalica</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Nema uparenih slušalica</value>
   </data>
 </root>
