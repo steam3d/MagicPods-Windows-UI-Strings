@@ -1336,4 +1336,19 @@
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
     <value>Нажатие горячей клавиши пропускает чтение текущего уведомления.</value>
   </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Уровень заряда через Handsfree</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Используйте эту опцию, если заряд наушников не отображается. Переподключите наушники, чтобы применить изменения. Голосовая связь будет недоступна.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Значок одной батареи</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Переключать аудиовыход на наушники</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Принудительно переключать аудиовыход на наушники после подключения. Эта опция не применяется, если включен «{0}».</value>
+  </data>
 </root>
