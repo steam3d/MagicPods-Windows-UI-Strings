@@ -893,4 +893,475 @@
     <value>通透模式</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Description.Text" xml:space="preserve">
+    <value>活动的 AirPod 麦克风可以自动从左到右改变，或固定在一侧。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>慢点</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Header.Text" xml:space="preserve">
+    <value>按住持续时间</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>字体</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>文字颜色</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>按住左侧Airpods</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+    <value>按住右侧Airpods</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+    <value>右侧AirPod 灵敏度</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+    <value>按压速度</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>更快</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>中等</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>慢</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+    <value>长按</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+    <value>调整按住左侧AirPod 和右侧AirPod 的时间。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>较短</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>中等</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>更长</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+    <value>增强的多点连接</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>多点模式</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>普通模式</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+    <value>减少风噪</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>低的</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>中等的</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>高</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+    <value>语音控制</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+    <value>游戏模式</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+    <value>也可以通过按左侧或右侧 AirPod 上五次来激活它。</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>标记假耳机</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>在耳机设置中显示警告，表明它们是假货。</value>
+  </data>
+  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+    <value>可能是假耳机</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+    <value>恢复出厂设置</value>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Description.Text" xml:space="preserve">
+    <value>调节 AirPods 在没有播放音频时播放的音效音量。当“{0}”打开时，不会应用音量。</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>浅色主题</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>深色主题</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>低电量时指示灯颜色</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>如果耳机设置中提供了“{0}”，则按热键可在降噪模式之间循环切换。</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>如果未显示耳机电量，请使用此选项。重新连接耳机以应用更改。语音通信将不可用。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+    <value>专注于语音</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+    <value>保存设置</value>
+  </data>
+  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+    <value>将环境声音设置保存到耳机内存中。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+    <value>需要将 AirPods 恢复出厂设置才能应用。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+    <value>可让您同时将两个设备连接到耳机。需要将 AirPods 恢复出厂设置才能应用。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>启动已被组策略禁用，或在此设备上不受支持。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>组策略禁用启动</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>在“应用程序”页面上打开 Windows 设置，转到“启动”并启用“1{0}”。</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>转到启动</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>手动禁用启动</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>检查更新</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+    <value>自动禁用免提功能</value>
+  </data>
+  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+    <value>连接耳机后禁用免提，以防止耳机切换到免提模式。麦克风将停止工作。关闭该选项将再次启用免提服务。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+    <value>均衡器</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+    <value>更改设置之前打开音乐。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+    <value>外壳声音</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>影院立体声</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>舞台节奏</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>经典的</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>可用更新</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>单击此处转至 Microsoft Store。</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>为您的耳机添加一点魔力</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>未找到许可证密钥</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>执照</value>
+  </data>
+  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+    <value>购买钥匙</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>输入键</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>执照</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>节省</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>产品密钥</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>许可证密钥</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>将许可证密钥粘贴到此处</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>许可证密钥无效。请重试或使用不同的许可证密钥。</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>重新安装应用程序后需要重新输入许可证密钥</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Header.Text" xml:space="preserve">
+    <value>噪音控制</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>自适应</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+    <value>循环之间</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>自适应</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
+    <value>对话意识</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
+    <value>个性化音量</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Description.Text" xml:space="preserve">
+    <value>根据您的环境调整媒体音量。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Left_Header.Text" xml:space="preserve">
+    <value>双击左侧 AirPod</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Right_Header.Text" xml:space="preserve">
+    <value>双击右侧 AirPod</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>播放/暂停</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>下一曲目</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>上一曲目</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Header.Text" xml:space="preserve">
+    <value>数码表冠</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>从后到前</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>从前到后</value>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Header.Text" xml:space="preserve">
+    <value>结束通话/静音和取消静音</value>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>按一次/按两次</value>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>按两次/按一次</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Header.Text" xml:space="preserve">
+    <value>麦克风</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>自动的</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>始终正确的 AirPod</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>总是离开AirPod</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Header.Text" xml:space="preserve">
+    <value>压机速度</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Description.Text" xml:space="preserve">
+    <value>调整按 AirPods 两到三下所需的速度。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>默认</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Description.Text" xml:space="preserve">
+    <value>调整按住 AirPods 所需的持续时间。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>默认</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>较短</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>最短</value>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Header.Text" xml:space="preserve">
+    <value>使用 1 个 AirPod 消除噪音</value>
+  </data>
+  <data name="Headphones_Settings_Aap_AncOneAirPod_Description.Text" xml:space="preserve">
+    <value>当您耳中只有一只 AirPod 时，允许 AirPods 进入降噪模式。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Header.Text" xml:space="preserve">
+    <value>音量</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Header.Text" xml:space="preserve">
+    <value>管理耳机</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Description.Text" xml:space="preserve">
+    <value>连接耳机后，以下选项适用。</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>蓝牙</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>蓝牙控制</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>按热键可打开或关闭蓝牙。</value>
+  </data>
+  <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
+    <value>耳机</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>噪音控制</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
+    <value>声音输出</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>声音输出控制</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>按热键可循环显示声音输出。</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
+    <value>画外音</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>跳过阅读</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>按热键可跳过阅读当前通知。</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>连接/断开</value>
+  </data>
+  <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
+    <value>连接</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>断开</value>
+  </data>
+  <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
+    <value>耳机</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>流媒体设备</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>按名称搜索</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>热键</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>通过免提充电的电量</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>单电池图标</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>将声音输出切换到耳机</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>电池电量低时的文字颜色</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>浅色主题</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>深色主题</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>图标颜色</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>指示灯颜色</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>电池充电时指示灯颜色</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>找不到字体</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>噪音控制（主动降噪/关闭/转换）</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+    <value>需要将 AirPods 恢复出厂设置才能应用。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+    <value>风噪声降低灵敏度</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>显示假冒 AirPods 的窗口</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>如果假冒 AirPods 位于蓝牙设备列表中，则显示或隐藏假冒 AirPods 的弹出窗口。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+    <value>将 AirPods 放入充电盒中，保持充电盒盖打开，等待充电盒指示灯熄灭。关闭/打开该选项，在保持盒盖打开的情况下拉出 AirPods，等待至少 2 秒，然后将 AirPods 再次放入盒中，然后等待盒指示灯熄灭。</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+    <value>环境音量</value>
+  </data>
+  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+    <value>人们的声音将被听到，环境噪音将被抑制。</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>购买钥匙</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
+    <value>按 AirPods Max 上的按钮或按住 AirPods Pro 上的左侧或右侧 AirPod，可在选定的噪音控制模式之间循环。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+    <value>调整按左侧 AirPod 和右侧 AirPod 两次或三次所需的速度。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+    <value>将 AirPods 放入充电盒中，打开盖子，然后按下按钮约 10 秒钟。</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>现场表演</value>
+  </data>
+  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+    <value>值越高，环境听到的效果越好。</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>在“{0}”页面的“{1}”下购买或输入现有密钥</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
+    <value>当您开始与其他人交谈时，降低媒体音量并减少背景噪音。</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>最慢</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>字体大小</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>电池充电时的文字颜色</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>要显示设备，请打开蓝牙，等待耳机加载</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>连接后强制声音输出切换到耳机。如果启用了“{0}”，则此选项不适用。</value>
+  </data>
 </root>
