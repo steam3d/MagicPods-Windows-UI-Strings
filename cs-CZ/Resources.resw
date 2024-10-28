@@ -1227,4 +1227,79 @@
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
     <value>Barva indikátoru při nízkém nabití</value>
   </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Ovládání Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
+    <value>Sluchátka</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>Hlukový filtr</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Zvukový výstup</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Ovládání zvukového výstupu</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Přeskočit čtení</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Stisknutí klávesové zkratky přeskočí čtení aktuálního oznámení.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Připojit / Odpojit</value>
+  </data>
+  <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
+    <value>Připojit</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Odpojit</value>
+  </data>
+  <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
+    <value>Sluchátka</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Hledat podle jména</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Chcete-li zobrazit zařízení, zapněte Bluetooth a počkejte, až se sluchátka načtou</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Klávesové zkratky</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Přepnout zvukový výstup na sluchátka</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Stisknutí kombinace kláves zapne nebo vypne Bluetooth.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Stisknutí kombinace kláves ve smyčce prochází režimy potlačení hluku pokud «{0}» je dostupný v nastavení sluchátek.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>Stisknutím klávesové zkratky budete ve smyčce procházet zvukové výstupy.</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Streamovací zařízení</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Úroveň nabití přes handsfree</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Jednotný ukazatel baterie</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Tuto možnost použijte, pokud se nabití sluchátek nezobrazuje. Pro použití změn znovu připojte sluchátka. Hlasová komunikace bude nedostupná.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Po připojení vynutit přepnutí zvukového výstupu na sluchátka. Tato možnost neplatí, pokud je povoleno „{0}“.</value>
+  </data>
 </root>
