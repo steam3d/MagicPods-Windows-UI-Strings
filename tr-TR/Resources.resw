@@ -1300,4 +1300,61 @@
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
     <value>Kulaklıklar</value>
   </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Kulaklık şarjı görüntülenmiyorsa bu seçeneği kullanın. Değişiklikleri uygulamak için kulaklıkları yeniden bağlayın. Sesli iletişim kullanılamayacak.</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth kontrolü</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Kulaklık ayarlarında «{0}» mevcutsa, kısayol tuşuna basıldığında gürültü engelleme modları arasında geçiş yapılır.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Ses çıkış kontrolü</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>Kısayol tuşuna basıldığında ses çıkışları arasında geçiş yapılır.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Okumayı atla</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Kısayol tuşuna basıldığında mevcut bildirimin okunması atlanır.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Bağlan / Bağlantıyı Kes</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Bağlantıyı Kes</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Yayın cihazları</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Ada göre ara</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Cihazları görüntülemek için Bluetooth'u açın, kulaklıkların yüklenmesini bekleyin</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Kısayollar</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Şarj seviyesi Handsfree ile</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Tek batarya simgesi</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Ses çıkışını kulaklığa değiştir</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Bağlantı sonrasında ses çıkışını kulaklığa geçmeye zorlayın. Bu seçenek «{0}» etkinse geçerli değildir.</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Kısayol tuşuna basıldığında Bluetooth açılır veya kapanır.</value>
+  </data>
 </root>
