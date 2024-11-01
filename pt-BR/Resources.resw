@@ -1303,4 +1303,10 @@
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
     <value>Ao pressionar as teclas de atalho a saída de áudio será alterada de forma sequencial.</value>
   </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Mude a saída de som para os fones de ouvido</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Force a saída de som para mudar para os fones de ouvido após a conexão. Esta opção não se aplica se «{0}» estiver ativado.</value>
+  </data>
 </root>
