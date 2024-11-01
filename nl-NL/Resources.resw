@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% resterend. Laad uw hoofdtelefoon op.</value>
+    <value>{0}% resterend. Laad je koptelefoon op.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Waarschuwing</value>
@@ -1297,5 +1297,8 @@
   </data>
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
     <value>Koptelefoons</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth besturing</value>
   </data>
 </root>
