@@ -1268,7 +1268,7 @@
     <value>Couleur du texte lorsque la batterie est faible</value>
   </data>
   <data name="Headphones_Settings_Aap_MicrophonePosition_Header.Text" xml:space="preserve">
-    <value>Microphone</value>
+    <value>Micro</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
@@ -1312,5 +1312,44 @@
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
     <value>Appuyez sur la touche de raccourci pour faire défiler les sorties audio.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Sauter la lecture</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Appuyer sur les touches de raccourci fait sauter la notification en cours.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Connecter / Déconnecter</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Déconnecter</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Dispositifs de streaming</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Rechercher par nom</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Pour afficher les appareils, activez le Bluetooth et attendez que les écouteurs apparaissent</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Touches de raccourci</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Niveau de charge via le kit mains libres</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Utilisez cette option si la charge du casque n'est pas affichée. Reconnectez les écouteurs pour appliquer les modifications. La communication vocale ne sera pas disponible.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Icône de batterie unique</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Basculer la sortie audio vers les écouteurs</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Force la sortie sonore à basculer vers le casque après la connexion. Cette option ne s'applique pas si l'option « {0} » est activée.</value>
   </data>
 </root>
