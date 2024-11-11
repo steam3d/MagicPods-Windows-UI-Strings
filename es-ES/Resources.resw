@@ -1245,4 +1245,46 @@
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
     <value>Presionando la tecla predeterminada se modificará la salida de audio.</value>
   </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Control de Bluetooth</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Control de sonido de salida</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Omitir lectura</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Presionar el atajo omite la lectura de la notificación actual.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Conectar / Desconectar</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Desconectar</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Dispositivos de retrasmisión</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Buscar por nombre</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Para mostrar los dispositivos, activa el Bluetooth, espere a que carguen los auriculares</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Atajos</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Cambiar el sonido de salida a los auriculares</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Presionando el atajo enciende o apaga el Bluetooth.</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Forzar el cambio de sonido de salida a los auriculares después de conectare. Esta opción no se aplica si «0» está habilitado.</value>
+  </data>
 </root>
