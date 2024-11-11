@@ -1296,4 +1296,61 @@
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
     <value>耳機</value>
   </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>藍牙</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>藍牙控制</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>按下熱鍵可以開啟或關閉藍牙。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>如果耳機設置中提供了「{0}」，則按下熱鍵可以在不同的噪音消除模式之間切換。</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>聲音輸出控制</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>按下熱鍵可以在不同的聲音輸出之間循環切換。</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>跳過閱讀</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>按下熱鍵可以跳過閱讀當前的通知。</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>連接 / 斷開連接</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>斷開連接</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>串流媒體設備</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>按名稱搜尋</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>要顯示設備，請開啟藍牙，並等待耳機加載完成</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>熱鍵</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>透過免提功能查看充電的電量</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>如果未顯示耳機電量，請使用這個選項。重新連接耳機以應用更改。請注意，語音通信將不可用。</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>單個電池圖示</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>將聲音輸出切換到耳機</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>在連接後強制將聲音輸出切換到耳機。如果啟用了「{0}」，則此選項不適用。</value>
+  </data>
 </root>
