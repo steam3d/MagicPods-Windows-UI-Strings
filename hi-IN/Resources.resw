@@ -1248,4 +1248,58 @@
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
     <value>हॉटकी चक्र को दबाने से ध्वनि आउटपुट के माध्यम को परिवर्तन करें।</value>
   </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>हॉटकी दबाने से ब्लूटूथ चालू या बंद हो जाता है।</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>ब्लूटूथ</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>ब्लूटूथ नियंत्रण</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>यदि हेडफ़ोन सेटिंग्स में {0} उपलब्ध है, तो हॉटकी दबाने से शोर रद्दीकरण मोड के माध्यम से चक्र चलता है।</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>ध्वनि आउटपुट नियंत्रण</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>पढ़ना छोड़ें</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>हॉटकी दबाने से वर्तमान अधिसूचना पढ़ना बंद हो जाता है।</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>डिस्कनेक्ट</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>स्ट्रीमिंग डिवाइसएस</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>नाम से खोजें</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>हॉटकीस</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>हैंड्सफ्री के माध्यम से चार्ज स्तर</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>सिंगल बैटरी आइकन</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>ध्वनि आउटपुट को हेडफ़ोन पर स्विच करें</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>कनेक्ट/डिस्कनेक्ट करें</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>डिवाइस प्रदर्शित करने के लिए, ब्लूटूथ चालू करें, हेडफ़ोन लोड होने तक प्रतीक्षा करें</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>यदि हेडफ़ोन चार्ज प्रदर्शित नहीं होता है तो इस विकल्प का उपयोग करें। परिवर्तनों को लागू करने के लिए हेडफ़ोन को पुनः कनेक्ट करें। ध्वनि संचार अनुपलब्ध होगा।</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>कनेक्शन के बाद ध्वनि आउटपुट को हेडफ़ोन पर स्विच करने के लिए बाध्य करें। यदि {0} सक्षम है तो यह विकल्प लागू नहीं होता है।</value>
+  </data>
 </root>
