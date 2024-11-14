@@ -1003,4 +1003,88 @@
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
     <value>Tai nghe</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Không tìm thấy mã kích hoạt</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>Từ trước ra sau</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Nhập mã</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Bản quyền</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Lưu</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Huỷ</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Mã sản phẩm</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Mã kích hoạt</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Dán mã kích hoạt tại đây</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Mã kích hoạt cần được xác minh lần nữa sau khi cài đặt lại phần mềm</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Header.Text" xml:space="preserve">
+    <value>Khử tiếng ồn</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Xuyên âm</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Xuyên âm</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
+    <value>Nhận Biết Cuộc Hội Thoại</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+    <value>Tự động chuyển đổi</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
+    <value>Giảm âm lượng và tăng âm lượng giọng nói của người đang nói chuyện với họ, đồng thời giảm các tạp âm xung quanh.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
+    <value>Âm thanh thích ứng</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Description.Text" xml:space="preserve">
+    <value>Tự động tinh chỉnh âm lượng đa phương tiện dựa vào điều kiện môi trường.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Left_Header.Text" xml:space="preserve">
+    <value>Nhấn hai lần vào tai Airpod trái</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Right_Header.Text" xml:space="preserve">
+    <value>Nhấn hai lần vào Airpod phải</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Phát/Dừng</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>Chuyển bài</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>Trở lại</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Header.Text" xml:space="preserve">
+    <value>Nút xoay điện tử</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>Từ sau ra trước</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>Mã kích hoạt không chính xác. Hãy nhập lại hoặc dùng mã kích hoạt khác.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
+    <value>Nhấn nút trên Airpods Max hoặc nhấn và giữ vào tai trái hoặc tai phải của Airpods Pro để tự động chuyển đổi giữa các chế độ khử ồn.</value>
+  </data>
 </root>
