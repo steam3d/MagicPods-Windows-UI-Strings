@@ -132,7 +132,7 @@
     <value>Uruchom z systemem</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Automatyczne uruchamianie zablokowane przez polisę lub nie jest wspierane na tym urządzeniu.</value>
+    <value>Automatyczne uruchamianie zablokowane przez zasady grupy lub nie jest wspierane na tym urządzeniu.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Ikona zasobnika</value>
@@ -884,7 +884,7 @@
     <value>Zamknąć</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
-    <value>Automatyczne uruchamianie zablokowane przez polisę lub nie jest wspierane na tym urządzeniu.</value>
+    <value>Automatyczne uruchamianie zablokowane przez zasady grupy lub nie jest wspierane na tym urządzeniu.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>Anuluj</value>
@@ -1244,5 +1244,59 @@
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
     <value>Naciskanie skrótu klawiszowego przełącza pomiędzy wyjściami dźwięku.</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Kontrola Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Przytrzymanie skrótu klawiszowego przełącza redukcje hałasu, jeśli «{0}» jest dostępne w ustawieniach słuchawek.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Połącz / Rozłącz</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Kontrola wyjścia dźwięku</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Pomiń czytanie</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Przytrzymanie skrótu klawiszowego pomija czytanie aktualnego powiadomienia.</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Rozłącz</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Aby wyświetlić urządzenia, włącz Bluetooth i poczekaj na załadowanie się słuchawek</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Skróty klawiszowe</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Szukaj według nazwy</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Urządzenia strumieniujące</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Użyj tej opcji, jeśli poziom naładowania słuchawek nie jest wyświetlany. Podłącz ponownie słuchawki, aby zastosować zmiany. Komunikacja głosowa będzie niedostępna.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Pojedyncza ikona baterii</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Zmień wyjście dźwięku na słuchawki</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Wymuś przełączenie wyjścia dźwiękowego na słuchawki po połączeniu. Opcja ta nie ma zastosowania, jeśli «{0}» jest włączona.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Poziom naładowania przez zestaw głośnomówiący</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Przytrzymaj skrót klawiszowy, aby włączyć lub wyłączyć Bluetooth.</value>
   </data>
 </root>
