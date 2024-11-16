@@ -1287,4 +1287,13 @@
   <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
     <value>Forzar el cambio de sonido de salida a los auriculares después de conectare. Esta opción no se aplica si «{0}» está habilitado.</value>
   </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Ícono de batería única</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Nivel de carga mediante Handsfree</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Utilice esta opción si no se muestra la batería de los auriculares. Vuelva a conectar los auriculares para aplicar los cambios. La comunicación por voz no estará disponible.</value>
+  </data>
 </root>
