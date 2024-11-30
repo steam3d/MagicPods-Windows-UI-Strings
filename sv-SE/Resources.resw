@@ -65,7 +65,7 @@
     <value>Kör vid uppstart</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Du kan aktivera eller inaktivera detta i Uppstartsfliken i Aktivitetshanteraren.</value>
+    <value>Aktivera eller inaktivera start av programmet när Windows startar.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Uppstart är inaktiverat genom gruppolicy alternativt stöder inte din enhet detta.</value>
@@ -986,5 +986,245 @@
   </data>
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
     <value>Hörlurar</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Lägg till lite magi till dina hörlurar</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Köp nyckel</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Licens nyckel ej hittad</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Spara</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Produkt nyckel</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Licens nyckel</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Klistra in licens nyckeln här</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>Licens nyckeln är inte giltig. Försök igen eller använd en annan licens nyckel.</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Licens nyckeln måste anges igen efter programmet har installerats om</value>
+  </data>
+  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Adaptiv</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+    <value>Cykla mellan</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Adaptiv</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
+    <value>Konversation uppmärksamhet</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
+    <value>Personaliserad volym</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PersonalisedVolume_Description.Text" xml:space="preserve">
+    <value>Justera volymen på ljud som svar på din miljö.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Left_Header.Text" xml:space="preserve">
+    <value>Dubbel klicka vänster Airpod</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Right_Header.Text" xml:space="preserve">
+    <value>Dubbel klicka höger Airpod</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Spela/Pausa</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>Nästa spår</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>Förra spår</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Header.Text" xml:space="preserve">
+    <value>Digital krona</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>Tillbaka till framsidan</value>
+  </data>
+  <data name="Headphones_Settings_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>Framsidan till baksidan</value>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>Tryck två gånger/Tryck en gång</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Header.Text" xml:space="preserve">
+    <value>Mikrofon</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Description.Text" xml:space="preserve">
+    <value>Den aktiva Airpod mikrofonen kan automatiskt byta från vänster till höger, eller vara fixerad på en sida.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>Automatiskt</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>Alltid höger Airpod</value>
+  </data>
+  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>Alltid vänster Airpod</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Header.Text" xml:space="preserve">
+    <value>Tryck hastighet</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Långsammare</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>Långsammast</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Header.Text" xml:space="preserve">
+    <value>Tryck och håll ned varaktighet</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Description.Text" xml:space="preserve">
+    <value>Justera varaktighet som behövs för att trycka och hålla på dina Airpods.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>Kortare</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>Kortast</value>
+  </data>
+  <data name="Headphones_Settings_Aap_TuneVolume_Header.Text" xml:space="preserve">
+    <value>Tona volym</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Header.Text" xml:space="preserve">
+    <value>Hantera hörlurar</value>
+  </data>
+  <data name="Headphones_Settings_Aap_ApplySettings_Description.Text" xml:space="preserve">
+    <value>När hörlurar är anslutna, gäller alternativen under.</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Genom att trycka på snabbtangenten slås Bluetooth på eller av.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>Ljud kontroll</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Ljudutgång kontroll</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>Genom att trycka på snabbtangenten cyklar ljudutgångarna.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Skippa läsning</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Genom att trycka på snabbtangenten skippar den att läsa de aktuella notificationen.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Ansluta / Koppla ur</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Koppla ur</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Streamingenheter</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Sök genom namn</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>För att visa enheter, slå på Bluetooth, vänta tills hörlurarna laddas</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Snabbtangenter</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Laddningsnivå via Handsfree</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>En batteri ikon</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Byt ljudutgång till hörlurar</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Tvinga ljudutgången att byta till hörlurarna efter anslutning. Det här alternativet tilllämplas inte om《{0}》är på.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Mörkt tema</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Teckensnitt</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Teckensnitt storlek</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Text färg</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Text färg vid låg batteri</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Ljust tema</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Mörkt tema</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Icon färg</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikator färg</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikator färg vid batteri laddning</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikator färg vid låg batteri</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Teckensnitt inte hittad</value>
+  </data>
+  <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
+    <value>Tryck knappen på Airpods Max eller tryck och håll vänster eller höger Airpod på Airpods Pro för att cykla mellan dom valda ljud kontroll lägena.</value>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Header.Text" xml:space="preserve">
+    <value>Avsluta samtal/Slå av och slå på ljudet</value>
+  </data>
+  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>Tryck en gång/Tryck två gånger</value>
+  </data>
+  <data name="Headphones_Settings_Aap_PressSpeed_Description.Text" xml:space="preserve">
+    <value>Justera hastigheten som behövs för att trycka två eller tre gånger på dina Airpods.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Ljust tema</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Text färg när batteri laddar</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth kontroll</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Använd det här alternativet om hörlurar laddning inte visas. Återanslut hörlurarna för att tillämpla ändringarna. Röst kommunikation kommer vara otillgänglig.</value>
   </data>
 </root>
