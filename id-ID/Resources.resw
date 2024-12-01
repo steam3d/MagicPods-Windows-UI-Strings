@@ -238,7 +238,7 @@
     <value>Abaikan</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Gagal menyambungkan AirPods. Coba sambungkan secara manual.</value>
+    <value>Gagal menyambungkan headphone. Coba sambungkan secara manual.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Tambahkan AirPods ke daftar perangkat Bluetooth Windows</value>
@@ -476,7 +476,7 @@
     <value>Terjemahkan, ubah atau tambahkan bahasa baru</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Cari aplikasi</value>
+    <value>Mencari aplikasi</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Privasi dan notifikasi</value>
@@ -808,5 +808,65 @@
   </data>
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
     <value>Headphone</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Terjemahkan teks dengan hotkey</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+    <value>Jenis chip perangkat ini belum didukung oleh aplikasi</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Lintas</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Ubah hotkey untuk fitur peredam suara</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Kontrol suara (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Kontrol suara (ANC/Off/Tran.)</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>Streaming audio dari perangkat Bluetooth ke PC. PC berfungsi sebagai speaker Bluetooth.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Streaming Audio</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Perangkat Streaming</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Tampilkan jendela pop-up ketika output audio berganti</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Fungsi Handsfree (komunikasi suara) pada headphone tidak akan tersedia. Jangan nonaktifkan Handsfree secara manual. Restart aplikasi untuk menerapkan perubahan.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Tunjukkan jendela aplikasi</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Ganti hotkey output suara</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+    <value>Chip Perangkat</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+    <value>Perangkat Fisik</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+    <value>Filter peredam suara</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
+    <value>Matikan audio perangkat streaming ketika audio yang keluar dialihkan ke speaker PC.</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Gagal terhubung dengan perangkat streaming. Pastikan Bluetooth pada perangkat aktif.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Menekan hotkey akan mengganti output suara.</value>
+  </data>
+  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Menekan hotkey akan mengannti mode peredam suara.</value>
   </data>
 </root>
