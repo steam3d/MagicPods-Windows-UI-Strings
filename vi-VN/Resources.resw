@@ -79,7 +79,7 @@
     <value>Ứng dụng sẽ được đóng và mọi chức năng sẽ bị vô hiệu hoá.</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
-    <value>Âm lượng sẽ bị giảm khi bạn bỏ một bên AirPods khỏi tai, hoặc sẽ được khôi phục lại âm lượng khi ngắt kết nối / đeo cả hai bên AirPods.</value>
+    <value>Âm lượng sẽ bị giảm khi bạn bỏ một bên AirPods khỏi tai, hoặc sẽ được khôi phục lại khi bạn ngắt kết nối / đeo cả hai bên AirPods.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Nếu cửa sổ không hiện lên hãy mở nắp hộp sạc với hai bên AirPods đặt ở bên trong và kéo thanh trượt cho đến khi cửa sổ hiện lên.</value>
@@ -88,7 +88,7 @@
     <value>Hiển thị hoặc ẩn nút Kết nối khi cửa sổ pop-up mở. Nhấn vào nút sẽ kết nối với AirPods.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>Dựa trên sử dụng của bạn, chúng tôi khuyên cáo chỉnh thông số xuống {0}</value>
+    <value>Dựa trên sử dụng của bạn, chúng tôi khuyên cáo chỉnh thông số về {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
@@ -138,7 +138,7 @@
     <value>Lớn</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>Khôi phục cài đặt</value>
+    <value>Thiết lập lại cài đặt</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
     <value>Nội dung đang được phát lại sẽ dừng khi bạn ngắt kết nối hay bỏ một bên AirPod hoặc sẽ dừng hẳn khi bạn ngắt kết nối hay bỏ cả hai bên AirPods.</value>
@@ -194,7 +194,7 @@
     <value>Chữ</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>Kích hoạt khởi động cùng Windows</value>
+    <value>Bật khởi động cùng Windows</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Thoát</value>
@@ -230,7 +230,7 @@
     <value>Đóng</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
-    <value>Huỷ bỏ</value>
+    <value>Huỷ</value>
   </data>
   <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
     <value>Danh sách các thiết bị được hỗ trợ</value>
@@ -239,13 +239,13 @@
     <value>Bán kính tìm kiếm AirPods</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
-    <value>Bán kính tìm kiếm là gì?</value>
+    <value>Phạm vi tìm kiếm là gì?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
-    <value>Khuyến nghị</value>
+    <value>Gợi ý</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Không đặt giá trị trên quá 65 vì hình ảnh minh họa có thể vô tình xuất hiện.</value>
+    <value>Không đặt giá trị trên quá 65 vì cửa sổ có thể vô tình xuất hiện.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Hiển thị nút kết nối</value>
@@ -266,7 +266,7 @@
     <value>Mọi cài đặt sẽ được thiết lập lại. Bạn vẫn muốn tiếp tục chứ?</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>Có, khôi phục mọi cài đặt</value>
+    <value>Có, thiết lập lại cài đặt</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>Gợi ý</value>
@@ -284,10 +284,10 @@
     <value>Thêm AirPods vào danh sách kết nối Bluetooth của Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods có thể hỗ trợ hầu hết các đời tai nghe AirPods và Beats</value>
+    <value>MagicPods hỗ trợ hầu hết các đời tai nghe AirPods và Beats</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Mang AirPods của bạn lại gần máy tính nhất có thể và mở nắp hộp sạc</value>
+    <value>Đưa AirPods của bạn lại gần máy tính nhất có thể và mở nắp hộp sạc</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Tiếp tục</value>
@@ -299,7 +299,7 @@
     <value>Đóng</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
-    <value>Đang tìm AirPods</value>
+    <value>Đang tìm kiếm AirPods</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>Vị trí cửa sổ pop-up</value>
