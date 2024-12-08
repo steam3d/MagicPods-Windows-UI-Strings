@@ -1366,4 +1366,13 @@
   <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
     <value>Force the sound output to switch to the headphones after connection. This option does not apply if «{0}» is enabled.</value>
   </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Display sound output change</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>The icon becomes transparent when the audio output is changed to the computer speakers.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Opacity</value>
+  </data>
 </root>
