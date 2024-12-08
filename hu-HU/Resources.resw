@@ -1245,4 +1245,58 @@
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>Csatlakozás</value>
   </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth vezérlés</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>A gyorsbillentyű megnyomásával be/ki kapcsolja a Bluetooth funkciót.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>A gyorsbillentyű megnyomásával válthat a zajszűrési módok között, ha a «{0}» elérhető a fejhallgató beállításaiban.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Hangkimenet vezérlés</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Olvasás átugrása</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>A gyorsbillentyű megnyomásával átugorhatja a jelenlegi értesítés felolvasását.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Csatlakozás / Lecsatlakozás</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Lecsatlakozás</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Streaming eszközök</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Keresés név szerint</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Az eszközök megjelenítéséhez kapcsolja be a Bluetooth-t, és várja meg, amíg a fejhallgató betöltődik</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Gyorsbillentyű</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Description" xml:space="preserve">
+    <value>Használja ezt a lehetőséget, ha a fejhallgató töltöttsége nem jelenik meg. A módosítások alkalmazásához csatlakoztassa újra a fejhallgatót. A hangkommunikáció nem lesz elérhető.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Szimpla akkumulátor ikon</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Header" xml:space="preserve">
+    <value>Hangkimenet váltása fejhallgatóra</value>
+  </data>
+  <data name="Headphones_Settings_SwitchSoundOutputToHeadphones_Setting.Description" xml:space="preserve">
+    <value>Csatlakoztatás után kényszerítse a hangkimenetet a fejhallgatóra. Ez az opció nem érvényes, ha a «{0}» be van kapcsolva.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Setting.Header" xml:space="preserve">
+    <value>Töltési szint kihangosítón keresztül</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
 </root>
