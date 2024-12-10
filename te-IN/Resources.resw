@@ -79,17 +79,17 @@
   <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>పెద్దది</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>చెవి గుర్తింపు</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>వాల్యూమ్ తగ్గించండి</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>ఇతర</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
     <value>తక్కువ ఆడియో జాప్యం</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
@@ -101,7 +101,7 @@
   <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
     <value>డీబగ్ లాగ్</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
     <value>వేగవంతమైన శోధన</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
@@ -159,13 +159,13 @@
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>రద్దు చేయండి</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>మద్దతు ఉన్న మ్యూజిక్ ప్లేయర్‌ల జాబితా</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPods శోధన వ్యాసార్థం</value>
   </data>
-  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
     <value>శోధన వ్యాసార్థం అంటే ఏమిటి?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -177,10 +177,10 @@
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>«కనెక్ట్» బటన్‌ను చూపించు</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>ఆటో కనెక్ట్</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>ఆటో ప్లే</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
@@ -216,7 +216,7 @@
   <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
     <value>దిగువ కుడి మూలలో</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
     <value>పరికరం అందుబాటులో లేదు లేదా తీసివేయబడలేదు</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
@@ -270,7 +270,7 @@
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>ఛార్జ్</value>
   </data>
-  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
     <value>దాచు</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
@@ -280,7 +280,7 @@
     <value>అనువదించు</value>
     <comment>Last used 2.0.45.0</comment>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
     <value>వికలాంగుడు</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
@@ -295,16 +295,16 @@
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>హాట్‌కీని తీసివేయండి</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
     <value>ఆటో పాజ్</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
     <value>తక్కువ బ్యాటరీ నోటిఫికేషన్</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
     <value>హెడ్‌ఫోన్ ఛార్జ్ పేర్కొన్న విలువ కంటే తక్కువగా ఉన్నప్పుడు నోటిఫికేషన్‌ను చూపండి.</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+  <data name="Slider_TextOff" xml:space="preserve">
     <value>ఆఫ్</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
@@ -341,7 +341,7 @@
   <data name="Welcome_Text4.Text" xml:space="preserve">
     <value>మీ ప్రాధాన్యతలకు అనుగుణంగా ఒక్కో హెడ్‌ఫోన్‌ను వ్యక్తిగతంగా అనుకూలీకరించండి</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
     <value>హాట్‌కీని కనెక్ట్ చేయండి</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
@@ -389,28 +389,28 @@
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
     <value>స్పీకర్ చిత్రం</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
     <value>చిప్</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
     <value>ఫర్మ్‌వేర్</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
     <value>నాయిస్ రద్దు</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>నాయిస్ రద్దు</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
     <value>పారదర్శకత</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>ట్రాఫిక్</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
     <value>ధ్యానం</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
     <value>హెడ్ ట్రాకింగ్</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
@@ -420,10 +420,10 @@
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>మీరు కేస్‌ను తెరిచినప్పుడు iPhoneలో లాగా పాప్-అప్ విండోను చూపండి లేదా దాచండి.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
     <value>ఒక AirPod తీసివేయబడినప్పుడు ప్లేబ్యాక్ పాజ్ అవుతుంది లేదా రెండూ తీసివేయబడినప్పుడు ఆగిపోతుంది.</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>AirPods కోసం శోధన సమయాన్ని తగ్గిస్తుంది. చుట్టుపక్కల ఎవరూ AirPodలను ఉపయోగించడం లేదని మీరు నిర్ధారించుకున్నప్పుడు దాన్ని ఆన్ చేయండి.</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
@@ -441,7 +441,7 @@
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>అప్లికేషన్ మూసివేయబడుతుంది మరియు అన్ని విధులు నిలిపివేయబడతాయి.</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>ప్రీమియర్ ప్రో లేదా ఆడిషన్‌లో పని చేస్తున్నప్పుడు ఉపయోగకరంగా ఉంటుంది. ఆన్ చేసిన తర్వాత AirPodలను మళ్లీ కనెక్ట్ చేయడం అవసరం. ఇది బ్యాటరీ వినియోగాన్ని పెంచవచ్చు.</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
@@ -454,7 +454,7 @@
     <value>బ్యాటరీ సమాచారం</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>మీరు మీ చెవి నుండి ఒక ఎయిర్‌పాడ్‌లను తీసివేసినప్పుడు వాల్యూమ్ తగ్గుతుంది లేదా మీరు రెండు ఎయిర్‌పాడ్‌లను తీసివేసినప్పుడు / ఉంచినప్పుడు పునరుద్ధరించబడుతుంది.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
@@ -463,7 +463,7 @@
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>రీసెట్ సెట్టింగులు</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>ప్లే/పాజ్ చేయండి</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
@@ -472,22 +472,22 @@
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>చిట్కా</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>మీరు మీ చెవి నుండి ఒక ఎయిర్‌పాడ్‌లను తీసివేసినప్పుడు ప్లేబ్యాక్ పాజ్ అవుతుంది మరియు వాల్యూమ్ తగ్గుతుంది లేదా మీరు రెండు AirPodలను తీసివేసినప్పుడు ఆగి, వాల్యూమ్ రీస్టోర్ అవుతుంది.</value>
   </data>
-  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
     <value>ఇంకా నేర్చుకో</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>వాయిస్‌ని ఎంచుకోండి</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>రెండూ (వాల్యూమ్ తగ్గించు + ప్లే/పాజ్)</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>మీరు కేసు నుండి కుడి లేదా ఎడమ ఎయిర్‌పాడ్‌లను తీసుకున్నప్పుడు స్వయంచాలకంగా AirPodలకు కనెక్ట్ చేయండి.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
     <value>హెడ్‌ఫోన్‌లను కనెక్ట్ చేసిన తర్వాత «ప్లే» ఆదేశాన్ని పంపండి. ఓపెన్ ప్లేయర్‌లు లేకుంటే Windows ఆదేశాన్ని విస్మరిస్తుంది.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
@@ -518,10 +518,10 @@
   <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>ఆడియో</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>స్విచ్ సౌండ్ అవుట్‌పుట్</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
     <value>రెండు AirPodలు చెవిలో లేనప్పుడు AirPods నుండి ఆడియోని డిఫాల్ట్ స్పీకర్‌లకు మార్చండి.</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
@@ -530,7 +530,7 @@
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>అనౌన్సర్ వచనాన్ని ఒకే భాషలో చదవగలరు.</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>వాయిస్ ఎంచుకోబడలేదు లేదా అందుబాటులో లేదు</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
@@ -569,7 +569,7 @@
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>గోప్యత మరియు నోటిఫికేషన్‌లు</value>
   </data>
-  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
     <value>కొత్త వాయిస్‌ని జోడించండి</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
@@ -590,7 +590,7 @@
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>సిస్టమ్ భాషను ఉపయోగించండి</value>
   </data>
-  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HintLink" xml:space="preserve">
     <value>ఎయిర్‌పాడ్స్ సామర్థ్యం</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
@@ -605,10 +605,10 @@
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
     <value>రెండు లేదా అంతకంటే ఎక్కువ హెడ్‌ఫోన్‌లు కనెక్ట్ చేయబడ్డాయి, ఒకటి మాత్రమే కనెక్ట్ చేయబడి ఉంటుంది</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>వికలాంగుడు</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Description" xml:space="preserve">
     <value>హెడ్‌ఫోన్‌లను డిస్‌కనెక్ట్ చేసిన తర్వాత ప్లేబ్యాక్‌ను పాజ్ చేయండి.</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
@@ -623,7 +623,7 @@
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
     <value>రీడిజైన్ చేయబడిన ఇంటర్‌ఫేస్, వ్యక్తిగత సెట్టింగ్‌లు మరియు మరిన్ని. కొన్ని సెట్టింగ్‌లు మార్చబడ్డాయి. అనుకూలీకరించడానికి అనువర్తనాన్ని తెరవండి.</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
     <value>హెడ్‌ఫోన్‌లను కనెక్ట్ చేయడానికి లేదా డిస్‌కనెక్ట్ చేయడానికి గ్లోబల్ హాట్‌కీ.</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
@@ -671,7 +671,7 @@
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
     <value>మార్పులను వర్తింపజేయడానికి అనువర్తనాన్ని పునఃప్రారంభించండి.</value>
   </data>
-  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+  <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
     <value>ఇంకా నేర్చుకో</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
@@ -680,7 +680,7 @@
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
     <value>బ్లూటూత్ పరికరాల నుండి PCకి ఆడియోను ప్రసారం చేయండి. PC బ్లూటూత్ స్పీకర్‌గా పనిచేస్తుంది.</value>
   </data>
-  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
     <value>కొత్త పరికరాన్ని జోడించండి</value>
   </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
@@ -689,7 +689,7 @@
   <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>ధ్వని అవుట్‌పుట్ మారినప్పుడు పాప్-అప్ విండోను చూపుతుంది.</value>
   </data>
-  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+  <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
     <value>ప్రయోగాత్మక లక్షణం</value>
   </data>
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
@@ -704,73 +704,73 @@
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
     <value>సౌండ్ అవుట్‌పుట్‌ల ద్వారా హాట్‌కీ సైకిల్‌లను నొక్కడం.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
     <value>ఇండోర్</value>
   </data>
-  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
     <value>మరిన్ని అనుకూలీకరణల కోసం మీ హెడ్‌ఫోన్‌లను కనెక్ట్ చేయండి</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Hint" xml:space="preserve">
     <value>చిప్‌కి ఇంకా మద్దతు లేదు</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>ఆఫ్</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
     <value>నాయిస్ క్యాన్సిలేషన్ ఫిల్టర్</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
     <value>నాయిస్ క్యాన్సిలేషన్ హాట్‌కీని మార్చండి</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
     <value>నాయిస్ క్యాన్సిలేషన్ మోడ్‌ల ద్వారా హాట్‌కీ సైకిల్‌లను నొక్కడం.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
     <value>ఉపయోగించడానికి ముందు రెండు ఎయిర్‌పాడ్‌లను ధరించండి.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>ఆఫ్</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
     <value>నాయిస్ రద్దు</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>నాయిస్ రద్దు</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
     <value>గాలి రద్దు</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>పరిసర ధ్వని</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>ఆఫ్</value>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
     <value>పారదర్శకత</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
     <value>ఆఫ్</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
     <value>ఆఫ్</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
     <value>ఆఫ్</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>నాయిస్ రద్దు</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>నాయిస్ రద్దు</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
     <value>పారదర్శకత</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>

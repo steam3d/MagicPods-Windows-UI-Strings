@@ -89,29 +89,29 @@
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Ponastavi nastavitve</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>Zaznavanje slušalke v ušesu</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Predvajaj/Pavziraj</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Znižaj glasnost</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Oboje (Znižaj glasnost + Predvajaj/pavziraj)</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
     <value>Predvajanje se ustavi, ko odstranite eno AirPods slušalko iz ušes, ali ustavi, ko odstranite obe AirPods iz ušes.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Ostalo</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
     <value>Nizka zakasnitev zvoka (Low audio latency)</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>Uporabno pri delu v programu Premiere Pro ali Audition. Po vklopu je treba ponovno povezati slušalke AirPods. To lahko poveča porabo baterije.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
@@ -123,7 +123,7 @@
   <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
     <value>Dnevnik za odpravljanje napak</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
     <value>Hitro iskanje</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
@@ -194,7 +194,7 @@
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Prekliči</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>Seznam podprtih predvajalnikov</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
@@ -203,7 +203,7 @@
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Če se okno ne prikaže, odprite ohišje s slušalkami AirPods v njem in gladko premaknite drsnik v desno, dokler se ne prikaže animacija.</value>
   </data>
-  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
     <value>Kaj je iskalni radius?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -215,13 +215,13 @@
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Pokaži «Poveži» gumb</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Samodejno poveži</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>Samodejno se povežite s slušalkami AirPods, ko desno ali levo slušalko AirPods vzamete iz ohišja.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>Samodejno predvajanje</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
@@ -242,7 +242,7 @@
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Povezanje slušalk je bilo neuspešno. Poskusite se povezati ročno.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>Predvajanje se ustavi in glasnost se zmanjša, ko odstranite eno slušalko AirPods z ušesa, ali pa se ustavi in glasnost se obnovi, ko odstranite obe slušalki AirPods.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
@@ -287,13 +287,13 @@
   <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>Audio</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>Samodejno preklapljanje zvočnega izhoda</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
     <value>Naprava ni na voljo ali pa je bila odstranjena</value>
   </data>
-  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
     <value>Izvedi več</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
@@ -308,7 +308,7 @@
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>Izberite glas</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>Ni izbran ali na voljo noben glas</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
@@ -332,7 +332,7 @@
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Zasebnost in obvestila</value>
   </data>
-  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
     <value>Dodajte nov glas</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
@@ -365,7 +365,7 @@
   <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>Nastavitve aplikacije</value>
   </data>
-  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HintLink" xml:space="preserve">
     <value>Zmogljivost slušalk AirPods</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
@@ -401,7 +401,7 @@
   <data name="Battery_Case.Title" xml:space="preserve">
     <value>Ohišje</value>
   </data>
-  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
     <value>Skrij</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
@@ -410,10 +410,10 @@
   <data name="Support_Button_Translate.Content" xml:space="preserve">
     <value>Prevedite</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Onemogočeno</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
     <value>Onemogočeno</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
@@ -434,19 +434,19 @@
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>Odstranite tipko za hitri dostop</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
     <value>Samodejna pavza</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Description" xml:space="preserve">
     <value>Prekinitev predvajanja po izklopu slušalk.</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
     <value>Obvestilo o nizkem stanju baterije</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
     <value>Prikaži obvestilo, ko je napolnjenost slušalk manjša od določene vrednosti.</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+  <data name="Slider_TextOff" xml:space="preserve">
     <value>Izklopljeno</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
@@ -500,13 +500,13 @@
   <data name="Welcome_Text4.Text" xml:space="preserve">
     <value>Prilagodite vsako od slušalk posebej, da ustreza vašim željam</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
     <value>Globalna tipka za povezovanje ali izključevanje slušalk.</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
     <value>Hitra tipka za povezovanje</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>Skrajša čas iskanja slušalk AirPods. Vklopite to, ko ste prepričani, da nihče drug v okolici ne uporablja AirPods.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
@@ -525,20 +525,20 @@
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>Aplikacija se bo zaprla in vse funkcije bodo onemogočene.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>Glasnost se zmanjša, ko odstranite eno slušalko AirPods iz ušesa, in se obnovi, ko odstranite/namestite obe slušalki AirPods.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Prikažite ali skrijte gumb "Poveži" v pojavnem oknu. S pritiskom na gumb povežete slušalke AirPods.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
     <value>Pošlji "Play" ukaz po uspešni povezavi z slušalkami AirPods. Če ni odprtih predvajalnikov, sistem Windows ukaza ne bo upošteval.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Glede na vašo uporabo priporočamo, da vrednost nastavite na {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
     <value>Preklopite zvok s slušalk AirPods na privzete zvočnike, ko sta obe slušalki AirPods zunaj ušesa.</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
@@ -583,7 +583,7 @@
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
     <value>Izklopi</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>izklopljeno</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
@@ -604,7 +604,7 @@
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
     <value>Povežite Bluetooth adpater z Bluetooth Classic podporo in znova zaženite aplikacijo</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>Izklopljeno</value>
   </data>
   <data name="Support_Setting_Weblate.Header" xml:space="preserve">
@@ -619,7 +619,7 @@
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Pokaži okno</value>
   </data>
-  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+  <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
     <value>Nauči se več</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
@@ -634,112 +634,112 @@
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>Ni seznanjenih naprav ali pa je Bluetooth izklopljen</value>
   </data>
-  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
     <value>Povežite slušalke za več prilagoditev</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
     <value>Čip</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
     <value>Programska oprema</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
     <value>Odpravljanje hrupa</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Odpravljanje hrupa</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
     <value>Preglednost</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
     <value>Filter za odpravljanje hrupa</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>Promet</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
     <value>V zaprtih prostorih</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
     <value>Bližnjica za prekplaplanje odpravljanje hrupa</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
     <value>Pritisk na bližnjično kroži med načini odpravljanja hrupa.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
     <value>Sledenje glavi</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
     <value>Pred uporabo nosite obe AirPods.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>Nespremenjeno</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
     <value>Sledenje glave</value>
   </data>
-  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
     <value>Pritisnite in držite desni AirPod</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>Glasovni pomočnik</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
     <value>Nadzor hrupa (ANC/Tran.)</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
     <value>Nadzor hrupa (ANC/Off/Tran.)</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LeftAirPod_Sensitivity.Header" xml:space="preserve">
     <value>Občutljivost leve AirPod</value>
   </data>
-  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_RightAirPod_Sensitivity.Header" xml:space="preserve">
     <value>Občutljivost desne AirPod</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
     <value>Hitreje</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
     <value>Srednje</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>Počasno</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
     <value>Krajši</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
     <value>Srednji</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
     <value>Daljši</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
     <value>Izboljšana večtočkovna povezava</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
     <value>Večtočkovni način</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
     <value>Normalen način</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
     <value>Zmanjšanje hrupa vetra</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
     <value>Občutljivost za zmanjšanje šuma vetra</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
     <value>Srednje</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
     <value>Visoko</value>
   </data>
-  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
     <value>Glasovno upravljanje</value>
   </data>
-  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_GameMode.Header" xml:space="preserve">
     <value>Igralni način</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
@@ -748,13 +748,13 @@
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
     <value>V nastavitvah slušalk prikaži opozorilo, da so lažne.</value>
   </data>
-  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
     <value>Lahko so lažne slušalke</value>
   </data>
-  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
     <value>Tovarniška ponastavitev</value>
   </data>
-  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
     <value>AirPods postavite v etui, odprite pokrov ter pritisnite in pridržite gumb približno 10 sekund.</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
@@ -763,7 +763,7 @@
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Pretakanje zvoka</value>
   </data>
-  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
     <value>Dodajte novo napravo</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
@@ -787,7 +787,7 @@
   <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>Sredina spodaj</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
     <value>Za uporabo je potrebna ponastavitev AirPods na tovarniške nastavitve.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
@@ -815,13 +815,13 @@
   <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
     <value>Preveri za posodobitve</value>
   </data>
-  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
     <value>Samodejno onemogoči prostoročno telefoniranje</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
     <value>Izenačevalnik</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ.Description" xml:space="preserve">
     <value>Preden spremenite nastavitev, vklopite glasbo.</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
@@ -830,13 +830,13 @@
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
     <value>Pokaži ali skrij pojavno okno za lažne AirPods, če so na seznamu naprav Bluetooth.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
     <value>Odrski ritem</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>Klasično</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
     <value>Dogodek v živo</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
@@ -845,49 +845,49 @@
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>Funkcija prostoročnega telefoniranja (glasovna komunikacija) slušalk ne bo na voljo. Prostoročnega telefoniranja ne onemogočite ročno. Znova zaženite aplikacijo, da uveljavite spremembe.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Hint" xml:space="preserve">
     <value>Čip še ni podprt</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
     <value>Meditacija</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
     <value>Pritisnite in držite levi AirPod</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
     <value>Hitrost pritiska</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
     <value>Prilagodite hitrost, ki je potrebna za pritisk leve AirPod in desne AirPod dvakrat ali trikrat.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
     <value>Dolg pritisk</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
     <value>Prilagodite čas pritiska in pridržite levi AirPod in desni AirPod.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
     <value>Omogoča povezavo dveh naprav hkrati s slušalkami. Za uporabo je potrebna ponastavitev AirPods na tovarniške nastavitve.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
     <value>Za uporabo je potrebna ponastavitev AirPods na tovarniške nastavitve.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
     <value>Nizko</value>
   </data>
-  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_GameMode.Description" xml:space="preserve">
     <value>Aktivirate ga lahko tudi s petkratnim pritiskom na levi ali desni AirPod.</value>
   </data>
-  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
     <value>Onemogočite prostoročno telefoniranje po priključitvi slušalk, da preprečite, da bi slušalke preklopile v prostoročni način. Mikrofon bo prenehal delovati. Če možnost izklopite, boste znova omogočili prostoročno telefoniranje.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
     <value>Zvok etuija</value>
   </data>
-  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_CaseSounds.Description" xml:space="preserve">
     <value>Postavite slušalke AirPods v etui, pustite pokrov etuija odprt in počakajte, da lučka na etuiju ugasne. Izklopite/vklopite možnost, izvlecite slušalke AirPods, medtem ko držite pokrov ohišja odprt, počakajte vsaj 2 sekundi in ponovno postavite slušalke AirPods v ohišje ter počakajte, da lučka ohišja ugasne.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
     <value>Kino stereo</value>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
@@ -896,7 +896,7 @@
   <data name="Notification_Updates_Description" xml:space="preserve">
     <value>Kliknite tukaj, če želite obiskati trgovino Microsoft Store.</value>
   </data>
-  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+  <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
     <value>Eksperimentalna funkcija</value>
   </data>
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
@@ -914,40 +914,40 @@
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
     <value>Pritiskanje bližnjične tipke kroži med zvočnimi izhodi.</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
     <value>Odpravljanje hrupa</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Odpravljanje hrupa</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Izklopljeno</value>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
     <value>Preglednost</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
     <value>Izklopljeno</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>Odpravljanje hrupa</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
     <value>Preglednost</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
     <value>Izklopljeno</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
     <value>Izklopljeno</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Odpravljanje hrupa</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>

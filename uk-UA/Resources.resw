@@ -86,22 +86,22 @@
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Скинути налаштування</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>Розпізнавання вуха</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Відтворювати/Пауза</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Зменшити гучність</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
     <value>Відтворення стає на паузу, коли ви витягуєте один навушник, або ж зупиняється, якщо витягуєте обидва AirPods.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Інше</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
     <value>Низька затримка звуку</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
@@ -113,7 +113,7 @@
   <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
     <value>Журнал помилок</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
     <value>Швидкий пошук</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
@@ -182,7 +182,7 @@
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Скасувати</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>Перелік програвачів, які підтримуються</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
@@ -191,7 +191,7 @@
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Якщо вікно не з'являється, тоді відкрийте кейс із навушниками всередині та повільно переміщуйте повзунок вправо допоки не з'явиться анімація.</value>
   </data>
-  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
     <value>Що таке радіус пошуку?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -200,22 +200,22 @@
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Показувати кнопку "Під'єднати"</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Авто під'єднання</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Показувати та ховати спливаюче вікно так, як на iPhone, коли ви відкриваєте кейс.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Обидві дії (Зменшити гучність + Відтворювати/Пауза)</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>Корисне, коли працюєш у Premiere Pro або Audition. Вимагає повторного приєднання AirPods після ввімкнення цього. Може збільшитися використання батареї.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>Автоматичне програвання</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
     <value>Надсилати команду "Грати" після під'єднання AirPods. Якщо немає відкритих програвачів, Windows проігнорує команду.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
@@ -275,13 +275,13 @@
   <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>Аудіо</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
     <value>Прилад не доступний чи видалений</value>
   </data>
-  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
     <value>Подробиці</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>Зменшує тривалість пошуку AirPods. Вмикайте, якщо впевнені, що ніхто окрім вас у приміщенні не використовує AirPods.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
@@ -300,7 +300,7 @@
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>Застосунок закриється та всі функції відключаться.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>Гучність зменшується, якщо ви виймаєте з вуха один навушник, або відновлюється, коли ви виймаєте / вставляєте обидва AirPods.</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
@@ -309,26 +309,26 @@
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Показувати чи ховати кнопку "Під'єднати" на спливаючому вікні. Натискання кнопки під'єднає AirPods.</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>Автоматично під'єднуватися до AirPods, коли ви виймаєте правий чи лівий навушник з кейсу.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Зважаючи на ваше користування, рекомендуємо встановити значення на {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>Програвання стає на паузу та гучність зменшується, коли ви виймаєте один навушник з вуха, або зупиняється і гучність відновлюється, коли ви виймаєте обидва навушники.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Піднесіть кейс ваших AirPods якомога ближче до комп'ютера та відкрийте його</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>Автоматично змінювати аудіо вихід</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
     <value>Перемикати звук з AirPods на динаміки за замовчування, коли обидва навушники витягнуті з вух.</value>
   </data>
-  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
     <value>Додати новий голос</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
@@ -343,7 +343,7 @@
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>Вибрати голос</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>Немає вибраного або доступного голосу</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
@@ -412,7 +412,7 @@
   <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>Налаштування програми</value>
   </data>
-  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HintLink" xml:space="preserve">
     <value>Сумiснiсть з AirPods</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
@@ -433,7 +433,7 @@
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>Для найкращого досвіду використання рекомендуємо увімкнути автозавантаження.</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+  <data name="Slider_TextOff" xml:space="preserve">
     <value>Викл.</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
@@ -448,10 +448,10 @@
   <data name="Text_Disconnect" xml:space="preserve">
     <value>Відключено</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Вимкнено</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
     <value>Показувати сповіщення, коли заряд навушників нижче вказаного значення.</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
@@ -466,13 +466,13 @@
   <data name="Text_Disconnecting" xml:space="preserve">
     <value>Відключення</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Description" xml:space="preserve">
     <value>Призупинити відтворення після від’єднання навушників.</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
     <value>Сповіщення про низький заряд батареї</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
     <value>Вимкнено</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
@@ -484,7 +484,7 @@
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
     <value>Перероблений інтерфейс, індивідуальні налаштування та інше. Деякі налаштування були змінені. Відкрийте програму, щоб налаштувати.</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
     <value>Гаряча клавіша для підключення або відключення навушників.</value>
   </data>
   <data name="Menu_Item6.Content" xml:space="preserve">
@@ -496,7 +496,7 @@
   <data name="Welcome_Text4.Text" xml:space="preserve">
     <value>Налаштуйте кожні навушники окремо відповідно до своїх уподобань</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
     <value>Гаряча клавіша підключення навушників</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
@@ -517,13 +517,13 @@
   <data name="Battery_Case.Title" xml:space="preserve">
     <value>Кейс</value>
   </data>
-  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
     <value>Сховати</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>Завантажити</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
     <value>Автоматична пауза</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
@@ -604,37 +604,37 @@
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
     <value>Скидання до заводських налаштувань</value>
   </data>
-  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+  <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
     <value>Дізнатися більше</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
     <value>Перезапустіть додаток для застосування змін.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Вимк.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>Вимк.</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Вимк.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
     <value>Шумозаглушення</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Шумозаглушення</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
     <value>Проникність</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
     <value>Шумозаглушення</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Шумозаглушення</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>Навколишній звук</value>
   </data>
   <data name="Support_Setting_Discord.Header" xml:space="preserve">
@@ -646,13 +646,13 @@
   <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
     <value>Швидко перекласти текст за допомогою гарячої клавіші</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
     <value>Прошивка</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
     <value>Зображення динаміків</value>
   </data>
-  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+  <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
     <value>Експериментальна функція</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
@@ -661,7 +661,7 @@
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Потокове аудіо</value>
   </data>
-  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
     <value>Додати новий пристрій</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
@@ -682,115 +682,115 @@
   <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>По центру знизу</value>
   </data>
-  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
     <value>Підключіть навушники, щоб отримати більше налаштувань</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Hint" xml:space="preserve">
     <value>Чип наразі не підтримується</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
     <value>Фільтр шумопоглинання</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>Трафік</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
     <value>У приміщенні</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
     <value>Медитація</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
     <value>Гаряча клавіша зміни шумопоглинання</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
     <value>Відстаження рухів голови</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
     <value>Вдягніть обидва навушники перед використанням.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>Статично</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
     <value>Відстеження рухів голови</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
     <value>Утримуйте лівий навушник</value>
   </data>
-  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
     <value>Утримуйте правий навушник</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>Голосовий помічник</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
     <value>Шумопоглинання (Увімк/Вимк)</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
     <value>Шумопоглинання (Активне/Вимк/Проникність)</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LeftAirPod_Sensitivity.Header" xml:space="preserve">
     <value>Чутливість лівого навушника</value>
   </data>
-  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_RightAirPod_Sensitivity.Header" xml:space="preserve">
     <value>Чутливість правого навушника</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
     <value>Швидкість натиснення</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
     <value>Швидше</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
     <value>Середній</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>Повільніше</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
     <value>Довге натискання</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
     <value>Коротше</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
     <value>Середній</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
     <value>Довше</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
     <value>Покращене багатоточкове з'єднання</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
     <value>Багатоточковий режим</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
     <value>Звичайний режим</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
     <value>Зниження шуму вітру</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
     <value>Чутливість зниження шуму вітру</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
     <value>Низька</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
     <value>Середня</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
     <value>Висока</value>
   </data>
-  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
     <value>Голосове керування</value>
   </data>
-  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_GameMode.Header" xml:space="preserve">
     <value>Ігровий режим</value>
   </data>
-  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_GameMode.Description" xml:space="preserve">
     <value>Це також можна активувати, натиснувши п'ять разів на лівий або правий навушник.</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
@@ -799,19 +799,19 @@
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
     <value>Покажіть в налаштуваннях навушників попередження про те, що вони несправжні.</value>
   </data>
-  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
     <value>Можливо, це фейкові навушники</value>
   </data>
-  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
     <value>Скидання до заводських налаштувань</value>
   </data>
-  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
     <value>Помістіть AirPods в кейс, відкрийте кришку та утримуйте кнопку протягом 10 секунд.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
     <value>Для застосування потрібне скидання до заводських налаштувань AirPods.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
     <value>Дозволяє підключати до навушників два пристрої одночасно. Для застосування потрібне скидання до заводських налаштувань AirPods.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
@@ -826,50 +826,50 @@
   <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
     <value>Перевірити оновлення</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
     <value>Еквалайзер</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ.Description" xml:space="preserve">
     <value>Увімкніть музику перед зміною налаштувань.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
     <value>Звуки кейсу</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
     <value>Живе шоу</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
     <value>Кінотеатральне стерео</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
     <value>Ритм сцени</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>Класика</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
     <value>Відкрийте налаштування Windows на сторінці програми, перейдіть до "Запуск" та увімкніть "{0}".</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
     <value>Шумопоглинання вітру</value>
   </data>
-  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
     <value>Гучність навколишнього звуку</value>
   </data>
-  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Description" xml:space="preserve">
     <value>Чим вище значення, тим краще чути навколишнє оточення.</value>
   </data>
-  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Header" xml:space="preserve">
     <value>Зосередження на голосі</value>
   </data>
-  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Description" xml:space="preserve">
     <value>Людські голоси будуть чутні і навколишні звуки будуть зменшені.</value>
   </data>
-  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Header" xml:space="preserve">
     <value>Зберегти налаштування</value>
   </data>
-  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Description" xml:space="preserve">
     <value>Збереження налаштувань навколишнього звуку в пам'яті навушників.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
@@ -881,13 +881,13 @@
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
     <value>Доєднуйтеся до нашої спільноти, повідмляйте про баги та залишайтеся в курсі новин, оновлень та беріть участь в обговореннях</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
     <value>Відрегулюйте швидкість, необхідну для натискання лівого навушника і правого навушника двічі або тричі.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
     <value>Для застосування потрібне скидання до заводських налаштувань AirPods.</value>
   </data>
-  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
     <value>Автоматично відключати Handsfree</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
@@ -920,16 +920,16 @@
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
     <value>Натиснненя на гарячу клавішу призведе до циклу через звукові виходи.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
     <value>Чип</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
     <value>Натиснненя на гарячу клавішу призведе до циклу між режимами шумопоглинанння.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
     <value>Відрегулюйте час натискання та утримання лівого навушника і правого навушника.</value>
   </data>
-  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
     <value>Вимкніть Handsfree після підключення навушників, щоб запобігти перемиканню навушників у режим гарнітури. Мікрофон перестане працювати. Вимкнення опції знову увімкне Handsfree.</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
@@ -938,37 +938,37 @@
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
     <value>Показувати або приховувати спливаюче вікно для фейкових AirPods якщо вони в списку Bluetooth пристроїв.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_CaseSounds.Description" xml:space="preserve">
     <value>Покладіть AirPods у футляр, тримайте кришку футляра відкритою і зачекайте, поки вимкнеться індикатор футляра. Вимкніть/ввімкніть опцію, витягніть AirPods, тримаючи кришку футляра відкритою, зачекайте щонайменше 2 секунди, знову покладіть AirPods у футляр і зачекайте, доки не згасне індикатор футляра.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
     <value>Запуск вимкнено груповою політикою</value>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
     <value>Проникність</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
     <value>Вимк.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>Шумозаглушення</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
     <value>Проникність</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
     <value>Вимк.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
     <value>Вимк.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Шумозаглушення</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
@@ -984,7 +984,7 @@
   <data name="Support_Setting_License.Header" xml:space="preserve">
     <value>Ліцензія</value>
   </data>
-  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+  <data name="Support_Setting_License.HintLink" xml:space="preserve">
     <value>Придбати ключ</value>
   </data>
   <data name="Support_Setting_License_Button.Content" xml:space="preserve">
@@ -1008,152 +1008,152 @@
   <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
     <value>Введіть ліцензійний ключ тут</value>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
     <value>Керування шумом</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
     <value>Адаптивно</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
     <value>Перемикатись поміж</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
     <value>Натисність кнопку на AirPods Max або натисніть та утримуйте лівий або правий AirPod на AirPods Pro для того, щоб перемикатися поміж обранними режимами шумозаглушення.</value>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
     <value>Адаптивно</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_ConversationAwareness_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
     <value>Розпізнавання розмови</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_ConversationAwareness_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
     <value>Знижувати гучність мультимедіа та приглушати шум у тлі, коли Ви розмовляєте із кимось.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PersonalisedVolume_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
     <value>Адаптивна гучність</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Left_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Left.Header" xml:space="preserve">
     <value>Подвійне натискання лівого AirPod</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Right_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Right.Header" xml:space="preserve">
     <value>Подвійне натискання правого AirPod</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
     <value>Siri</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
     <value>Відтворення/Пауза</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
     <value>Наступний витвір</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
     <value>Попередній витвір</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DigitalCrown_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
     <value>Digital Crown</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
     <value>Ззаду - вперед</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
     <value>Спереду - назад</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
     <value>Одне натискання/Подвійне натискання</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
     <value>Подвійне натискання/Одне натискання</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_MicrophonePosition_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
     <value>Мікрофон</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
     <value>Динамічне перемикання</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
     <value>Завжди правий AirPod</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
     <value>Завжди лівий AirPod</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressSpeed_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
     <value>Затримка у натисканнях</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
     <value>За замовчуванням</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>Повільно</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
     <value>Натиснення і утримування</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
     <value>Оберіть відповідну тривалість для натиснення і утримування на навушниках AirPods.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
     <value>За замовчуванням</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
     <value>Коротко</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
     <value>Якомога повільніше</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
     <value>Якомога коротше</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_AncOneAirPod_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
     <value>Шумозаглушення із одним навушником AirPod</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_AncOneAirPod_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
     <value>Дозволити використання режиму шумозаглушення під час використання лише одного навушника AirPod.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_TuneVolume_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
     <value>Гучність тону</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_TuneVolume_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
     <value>Рівень гучності тону звукових еффектів для навушників AirPods, коли звук не відтворюється. Допоки «{0}» увімкнено, рівень гучності не буде застосовано.</value>
   </data>
-  <data name="Headphones_Settings_Aap_ApplySettings_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
     <value>Керування навушниками</value>
   </data>
-  <data name="Headphones_Settings_Aap_ApplySettings_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
     <value>Коли навушники під'єднано застосовувати налаштування, що вказані нижче.</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
@@ -1166,19 +1166,19 @@
   <data name="License_KeyNotValid.Text" xml:space="preserve">
     <value>Ліцензійний ключ не є дійсним. Будь ласка, перевірте його та спробуйте ще раз.</value>
   </data>
-  <data name="Headphones_Settings_Aap_PersonalisedVolume_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Description" xml:space="preserve">
     <value>Гучність мультімедіа адаптивно змінюється в залежності від оточення.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_EndCallMuteMic_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
     <value>Покласти слухавку/Увімк. і вимк. звуку</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_MicrophonePosition_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
     <value>Дозволити динамічно перемикати мікрофон поміж лівим а правим AirPod, або ж завжди залишати на одному з них.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_PressSpeed_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
     <value>Оберіть відповідний інтервал у подвійному/потрійному натисканні на навушниках AirPods.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>

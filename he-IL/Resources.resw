@@ -89,16 +89,16 @@
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>הצג או הסתר חלון קופץ כמו ב- iPhone כשאתה פותח את הcase.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>זיהוי אוזן</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
     <value>הנגינה מושהת כאשר אוזניה אחת מורדת, או כשאר שניהם מורדות.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>אחר</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>שימושי כאשר עובדים בPremiere Pro או Audition. צריך לחבר מחדש את האוזניות אחרי הדלקה. יתכן וזה יצרוך יותר סוללה.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
@@ -107,13 +107,13 @@
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>דווח על תקלה</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
     <value>חיפוש מהיר</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>נגן/עצור</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>מפחית את הזמן לחיפוש אוזניות. הפעל כאשר אתה בטוח שאין אף אחד בסביבה שמשתמש באוזניות (אירפודס).</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
@@ -152,10 +152,10 @@
   <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>שמע</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
     <value>ההתקן אינו זמין או מוסר</value>
   </data>
-  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
     <value>למד עוד</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
@@ -170,7 +170,7 @@
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>בחירת קול</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>לא נבחר קול או זמין</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
@@ -267,16 +267,16 @@
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>ביטל</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>עוצמת הקול פוחתת בעת הסרת AirPods אחת מהאוזן, או שחזור בעת הסרה/אוורור של שתי ה-AirPods.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>רשימת שחקנים נתמכים</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>רדיוס חיפוש של AirPods</value>
   </data>
-  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
     <value>מהו רדיוס חיפוש?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -288,13 +288,13 @@
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>הצג או הסתר את לחצן «התחבר» בחלון המוקפץ. לחיצה על הכפתור תחבר את ה-AirPods.</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>התחברות אוטומטית</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>הפעלה אוטומטית</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
     <value>שלח את הפקודה «הפעל» לאחר חיבור האוזניות. אם אין נגנים פתוחים Windows יתעלם מהפקודה.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
@@ -325,7 +325,7 @@
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>פרטיות והודעות</value>
   </data>
-  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
     <value>הוספת קול חדש</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
@@ -343,7 +343,7 @@
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>לא היתה אפשרות למצוא את ה-AirPods</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>התחבר/י אוטומטית ל-AirPods בשעת ההפסקה של ה-AirPods ימינה או שמאלה מהמארז.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
@@ -355,31 +355,31 @@
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>כל ההגדרות יאופסו. האם ברצונך להמשיך?</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>ההפעלה מושהית ועוצר הקול פוחת בעת הסרת AirPods אחת מהאוזן, או עצירות ונפח האחסון משחזר בעת הסרת שתי ה-AirPods.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>קרב את מארז טעינת ה-AirPods קרוב ככל האפשר למחשב ופתח אותו</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>החלף פלט שמע באופן אוטומטי</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
     <value>העבירו את השמע מ-AirPods לרמקולי ברירת מחדל כאשר שתי ה-AirPods מחוץ לאוזן.</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>VoiceOver מכריזים על התראות כאשר ה-AirPods מחוברות ומוגדרות כהתקן פלט השמע.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>המנך עוצמה</value>
   </data>
   <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>להגדיר</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>שניהם (המנך עוצמה + נגן/עצור)</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
     <value>השהיית שמע נמוכה</value>
   </data>
   <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
@@ -412,7 +412,7 @@
   <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>הגדרות אפליקציה</value>
   </data>
-  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HintLink" xml:space="preserve">
     <value>יכולות ה-AirPods</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
@@ -424,7 +424,7 @@
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>לקבלת חוויית המשתמש הטובה ביותר, מומלץ להפוך את האתחול לזמין.</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
     <value>הצג התראה כאשר טעינת האוזניות מתחת לערך שצוין.</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
@@ -433,10 +433,10 @@
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
     <value>הקש או לחץ כאן כדי להתאים אישית</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>להשבית</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
     <value>מושבת</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
@@ -454,7 +454,7 @@
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
     <value>כלול מקש Win, Shift, Alt או Ctrl</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
     <value>השהייה אוטומטית</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
@@ -463,13 +463,13 @@
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
     <value>שתי אוזניות או יותר מחוברות, השאר רק אחת מחוברת</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Description" xml:space="preserve">
     <value>השהה את ההשמעה לאחר ניתוק האוזניות.</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
     <value>חבר אוזניות למחשב והפעל מחדש את האפליקציה</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
     <value>מקש קיצור גלובלי לחיבור או ניתוק אוזניות.</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
@@ -487,7 +487,7 @@
   <data name="Menu_Item6.Content" xml:space="preserve">
     <value>העדפות</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
     <value>מקש קיצור חיבור</value>
   </data>
   <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
@@ -526,7 +526,7 @@
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>מטעין</value>
   </data>
-  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
     <value>להסתיר</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
@@ -535,10 +535,10 @@
   <data name="Support_Button_Translate.Content" xml:space="preserve">
     <value>תרגום</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
     <value>התראה על סוללה חלשה</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+  <data name="Slider_TextOff" xml:space="preserve">
     <value>כבוי</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
@@ -622,7 +622,7 @@
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
     <value>אפס להגדרות ברירת המחדל</value>
   </data>
-  <data name="Buttons_LearnMore.Content" xml:space="preserve">
+  <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
     <value>למד עוד</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
@@ -640,7 +640,7 @@
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>פונקציית הדיבורית (תקשורת קולית) של האוזניות לא תהיה זמינה. אין להשבית את הדיבורית באופן ידני. הפעל מחדש את היישום כדי להחיל שינויים.</value>
   </data>
-  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+  <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
     <value>תוכנה נסיונית</value>
   </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
@@ -655,7 +655,7 @@
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>ניגון שמע</value>
   </data>
-  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
     <value>הוסף התקן חדש</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
@@ -679,157 +679,157 @@
   <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
     <value>אמצע למטה</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipFirmware_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
     <value>מיקרוצ'יפ</value>
   </data>
-  <data name="Headphones_Settings_Airoha_Disconnected_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
     <value>חבר את האוזניות שלך להתאמות נוספות</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipUnsupported_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Hint" xml:space="preserve">
     <value>צ'יפ זה עדיין לא נתמך</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
     <value>מקש החלפת ביטול רעשים</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
     <value>לחיצה על המקש תחליף בין מצבי ביטול הרעשים.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
     <value>התאם את המהירות הדרושה כדי ללחוץ על הAirPod השמאלי או הימני פעמיים או שלוש.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
     <value>חיבור multipoint משופר</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
     <value>מאפשר לך לחבר שני מכשירים בבת אחת לאזניות שלך. דורש איפוס AirPods להגדרות היצרן.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_GameMode_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_GameMode.Description" xml:space="preserve">
     <value>ניתן להפעיל זאת גם על ידי לחיצה חמש פעמים על הAirPod השמאלי או הימני.</value>
   </data>
-  <data name="Headphones_Settings_AutoDisableHfp_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
     <value>בטל מצב דיבורית אוטומטית</value>
   </data>
-  <data name="Headphones_Settings_AutoDisableHfp_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
     <value>בטל מצב דיבורית לאחר חיבור האוזניות על מנת למנוע מהאוזניות לעבור למצב דיבורית. המיקרופון יפסיק לעבוד. כיבוי אפשרות זו יפעיל את שירות הדיבורית מחדש.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_CaseSounds_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_CaseSounds.Description" xml:space="preserve">
     <value>הכנס את הAirPods לכיסוי, השאר את המכסה פתוח וחכה שנורית הכיסוי תיכבה. הפעל/כבה אפשרות זו, הוצא את הAirPods והשאר את הכיסוי פתוח, המתן לפחות 2 שניות והכנס את הAirPods לתוך הכיסוי שוב, וחכה שנורית הכיסוי תיכבה.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
     <value>הרכב את שני הAirPods לפני השימוש.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_ChipFirmware_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
     <value>קושחה</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
     <value>ביטול רעשים</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>ביטול רעשים</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>כבוי</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
     <value>שקיפות</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
     <value>מסנן ביטול רעשים</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>תנועה</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
     <value>בפנים</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
     <value>מדיטציה</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
     <value>מעקב ראש</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>כבוי</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>קבוע</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
     <value>ראש נעקב</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LeftAirPod_PressAndHold_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
     <value>לחיצה ארוכה בAirPod שמאלי</value>
   </data>
-  <data name="Headphones_Settings_Airoha_RightAirPod_PressAndHold_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
     <value>לחיצה ארוכה בAirPod ימני</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>עוזרת קולית</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
     <value>בקרת רעשים (ביטול רעשים/שקיפות)</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
     <value>בקרת רעשים(ביטול רעשים/כבוי/שקיפות)</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LeftAirPod_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LeftAirPod_Sensitivity.Header" xml:space="preserve">
     <value>רגישות AirPod שמאלי</value>
   </data>
-  <data name="Headphones_Settings_Airoha_RightAirPod_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_RightAirPod_Sensitivity.Header" xml:space="preserve">
     <value>רגישות AirPod ימני</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
     <value>מהירות לחיצה</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
     <value>מהר יותר</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
     <value>בינוני</value>
   </data>
-  <data name="Headphones_Settings_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>לאט יותר</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
     <value>לחיצה ארוכה</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
     <value>התאם את זמן הלחיצה הארוכה בAirPod השמאלי או הימני.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
     <value>בינוני</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
     <value>ארוך יותר</value>
   </data>
-  <data name="Headphones_Settings_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
     <value>קצר יותר</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
     <value>מצב Multipoint</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
     <value>מצב רגיל</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
     <value>רגישות הפחתת רעשי רוח</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
     <value>הפחתת רעשי רוח</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
     <value>נמוך</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
     <value>בינוני</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
     <value>גבוה</value>
   </data>
-  <data name="Headphones_Settings_Airoha_VoiceControl_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
     <value>שליטה קולית</value>
   </data>
-  <data name="Headphones_Settings_Airoha_GameMode_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_GameMode.Header" xml:space="preserve">
     <value>מצב משחק</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
@@ -838,19 +838,19 @@
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
     <value>מראה אזהרה בהגדרות האזניות שהן מזויפות.</value>
   </data>
-  <data name="Headphones_Settings_FakeHeadphonesWarning_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
     <value>יכול להיות שהן אזניות מזויפות</value>
   </data>
-  <data name="Headphones_Settings_Airoha_FactoryReset_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
     <value>איפוס להגדרות היצרן</value>
   </data>
-  <data name="Headphones_Settings_Airoha_FactoryReset_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
     <value>הכנס את הAirPods לתוך הכיסוי, פתח את המכסה והחזק את הכפתור בערך 10 שניות.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
     <value>דרוש איפוס AirPods להגדרות היצרן כדי להחיל.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_WindNoiseReduction_Sensitivity_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
     <value>דרוש איפוס AirPods להגדרות היצרן כדי להחיל.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
@@ -874,10 +874,10 @@
   <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
     <value>בדוק עדכונים</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
     <value>אקולייזר</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ.Description" xml:space="preserve">
     <value>הפעל את המוזיקה לפני שינוי הגדרה זו.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
@@ -890,19 +890,19 @@
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
     <value>הצג או הסתר חלונית פופ-אפ עבור AirPods מזוייפות אם הן ברשימה של מכשירי Bluetooth.</value>
   </data>
-  <data name="Headphones_Settings_Airoha_CaseSounds_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
     <value>צלילי כיסוי</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
     <value>מופע חי</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
     <value>סטריאו קולנוע</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
     <value>קצב במה</value>
   </data>
-  <data name="Headphones_Settings_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>קלאסי</value>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
@@ -911,37 +911,37 @@
   <data name="Notification_Updates_Description" xml:space="preserve">
     <value>לחץ כאן על מנת ללכת לחנות Microsoft.</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>הפחתת רעש</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>כיבוי</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
     <value>הפחתת רעש</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
     <value>ביטול רוח</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>צליל סביבה</value>
   </data>
-  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
     <value>עוצמת צליל אווירה</value>
   </data>
-  <data name="Headphones_Settings_Sony_FocusOnVoice_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Description" xml:space="preserve">
     <value>קולות האנשים יישמעו ורעש הסביבה ידכא.</value>
   </data>
-  <data name="Headphones_Settings_Sony_AmbientSoundVolume_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Description" xml:space="preserve">
     <value>ככל שהערך גבוה יותר, כך ניתן לשמוע טוב יותר את הסביבה.</value>
   </data>
-  <data name="Headphones_Settings_Sony_FocusOnVoice_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Header" xml:space="preserve">
     <value>התמקד בקול</value>
   </data>
-  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Header" xml:space="preserve">
     <value>שמור הגדרות</value>
   </data>
-  <data name="Headphones_Settings_Sony_SaveAmbientSettings_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Description" xml:space="preserve">
     <value>שמור את הגדרות צליל הסביבה בזיכרון האוזניות.</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
@@ -956,7 +956,7 @@
   <data name="Support_Setting_License.Header" xml:space="preserve">
     <value>רישיון</value>
   </data>
-  <data name="Support_Setting_License.HyperlinkText" xml:space="preserve">
+  <data name="Support_Setting_License.HintLink" xml:space="preserve">
     <value>קנה מפתח</value>
   </data>
   <data name="Support_Setting_License_Button.Content" xml:space="preserve">
@@ -990,43 +990,43 @@
   <data name="License_KeyNotValid.Text" xml:space="preserve">
     <value>מפתח הרישיון אינו תקף. אנא נסה שוב או השתמש במפתח רישיון אחר.</value>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
     <value>שקיפות</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
     <value>כבוי</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>הפחתת רעש</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
     <value>שקיפות</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
     <value>כבוי</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
     <value>כבוי</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>הפחתת רעש</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
     <value>שמע מותאם</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_AncOneAirPod_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
     <value>ביטול רעשים עם אוזניה בודדת</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
     <value>שמע מותאם</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>

@@ -83,10 +83,10 @@
   <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>E mesme</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Luaj/Pauzë</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Të dyja (Ul volumin + Luaj/Ndalu)</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
@@ -104,23 +104,23 @@
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>rivendosni cilësimet</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
     <value>Riprodhimi ndalon kur heq një vesh AirPods ose ndalon kur heq të dy AirPods.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Tjera</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
     <value>Vonesa e ulët audio</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>E dobishme kur punoni në Premiere Pro ose Audition. Kërkon rilidhjen e AirPods pas ndezjes. Mund të rrisë konsumin e baterisë.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>zbulim i veshi</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Zvogëloni volumin</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
@@ -138,7 +138,7 @@
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>Ikonë</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
     <value>Kërkim i shpejtë</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
@@ -166,7 +166,7 @@
     <value>Kur janë lidhur AirPods, ikona e tabakasë së sistemit do të tregojë ngarkesën mesatare të kufjeve tuaja majtas dhe djathtas. Ikona përditësohet çdo minutë.</value>
     <comment>Changed</comment>
   </data>
-  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>Redukton kohën e kërkimit për AirPods. Aktivizoni kur jeni të sigurt se askush tjetër përreth nuk po përdor AirPods.</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
@@ -184,10 +184,10 @@
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
     <value>Bluetooth është fikur</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Fikur</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+  <data name="Slider_TextOff" xml:space="preserve">
     <value>Fikur</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
@@ -199,7 +199,7 @@
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
     <value>Shumë përshtatës Bluetooth të lidhur</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>Fikur</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
@@ -243,25 +243,25 @@
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>Aplikacioni do të mbyllet dhe të gjitha funksionet do të ndalen.</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Fikur</value>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
-    <value>Fikur</value>
-    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
-  </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
     <value>Fikur</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
     <value>Fikur</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Fikur</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Lidhja automatike</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>Lidhuni automatikisht me AirPods kur hiqni AirPods djathtas ose majtas nga kutia.</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
@@ -276,7 +276,7 @@
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Tjetra</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>Asnjë zë i zgjedhur apo i disponueshëm</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
@@ -288,16 +288,16 @@
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Lidhja me kufjet dështoi. Provoni të lidheni manualisht.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>Lista e lojtarëve të mbështetur</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>Rrezja e kërkimit të AirPods</value>
   </data>
-  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
     <value>Çfarë është rrezja e kërkimit?</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>Luaj automatikisht</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
@@ -330,7 +330,7 @@
   <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>Audio</value>
   </data>
-  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
     <value>Mësoni më shumë</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
@@ -360,7 +360,7 @@
   <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>Shfaq të gjitha aplikacionet</value>
   </data>
-  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
     <value>Shto një zë të ri</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
@@ -378,7 +378,7 @@
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Bazuar në përdorimin tuaj, ju rekomandojmë të vendosni vlerën në {0}</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>Dalja e zërit me ndërrim automatik</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
@@ -387,7 +387,7 @@
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Jo të gjitha aplikacionet nga lista mund të dërgojnë njoftime, disa aplikacione mund të mos jenë në listë.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>Vëllimi zvogëlohet kur hiqni një AirPods nga veshi juaj, ose rikuperohet kur hiqni / vendosni të dy AirPods.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
@@ -399,10 +399,10 @@
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Shfaq ose fshih butonin "Lidhu" në dritaren që shfaqet. Shtypja e butonit do të lidhë AirPods.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
     <value>Dërgoni komandën «Luaj» pasi të keni lidhur kufjet. Nëse nuk ka lojtarë të hapur, Windows do ta injorojë komandën.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>Riprodhimi ndalon dhe volumi zvogëlohet kur heq një AirPods nga veshi, ose ndalon dhe volumi rikthehet kur heq të dy AirPods.</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
@@ -411,10 +411,10 @@
   <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>Këndi i sipërm djathtas</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
     <value>Kalo audio nga AirPods në altoparlantët e paracaktuar kur të dy AirPods janë jashtë veshit.</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
     <value>Pajisja nuk disponohet ose është hequr</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">

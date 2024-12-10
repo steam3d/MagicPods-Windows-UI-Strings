@@ -67,13 +67,13 @@
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Se atunto</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>Iwari eti</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Diwon didun</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
     <value>akoko sisọ to kere</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
@@ -85,7 +85,7 @@
   <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
     <value>Apejuwe isele</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
     <value>Sawari kiakia</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
@@ -110,23 +110,23 @@
   <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>Nla</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Sise/Duro</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Mejeji (Diwon didun + sise/simi)</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
     <value>Si sere a simi ti a ba yo eti kan ninu AirPods tabi duro patapata ti a ba yo eti AirPods mejeji.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Eyi to ku</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>Wulo ti a ba n sise pelu Premiere Pro tabi Audition. Nilo ki a tun sopo AirPods wa ti a ba tan. O le je ki batiri wa tete ku.</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>Sawari AirPods Kaikia. Tan nigba ti o mo daju pe ko si elomi ti o n lo AirPods Layika re.</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
@@ -213,10 +213,10 @@
     <value>esiperimenta awọn ẹya ara ẹrọ</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>Iwọn didun naa dinku nigbati o ba yọ AirPods kan kuro ni eti rẹ, tabi mu pada nigbati o yọkuro / fi sori AirPods mejeeji.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>akojọ awọn ẹrọ orin atilẹyin</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -225,7 +225,7 @@
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Ma ṣe ṣeto iye ti o tobi ju 65 bi ere idaraya le han lairotẹlẹ.</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Asopọmọra aifọwọyi</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
@@ -234,7 +234,7 @@
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Ti window ko ba han ṣii ọran naa pẹlu AirPods inu ati rọra si apa ọtun titi ti ere idaraya yoo han.</value>
   </data>
-  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
     <value>Kini rediosi wiwa?</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
@@ -264,30 +264,30 @@
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
     <value>Aṣiṣe ohun ti nmu badọgba Bluetooth</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+  <data name="Slider_TextOff" xml:space="preserve">
     <value>Pa</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Pa</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>Pa</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Pa</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>A nwa AirPods</value>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
     <value>Pa</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
     <value>Pa</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
     <value>Pa</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>

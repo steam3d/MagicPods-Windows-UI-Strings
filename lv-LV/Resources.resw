@@ -89,14 +89,14 @@
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
     <value>Atiestatīt iestatījumus</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>Ausu noteikšana</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Citi</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
     <value>Zems audio latentums</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
@@ -108,10 +108,10 @@
   <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
     <value>Debug žurnāls</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
     <value>Ātrā meklēšana</value>
   </data>
-  <data name="Headphones_Settings_FastSearch_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>Samazina AirPods meklēšanas laiku. Ieslēdziet, kad jūs esat pārliecināts, ka neviens cits apkārt neizmanto AirPods.</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
@@ -178,7 +178,7 @@
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Atcelt</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Button_SupportedPlayers.Content" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>Atbalstīto atskaņotāju saraksts</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
@@ -187,7 +187,7 @@
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Ja logs netiek parādīts, atveriet korpusu ar tajā ievietotajām AirPods austiņām un vienmērīgi bīdiet slīdni pa labi, līdz parādās animācija.</value>
   </data>
-  <data name="Settings_Popup_Setting_SearchRadius.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
     <value>Kas ir meklēšanas rādiuss?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
@@ -199,10 +199,10 @@
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
     <value>Rādīt pogu "Savienot"</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Automātiskais savienojums</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>Automātiska atskaņošana</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
@@ -235,10 +235,10 @@
   <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>Loga pozīcija</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
     <value>Atskaņošana apstājas, kad jūs noņemat vienu no AirPods austiņām, vai apstājas, kad noņemat abas AirPods austiņas.</value>
   </data>
-  <data name="Headphones_Settings_LowAudioLatency_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>Lietderīgs kad izmanto Premiere Pro vai Audition. Pēc ieslēģšanas nepieciešams atkārtoti pieslēgt AirPods. Tas var palielināt akumalatora patēriņu.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
@@ -248,16 +248,16 @@
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>Lietojumprogramma būs aiztaisīta un visas funkcijas būs izslēgtas.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>Skaļums samazinās, kad no auss noņemat vienu no AirPods, vai atjaunojas, kad noņemat/uzliekat abas AirPods.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Rādīt vai slēpt pogu "Savienot" uznirstošajā logā. Nospiežot šo pogu, tiks savienotas AirPods.</value>
   </data>
-  <data name="Headphones_Settings_AutoConnect_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>Automātiski izveido savienojumu ar AirPods, kad izņemat labo vai kreiso AirPods no futrāļa.</value>
   </data>
-  <data name="Headphones_Settings_AutoPlay_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
     <value>Pēc AirPods pieslēgšanas nosūtīt komandu "Atskaņot". Ja nav atvērtu atskaņotāju, operētājsistēma Windows ignorēs komandu.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
@@ -270,7 +270,7 @@
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>Neizdevās savienot austiņas. Mēģiniet savienot manuāli.</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Description_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>Atskaņošana apstājas un skaļums samazinās, kad no auss noņemat vienu AirPods austiņu, vai apstājas un skaļums atjaunojas, kad noņemat abas AirPods austiņas.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
@@ -294,7 +294,7 @@
   <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>Audio</value>
   </data>
-  <data name="Settings_VoiceOver_Setting_OnOff.HyperlinkText" xml:space="preserve">
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
     <value>Uzzināt vairāk</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
@@ -312,10 +312,10 @@
   <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>Runāt</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Samazināt skaļumu</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Both.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Abi (Samazināt skaļumu + Atskaņot/Pauzēt)</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
@@ -354,7 +354,7 @@
   <data name="Text_Connecting" xml:space="preserve">
     <value>Savienojas</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>Atskaņot/Pauze</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
@@ -366,13 +366,13 @@
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>Noņemt karsto taustiņu</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
     <value>Auto pauze</value>
   </data>
-  <data name="Headphones_Settings_AutoPause_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_AutoPause.Description" xml:space="preserve">
     <value>Apturēt atstaņošanu pēc austiņu atvienošanas.</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
     <value>Zema akumulatora līmeņa paziņojums</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
@@ -384,10 +384,10 @@
   <data name="Welcome_Text4.Text" xml:space="preserve">
     <value>Pielāgojiet katras austiņas individuāli, lai atbilstu jūsu preferencei</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
     <value>Globālā karstā taustiņa kombinācija, lai pievienotu vai atvienotu austiņas.</value>
   </data>
-  <data name="Headphones_Settings_ConnectDisconnectHotkey_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
     <value>Savienošanas karstais taustiņs</value>
   </data>
   <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
@@ -396,13 +396,13 @@
   <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>Kreisais augšējais stūris</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>Automātiski mainīt skaņas izeju</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
     <value>Nomainīt skaņas izdeju no AirPodiem uz noklusējuma skaņas iekārtu, kad abi AirPods ir izņemti no ausīm.</value>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_AudioEndpointRemoved" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
     <value>Iekārta nav pieejama vai noņemta</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
@@ -417,7 +417,7 @@
   <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
     <value>BalssPalīdzības konfigurācija</value>
   </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected" xml:space="preserve">
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>Neviena balss nav izvēlēta vai nav pieejama</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
@@ -450,7 +450,7 @@
   <data name="Text_Disconnect" xml:space="preserve">
     <value>Atvienot</value>
   </data>
-  <data name="Support_DeveloperApps_Header.HyperlinkText" xml:space="preserve">
+  <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
     <value>Paslēpt</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
@@ -459,7 +459,7 @@
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
     <value>Iekļaujiet taustiņu kombinācijā Win, Shift, Alt vai Ctrl</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Description.Text" xml:space="preserve">
+  <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
     <value>Parādīt paziņojumu, kad austiņu akumulatora līmenis sasniedz noteiktu vērtību.</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
@@ -532,7 +532,7 @@
   <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>Parādīt visas aplikācijas</value>
   </data>
-  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HyperlinkText" xml:space="preserve">
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
     <value>Pievienot jaunu balsi</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
@@ -559,7 +559,7 @@
   <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
     <value>Aplikācijas iestatījumi</value>
   </data>
-  <data name="Settings_Popup_Setting_ShowPopup.HyperlinkText" xml:space="preserve">
+  <data name="Settings_Popup_Setting_ShowPopup.HintLink" xml:space="preserve">
     <value>AidPods spējas</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
@@ -584,10 +584,10 @@
     <value>Tulkot</value>
     <comment>Last used 2.0.45.0</comment>
   </data>
-  <data name="Headphones_Settings_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Atslēgts</value>
   </data>
-  <data name="Headphones_Settings_EarDetection_Item_Disabled.Text" xml:space="preserve">
+  <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
     <value>Atslēgt</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
@@ -596,7 +596,7 @@
   <data name="App_Error.Title" xml:space="preserve">
     <value>Notikusi nezināma kļūda</value>
   </data>
-  <data name="Headphones_Settings_LowBatteryNotification_Slider_TextOff" xml:space="preserve">
+  <data name="Slider_TextOff" xml:space="preserve">
     <value>Izslēgts</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
@@ -635,37 +635,37 @@
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Audio straumēšana</value>
   </data>
-  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HyperlinkText" xml:space="preserve">
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
     <value>Pievienot jaunu ierīci</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
     <value>Auto klusināšana</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Trokšņu novēršana</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Izslēgts</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
     <value>Caurredzamība</value>
   </data>
-  <data name="Headphones_Settings_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
     <value>Izslēgts</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
     <value>Trokšņu novēršana</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Trokšņu novēršana</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Izslēgts</value>
   </data>
-  <data name="Headphones_Settings_Airoha_NoiseCancellation_Header.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
     <value>Trokšņu novēršana</value>
   </data>
-  <data name="Headphones_Settings_Experimental_Description.Text" xml:space="preserve">
+  <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
     <value>Izmēģinājuma funkcija</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
@@ -677,37 +677,37 @@
   <data name="Support_Setting_Discord.Header" xml:space="preserve">
     <value>kopiena</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
     <value>Vēja trokšņu mazināšana</value>
   </data>
-  <data name="Headphones_Settings_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>Apkārtējā skaņa</value>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
     <value>Caurredzamība</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
     <value>Izslēgts</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>Trokšņu novēršana</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
     <value>Caurredzamība</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
     <value>Izslēgts</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
     <value>Izslēgts</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
-  <data name="Headphones_Settings_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Trokšņu novēršana</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
