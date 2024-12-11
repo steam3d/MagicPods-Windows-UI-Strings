@@ -484,7 +484,7 @@
     <value>Akkustand</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>Für die beste Erfahrung, empfehlen wir das Aktivieren von Autostart.</value>
+    <value>Wir empfehlen das Aktivieren von Autostart, für eine bessere benutzererfahrung.</value>
   </data>
   <data name="Slider_TextOff" xml:space="preserve">
     <value>Aus</value>
@@ -1007,7 +1007,7 @@
     <value>Lizenzschlüssel kaufen</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Kaufe oder gebe deinen existierenden Lizenzschlüssel auf der Seite {0} uter {1} ein</value>
+    <value>Kaufe oder gebe deinen existierenden Lizenzschlüssel auf der Seite {0} unter {1} ein</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
@@ -1179,5 +1179,164 @@
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
     <value>Mikrofon auf links, rechts oder automatisch einstellen.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>Passe die Geschwindigkeit an, die benötigt wird, um deine AirPods zwei oder drei Mal zu drücken.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Zwinge die Audioausgabe, nach der Verbindung auf die Kopfhörer zu wechseln. Diese Einstellung gilt nicht, wenn {0} aktiviert ist.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>Von hinten nach vorne</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Langsamer</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>Erlaubt es die Geräuschunterdrückung zu aktivieren, wenn nur ein AirPod in deinen Ohren ist.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Sichtbarkeit</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Das Symbol wird transparent, wenn die Audioausgabe auf die Computerlautsprecher umgestellt wird.</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth Einstellungen</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>Geräuschunterdrückung</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Wenn der Hotkey gedrückt wird, wird das Lesen der Mitteilungen übersprungen.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Verbinden / Trennen</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Trennen</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Streaming Geräte</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Suche nach Namen</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Um Geräte anzeigen zu lassen, aktiviere Bluetooth und warte, dass die Kopfhörer geladen werden.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Durch drücken des Hotkeys wird der Geräuschunterdrückungsmodus gewechselt, wenn {0} in den Kopfhörereinstellungen verfügbar ist.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Sound Ausgang</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Mitteilungen vorlesen überpringen</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Einzelnes Batteriicon</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Durch drücken des Hotkeys wird Bluetooth an- oder ausgeschaltet.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Hell</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Schriftart</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Schriftgröße</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Schriftfarbe</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Schriftfarbe wenn die Batterie geladen wird</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Schriftfarbe wenn die Batterie niedrig ist</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Icon Farbe</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Dunkel</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Hell</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Dunkel</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikator Farbe</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikator Farbe wenn die Batterie geladen wird.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikator Farbe wenn die Battery niedrig ist.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Schriftart nicht gefunden</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Anzeige der Audioausgangsänderung</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>Von vorne nach hinten</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>Am langsamsten</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>Drück- und Haltedauer</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>Kürzer</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>Am kürzesten</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>Geräuschunterdrückung mit einem AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>Signalton Lautstärke</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
+    <value>Passe die Lautstärke der Signaltöne an die ertönen, wenn keine Audio abgespielt wird. Wenn {0} aktiviert ist, wird die Lautstärke nicht angewendet.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>Kopfhörer verwalten</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
+    <value>Wenn Kopfhörer verbunden sind, greifen die unten stehenden Optionen.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>Passe die Drück- und Haltedauer deiner AirPods an.</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Batteriestatus via Handsfree</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Verwende diese Option, wenn das Laden der Kopfhörer nicht angezeigt wird. Die Kopfhörer müssen neu verbunden werden, damit die Änderung in Kraft tritt. Sprachfunktion wird deaktiviert.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Wechsel den Soundausgang zu Kopfhörern.</value>
   </data>
 </root>
