@@ -1257,4 +1257,49 @@
   <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
     <value>الضغط على مفتاح الاختصار يقوم بتشغيل البلوتوث أو إيقافه.</value>
   </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>مستوى الشحن عبر المساعد الصوتي</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>استخدم هذا الخيار إذا لم يتم عرض مستوى شحن السماعة. قم بإعادة الاتصال بالسماعات لتطبيق التغييرات. لن تكون الاتصالات الصوتية متاحة.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>فرض تحويل مخرج الصوت إلى السماعات بعد الاتصال. لا ينطبق هذا الخيار إذا كانت «خاصية التبديل التلقائي لمخرج الصوت» مفعلة.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>عند الضغط على مفتاح الاختصار، يتم تخطي قراءة الإشعار الحالي.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>اتصال /قطع الاتصال</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>قطع الاتصال</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>أجهزة البث</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>البحث بالأسم</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>لعرض الأجهزة قم بتشغيل البلوتوث وانتظر حتى يتم البحث عن السماعات</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>مفاتيح الأختصار</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>رمز بطارية واحد</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>عرض تغيير مخرج الصوت</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>يصبح الرمز شفافًا عند تغيير مخرج الصوت إلى مكبرات الصوت الخاصة بالكمبيوتر.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>الشفافية</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>تبديل مخرج الصوت إلى السماعات</value>
+  </data>
 </root>
