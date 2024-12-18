@@ -1299,4 +1299,13 @@
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
     <value>Presionando el atajo se alternarán los modos de control de ruido si «{0}» está disponible en la configuración de los auriculares.</value>
   </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Mostrar cambio en emisión de sonido</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>El icono convierte transparente cuando la salida de audio se cambia a la salida de audio de la computadora.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Opacidad</value>
+  </data>
 </root>
