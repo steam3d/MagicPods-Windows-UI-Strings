@@ -569,7 +569,7 @@
     <value>Översätt applikation</value>
   </data>
   <data name="Support_Setting_Discord.Header" xml:space="preserve">
-    <value>Community</value>
+    <value>Gemenskap</value>
   </data>
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
     <value>Gå med i vårt community, rapportera buggar, håll utkik efter nyheter, uppdateringar och diskussioner</value>
@@ -1226,5 +1226,59 @@
   </data>
   <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
     <value>Använd det här alternativet om hörlurar laddning inte visas. Återanslut hörlurarna för att tillämpla ändringarna. Röst kommunikation kommer vara otillgänglig.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
+    <value>Sänker medievolymen och minskar bakgrundsbuller när du börjar prata med andra personer.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
+    <value>Justera tonvolymen för ljudeffekter som spelas upp av AirPods när inget annat ljud spelas. Medan {0} är på så tillämpas inte volymen.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Starta om</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>licens</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Enter tangenten</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>licens</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Köp eller skriv in en befintlig nyckel på {0} sidan under {1}</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
+    <value>Bruskontroll</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Omstart krävs</value>
+  </data>
+  <data name="Support_Setting_License.HintLink" xml:space="preserve">
+    <value>Köp nyckel</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>Brusreducering med en AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>Tillåt att AirPods försätts i brusreduceringsläge när bara en AirPod sitter i örat.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Starta om applikationen för att spara inställningar.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Vid användning av kortkommando knappen så ändrar man brusreducerings lägen om {0} är tillgänglit i hörlurarnas inställningar.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Visa ljud utmatnings förändringar</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Ikonen blir transparent när ljud källan är ändrad till dator högtalarna.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Opacitet</value>
   </data>
 </root>
