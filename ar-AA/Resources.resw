@@ -1302,4 +1302,25 @@
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
     <value>تبديل مخرج الصوت إلى السماعات</value>
   </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>إعادة التشغيل مطلوبة</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>أعد تشغيل التطبيق لتطبيق التغييرات.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>إعادة تشغيل</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>يلغي</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى الانتقال عبر أوضاع إلغاء الضوضاء إذا كان «1{0}» متاحًا في إعدادات سماعة الرأس.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>التحكم في إخراج الصوت</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>تخطي القراءة</value>
+  </data>
 </root>
