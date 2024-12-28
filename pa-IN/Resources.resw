@@ -242,4 +242,34 @@
   <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>ਜਦੋਂ ਤੁਸੀਂ ਸੱਜੇ ਜਾਂ ਖੱਬੇ ਏਅਰਪੌਡਸ ਨੂੰ ਕੇਸ ਤੋਂ ਬਾਹਰ ਕੱਢਦੇ ਹੋ ਤਾਂ ਏਅਰਪੌਡਸ ਨਾਲ ਆਟੋਮੈਟਿਕਲੀ ਕਨੈਕਟ ਕਰੋ।</value>
   </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>ਟਿਪ</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>ਅਪਲਾਈ ਕਰੋ</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>ਅਣਡਿੱਠ ਕਰੋ</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>ਹੈੱਡਫੋਨ ਨਾਲ ਕਨੈਕਟ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ। ਹੱਥੀਂ ਜੁੜਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>ਆਟੋ ਪਲੇ</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>ਹੈੱਡਫੋਨ ਨੂੰ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਬਾਅਦ "ਪਲੇ" ਕਮਾਂਡ ਭੇਜੋ। ਜੇਕਰ ਕੋਈ ਖੁੱਲੇ ਖਿਡਾਰੀ ਨਹੀਂ ਹਨ ਤਾਂ ਵਿੰਡੋਜ਼ ਕਮਾਂਡ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰ ਦੇਵੇਗਾ।</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>ਸਾਰੀਆਂ ਸੈਟਿੰਗਾਂ ਰੀਸੈਟ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>ਹਾਂ, ਸੈਟਿੰਗਾਂ ਰੀਸੈਟ ਕਰੋ</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>ਤੁਹਾਡੀ ਵਰਤੋਂ ਦੇ ਆਧਾਰ 'ਤੇ, ਅਸੀਂ ਮੁੱਲ ਨੂੰ {0} 'ਤੇ ਸੈੱਟ ਕਰਨ ਦੀ ਸਿਫ਼ਾਰਿਸ਼ ਕਰਦੇ ਹਾਂ</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
+    <value>ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਕੰਨ ਤੋਂ ਇੱਕ ਏਅਰਪੌਡ ਹਟਾਉਂਦੇ ਹੋ, ਜਾਂ ਬੰਦ ਹੋ ਜਾਂਦਾ ਹੈ ਅਤੇ ਜਦੋਂ ਤੁਸੀਂ ਦੋਵੇਂ ਏਅਰਪੌਡਸ ਨੂੰ ਹਟਾਉਂਦੇ ਹੋ ਤਾਂ ਵੌਲਯੂਮ ਮੁੜ ਬਹਾਲ ਹੋ ਜਾਂਦਾ ਹੈ ਅਤੇ ਪਲੇਬੈਕ ਰੁਕ ਜਾਂਦਾ ਹੈ।</value>
+  </data>
 </root>
