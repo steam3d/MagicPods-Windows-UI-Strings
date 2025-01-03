@@ -1039,7 +1039,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
-    <value>Digital crown</value>
+    <value>Digitaalinen kruunu</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
@@ -1283,5 +1283,38 @@
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
     <value>Yksi akkusymboli</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Ota muutokset käyttöön käynnistämällä sovellus uudelleen.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Käynnistä uudelleen</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Peruuta</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>Paina ja pidä kesto</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Vaihda äänen ulostulo kuulokkeisiin</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Pakota äänilähtö vaihtamaan kuulokkeisiin liitännän jälkeen. Tämä vaihtoehto ei ole käytössä, jos «{0}» on käytössä.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Uudelleenkäynnistys vaaditaan</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>Säädä AirPod-soittimien painamisen ja pitämisen kesto.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Näytä äänen ulostulon muutos</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Kuvake muuttuu läpinäkyväksi, kun äänilähtö muutetaan tietokoneen kaiuttimiin.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Peittävyys</value>
   </data>
 </root>
