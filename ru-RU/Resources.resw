@@ -1351,4 +1351,25 @@
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
     <value>Принудительно переключать аудиовыход на наушники после подключения. Эта опция не применяется, если включен «{0}».</value>
   </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Требуется перезапуск</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Перезапустите приложение для применения изменений.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Перезапуск</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Показать изменение аудиовыхода</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Иконка становится прозрачной при переключении звукового вывода на динамики компьютера.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Уровень прозрачности</value>
+  </data>
 </root>
