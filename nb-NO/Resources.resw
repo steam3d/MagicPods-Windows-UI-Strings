@@ -835,7 +835,7 @@
     <value>Fastvare</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
-    <value>Trykk på hurtigtast for å gå igjennom lydreduksjonsnivå</value>
+    <value>Trykk på hurtigtast for å gå igjennom lydreduksjonsnivå.</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>Fikset</value>
@@ -956,5 +956,23 @@
   </data>
   <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
     <value>Bakgrunnslyd volumnivå</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Åpenhet</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Adaptiv</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Åpenhet</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Støydemping</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Støydemping</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Adaptiv</value>
   </data>
 </root>
