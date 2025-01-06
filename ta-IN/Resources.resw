@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>வெளியேறு</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>விட்டு</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>சரி</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>வழக்கு</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>பொறுப்பாணை</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>சத்தம் ரத்து</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>ஆஃப்</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>ஆஃப்</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>காற்று ரத்து</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>சுற்றுப்புற ஒலி</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>ஆஃப்</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>வெளிப்படைத்தன்மை</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>தழுவல்</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>ஆஃப்</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>சத்தம் ரத்து</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>வெளிப்படைத்தன்மை</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>தழுவல்</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>ஆஃப்</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
+    <value>சத்தம் ரத்து</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>ஆஃப்</value>
+  </data>
+  <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
+    <value>இணைக்கபடு</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>இணைக்கபடு</value>
+  </data>
+  <data name="Slider_TextOff" xml:space="preserve">
+    <value>ஆஃப்</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>புளூடூத் ஆஃப்</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>புளூடூத் அடாப்டர் துவக்க பிழை</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
+    <value>சத்தம் ரத்து</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>வெளிப்படைத்தன்மை</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>சத்தம் ரத்து</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>சத்தம் ரத்து</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
+    <value>குரலெழுப்பு</value>
+  </data>
 </root>
