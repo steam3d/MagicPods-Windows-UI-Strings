@@ -1026,7 +1026,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
-    <value>अनुकूलक</value>
+    <value>अनुकूली</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
@@ -1301,5 +1301,8 @@
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
     <value>कनेक्शन के बाद ध्वनि आउटपुट को हेडफ़ोन पर स्विच करने के लिए बाध्य करें। यदि {0} सक्षम है तो यह विकल्प लागू नहीं होता है।</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
+    <value>अनुकूली</value>
   </data>
 </root>
