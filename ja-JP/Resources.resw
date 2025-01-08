@@ -1265,4 +1265,19 @@
   <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
     <value>ヘッドホンの充電が表示されない場合は、このオプションを使用します。ヘッドホンを再接続して変更を適用します。音声通話ができなくなります。</value>
   </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>再起動する</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>音声放送を支配</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>ホットキー</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>不透明さ</value>
+  </data>
 </root>
