@@ -953,7 +953,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
-    <value>โหมดรับเสียง</value>
+    <value>โหมดรับเสียงภายนอก</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
@@ -1022,7 +1022,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
-    <value>ผสมผสาน</value>
+    <value>โหมดปรับเสียงตามสภาพแวดล้อม</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
@@ -1045,5 +1045,68 @@
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>ผสมผสาน</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
+    <value>รับฟังเสียงพูดคุย</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
+    <value>ลดเสียงและการตัดเสียงรบกวนเมื่อเริ่มสนทนา</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Description" xml:space="preserve">
+    <value>ปรับระดับเสียงของสื่อตามสภาพแวดล้อมต่างๆ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Left.Header" xml:space="preserve">
+    <value>แตะสองครั้งด้านซ้าย</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Right.Header" xml:space="preserve">
+    <value>แตะสองครั้งด้านขวา</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>สิริ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>เล่น หรือ หยุด</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>เพลงถัดไป</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>เพลงก่อนหน้านี้</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>จากหลังไปหน้า</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>จากหน้าไปหลัง</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
+    <value>วางสาย/ปิดเสียง หรือ เปิด</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>กดหนึ่งครั้ง/สองครั้ง</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
+    <value>ไมโครโฟน</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>เพิ่มความมหัศจรรย์ให้กับหูฟังของคุณ</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>ใบอนุญาตไม่ถูกต้อง โปรดลองรหัสอื่น</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>รหัสใบอนุญาตจำเป็นจะต้องใส่ใหม่หลังจากติดตั้งใหม่</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
+    <value>กดปุ่มบน AirPods Max หรือ บีบก้าน AirPods Pro เพื่อปรับโหมดตัดเสียงรบกวน</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>ปุ่มเม็ดมะยม</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
+    <value>ปรับเสียงสื่ออัตโนมัติตามการใช้งาน</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>กดสองครั้ง/หนึ่งครั้ง</value>
   </data>
 </root>
