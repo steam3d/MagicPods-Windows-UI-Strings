@@ -1177,7 +1177,7 @@
     <value>Ohita ilmoitus</value>
   </data>
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
-    <value>Pikanäppäintä painaminen ohittaa nykyisen ilmoituksen lukemisen.</value>
+    <value>Pikanäppäimen painaminen ohittaa nykyisen ilmoituksen lukemisen.</value>
   </data>
   <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
     <value>Yhdistä / katkaise yhteys</value>
@@ -1204,10 +1204,10 @@
     <value>Äänen ulostulo</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
-    <value>Akun prosentti Handsfreen kautta</value>
+    <value>Akun tila Handsfreen kautta</value>
   </data>
   <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
-    <value>Pikanäppäintä painaminen laittaa Bluetoothin päälle ja pois.</value>
+    <value>Pikanäppäimen painaminen laittaa Bluetoothin päälle ja pois.</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
     <value>Osta lisenssiavain tai syötä omistamasi lisenssiavain sivulle {0} kohtaan {1}</value>
@@ -1222,7 +1222,7 @@
     <value>Vaalea teema</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Kuvakkeiden väri</value>
+    <value>Kuvakkeen väri</value>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
     <value>Takaa eteen</value>
@@ -1243,10 +1243,10 @@
     <value>Tekstin väri</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Tekstin väri akkua ladatessa</value>
+    <value>Tekstin väri akkua ladattaessa</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Tekstin väri kun akku on vähissä</value>
+    <value>Tekstin väri, kun akku on vähissä</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
     <value>Vaalea teema</value>
@@ -1261,10 +1261,10 @@
     <value>Indikaattorin väri</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Indikaattorin väri akkua ladatessa</value>
+    <value>Indikaattorin väri akkua ladattaessa</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Indikaattorin väri kun akku on vähissä</value>
+    <value>Indikaattorin väri, kun akku on vähissä</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
     <value>Muuta tarvittavaa nopeutta AirPodien kahteen tai kolmeen kertaan painamiseen.</value>
@@ -1279,7 +1279,7 @@
     <value>Nähdäksesi laitteet, laita Bluetooth päälle ja odota että kuulokkeet ilmestyvät</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
-    <value>Käytä tätä asetusta jos kuulokkeiden akun tila ei näy. Yhdistä kuulokkeet uudelleen asetuksien asettamiseksi. Mikrofoni ei tule olemaan käytössä.</value>
+    <value>Käytä tätä asetusta, jos kuulokkeiden akun tila ei näy. Yhdistä kuulokkeet uudelleen asetuksien asettamiseksi. Mikrofoni ei tule olemaan käytössä.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
     <value>Yksi akkusymboli</value>
@@ -1319,5 +1319,11 @@
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>Mukautuva</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Verkkosivu</value>
   </data>
 </root>
