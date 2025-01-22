@@ -189,7 +189,7 @@
     <value>Радіус пошуку AirPods</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
-    <value>Якщо вікно не з'являється, тоді відкрийте кейс із навушниками всередині та повільно переміщуйте повзунок вправо допоки не з'явиться анімація.</value>
+    <value>Якщо вікно не з'являється, тоді відкрийте футляр із навушниками всередині та повільно переміщуйте повзунок вправо допоки не з'явиться анімація.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
     <value>Що таке радіус пошуку?</value>
@@ -204,7 +204,7 @@
     <value>Авто під'єднання</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>Показувати та ховати спливаюче вікно так, як на iPhone, коли ви відкриваєте кейс.</value>
+    <value>Показувати та ховати спливаюче вікно так, як на iPhone, коли ви відкриваєте футляр.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Обидві дії (Зменшити гучність + Відтворювати/Пауза)</value>
@@ -243,10 +243,10 @@
     <value>Додаток MagicPods підтримує більшість моделей AirPods та Beats</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
-    <value>Наступне</value>
+    <value>Далі</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
-    <value>Радіус пошуку - це радіус, у якому ваш комп'ютер шукатиме відкритий кейс AirPods.</value>
+    <value>Радіус пошуку - це радіус, у якому ваш комп'ютер шукатиме відкритий футляр AirPods.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Закрити</value>
@@ -310,7 +310,7 @@
     <value>Показувати чи ховати кнопку "Під'єднати" на спливаючому вікні. Натискання кнопки під'єднає AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
-    <value>Автоматично під'єднуватися до AirPods, коли ви виймаєте правий чи лівий навушник з кейсу.</value>
+    <value>Автоматично під'єднуватися до AirPods, коли ви виймаєте правий чи лівий навушник з футляру.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Зважаючи на ваше користування, рекомендуємо встановити значення на {0}</value>
@@ -320,7 +320,7 @@
     <value>Програвання стає на паузу та гучність зменшується, коли ви виймаєте один навушник з вуха, або зупиняється і гучність відновлюється, коли ви виймаєте обидва навушники.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Піднесіть кейс ваших AirPods якомога ближче до комп'ютера та відкрийте його</value>
+    <value>Піднесіть футляр ваших AirPods якомога ближче до комп'ютера та відкрийте його</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>Автоматично змінювати аудіо вихід</value>
@@ -446,7 +446,7 @@
     <value>Підключення</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
-    <value>Відключено</value>
+    <value>Від'єднати</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Вимкнено</value>
@@ -515,7 +515,7 @@
     <value>Перекладайте, редагуйте або додавайте нові мови</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
-    <value>Кейс</value>
+    <value>Футляр</value>
   </data>
   <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
     <value>Сховати</value>
@@ -806,7 +806,7 @@
     <value>Скидання до заводських налаштувань</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
-    <value>Помістіть AirPods в кейс, відкрийте кришку та утримуйте кнопку протягом 10 секунд.</value>
+    <value>Помістіть AirPods у футляр, відкрийте кришку та утримуйте кнопку протягом 10 секунд.</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
     <value>Для застосування потрібне скидання до заводських налаштувань AirPods.</value>
@@ -833,7 +833,7 @@
     <value>Увімкніть музику перед зміною налаштувань.</value>
   </data>
   <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
-    <value>Звуки кейсу</value>
+    <value>Звуки футляру</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
     <value>Живе шоу</value>
@@ -1250,5 +1250,83 @@
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>Адаптивна</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Прозорість</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Рівень заряду за допомогою Handsfree</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Перемикати аудіовихід на навушники</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Примусово перемикати аудіовиход на навушники після підключення. Ця опція не застосовується, якщо увімкнено «{0}».</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Перезапустіть програму, щоб застосувати зміни.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Перезавантажити</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Веб-сайт</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Використовуйте цю опцію, якщо заряд навушників не відображається. Переключіть навушники, щоб застосувати зміни. Голосовий зв'язок буде недоступним.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Скасувати</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Потрібен перезапуск</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Натискання гарячої клавіші вмикає або вимикає Bluetooth.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Натискання гарячої клавіші перемикає режими шумопоглинання, якщо в налаштуваннях навушників доступна опція «{0}».</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Керування аудіовиходом</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>Натискання гарячої клавіші перемикає аудіовиходи по колу.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Пропустити читання</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Натискання гарячої клавіші пропускає читання поточного повідомлення.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Підключити / Відключити</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Від'єднати</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Транслюючі пристрої</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Пошук по імені</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Щоб відобразити пристрої, увімкніть Bluetooth, дочекайтеся завантаження навушників</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Гарячі клавіші</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Піктограма однієї батареї</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Показувати зміну аудіовиходу</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Піктограма стає прозорою при перемиканні аудіовиходу на динаміки комп'ютера.</value>
   </data>
 </root>
