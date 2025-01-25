@@ -71,7 +71,7 @@
     <value>Poništi podešavanja</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% baterije preostalo. Molim napunite Vaš Airpods.</value>
+    <value>{0}% baterije preostalo. Molim napunite Vaše slušalice.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
@@ -535,5 +535,95 @@
   </data>
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>Poveži</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Podešavanja</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Prilagodi svaki par slušalica pojedinačno da odgovara vašim željama</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Vrati sliku</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Uključi</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Više detalja</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Poveži Bluetooth adapter</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Ostavite samo jedan Bluetooth adapter povezan</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic nije podržan</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Podešavanja Bluetooth-a</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Uključite Bluetooth za prikazivanje slušalica</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Uparite slušalice sa kompjuterom i restartujte aplikaciju</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Kako da uparim slušalice</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE nije podržan</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>Ostale aplikacije developera</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Prevedi, izmeni ili dodaj nove jezike</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
+    <value>Automatski utišaj</value>
+  </data>
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
+    <value>Globalno dugme da povežete ili odvežete slušalice.</value>
+  </data>
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
+    <value>Dugme za povezivanje</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
+    <value>Dodaj novi uređaj</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>Trči, skači i izbegavaj u opasnoj avanturističkoj igri</value>
+  </data>
+  <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
+    <value>Pošalji obaveštenje kad baterija slušalica bude ispod navedene vrednosti.</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Slušalice</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>Kopiraj tekst sa bilo koje slike</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Redizajniran interfejs, pojedinačna podešavanja i još. Neka podešavanja su promenjena. Otvorite aplikaciju da prilagodite.</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Promeni sliku</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Restartovanje aplikacije može pomoći</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Pretraži aplikacije</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Nema uparenih slušalica</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Upoznaj MagicPods 2.0</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Nema uparenih uređaja ili je Bluetooth isključen</value>
   </data>
 </root>
