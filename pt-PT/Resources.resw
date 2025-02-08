@@ -69,16 +69,16 @@
     <comment>Not used now</comment>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>A aplicação será encerrada e todas as funções serão desativadas.</value>
+    <value>A aplicação será fechada e todas as funções serão desativadas.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
-    <value>O volume diminui quando retiras um dos AirPods do ouvido e volta ao normal quando removes ou colocas ambos os AirPods.</value>
+    <value>O volume diminui quando remove um AirPod do ouvido, ou é restaurado quando remove / coloca ambos os AirPods.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Mostrar ou esconder o botão «Emparelhar» na janela pop-up. Ao pressionar o botão, os AirPods serão conectados.</value>
+    <value>Mostrar ou ocultar o botão «Conectar» na janela pop-up. Pressionar o botão irá conectar os AirPods.</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Falha ao emparelhar com os auscultadores. Tenta emparelhar manualmente.</value>
+    <value>Falha ao emparelhar com os auscultadores. Tente emparelhar manualmente.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Aproxima a caixa dos teus AirPods do computador, o mais possível, e abre-a</value>
@@ -87,16 +87,16 @@
     <value>Canto inferior esquerdo</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
-    <value>Mudar o áudio dos AirPods para os altifalantes padrão quando ambos os AirPods estiverem fora do ouvido.</value>
+    <value>Muda o áudio dos AirPods para as colunas padrão quando ambos os AirPods estiverem fora da orelha.</value>
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Nem todas as aplicações da lista podem enviar notificações, é possível que algumas aplicações não constem na lista.</value>
+    <value>Nem todas as aplicações da lista podem enviar notificações, algumas aplicações podem não estar na lista.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>A funcionalidade 'Narrar notificações' está desativada, não é possível aceder às notificações. Por favor, abre «Privacidade e notificações», permite o acesso às notificações e depois ativa a 'Notificação do VoiceOver'.</value>
+    <value>A funcionalidade "Notificação de Narrador" está desativada, não é possível aceder às notificações. Por favor, abra «Privacidade e notificações», permita o acesso a notificações e, em seguida, ative a "Notificação de Narrador".</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>Dois ou mais auscultadores estão ligados, deixa apenas um emparelhado</value>
+    <value>Dois ou mais auscultadores estão ligados, deixe apenas um emparelhado</value>
   </data>
   <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
     <value>Ocultar</value>
@@ -105,10 +105,10 @@
     <value>Ocorreu um erro inesperado</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>Reiniciar a aplicação pode resolver o problema. Se o erro persistir, tenta reiniciar o teu computador.</value>
+    <value>Reiniciar a aplicação pode resolver o problema. Se o erro persistir, tente reiniciar o computador.</value>
   </data>
   <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
-    <value>Mostrar uma notificação quando a carga dos auscultadores estiver abaixo do valor especificado.</value>
+    <value>Mostra uma notificação quando a bateria dos auscultadores estiver abaixo do valor especificado.</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>O locutor só pode ler o texto num único idioma.</value>
@@ -141,10 +141,10 @@
     <value>Mostrar janela</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>Exibir ou esconder janela pop-up como no iPhone, quando a caixa dos AirPods é aberta.</value>
+    <value>Mostrar ou ocultar a janela pop-up, como no iPhone, quando a caixa é aberta.</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>Ativar inicio no arranque</value>
+    <value>Ativar arranque</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Sair</value>
@@ -169,7 +169,7 @@
     <value>Registo de depuração</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
-    <value>Útil para quando estás a trabalhar com o Premiere Pro ou o Audition. Requer um reemparelhamento dos AirPods depois de activo. Poderá aumentar o consumo da bateria.</value>
+    <value>Útil quando se trabalha no Premiere Pro ou Audition. Requer reconectar os AirPods após ligar. Pode aumentar o consumo de bateria.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Outros</value>
@@ -179,28 +179,28 @@
     <value>Áudio de baixa latência</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
-    <value>Conseguir ajuda</value>
+    <value>Obter ajuda</value>
   </data>
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
-    <value>Sinalizar um problema</value>
+    <value>Reportar problema</value>
   </data>
   <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
     <value>Procura rápida</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>Início</value>
+    <value>Arranque</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
-    <value>Executar ao iniciar</value>
+    <value>Executar no arranque</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Ativar ou desativar o arranque da aplicação ao iniciar o Windows.</value>
+    <value>Ative ou desative o início da aplicação no arranque do Windows.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Arranque inicial desativado pela política de grupo, ou não é suportado neste dispositivo.</value>
+    <value>Arranque desativado pela política de grupo ou não suportado neste dispositivo.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
-    <value>Ícone na barra de tarefas</value>
+    <value>Ícone da área de notificação</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
@@ -208,7 +208,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Reinicia a aplicação para aplicar as novas alterações.</value>
+    <value>Reinicie a aplicação para aplicar as alterações.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Estilo</value>
@@ -235,50 +235,50 @@
     <value>Cancelar</value>
   </data>
   <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
-    <value>Lista de leitores suportados</value>
+    <value>Lista de reprodutores suportados</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
-    <value>Área de procura dos AirPods</value>
+    <value>Raio de pesquisa dos AirPods</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
-    <value>Se a janela não aparecer, abre a caixa com os AirPods no interior e desliza suavemente o cursor para a direita até que a animação apareça.</value>
+    <value>Se a janela não aparecer, abra a caixa com os AirPods dentro e deslize suavemente o controlo para a direita até que a animação apareça.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
-    <value>O que é a área de procura?</value>
+    <value>O que é o raio de pesquisa?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>Dica</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Não definas um valor superior a 65, pois a animação pode aparecer acidentalmente.</value>
+    <value>Não defina um valor superior a 65, pois a animação pode aparecer acidentalmente.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Exibir o botão «Emparelhar»</value>
+    <value>Exibir o botão «Conectar»</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
-    <value>Emparelhar automaticamente</value>
+    <value>Conexão automática</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
-    <value>Emparelhar automaticamente com os AirPods quando retirares o AirPod direito ou esquerdo da caixa.</value>
+    <value>Emparelhar automáticamente com os AirPods quando retirares o AirPod direito ou esquerdo da caixa.</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>Reprodução automática</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Enviar o comando «Reproduzir» após emparelhar os auscultadores. Se não houver leitores abertos, o Windows irá ignorar o comando.</value>
+    <value>Enviar o comando «Reproduzir» após conectar os auscultadores. Se não houver reprodutores abertos, o Windows ignorará o comando.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>Sim, repor as definições</value>
+    <value>Sim, repor definições</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>Dica</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>Com base no teu uso, recomendamos definir o valor para {0}</value>
+    <value>Com base no seu uso, recomendamos definir o valor para {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
-    <value>Todas as definições serão repostas. Queres continuar?</value>
+    <value>Todas as definições serão repostas. Deseja continuar?</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>Aplicar</value>
@@ -287,10 +287,10 @@
     <value>Ignorar</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
-    <value>A reprodução pausa e o volume diminui quando retiras um dos AirPods do ouvido, ou para e o volume volta ao normal quando removes ambos os AirPods.</value>
+    <value>A reprodução pausa e o volume diminui quando um dos AirPod é removido do ouvido, ou para e o volume é restaurado quando ambos os AirPods são removidos.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Adicionar os AirPods à lista de dispositivos Bluetooth do Windows</value>
+    <value>Adicione os AirPods à lista de dispositivos Bluetooth do Windows</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>O MagicPods é compatível com a maioria dos AirPods e auscultadores Beats</value>
@@ -299,7 +299,7 @@
     <value>Seguinte</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
-    <value>Área de procura - a área em que o teu computador irá procurar uma caixa de AirPods aberta.</value>
+    <value>Área de procura - a área em que o computador irá procurar uma caixa de AirPods aberta.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Fechar</value>
@@ -323,7 +323,7 @@
     <value>Áudio</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
-    <value>Alteração automática da saída de som</value>
+    <value>Mudança automática de saída de som</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
     <value>Dispositivo não disponível ou removido</value>
@@ -332,10 +332,10 @@
     <value>Saber mais</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
-    <value>Notificações do VoiceOver</value>
+    <value>Notificações de Narrador</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
-    <value>As notificações são anunciadas quando os auscultadores estão emparelhados e definidos como dispositivo de saída de áudio.</value>
+    <value>As notificações são anunciadas quando os auscultadores estão conectados e definidos como dispositivo de saída de áudio.</value>
   </data>
   <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>Configurar</value>
@@ -344,22 +344,22 @@
     <value>Canto inferior direito</value>
   </data>
   <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
-    <value>Configuração do VoiceOver</value>
+    <value>Configuração do Narrador</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
-    <value>Escolher uma voz</value>
+    <value>Escolha uma voz</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>Nenhuma voz selecionada ou disponível</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
-    <value>Ouvir o texto com a voz selecionada</value>
+    <value>Oiça o texto com a voz selecionada</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>Reproduzir</value>
   </data>
   <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
-    <value>Narrar notificações destes remetentes</value>
+    <value>Notificações de Narrador destes remetentes</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>Narrar todas as notificações</value>
@@ -374,16 +374,16 @@
     <value>Adicionar uma nova voz</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Para uma melhor experiência de utilização, recomendamos que atives o inicio no arranque. Podes fazê-lo no separador «Aplicações de arranque» no Gestor de Tarefas.</value>
+    <value>Para uma melhor experiência de utilização, recomendamos que ative o início no arranque. É possível fazê-lo no separador «Aplicações de arranque» no Gestor de Tarefas.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
-    <value>Procura infinita</value>
+    <value>Pesquisa infinita</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>Não foi possível encontrar os AirPods</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
-    <value>Segue este guia para resolver o problema.</value>
+    <value>Siga este guia para resolver o problema.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>Claro</value>
@@ -413,28 +413,28 @@
     <value>Capacidade dos AirPods</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>Para uma melhor experiência de utilização, recomendamos que atives o inicio no arranque.</value>
+    <value>Para uma melhor experiência de utilização, recomendamos que atives o início no arranque.</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
-    <value>Toca ou clica aqui para personalizar</value>
+    <value>Toque ou clique aqui para personalizar</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
     <value>Múltiplas ligações</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
-    <value>Emparelhar</value>
+    <value>Conectar</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
-    <value>A emparelhar</value>
+    <value>A conectar</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
-    <value>Desemparelhar</value>
+    <value>Desconectar</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
     <value>Início no arranque</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
-    <value>A desemparelhar</value>
+    <value>A desconectar</value>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
     <value>Caixa</value>
@@ -449,10 +449,10 @@
     <value>Traduzir</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
-    <value>Desactivado</value>
+    <value>Desativado</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
-    <value>Desactivado</value>
+    <value>Desativado</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
     <value>Reiniciar</value>
@@ -464,10 +464,10 @@
     <value>E</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>Escreve uma tecla de atalho</value>
+    <value>Digite uma tecla de atalho</value>
   </data>
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Inclui a tecla Win, Shift, Alt ou Ctrl</value>
+    <value>Inclua a tecla Win, Shift, Alt ou Ctrl</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>Remover tecla de atalho</value>
@@ -476,10 +476,10 @@
     <value>Pausa automática</value>
   </data>
   <data name="Headphones_Setting_AutoPause.Description" xml:space="preserve">
-    <value>Pausar a reprodução após desemparelhar os auscultadores.</value>
+    <value>Pausa a reprodução após desconectar os auscultadores.</value>
   </data>
   <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
-    <value>Notificação de bateria baixa</value>
+    <value>Notificação de bateria fraca</value>
   </data>
   <data name="Slider_TextOff" xml:space="preserve">
     <value>Desligado</value>
@@ -488,16 +488,16 @@
     <value>Bluetooth desligado</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
-    <value>Ativa o Bluetooth para mostrar os auscultadore</value>
+    <value>Ative o Bluetooth para mostrar os auscultadores</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
-    <value>Definições do Bluetooth</value>
+    <value>Definições de Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
     <value>Sem auscultadores emparelhados</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
-    <value>Emparelha os auscultadores com o computador e reinicia a aplicação</value>
+    <value>Emparelhe os auscultadores ao computador e reinicie a aplicação</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
     <value>Como emparelhar os auscultadores</value>
@@ -512,34 +512,34 @@
     <value>Definições</value>
   </data>
   <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
-    <value>Outras aplicações do programador</value>
+    <value>Outras aplicações de programador</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>Copia texto de qualquer imagem</value>
   </data>
   <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
-    <value>Corre, salta e desvia-te num jogo de aventura perigoso</value>
+    <value>Corre, salta e desvia-se num jogo de aventura perigoso</value>
   </data>
   <data name="Support_Setting_Weblate.Description" xml:space="preserve">
-    <value>Tradux, edita ou adiciona novos idiomas</value>
+    <value>Traduz, edita ou adiciona novos idiomas</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>Procurar aplicações</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
-    <value>Conheçe o MagicPods 2.0</value>
+    <value>Conheça o MagicPods 2.0</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
-    <value>Interface redesenhada, definições individuais e mais. Algumas definições foram alteradas. Abre a aplicação para personalizar.</value>
+    <value>Interface redesenhada, definições individuais e muito mais. Algumas definições foram alteradas. Abra a aplicação para personalizar.</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>Personaliza cada um dos auscultadores individualmente para se adequar às tuas preferências</value>
+    <value>Personalize cada um dos auscultadores individualmente para se adequar às suas preferências</value>
   </data>
   <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
-    <value>Tecla de atalho geral para emparelhar ou desemparelhar os auscultadores.</value>
+    <value>Tecla de atalho global para conectar ou desconectar os auscultadores.</value>
   </data>
   <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
-    <value>Tecla de atalho para emparelhar</value>
+    <value>Tecla de atalho de conexão</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>{0}% de bateria restante nos AirPods. Carregue os AirPods.</value>
@@ -549,17 +549,17 @@
     <value>Ambos (Diminuir volume + Reproduzir/Pausar)</value>
   </data>
   <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
-    <value>A reprodução é colocada em pausa quando um AirPod é removido e pára quando ambos são removidos.</value>
+    <value>A reprodução é pausada quando um AirPod é removido ou é interrompida quando ambos são removidos.</value>
   </data>
   <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
-    <value>Reduz o tempo de procura dos AirPods. Ativa esta opção apenas se não existirem outros AirPods a ser usados por perto.</value>
+    <value>Reduz o tempo de pesquisa dos AirPods. Ative-o quando tiver a certeza de que ninguém mais à sua volta está a usar AirPods.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Mostrar percentagem de bateria dos AirPods</value>
+    <value>Mostrar percentagem da bateria</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Mostra a percentagem media de bateria dos auscultadores emparelhados.</value>
+    <value>Exibe a percentagem média da bateria dos auscultadores conectados.</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
@@ -569,73 +569,73 @@
     <value>Restaurar imagem</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
-    <value>Múltiplos adaptadores Bluetooth ligados</value>
+    <value>Vários adaptadores Bluetooth conectados</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
-    <value>Liga um adaptador Bluetooth com suporte para Bluetooth Classic e reinicia a aplicação</value>
+    <value>Conecte um adaptador Bluetooth com suporte para Bluetooth Classic e reinicie a aplicação</value>
   </data>
   <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
-    <value>Parte inferior central</value>
+    <value>Centro inferior</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
-    <value>Activar</value>
+    <value>Ligar</value>
   </data>
   <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
     <value>Mais detalhes</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
-    <value>Adaptador de bluetooth não encontrado</value>
+    <value>Adaptador de Bluetooth não encontrado</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
-    <value>Liga um adaptador bluetooth</value>
+    <value>Ligar um adaptador Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
-    <value>Mantém apenas um adaptador Bluetooth ligado</value>
+    <value>Deixe apenas um adaptador Bluetooth conectado</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
-    <value>Bluetooth Classic não é suportado</value>
+    <value>Bluetooth Classic não suportado</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
-    <value>Conecte um adaptador bluetooth com suporte ao Bluetooth LE e reinicie a aplicação</value>
+    <value>Conecte um adaptador Bluetooth com suporte para Bluetooth LE e reinicie a aplicação</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
-    <value>Erro a inicializar o adaptador Bluetooth</value>
+    <value>Erro na inicialização do adaptador Bluetooth</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
-    <value>Reinicializares a aplicação pode ajudar</value>
+    <value>Reiniciar a aplicação pode ajudar</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
-    <value>Transmite áudio de dispositivos Bluetooth para o PC. O PC funciona como uma coluna Bluetooth.</value>
+    <value>Transmitir áudio de dispositivos Bluetooth para o PC. O PC atua como altifalante Bluetooth.</value>
   </data>
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
-    <value>Transmissão de áudio</value>
+    <value>Streaming de áudio</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
-    <value>Adicionar um novo dispositivo</value>
+    <value>Adicione um novo dispositivo</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
-    <value>Silenciar automaticamente</value>
+    <value>Silenciamento automático</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
-    <value>Silenciar o áudio do dispositivo de transmissão quando a saída de som for alterada para os altifalantes do PC.</value>
+    <value>Silenciar o áudio do dispositivo de streaming quando a saída de som for alterada para os altifalantes do PC.</value>
   </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
-    <value>Falha ao ligar o dispositivo de transmissão. Certifica-te de que o Bluetooth está ativado no dispositivo de transmissão.</value>
+    <value>Falha ao conectar o dispositivo de streaming. Certifique-se de que o Bluetooth está ativado no dispositivo de streaming.</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
-    <value>Não há dispositivos emparelhados ou tens o Bluetooth desligado</value>
+    <value>Sem dispositivos emparelhados ou Bluetooth desligado</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
-    <value>Dispositivo de transmissão</value>
+    <value>Dispositivo de streaming</value>
   </data>
   <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
-    <value>Saída de áudio</value>
+    <value>Saída de som</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>Mostrar janela pop-up quando a saída de som mudar.</value>
+    <value>Mostrar janela pop-up quando a saída de som for alterada.</value>
   </data>
   <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
-    <value>Parte superior central</value>
+    <value>Centro superior</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Desligado</value>
@@ -647,7 +647,7 @@
     <value>Desligado</value>
   </data>
   <data name="Support_Setting_Weblate.Header" xml:space="preserve">
-    <value>Traduzir aplicação</value>
+    <value>Aplicação de tradução</value>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
     <value>Atualização disponível</value>
@@ -659,19 +659,19 @@
     <value>Comunidade</value>
   </data>
   <data name="Settings_Header_Support.Header" xml:space="preserve">
-    <value>Apoio e Comunidade</value>
+    <value>Suporte e Comunidade</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
-    <value>Traduzir texto rapidamente com uma tecla de atalho</value>
+    <value>Traduza rapidamente texto com uma tecla de atalho</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>Mostrar janela</value>
   </data>
   <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
-    <value>Aprender mais</value>
+    <value>Saber mais</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
-    <value>Tecla de atalho para mudar a saída do som</value>
+    <value>Tecla de atalho para alternar a saída de som</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
     <value>Imagem do altifalante</value>
@@ -680,7 +680,7 @@
     <value>Funcionalidade experimental</value>
   </data>
   <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
-    <value>Ligue os seus auscultadores para mais personalizações</value>
+    <value>Conecte os seus auscultadores para mais personalizações</value>
   </data>
   <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
     <value>Processador</value>
@@ -698,7 +698,7 @@
     <value>Transparência</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
-    <value>Trânsito</value>
+    <value>Tráfego</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
     <value>Interior</value>
@@ -707,31 +707,31 @@
     <value>Meditação</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
-    <value>Tecla de atalho para cancelamento de ruído</value>
+    <value>Tecla de atalho para alternar o cancelamento de ruído</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
-    <value>Rastreamento da cabeça</value>
+    <value>Seguimento movimentos da cabeça</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
-    <value>Coloque ambos os AirPods antes de utilizar.</value>
+    <value>Use ambos os AirPods antes de utilizar.</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>Fixo</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
-    <value>Cabeça rastreada</value>
+    <value>Movimentos da cabeça rastreados</value>
   </data>
   <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
-    <value>Mantenha primido o AirPod direito</value>
+    <value>Pressionar e manter do AirPod direito</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>Assistente de voz</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
-    <value>Controlo do ruído ( ANC/Tran.)</value>
+    <value>Controlo de ruído (Cancelamento de Ruído Ativo/Transparência)</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
-    <value>Controlo do ruído ( ANC/Desligado/Tran.)</value>
+    <value>Controlo de ruído (Cancelamento de Ruído Ativo/Desligado/Transparência)</value>
   </data>
   <data name="Headphones_Setting_Airoha_LeftAirPod_Sensitivity.Header" xml:space="preserve">
     <value>Sensibilidade do AirPod esquerdo</value>
@@ -740,25 +740,25 @@
     <value>Sensibilidade do AirPod direito</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
-    <value>Velocidade de pressionar</value>
+    <value>Velocidade de pressão</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
-    <value>Ajuste a velocidade necessária para premir o AirPod esquerdo e o AirPod direito duas ou três vezes.</value>
+    <value>Ajuste a velocidade necessária para pressionar o AirPod esquerdo e o AirPod direito duas ou três vezes.</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
-    <value>Rápido</value>
+    <value>Mais rápido</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
     <value>Médio</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>Lento</value>
+    <value>Mais lento</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
-    <value>Pressionar por um longo período</value>
+    <value>Pressão longa</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
-    <value>Ajuste o tempo de manter premido o AirPod esquerdo e o AirPod direito.</value>
+    <value>Ajuste o tempo de pressionar e manter o AirPod esquerdo e o AirPod direito.</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
     <value>Mais curto</value>
@@ -776,10 +776,10 @@
     <value>Modo normal</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
-    <value>Redução do ruído do vento</value>
+    <value>Redução de ruído do vento</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
-    <value>Sensibilidade de redução do ruído do vento</value>
+    <value>Sensibilidade de redução de ruído do vento</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
     <value>Baixo</value>
@@ -791,55 +791,55 @@
     <value>Alto</value>
   </data>
   <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
-    <value>Controlo por voz</value>
+    <value>Controlo de voz</value>
   </data>
   <data name="Headphones_Setting_Airoha_GameMode.Header" xml:space="preserve">
-    <value>Modo de jogo</value>
+    <value>Modo jogo</value>
   </data>
   <data name="Headphones_Setting_Airoha_GameMode.Description" xml:space="preserve">
-    <value>Também pode ser ativado premindo cinco vezes no AirPod esquerdo ou direito.</value>
+    <value>Também pode ser ativado pressionando cinco vezes no AirPod esquerdo ou direito.</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
-    <value>Etiquetar auscultadores falsos</value>
+    <value>Marcação de auscultadores falsos</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
-    <value>Mostrar um aviso nas definições dos auscultadores que são falsos.</value>
+    <value>Mostra um aviso nas definições dos auscultadores de que são falsos.</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
-    <value>Os auscultadores podem ser falsos</value>
+    <value>Podem ser auscultadores falsos.</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
-    <value>Reposição de fábrica</value>
+    <value>Repor de fábrica</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
-    <value>Coloque os AirPods na caixa, abra a tampa e prima o botão durante cerca de 10 segundos.</value>
+    <value>Coloque os AirPods na caixa, abra a tampa e pressione o botão durante cerca de 10 segundos.</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
-    <value>É necessária a reposição de fábrica dos AirPods.</value>
+    <value>Requer reposição de fábrica dos AirPods para aplicar.</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
-    <value>Reposição de fábrica dos AirPods necessária.</value>
+    <value>Requer reposição de fábrica dos AirPods para aplicar.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
-    <value>Fechado</value>
+    <value>Fechar</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
-    <value>Arranque desativado pela política de grupo ou não suportado neste dispositivo.</value>
+    <value>Início desativado pela política de grupo ou não suportado neste dispositivo.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
-    <value>Arranque desativado por política de grupo</value>
+    <value>Início desativado pela política de grupo</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>Cancelar</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
-    <value>Ir para Arranque</value>
+    <value>Vá ao arranque</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
     <value>Arranque desativado manualmente</value>
   </data>
   <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
-    <value>Verificar se há actualizações</value>
+    <value>Verificar atualizações</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
     <value>Cancelamento de ruído</value>
@@ -848,7 +848,7 @@
     <value>Cancelamento de ruído</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
-    <value>Cancelamento do vento</value>
+    <value>Cancelamento de vento</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>Som ambiente</value>
@@ -857,28 +857,28 @@
     <value>Volume do som ambiente</value>
   </data>
   <data name="Headphones_Setting_Sony_AmbientSoundVolume.Description" xml:space="preserve">
-    <value>Quanto mais elevado for o valor, melhor se ouve o ambiente.</value>
+    <value>Quanto maior o valor, melhor o som ambiente pode ser ouvido.</value>
   </data>
   <data name="Headphones_Setting_Sony_FocusOnVoice.Header" xml:space="preserve">
-    <value>Foco na voz</value>
+    <value>Focar na voz</value>
   </data>
   <data name="Headphones_Setting_Sony_FocusOnVoice.Description" xml:space="preserve">
-    <value>As vozes das pessoas serão ouvidas e o ruído ambiente será eliminado.</value>
+    <value>As vozes das pessoas serão ouvidas e o som ambiente será suprimido.</value>
   </data>
   <data name="Headphones_Setting_Sony_SaveAmbientSettings.Header" xml:space="preserve">
     <value>Guardar definições</value>
   </data>
   <data name="Headphones_Setting_Sony_SaveAmbientSettings.Description" xml:space="preserve">
-    <value>Guardar as definições de som ambiente na memória dos auscultadores.</value>
+    <value>Guarda as definições de som ambiente na memória dos auscultadores.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>A função Mãos livres (comunicação por voz) dos auscultadores não estará disponível. Não desactive o Mãos-livres manualmente. Reinicie a aplicação para aplicar as alterações.</value>
+    <value>A função Mãos-Livres (comunicação por voz) dos auscultadores não estará disponível. Não desative o Mãos-Livre manualmente. Reinicie a aplicação para aplicar as alterações.</value>
   </data>
   <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
-    <value>Desativação automática do Mãos-livres</value>
+    <value>Desativar automaticamente o modo de Mãos-Livres</value>
   </data>
   <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
-    <value>Desativar o modo mãos-livres depois de ligar os auscultadores, para evitar que estes mudem para o modo mãos-livres. O microfone deixará de funcionar. Se desativar a opção, o serviço Mãos-livres será novamente ativado.</value>
+    <value>Desative o Mãos-Livres após conectar os auscultadores para evitar que mudem para o modo de mãos-livres. O microfone deixará de funcionar. Desligar esta opção reativará o serviço de Mãos-Livres.</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
     <value>Equalizador</value>
@@ -890,65 +890,65 @@
     <value>Mostrar janela para AirPods falsos</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
-    <value>Mostrar ou ocultar a janela pop-up para AirPods falsos se estiverem na lista de dispositivos Bluetooth.</value>
+    <value>Mostrar ou ocultar a janela pop-up para os AirPods falsos, se estes estiverem na lista de dispositivos Bluetooth.</value>
   </data>
   <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
     <value>Sons da caixa</value>
   </data>
   <data name="Headphones_Setting_Airoha_CaseSounds.Description" xml:space="preserve">
-    <value>Coloque os AirPods na caixa, mantenha a tampa aberta e aguarde que a luz da caixa se desligue. Desligue/ligue a opção, retire os AirPods mantendo a tampa aberta, aguarde pelo menos 2 segundos e volte a colocar os AirPods na caixa até que a luz da caixa se desligue.</value>
+    <value>Coloque os AirPods na caixa, mantenha a tampa aberta e aguarde que a luz se apague. Ative/Desative a opção, retire os AirPods mantendo a tampa aberta, aguarde pelo menos 2 segundos e coloque os AirPods novamente na caixa, aguarde que a luz do estojo se apague.</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
-    <value>Show ao vivo</value>
+    <value>Espetáculo ao vivo</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
-    <value>Cinema estéreo</value>
+    <value>Cinema stereo</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
     <value>Ritmo de palco</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
-    <value>Classico</value>
+    <value>Clássico</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
     <value>Abrir as definições do Windows na página Aplicação, ir para "Arranque" e ativar «{0}».</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
-    <value>Mostrar a percentagem da bateria</value>
+    <value>Mostrar percentagem de bateria</value>
   </data>
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
-    <value>Junta-te à nossa comunidade, comunique erros, fique atento às notícias, actualizações e debates</value>
+    <value>Junte-se à nossa comunidade, reporte erros, fique atento às novidades, atualizações e discussões.</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
     <value>Reinicie a aplicação para aplicar as alterações.</value>
   </data>
   <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
-    <value>Mantenha premido o AirPod esquerdo</value>
+    <value>Pressionar e manter do AirPod esquerdo</value>
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
-    <value>Repor as definições por defeito</value>
+    <value>Restaurar para definições padrão</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>Cancelamento de ruído</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
-    <value>Filtro do cancelamento de ruído</value>
+    <value>Filtro de cancelamento de ruído</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
     <value>Conexão multiponto melhorada</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
-    <value>Permite-lhe ligar dois dispositivos em simultâneo aos auscultadores. É necessária uma reposição de fábrica dos AirPods para ser aplicada.</value>
+    <value>Permite conectar dois dispositivos ao mesmo tempo aos seus auscultadores. Requer uma reposição de fábrica dos AirPods para aplicar.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
-    <value>Se premir a tecla de atalho vai navegar entre as saída de som.</value>
+    <value>Pressionar a tecla de atalho alterna entre as saídas de som.</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
-    <value>Premindo a tecla de atalho vai navegar entre os modos de cancelamento de ruído.</value>
+    <value>Pressionar a tecla de atalho alterna entre os modos de cancelamento de ruído.</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
-    <value>Adiciona magia aos teus auriculares</value>
+    <value>Adiciona um pouco de magia aos teus auscultadores</value>
   </data>
   <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
     <value>Chave de licença não encontrada</value>
@@ -957,10 +957,10 @@
     <value>Licença</value>
   </data>
   <data name="Support_Setting_License.HintLink" xml:space="preserve">
-    <value>Comprar chave</value>
+    <value>Comprar licença</value>
   </data>
   <data name="Support_Setting_License_Button.Content" xml:space="preserve">
-    <value>Introduza a chave</value>
+    <value>Introduza a chave da licença</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
     <value>Licença</value>
@@ -975,23 +975,23 @@
     <value>Chave do produto</value>
   </data>
   <data name="License_LicenseKey_Header.Text" xml:space="preserve">
-    <value>Chave de licença</value>
+    <value>Chave da licença</value>
   </data>
   <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
-    <value>Cole a chave de licença aqui</value>
+    <value>Cole a chave da licença aqui</value>
   </data>
   <data name="License_KeyNotValid.Text" xml:space="preserve">
-    <value>A chave de licença não é valida. Por favor tente novamente ou introduza outra chave de licença.</value>
+    <value>A chave da licença não é valida. Por favor tente novamente ou introduza outra licença.</value>
   </data>
   <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
-    <value>Comprar chave</value>
+    <value>Comprar licença</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Compre ou introduza uma chave existente por baixo de «{1}» na página «{0}»</value>
+    <value>Compre ou introduza uma licença existente na página «{0}» dentro de «{1}»</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Support_Setting_License.Description" xml:space="preserve">
-    <value>A chave de licença vai ter que ser reentroduzida depois da reinstalação da aplicação</value>
+    <value>A chave da licença vai ter que ser reintroduzida depois da reinstalação da aplicação</value>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
     <value>Transparência</value>
@@ -1026,34 +1026,34 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
-    <value>Precione o butão nos AirPods Max ou precione o AirPod direito ou esquerdo nos AirPods Pro para mudar entre os controlos de ruído selecionados.</value>
+    <value>Pressione o botão nos AirPods Max ou pressione e segure o AirPod esquerdo ou direito nos AirPods Pro para alternar entre os modos de controlo de ruído selecionados.</value>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
     <value>Adaptativo</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
-    <value>Deteção de conversas</value>
+    <value>Deteção de conversa</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
-    <value>Quando começa a falar a Deteção de conversa reduz o volume do conteúdo multimédia e melhora as vozes à sua frente.</value>
+    <value>Diminui o volume do conteúdo multimédia e reduz o ruído de fundo quando começa a falar com outras pessoas.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
-    <value>Volume Personalizado</value>
+    <value>Volume personalizado</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PersonalisedVolume.Description" xml:space="preserve">
-    <value>Ajusta o volume do conteúdo multimédia em função das condições ambientais.</value>
+    <value>Ajuste o volume do conteúdo multimédia em resposta ao seu tipo de ambiente.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Left.Header" xml:space="preserve">
-    <value>Prima duas vezes o AirPod esquerdo</value>
+    <value>Toque duas vezes no AirPod esquerdo</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Right.Header" xml:space="preserve">
-    <value>Prima duas vezes o AirPod direito</value>
+    <value>Toque duas vezes no AirPod direito</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
@@ -1065,28 +1065,28 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
-    <value>Narração</value>
+    <value>Narrador</value>
   </data>
   <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
-    <value>Auriculares</value>
+    <value>Auscultadores</value>
   </data>
   <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
-    <value>Saída de áudio</value>
+    <value>Saída de som</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
-    <value>Se premir a tecla de atalho vai navegar entre as saída de som.</value>
+    <value>Pressionar a tecla de atalho alterna entre as saídas de som.</value>
   </data>
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>Conectar</value>
   </data>
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
-    <value>Auriculares</value>
+    <value>Auscultadores</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
     <value>Próxima faixa</value>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
-    <value>Digital crown</value>
+    <value>Coroa Digital</value>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
     <value>De trás para a frente</value>
@@ -1095,22 +1095,22 @@
     <value>Terminar chamada / Silenciar e reativar som</value>
   </data>
   <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
-    <value>Precionar duas vezes / Pressionar uma vez</value>
+    <value>Pressione duas vezes / Pressione uma vez</value>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
-    <value>Mircrofone</value>
+    <value>Microfone</value>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
-    <value>O microfone ativo dos AirPods pode mudar automaticamente entre o esquerdo e o direito, ou manter-se num só lado.</value>
+    <value>O microfone ativo dos AirPods pode mudar automaticamente de lado, da esquerda para a direita, ou ser fixado a um dos lados.</value>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
-    <value>Automaticamente</value>
+    <value>Automático</value>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
-    <value>Sempre o AirPods direito</value>
+    <value>Sempre AirPod direito</value>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
-    <value>Sempre o AirPods esquerdo</value>
+    <value>Sempre AirPod esquerdo</value>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
     <value>Controlo de ruído</value>
@@ -1119,7 +1119,7 @@
     <value>Alternar entre</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Ajusta o volume dos efeitos sonoros reproduzidos pelos AirPods quando não há áudio a tocar. Enquanto «{0}» estiver ativado, o volume não será aplicado.</value>
+    <value>Ajusta o volume dos efeitos sonoros reproduzidos pelos AirPods quando não está a ser reproduzido áudio. Enquanto «{0}» estiver ativado, o volume não será aplicado.</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
     <value>Faixa anterior</value>
@@ -1128,13 +1128,13 @@
     <value>Da frente para trás</value>
   </data>
   <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
-    <value>Pressionar uma vez / Precionar duas vezes</value>
+    <value>Pressione uma vez / Pressione duas vezes.</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
-    <value>Quando os aucitawdores estão emparelhados, as opções abaixo são aplicadas.</value>
+    <value>Quando os auscultadores estão conectados, as opções abaixo aplicam-se.</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
-    <value>Usa esta definição no caso da bateria dos aucutadores não ser mostrada. Vonta a emparelhar os auscutadores para aplicar as alterações. Voice communication will be unavailable.</value>
+    <value>Use esta opção se o nível de carga dos auscultadores não for exibido. Reconecte os auscultadores para aplicar as alterações. A comunicação por voz ficará indisponível.</value>
   </data>
   <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
     <value>Bluetooth</value>
@@ -1149,25 +1149,25 @@
     <value>Controlo da saída de som</value>
   </data>
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
-    <value>Avançar leitura</value>
+    <value>Pular leitura</value>
   </data>
   <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
-    <value>Emparelhar / Desemparelhar</value>
+    <value>Conectar / Desconectar</value>
   </data>
   <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
-    <value>Desemparelhar</value>
+    <value>Desconectar</value>
   </data>
   <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
     <value>Pesquisar por nome</value>
   </data>
   <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
-    <value>Para veres dispositivos, liga o Bluetooth e aguarda até os auscultadores carregarem</value>
+    <value>Para mostrar os dispositivos, ative o Bluetooth e aguarde que os auscultadores carreguem.</value>
   </data>
   <data name="Menu_Item7.Content" xml:space="preserve">
-    <value>Atalhos</value>
+    <value>Teclas de atalho</value>
   </data>
   <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
-    <value>Pressionar este atalho, irá ligar ou desligar o Bluetooth.</value>
+    <value>Pressionar a tecla de atalho ativa ou desativa o Bluetooth.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
     <value>Tema claro</value>
@@ -1185,10 +1185,10 @@
     <value>Cor do texto</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Cor do texto ao carregar a bateria</value>
+    <value>Cor do texto quando a bateria está a carregar</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Cor do texto quando a bateria está perto do fim</value>
+    <value>Cor do texto quando a bateria está fraca</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
     <value>Tema claro</value>
@@ -1203,15 +1203,105 @@
     <value>Cor do indicador</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Cor do indicador enquanto a bateria estiver a carregar</value>
+    <value>Cor do indicador enquanto a bateria está a carregar</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Cor do indicador quando a bateria estiver perto do fim</value>
+    <value>Cor do indicador quando a bateria estiver fraca</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
     <value>Fonte não encontrada</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>Adaptativo</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
+    <value>Velocidade de pressão</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>Ajuste a velocidade necessária para pressionar duas ou três vezes nos seus AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>Padrão</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>Muito mais lenta</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Mais lenta</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>Duração de pressionar e segurar</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>Padrão</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>Volume do tom</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>Muito mais curta</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>Mais curta</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>Gerir auscultadores</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Nível de carga via Mãos-Livres</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Alterar a saída de som para os auscultadores</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Reinício necessário</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Reinicie a aplicação para aplicar as alterações.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Site</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>Permite que os AirPods sejam colocados no modo de cancelamento de ruído quando apenas um AirPod estiver no ouvido.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>Cancelamento de ruído com um AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>Ajuste a duração necessária para pressionar e segurar nos seus AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Forçar a mudança da saída de som para os auscultadores após a ligação. Esta opção não se aplica se «{0}» estiver ativado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Pressionar a tecla de atalho alterna entre os modos de cancelamento de ruído, caso «{0}» esteja disponível nas definições dos auscultadores.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Pressionar a tecla de atalho ignora a leitura da notificação atual.</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Dispositivos de streaming</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Ícone de bateria único</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Exibir alteração da saída de som</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>O ícone torna-se transparente quando a saída de áudio é alterada para os altifalantes do computador.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Opacidade</value>
   </data>
 </root>
