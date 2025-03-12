@@ -59,35 +59,35 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_Warning" xml:space="preserve">
-    <value>Vemendje</value>
+    <value>Kujdes</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% përqindja e mbetur në AirPods. Karikoni ndëgjueset tuaj.</value>
+    <value>{0}% Bateri. Karikoni kufjet tuaja.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
-    <value>Dritarja kërcyese</value>
+    <value>Dritare pop-up</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Shfaq dritaren</value>
+    <value>Shfaqe dritaren</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>Shfaq ose fshih dritaren kërcyese si në iPhone, kur hapësh kasën.</value>
+    <value>Shfaq ose fshih dritaren pop-up si në iPhone, kur e hapni kasën e kufjeve.</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>Madhësia e dritares</value>
   </data>
   <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
-    <value>I vogël</value>
+    <value>E vogël</value>
   </data>
   <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>E mesme</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>Luaj/Pauzë</value>
+    <value>Play/Pause</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>Të dyja (Ul volumin + Luaj/Ndalu)</value>
+    <value>Të dyja (Ul volumin + Play/Pause)</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Dilni</value>
@@ -99,29 +99,29 @@
     <value>Raporto problemin</value>
   </data>
   <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
-    <value>i madh</value>
+    <value>E madhe</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>rivendosni cilësimet</value>
+    <value>Pastroni parametrat</value>
   </data>
   <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
-    <value>Riprodhimi ndalon kur heq një vesh AirPods ose ndalon kur heq të dy AirPods.</value>
+    <value>Muzika ndalon kur heq njeren kufje ose stopon kur heq të dy kufjet.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
-    <value>Tjera</value>
+    <value>Tjeter</value>
     <comment>Not used now</comment>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
-    <value>Vonesa e ulët audio</value>
+    <value>Vonese e ulët e audios</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>E dobishme kur punoni në Premiere Pro ose Audition. Kërkon rilidhjen e AirPods pas ndezjes. Mund të rrisë konsumin e baterisë.</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
-    <value>zbulim i veshi</value>
+    <value>Detektim i veshit</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
-    <value>Zvogëloni volumin</value>
+    <value>Ulni volumin</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Fillimi</value>
