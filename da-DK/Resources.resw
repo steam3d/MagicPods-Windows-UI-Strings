@@ -353,7 +353,7 @@
     <value>Anvend</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>AirPods kunne ikke tilsluttes. Prøv at oprette forbindelse manuelt.</value>
+    <value>Tilkobling af høretelefoner fejlede. Prøv at oprette forbindelse manuelt.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>Dine AirPods stopper automatisk afspilningen af lyd, når du tager dem af, og fortsætter afspilningen, når du sætter dem i ørerne igen.</value>
@@ -625,5 +625,65 @@
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>Adaptiv</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>Andre udvikleres programmer</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>Løb, hop, og undvig i et farligt adventurespil</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Oversæt, rediger og tilføj et nyt sprog</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Søg efter programmer</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Genskab billede</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Tilslut din Bluetooth adapter</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Efterlad kun en Bluetooth adapter tilsluttet</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic ikke understøttet</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Vis batteriprocent</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE ikke understøttet</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>Kopier tekst fra alle billeder</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Mød MagicPods 2.0</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Tilpas dine høretelfoner individuelt så de passer til din smag</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Flere informationer</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
+    <value>Pres og hold højre AirPod</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Udskift billede</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Sluk</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Tilslut en Bluetooth adapter med Bluetooth Classic understøttelse og genstart programmet</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Stemmeassistent</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Støj kontrol (ANC/Tran.)</value>
   </data>
 </root>
