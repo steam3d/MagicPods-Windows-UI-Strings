@@ -365,4 +365,37 @@
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>自适应模式</value>
   </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>罷示</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>無法聯接於耳機，請試手動聯之。</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods 支援多數 AirPods 與 Beats 耳機</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>請將 AirPods 充電盒盡量置於近旁，靠近君之電腦，並啟之</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>下階</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>據君之所用，吾等建議子設值為 {0}</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
+    <value>若君取出一只 AirPods，則暫止播音且降其系統音量；若取出兩只，則止播音並復其系統音量。</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>搜尋半徑 — 汝之電腦搜尋範圍內，開啟狀態之 AirPods 充電盒。</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>應用</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>將 AirPods 添於已配對之藍牙器</value>
+  </data>
 </root>
