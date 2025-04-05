@@ -158,7 +158,7 @@
     <value>Овозможи подигнување</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>Исклучи</value>
+    <value>Излез</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
     <value>Помош</value>
@@ -369,5 +369,20 @@
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Не сите апликации од листата може да испратат нотификации, некои апликации може да не се на листата.</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>Гласовни известувања</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>Функцијата "Гласовни известувања" е оневозможена, нема пристап до известувањата. Ве молиме отворете «Приватност и известувања», дозволете пристап до известувањата, па овозможете ја функцијата "Гласовно известување".</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Рестартирај</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Се случи неочекуван проблем</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Рестартирање на апликацијата може да го поправи проблемот. Доколку се уште има проблем, ве молам рестартирајте го компјутерот.</value>
   </data>
 </root>
