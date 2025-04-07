@@ -126,7 +126,7 @@
     <value>Na-disable ang startup ayon sa group policy, o hindi sinusuportahan sa device na ito.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
-    <value>Icon ng system tray</value>
+    <value>Imahen ng system tray</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Itago ang icon</value>
@@ -977,7 +977,7 @@
     <value>Headphones</value>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
-    <value>Voiceover</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>Kumonekta</value>
@@ -1158,5 +1158,77 @@
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>Umaangkop</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Temang Madilim</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kulay ng Icon</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kulay ng Tagapagpahiwatig</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kulay ng tagapagpahiwatig kapag nagcha-charge ang baterya</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kulay ng tagapagpahiwatig kapag mababa ang baterya</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Hindi matagpuan ang font</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Kontrol ng Bluetooth</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Laktawan ang pagbasa</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Ikonekta / Idiskonekta</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Idiskonekta</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Laki ng Font</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kulay ng teksto kapag nagcha-charge ang baterya</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kulay ng teksto kapag mababa ang baterya</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Temang Maliwanag</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Temang Madilim</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Temang Maliwanag</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kulay ng tektso</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Ang pagpindot sa hotkey ay magbubukas o magsasara ng Bluetooth.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>pamahalaan ang mga headphone</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
+    <value>Kapag nakakonekta ang mga headphone, ang mga opsyon sa ibaba ay naaangkop</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Ilipat ang output ng tunog sa headphones</value>
   </data>
 </root>
