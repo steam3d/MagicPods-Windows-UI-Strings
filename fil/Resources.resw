@@ -132,7 +132,7 @@
     <value>Itago ang icon</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>I-restart ang application para ilapat ang mga pagbabago.</value>
+    <value>I-restart ang aplikasyon upang mailapat ang mga pagbabago.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Ipakita ang porsyento ng baterya</value>
@@ -256,7 +256,7 @@
     <value>Isasara ang application at idi-disable ang lahat ng function.</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
-    <value>Kanselahin</value>
+    <value>Kansela</value>
   </data>
   <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>Bumababa ang volume kapag nag-alis ka ng isang AirPod mula sa iyong tainga, o nagre-restore kapag inalis / inilagay mo ang parehong AirPods.</value>
@@ -606,7 +606,7 @@
     <value>Mabilis na isalin ang teksto gamit ang isang hotkey</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
-    <value>I-restart ang application upang ilapat ang mga pagbabago.</value>
+    <value>I-restart ang aplikasyon upang mailapat ang mga pagbabago.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>ipakita ang window</value>
@@ -810,7 +810,7 @@
     <value>Na-disable ang startup ayon sa group policy, o hindi sinusuportahan sa device na ito.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>Kanselahin</value>
+    <value>Kansela</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Naka patay</value>
@@ -1004,7 +1004,7 @@
     <value>Lisensya</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
-    <value>I-kansela</value>
+    <value>Kansela</value>
   </data>
   <data name="License_ProductKey_Header.Text" xml:space="preserve">
     <value>Susi ng produkto</value>
@@ -1226,7 +1226,7 @@
     <value>pamahalaan ang mga headphone</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
-    <value>Kapag nakakonekta ang mga headphone, ang mga opsyon sa ibaba ay naaangkop</value>
+    <value>Kapag nakakonekta ang mga headphone, ang mga opsyon sa ibaba ay naaangkop.</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
     <value>Ilipat ang output ng tunog sa headphones</value>
@@ -1235,7 +1235,7 @@
     <value>Kinakailangan ng muling pag-restart</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
-    <value>I-restart ang aplikasyon upang mailapat ang mga pagbabago</value>
+    <value>I-restart ang aplikasyon upang mailapat ang mga pagbabago.</value>
   </data>
   <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
     <value>Mga device para sa streaming</value>
@@ -1254,5 +1254,8 @@
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
     <value>Kontrol sa ingay</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Kansela</value>
   </data>
 </root>
