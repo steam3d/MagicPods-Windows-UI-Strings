@@ -602,7 +602,7 @@
     <value>Čip još nije podržan</value>
   </data>
   <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
-    <value>ugrađeni softver</value>
+    <value>Ugrađeni program</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>Promet</value>
@@ -1245,5 +1245,44 @@
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
     <value>Neprozirnost</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
+    <value>Ciklus između</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>Digitalna krunica</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>Natrag prema naprijed</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>Sprijeda prema natrag</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
+    <value>Završetak poziva/isključivanje zvuka i uključivanje zvuka</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>Pritisnite jednom/Pritisnite dvaput</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
+    <value>Brzina pritiska</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>Podesite brzinu potrebnu za dva ili tri pritiska na AirPods slušalicama.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>Trajanje pritiska i držanja</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>Podesite trajanje potrebno za pritiskanje i držanje AirPods slušalica.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>Zadani</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>Dopustite da se AirPods slušalice stave u mod za poništavanje buke kada vam je u uhu samo jedna AirPod slušalica.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>Glasnoća tona</value>
   </data>
 </root>
