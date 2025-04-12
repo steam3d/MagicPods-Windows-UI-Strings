@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -202,22 +202,18 @@
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>System tray icon</value>
-    
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Hide icon</value>
-    
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
     <value>Restart application to apply changes.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Show battery percentage</value>
-    
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Displays average battery percentage of connected headphones.</value>
-    
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>Style</value>
@@ -518,11 +514,9 @@
   </data>
   <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
     <value>Hide</value>
-    
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>Download</value>
-    
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
     <value>Translate</value>
@@ -597,7 +591,6 @@
   </data>
   <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
     <value>Other developer's apps</value>
-    
   </data>
   <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
     <value>Copy text from any image</value>
@@ -886,7 +879,7 @@
     <value>Medium</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
-    <value>Hight</value>
+    <value>High</value>
   </data>
   <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
     <value>Voice control</value>
