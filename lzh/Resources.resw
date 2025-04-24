@@ -236,7 +236,7 @@
     <value>通用设置</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
-    <value>关闭 MagicPods</value>
+    <value>退出</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>关闭MagicPods?</value>
@@ -397,5 +397,11 @@
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>將 AirPods 添於已配對之藍牙器</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>閉</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>閉</value>
   </data>
 </root>
