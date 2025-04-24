@@ -482,7 +482,7 @@
     <value>Notification para sa mababang battery</value>
   </data>
   <data name="Slider_TextOff" xml:space="preserve">
-    <value>Naka patay</value>
+    <value>Off</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
     <value>Nakapatay ang bluetooth</value>
@@ -639,7 +639,7 @@
     <value>Magsuot ng parehong AirPods bago gamitin.</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>Naka patay</value>
+    <value>Naka-off</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
     <value>naka ayos</value>
@@ -777,7 +777,7 @@
     <value>Ang pagpindot sa hotkey ay umiikot sa mga sound output.</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>Naka patay</value>
+    <value>Naka-off</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
     <value>Sa loob</value>
@@ -813,7 +813,7 @@
     <value>Kansela</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>Naka patay</value>
+    <value>Naka-off</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
     <value>Pagkansela ng ingay</value>
@@ -918,7 +918,7 @@
     <value>I-reset ng buo</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
-    <value>Hight</value>
+    <value>Mataas</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
     <value>Equalizer</value>
@@ -950,7 +950,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
-    <value>Naka patay</value>
+    <value>Naka-off</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
@@ -962,7 +962,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
-    <value>Naka patay</value>
+    <value>Naka-off</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
@@ -970,7 +970,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
-    <value>Naka patay</value>
+    <value>Naka-off</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
@@ -1257,5 +1257,38 @@
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>Kansela</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Ang pagpindot sa hotkey ay nagpapalipat-lipat sa mga mode ng pagkansela ng ingay kung available ang «{0}» sa mga setting ng headphone.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>I-restart</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Ang pagpindot sa hotkey ay lumalaktaw sa pagbasa ng kasalukuyang notipikasyon.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Kontrol ng output ng tunog</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Upang maipakita ang mga device, i-on ang Bluetooth at hintaying lumitaw ang mga headphone</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Nagiging transparent ang icon kapag inililipat ang audio output sa mga speaker ng computer.</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Lebel ng charge gamit ang Handsfree</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Gamitin ang opsyong ito kung hindi ipinapakita ang charge ng headphone. Ikonekta muli ang mga headphone upang maisagawa ang mga pagbabago. Hindi magagamit ang voice communication.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Piliting ilipat ang output ng tunog sa mga headphone pagkatapos ng pagkakakonekta. Hindi naaapektuhan ng opsyong ito kung naka-enable ang «{0}».</value>
   </data>
 </root>
