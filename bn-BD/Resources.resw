@@ -102,7 +102,7 @@
     <value>সাহায্য পান</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>বন্ধ</value>
+    <value>বন্ধ করুন</value>
   </data>
   <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>কেন্দ্র</value>
@@ -403,7 +403,7 @@
     <value>ব্লুটুথ অ্যাডাপ্টার আরম্ভ করার ত্রুটি</value>
   </data>
   <data name="Slider_TextOff" xml:space="preserve">
-    <value>বন্ধ অবস্থা</value>
+    <value>বন্ধ</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>কোনো জোড়া ডিভাইস বা ব্লুটুথ বন্ধ নেই</value>
@@ -490,10 +490,10 @@
     <value>পরীক্ষামূলক উপাদান</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>বন্ধ অবস্থা</value>
+    <value>বন্ধ আছে</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
-    <value>বন্ধ অবস্থা</value>
+    <value>বন্ধ আছে</value>
   </data>
   <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
     <value>ডান এয়ারপড টিপুন এবং ধরে রাখুন</value>
@@ -632,7 +632,7 @@
     <value>ক্লাসিক</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
-    <value>নিকট</value>
+    <value>বন্ধ করুন</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
     <value>স্টার্টআপ গ্রুপ নীতি দ্বারা অক্ষম করা হয়েছে, বা এই ডিভাইসে সমর্থিত নয়।</value>
@@ -928,7 +928,7 @@
     <value>পরিবেষ্টিত শব্দ</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
-    <value>বন্ধ করুন</value>
+    <value>বন্ধ আছে</value>
   </data>
   <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
     <value>পরিবেষ্টিত শব্দ মাত্রা</value>
@@ -966,7 +966,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
-    <value>অফ</value>
+    <value>বন্ধ আছে</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
@@ -981,7 +981,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
-    <value>অফ</value>
+    <value>বন্ধ আছে</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
@@ -1002,5 +1002,11 @@
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
     <value>হটকি চাপার মাধ্যমে সাউন্ড আউটপুটগুলো ঘুরে আসে।</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>বন্ধ আছে</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
+    <value>অভিযোজিত</value>
   </data>
 </root>
