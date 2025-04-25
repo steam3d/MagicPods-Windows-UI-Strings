@@ -496,7 +496,7 @@
     <value>Sambung kekunci pintas</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% bateri tinggal dalam AirPods. Sila cas Airpods anda.</value>
+    <value>{0}% bateri tinggal dalam AirPods. Sila mengecas Airpods anda.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
@@ -849,5 +849,38 @@
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
     <value>Tukar kekunci pintas pembatalan hingar</value>
+  </data>
+  <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
+    <value>Sambungkan fon kepala anda untuk lebih banyak penyesuaian</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
+    <value>Perisian tegar</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Mod berbilang titik</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Mod biasa</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
+    <value>Pengurangkan hingar angin</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
+    <value>Sensitiviti pengurangan hingar angin</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Rendah</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Sederhana</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
+    <value>Menguatkan berbilang titik dipertingkatkan</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
+    <value>Membolehkan anda menyambungkan dua peranti serentak ke fon kepala anda. AirPods memerlukan tetapan semula kilang untuk digunakan.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Tinggi</value>
   </data>
 </root>
