@@ -502,9 +502,11 @@
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
     <value>L</value>
+    <comment>Deprecated</comment>
   </data>
   <data name="Battery_Short_Right.Title" xml:space="preserve">
     <value>R</value>
+    <comment>Deprecated</comment>
   </data>
   <data name="Battery_Case.Title" xml:space="preserve">
     <value>Case</value>
@@ -1389,5 +1391,11 @@
   </data>
   <data name="Support_Buttons_Website.Content" xml:space="preserve">
     <value>Website</value>
+  </data>
+  <data name="Battery_Left.Title" xml:space="preserve">
+    <value>Left</value>
+  </data>
+  <data name="Battery_Right.Title" xml:space="preserve">
+    <value>Right</value>
   </data>
 </root>
