@@ -118,55 +118,55 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% Restante. Cargue sus audífonos.</value>
+    <value>{0}% restante. Carga tus auriculares.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
-    <value>Peligro</value>
+    <value>Advertencia</value>
   </data>
   <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
-    <value>Pequeña</value>
+    <value>Pequeño</value>
   </data>
   <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
-    <value>Mediana</value>
+    <value>Medio</value>
   </data>
   <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
     <value>Grande</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>Regresa a los valores predeterminados</value>
+    <value>Restablecer ajustes</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>Detección de oido</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>Reproducir/Pausa</value>
+    <value>Reproducir/Pausar</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
-    <value>Reducir el volumen</value>
+    <value>Disminuir volumen</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>Ambos (Reducir el volumen + Reproducir/Pausa)</value>
+    <value>Ambos (disminuir el volumen + reproducir/pausar)</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Otro</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
-    <value>Baja latencia de audio</value>
+    <value>Latencia de audio baja</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>Util al trabajar en Premiere Pro o Audition. Requiere reconectar los AirPods despues de encenderse. Puede causar un mayor consumo de bateria.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
-    <value>Obtener Ayuda</value>
+    <value>Consigue Ayuda</value>
   </data>
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
-    <value>Reportar problema</value>
+    <value>Reportar un problema</value>
   </data>
   <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
-    <value>Registro de depuración</value>
+    <value>Log de depuración</value>
   </data>
   <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
-    <value>Búsqueda rapida</value>
+    <value>Búsqueda rápida</value>
   </data>
   <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>Reduce el tiempo para buscar por AirPods. Utilicelo cuando este seguro que nadie mas alrededor este utilizando AirPods.</value>
@@ -175,34 +175,34 @@
     <value>Inicio</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
-    <value>Correr al Inicio</value>
+    <value>Arrancar al inicio</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Habilite o deshabilite el inicio de la aplicación al iniciar Windows.</value>
+    <value>Puedes habilitar o deshabilitar la ejecución automática en el Administrador de Tareas, en la pestaña de Inicio.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Inicio desactivado por la politica de grupos, o no esta disponible en el dispositivo.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
-    <value>Bandeja de sistema</value>
+    <value>Icono de la barra de herramientas</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
-    <value>Esconder icono de bandeja</value>
+    <value>Esconder el icono</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Reiniciar aplicacion para aplicar.</value>
+    <value>Reiniciar la aplicacion para aplicar los cambios.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Mostrar la carga de los AirPods en el icono</value>
+    <value>Mostrar porcentaje de batería</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Cuando los AirPods estan conectados, mostrar el promedio de la bateria del AirPod Izquierdo y Derecho en la bandeja. El icono se actualizara cada minuto.</value>
+    <value>Muestra el porcentaje medio de batería de los auriculares conectados.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
-    <value>Icono de bateria</value>
+    <value>Estilo del icono de la bateria</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>icono</value>
+    <value>Icono</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>texto</value>
@@ -226,7 +226,7 @@
     <value>Ventana emergente</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Mostrar pop-up</value>
+    <value>Mostrar ventana</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Muestra u oculta una ventana emergente como en el iPhone, cuando abra la caja.</value>
@@ -259,7 +259,7 @@
     <value>Esquina inferior derecha</value>
   </data>
   <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
-    <value>Si saca uno de tus AirPods, la música se pausará. Si saca ambos, la música se detendrá.</value>
+    <value>Si se saca uno de susAirPods, la música se pausará. Si se saca ambos, la música se detendrá.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>¿Salir de MagicPods?</value>
@@ -1006,7 +1006,7 @@
     <value>Cabeza seguida</value>
   </data>
   <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
-    <value>Chip</value>
+    <value>Tarjeta Chip</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
     <value>Interior</value>
