@@ -256,4 +256,25 @@
   <data name="Battery_Right.Title" xml:space="preserve">
     <value>Dreta</value>
   </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>Icona de la safata del sistema</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>Amaga la icona</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>Reinicieu l'aplicació per aplicar els canvis.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>Mostra el percentatge de bateria</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>Estil</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Inici inhabilitat per la política de grup o no admès en aquest dispositiu.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>Mostra el percentatge mitjà de bateria dels auriculars connectats.</value>
+  </data>
 </root>
