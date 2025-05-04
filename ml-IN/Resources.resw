@@ -91,4 +91,154 @@
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>MagicPods വിടണമോ?</value>
   </data>
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
+    <value>കാത് കണ്ടെത്തല്‍</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>പ്ലേ / പോസ്</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>ശബ്ദം കുറയ്ക്കുക</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>മറ്റത്</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
+    <value>കുറഞ്ഞ ഓഡിയോ വൈകിപ്പ്</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>സഹായം നേടുക</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>പ്രശ്നം റിപ്പോർട്ട് ചെയ്യുക</value>
+  </data>
+  <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
+    <value>ഡീബഗ് രേഖ</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
+    <value>വേഗത്തിലുള്ള തിരച്ചിൽ</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>തുടക്കം</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>സ്റ്റാർട്ടപ്പിൽ ഓടിക്കുക</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Windows ആരംഭിക്കുന്നപ്പോഴുള്ള ആപ്പ്ലിക്കേഷൻ ലാഞ്ച് ഓണോ, ഓഫ് ചെയ്യലോ സജീവമാക്കുക അല്ലെങ്കിൽ നിർത്തുക.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>സിസ്റ്റം ട്രേ ഐക്കൺ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>ഐക്കൺ മറക്കുക</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>പുതിയ മാറ്റങ്ങൾ പ്രയോഗിക്കാൻ ആപ്പ്ലിക്കേഷൻ പുനഃരാരംഭിക്കുക.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>ശൈലി</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>ഐക്കൺ</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>ടെക്സ്റ്റ്</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>സ്റ്റാർട്ടപ്പ് സജീവമാക്കുക</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>നിരക്കുക</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>സഹായം</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>ഇല്ല</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>ആണ്</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>ബാറ്ററി വിവരങ്ങൾ</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>പൊതു ക്രമീകരണങ്ങൾ</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>എക്സിറ്റ്</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>സഹായം</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>പിന്തുണയ്ക്കുന്ന പ്ലെയർ പട്ടിക</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>AirPods തിരച്ചിൽ പരിധി</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
+    <value>തിരച്ചിൽ പരിധി എന്താണ്?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>നുസ്‌കയം</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>65-ലും കൂടുതലായ മൂല്യം ക്രമീകരിക്കരുത്, കാരണം അനിമേഷൻ പിശകായി പ്രकटിക്കാം.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>«കണക്ട്» ബട്ടൺ കാണിക്കുക</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
+    <value>ആotomറ്റിക് കണക്ട്</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>ഓട്ടോ പ്ലേ</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>ശബ്ദം കുറയ്ക്കുക, പ്ലേ / പോസ് ചെയ്യുക</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
+    <value>AirPods-നു വേണ്ടി തിരച്ചിൽ സമയം കുറയ്ക്കുന്നു. മറ്റൊരു ആളും AirPods ഉപയോഗിക്കുന്നുണ്ടെന്ന് ഉറപ്പായപ്പോൾ മാത്രം ഇത് ഓൺ ചെയ്യുക.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>കണക്റ്റ് ചെയ്ത ഹെഡ്‌ഫോണുകളുടെ ശരാശരി ബാറ്ററി ശതമാനം കാണിക്കുന്നു.</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
+    <value>കുറ്റി അല്ലെങ്കിൽ ഇടത് AirPods കേസിൽ നിന്നു എടുത്താൽ സ്വയം AirPods കണക്ട് ചെയ്യും.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
+    <value>ഒരു എയർപോഡ് എടുത്താൽ പ്ലേബാക്ക് നിലത്താകും, രണ്ട് എയർപോഡുകളും എടുത്താൽ പ്ലേബാക്ക് നിർത്തും.</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
+    <value>Premiere Pro അല്ലെങ്കിൽ Audition ഉപയോഗിക്കുമ്പോൾ ഇത് ഉപകാരപ്രദമാണ്. ഓൺ ചെയ്തതിന് ശേഷം AirPods വീണ്ടും കണക് ചെയ്യേണ്ടതുണ്ട്. ഇത് ബാറ്ററി ഉപയോഗം കൂടാൻ കാരണമാകാം.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>സ്റ്റാർട്ട്‌അപ്പ് ഗ്രൂപ്പ് നയം കൊണ്ട് നിരസിക്കപ്പെട്ടു, അല്ലെങ്കിൽ ഈ ഉപകരണത്തിൽ പിന്തുണ നൽകുന്നില്ല.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>ബാറ്ററി ശതമാനം കാണിക്കുക</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>പരിശോധനാ സവിശേഷതകൾ</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>ആപ്പ് ക്ലോസ് ചെയ്യും, എല്ലാ പ്രവർത്തനങ്ങളും പ്രവർത്തനരഹിതമാകും.</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>എക്സിറ്റ്</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>റദ്ദാക്കുക</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>ഒരു എയർപോഡ് നിങ്ങളുടെ കാതിൽ നിന്നു എടുത്താൽ ശബ്ദം കുറയുന്നു, അല്ലെങ്കിൽ രണ്ടും എടുത്താൽ / ഇടുന്നത് കൊണ്ടു ശബ്ദം മടങ്ങി വരുന്നു.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>വിൻഡോ കാണുന്നില്ലെങ്കിൽ, AirPods ഉള്ള കേസ് തുറന്ന്, സ്ലൈഡറിനെ എലിഞ്ഞുകൊണ്ട് വലത്തേക്ക് സ്ലൈഡ് ചെയ്യുക, അതുവരെ അനിമേഷൻ കാണിക്കുന്നുവെന്ന് ഉറപ്പാക്കുക.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>പോപ്പ്-അപ്പ് വിൻഡോയിൽ 'കണക്ട്' ബട്ടൺ കാണിക്കുക അല്ലെങ്കിൽ മറക്കുക. ബട്ടൺ അമർത്തുന്നത് AirPods കണക്ട് ചെയ്യും.</value>
+  </data>
 </root>
