@@ -170,7 +170,7 @@
     <value>എക്സിറ്റ്</value>
   </data>
   <data name="Menu_Item4.Content" xml:space="preserve">
-    <value>സഹായം</value>
+    <value>പിന്തുണ</value>
   </data>
   <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>പിന്തുണയ്ക്കുന്ന പ്ലെയർ പട്ടിക</value>
@@ -240,5 +240,152 @@
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>പോപ്പ്-അപ്പ് വിൻഡോയിൽ 'കണക്ട്' ബട്ടൺ കാണിക്കുക അല്ലെങ്കിൽ മറക്കുക. ബട്ടൺ അമർത്തുന്നത് AirPods കണക്ട് ചെയ്യും.</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>താഴെ വലത് കോണിൽ</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>എല്ലാ ക്രമീകരണങ്ങളും പുനഃസജ്ജമാക്കപ്പെടും. തുടരണമോ?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>അതെ, ക്രമീകരണങ്ങൾ പുനഃസജ്ജമാക്കുക</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>ഉപദേശം</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>നിങ്ങളുടെ ഉപയോഗത്തെ അടിസ്ഥാനമാക്കി, മൂല്യം {0} ആയി ക്രമീകരിക്കാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>പ്രയോഗിക്കുക</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>അവഗണിക്കുക</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Windows Bluetooth ഉപകരണങ്ങളുടെ പട്ടികയിൽ AirPods ചേർക്കുക</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods अधिकांश AirPods നും Beats ഹെഡ്‌ഫോണുകളും പിന്തുണയ്ക്കുന്നു</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>അടുത്തത്</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>സർച്ച് രേഡിയസ് - നിങ്ങളുടെ കമ്പ്യൂട്ടർ തുറന്ന AirPods കേസ് അന്വേഷിക്കുന്ന രേഡിയസ്.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>അടുത്തുകൂട്ടുക</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>AirPods അന്വേഷിക്കുന്നു</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>വിൻഡോ നില</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>മുകളിൽ ഇടതു കോണിൽ</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>കേന്ദ്രം</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>താഴെ ഇടതു കോണിൽ</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>ഓഡിയോ</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
+    <value>ഉപകരണം ലഭ്യമല്ല അല്ലെങ്കിൽ നീക്കം ചെയ്തിരിക്കുക</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
+    <value>കൂടുതൽ പഠിക്കൂ</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>വോയിസ് ഓവർ അറിയിപ്പുകൾ</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>ക്രമീകരിക്കുക</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>വോയിസ് ഓവർ ക്രമീകരണം</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>ഒരു ശബ്ദം തിരഞ്ഞെടുക്കുക</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>അറിയിപ്പുകാരൻ ടെക്സ്റ്റ് ഒരേസമയം ഒരു ഭാഷയിൽ മാത്രം വായിക്കാം.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>തിരഞ്ഞെടുക്കപ്പെട്ട ശബ്ദത്തിൽ ടെക്സ്റ്റ് കേൾക്കുക</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>പറയുക</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>എല്ലാ വോയിസ് ഓവർ അറിയിപ്പുകളും</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>എല്ലാ ആപ്ലിക്കേഷനുകളും കാണിക്കുക</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>പ്രൈവസി आणि അറിയിപ്പുകൾ</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
+    <value>പുതിയ ഒരു ശബ്ദം ചേർക്കുക</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>ശ്രേഷ്ഠമായ ഉപയോക്തൃ അനുഭവത്തിനായി, ഞങ്ങൾ സ്റ്റാർട്ട് അപ് എൻബൽ ചെയ്യാൻ നിർദ്ദേശിക്കുന്നു. നിങ്ങൾ ഇത് 'സ്റ്റാർട്ട് അപ്' ടാബിൽ നിന്നു ടാസ്ക് മാനേജറിൽ ചെയ്യാം.</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>അനന്തമായ തിരച്ചിൽ</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>AirPods കണ്ടെത്താനായില്ല</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>വെളിച്ചം</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>ഇരുട്ട്</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>ഹെഡ്ഫോൺസ് കണക്റ്റ് ചെയ്തതിന് ശേഷം «പ്ലേ» കമാൻഡ് അയയ്ക്കുക. പ്രവർത്തനത്തിലായിരിക്കുന്ന പ്ലെയറുകളൊന്നുമില്ലെങ്കിൽ വിൻഡോസ് കമാൻഡ് അവഗണിക്കും.</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>ഹെഡ്ഫോൺസ് കണക്റ്റ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു. ദയവായി മാനുവലായി കണക്റ്റ് ചെയ്യാൻ ശ്രമിക്കുക.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
+    <value>ഒരു AirPod ചെവിയിൽ നിന്ന് നീക്കുമ്പോൾ പ്ലേബാക്ക് താൽക്കാലികമായി നിൽക്കുകയും വോള്യം കുറയുകയും ചെയ്യും, രണ്ടു AirPods ഉം നീക്കുമ്പോൾ പ്ലേബാക്ക് നിൽക്കുകയും വോള്യം തിരികെ സാധാരണയാകുകയും ചെയ്യും.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>'വോയിസ് ഓവർ അറിയിപ്പ്' ഫീച്ചർ ഓഫായിരിക്കുന്നു, അറിയിപ്പുകൾക്ക് പ്രവേശനം നേടാൻ കഴിയുന്നില്ല. ദയവായി 'പ്രൈവസി ആൻഡ് അറിയിപ്പുകൾ' തുറക്കുക, അറിയിപ്പുകൾക്കുള്ള പ്രവേശനം അനുവദിക്കുക, പിന്നീട് 'വോയിസ് ഓവർ അറിയിപ്പ്' ഓണാക്കുക.</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>നിന്റെ AirPods കേസ് നിങ്ങളുടെ കമ്പ്യൂട്ടറിനടുത്തു അടുത്തു കൊണ്ടുവരികയും അത് തുറക്കുകയും ചെയ്യുക</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>മുകളിൽ വലത് കോണിൽ</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
+    <value>രണ്ടു AirPods കൂടി ചിരട്ടിൽ നിന്നപ്പോൾ, AirPods ന്റെ ഓഡിയോ ഡിഫോൾട്ട് സ്പീക്കറിലേക്ക് സ്വിച്ച് ചെയ്യുക.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
+    <value>ഓട്ടോ സ്വിച്ച് സൗണ്ട് ഔട്ട്പുട്ട്</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>ഹെഡ്‌ഫോണുകൾ കണക്ട് ചെയ്ത് ഓഡിയോ ഔട്ട്പുട്ട് ഉപകരണമാകുമ്പോൾ അറിയിപ്പുകൾ പ്രഖ്യാപിക്കപ്പെടും.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
+    <value>എന്തെങ്കിലും ശബ്ദം തിരഞ്ഞെടുക്കപ്പെട്ടിട്ടില്ല അല്ലെങ്കിൽ ലഭ്യമായിട്ടില്ല</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>ഈ അയച്ചവരിൽ നിന്നുള്ള വോയിസ് ഓവർ അറിയിപ്പുകൾ</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>പട്ടികയിലെ എല്ലായ്പ്പോഴും ആപ്ലിക്കേഷനുകൾ അറിയിപ്പുകൾ അയയ്ക്കാനാകുന്നില്ല, ചില ആപ്ലിക്കേഷനുകൾ പട്ടികയിൽ ഇല്ലായിരിക്കാം.</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>പ്രശ്നം പരിഹരിക്കാൻ ഈ ഗൈഡ് പിന്തുടരുക.</value>
   </data>
 </root>
