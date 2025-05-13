@@ -170,7 +170,7 @@
     <comment>Not used now</comment>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
-    <value>Leave MagicPods</value>
+    <value>Quit MagicPods</value>
   </data>
   <data name="Menu_Item4.Content" xml:space="preserve">
     <value>Help</value>
@@ -182,7 +182,7 @@
     <value>Shut down MagicPods?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>Exit</value>
+    <value>Leave</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>Refuse</value>
@@ -418,10 +418,10 @@
     <comment>Last used 2.0.45.0</comment>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
-    <value>Deactivated</value>
+    <value>Desactivated</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
-    <value>Deactivated</value>
+    <value>Desactívated</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
     <value>Reboot</value>
@@ -524,7 +524,7 @@
     <value>Bluetooth LE feature is unavailable</value>
   </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
-    <value>Headphones</value>
+    <value>Audio Device</value>
   </data>
   <data name="Menu_Item6.Content" xml:space="preserve">
     <value>Preferences</value>
@@ -540,5 +540,26 @@
   </data>
   <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
     <value>Sprint, leap, and avoid obstacles in an exciting adventure game</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Help translate, edit or add languages</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Check Out MagicPods 2.0</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Customize each headphone individually to fit your preferences</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Search by app</value>
+  </data>
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
+    <value>Select hotkey</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>New interface design, individual settings, and more. Some settings have changed. Open the app to customize.</value>
+  </data>
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
+    <value>Global shortcut key to connect or disconnect headphones.</value>
   </data>
 </root>
