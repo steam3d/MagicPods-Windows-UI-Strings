@@ -151,7 +151,7 @@
     <value>Configuración general</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>Características experimentales</value>
+    <value>Funciones experimentales</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>Salir</value>
@@ -172,7 +172,7 @@
     <value>El volumen baja cuando se quita uno de los AirPods de su oreja, o se restablece cuando se quita / pone ambos AirPods.</value>
   </data>
   <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
-    <value>Lista de programas de musica soportados</value>
+    <value>Lista de programas de música compatibles</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>Radio de búsqueda de los AirPods</value>
@@ -187,22 +187,22 @@
     <value>No establezca un valor superior a 65, ya que la animación podría aparecer accidentalmente.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Mostrar boton «Connect»</value>
+    <value>Mostrar el botón «Conectar»</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Muestre o esconda el boton «Connect» en la ventana emergente. Presionando el boton conectara los AirPods.</value>
+    <value>Muestre o esconda el botón «Conectar» en la ventana emergente. Presionando el botón conectara los AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
-    <value>Conexion automatica</value>
+    <value>Conexión automática</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Salir</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
-    <value>Auto-reproducción</value>
+    <value>Reproducción automática</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>Si, reinicie toda la configuracion</value>
+    <value>Si, reinicie toda la configuración</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>Consejo</value>
@@ -214,7 +214,7 @@
     <value>Ignorar</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Error de conexión con los auriculares. Intenta conectar manualmente.</value>
+    <value>Error de conexión con los auriculares. Intenta conectarlos manualmente.</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>Los MagicPods son compatibles con la mayoría de auriculares AirPods y Beats</value>
@@ -229,7 +229,7 @@
     <value>Buscando Airpods</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
-    <value>Posicion de la ventana</value>
+    <value>Posición de la ventana</value>
   </data>
   <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>Esquina superior izquierda</value>
@@ -250,7 +250,7 @@
     <value>Dispositivo no disponible o eliminado</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
-    <value>Aprende más</value>
+    <value>Saber más</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>Notificaciones de VoiceOver</value>
@@ -301,16 +301,16 @@
     <value>Se cerrará la aplicación y se deshabilitarán todas las funciones.</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Lleva tu case de los AirPods lo más cerca posible de tu computadora y ábrela</value>
+    <value>Lleva tu estuche de los AirPods lo más cerca posible de tu ordenador y ábrelo</value>
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>No todas las aplicaciones de la lista pueden enviar notificaciones, es posible que algunas aplicaciones no estén en la lista.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
-    <value>Si la ventana no aparece cuando el case de los AirPods se abre, mueva suavemente el control en este panel hacia la derecha hasta que la animación aparezca.</value>
+    <value>Si la ventana no aparece cuando el estuche de los AirPods se abre, mueva suavemente el control en este panel hacia la derecha hasta que la animación aparezca.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
-    <value>Radio de búsqueda: el radio en el que su computadora buscará una carcasa AirPods abierta.</value>
+    <value>Radio de búsqueda: el radio en el que su ordenador buscará un estuche AirPods abierto.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>La función "Notificación de VoiceOver" está desactivada, no se puede acceder a las notificaciones. Abra «Privacidad y notificaciones», permita el acceso a las notificaciones y, a continuación, active la "Notificación de VoiceOver".</value>
@@ -329,7 +329,7 @@
     <value>Puede habilitar o deshabilitar esta opción en el Administrador de Tareas, en la pestaña de Inicio.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
-    <value>Conectar automaticamente los AirPods cuando retira del case el Airpod derecho o izquierdo.</value>
+    <value>Conectar automaticamente los AirPods cuando retira del estuche el Airpod derecho o izquierdo.</value>
   </data>
   <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
     <value>Esquina izquierda inferior</value>
@@ -342,7 +342,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Enviar el comando «Play» luego de conectar los AirPods. Si no hay ventanas de reproductores abiertos, se ignorará el comando.</value>
+    <value>Enviar el comando «Reproducir» después de conectar los AirPods. Si no hay ventanas de reproductores abiertas, se ignorará el comando.</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
     <value>Cambie el audio de los AirPods a los altavoces predeterminados cuando ambos AirPods estén fuera del oído.</value>
@@ -371,7 +371,7 @@
     <value>Icono</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
-    <value>La reproducción se detiene y el volumen disminuye cuando se quita un AirPods de la oreja, o se detiene y el volumen se restablece cuando quitan ambos AirPods.</value>
+    <value>La reproducción se detiene y el volumen disminuye cuando se quita un AirPod de la oreja, o se detiene y el volumen se restablece cuando quitan ambos AirPods.</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
     <value>Escuche el texto con la voz seleccionada</value>
@@ -383,10 +383,10 @@
     <value>Búsqueda infinita</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
-    <value>No se pudieron encontrar los AirPods</value>
+    <value>No se han podido encontrar los AirPods</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
-    <value>Sigue esta guía para solucionar el problema.</value>
+    <value>Siga esta guía para solucionar el problema.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>Claro</value>
@@ -725,7 +725,7 @@
     <value>Sensibilidad del Airpod derecho</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
-    <value>Velocidad de la prensar</value>
+    <value>Velocidad de presionado</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
     <value>Más rápido</value>
@@ -743,7 +743,7 @@
     <value>Conecta tus auriculares para más personalizaciones</value>
   </data>
   <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
-    <value>Targeta Chip</value>
+    <value>Chip</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>Tráfico</value>
@@ -848,7 +848,7 @@
     <value>Deshabilite Manos libres después de conectar los auriculares para evitar que los auriculares cambien al modo Manos libres. El micrófono dejará de funcionar. Desactivar la opción habilitará el servicio Manos libres una vez más.</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
-    <value>Igualar</value>
+    <value>Ecualizador</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ.Description" xml:space="preserve">
     <value>Encienda la música antes de cambiar la configuración.</value>
@@ -1175,7 +1175,7 @@
     <value>Ajusta el volumen de los efectos de sonido que reproducen los AirPods. Mientras «{0}» esté activado, el volumen no se aplicará.</value>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
-    <value>Al revés</value>
+    <value>De atrás hacia delante</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
