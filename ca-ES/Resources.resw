@@ -139,7 +139,7 @@
     <value>Sortir</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
-    <value>E</value>
+    <value>S</value>
   </data>
   <data name="Battery_Short_Right.Title" xml:space="preserve">
     <value>D</value>
@@ -276,5 +276,1019 @@
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Mostra el percentatge mitjà de bateria dels auriculars connectats.</value>
+  </data>
+  <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
+    <value>Funció experimental</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Icona</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Habilitar inici automàtic</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Sí</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Informació de la bateria</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Configuració general</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Funcions experimentals</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Suport</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Es tancarà l'aplicació i es desactivaran totes les funcions.</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Cancel-lar</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>Ràdio de cerca dels AirPods</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>Si la finestra no apareix quan es obre l’estoig dels AirPods, mogui suament el control d’aquest panell cap a la dreta fins que aparegui l’animació.</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Consell</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>No establiu un valor superior a 65, ja que l'animació podria aparèixer accidentalment.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>Mostra o amaga el botó «Conectar» a la finestra emergent. Prement el botó connectarà els AirPods.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>Es restabliran totes les ajustos. Vols continuar?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>Sí, reinicia tota la configuració</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Consell</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Ignorar</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Error de connexió amb els auriculars. Intenta connectar-los manualment.</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>Els MagicPods són compatibles amb la majoria d'auriculars AirPods i Beats</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Següent</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>Ràdio de cerca: el radi en el qual el teu ordinador buscarà un estoig AirPods obert.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>Tancar</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>Posicion de la ventana</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>Cantonada superior esquerra</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>Cantonada superior dreta</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>Centre</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>Cantonada inferior esquerra</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>Cantonada inferior dreta</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>Àudio</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>Configurar</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>Configuració de VoiceOver</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>Tria una veu</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>El locutor pot llegir el text en un sol idioma.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>Escolteu el text amb la veu seleccionada</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>Parlar</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>Notificacions de VoiceOver d'aquests remitent</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>VoiceOver totes les notificacions</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>Mostrar totes les aplicacions</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>La funció "Notificació de VoiceOver" està desactivada, no es pot accedir a les notificacions. Obriu «Privadesa i notificacions», permeteu l'accés a les notificacions i, a continuació, activeu la "Notificació de VoiceOver".</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Privadesa i notificacions</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>Cerca infinita</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>No s'han pogut trobar els AirPods</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>Segueix aquesta guia per solucionar el problema.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Clar</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Fosc</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
+    <value>Tema de finestra</value>
+  </data>
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
+    <value>Temes</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>Ajustos de l'aplicació</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Inici</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Fes clic aquí per editar la configuració</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Connexió múltiple</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>S'han connectat dos o més auriculars, mantingueu només un connectat a la vegada</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Connectant</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Desconnectar</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Desconnectant</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Càrrega</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>Descarregar</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Tradueix</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Ha ocorregut un error inesperat</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Introduïu una combinació de tecles</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Inclou les tecles Win, Shift, Alt o Ctrl</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Activa el Bluetooth per mostrar els auriculars</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Ajustos de Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Cap auricular enllaçat</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Enllaça els auriculars a l'equip i reinicia l'aplicació</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Com enllaçar els auriculars</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Auriculars</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Preferències</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>Altres aplicacions del desenvolupador</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>Copiar text de qualsevol imatge</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Tradueix, edita o afegeix nous idiomes</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>Coneix MagicPods 2.0</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Editeu cada auricular de forma independent perquè s'ajustin a les vostres preferències</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Canviar imatge</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Restaurar imatge</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Encendre</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Més detalls</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Connexeu un adaptador Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Deixar només un adaptador Bluetooth connectat</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic no és compatible</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Connecteu un adaptador Bluetooth amb suport de Bluetooth LE i reinicieu l'aplicació</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Reiniciar l'aplicació podria ajudar</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>Transmet àudio des de dispositius Bluetooth al PC. El PC actua com a altaveu Bluetooth.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Streaming d'àudio</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
+    <value>Silenciament automàtic</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>No s'ha pogut connectar el dispositiu de transmissió. Assegura't que el Bluetooth estigui habilitat al dispositiu de transmissió.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>No hi ha dispositius emparellats o Bluetooth desactivat</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Dispositiu de transmissió</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Sortida de so</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>Centre superior</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>Part inferior central</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Mostrar percentatge de bateria</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Tradueix aplicació</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Comunitat</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Uneix-te a la nostra comunitat, informa d'errors, estigues atent a les notícies, actualitzacions i debats</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Suport i comunitat</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Tradueix ràpidament text amb una tecla d'accés directe</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Mostrar finestra</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Reiniciar la configuració inicial</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Tecla predeterminada per canviar la sortida d'àudio</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Imatge de l'altaveu</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Mostra la finestra per a AirPods falsos</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Amaga o mostra la finestra emergent d'AirPods falsos si estan a la llista de dispositius Bluetooth.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Tancar</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Inici deshabilitat per la política de grup, o no és compatible amb aquest dispositiu.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Inici desactivat per política de grup</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Cancel·lar</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Al principi</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Inici desactivat manualment</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Actualització disponible</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Reinici necessari</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Cancel·lar</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Llicència no trobada</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Llicència</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Introduir llicència</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Llicència</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Desar</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Cancel·lar</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Clau de producte</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Clau de llicència</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Enganxeu la clau de llicència aquí</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
+    <value>Adaptatiu</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Lloc Web</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Control de Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Prement la drecera encén o apaga el Bluetooth.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Sortida d'àudio</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Control de so de sortida</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>Prement la tecla predeterminada es modificarà la sortida d'àudio.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Ometre lectura</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Premeu la drecera per ometre la lectura de la notificació actual.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Connectar / Desconnectar</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Desconnetar</value>
+  </data>
+  <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
+    <value>Auriculars</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Dispositius de reproducció</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Cerca per nom</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Per mostrar els dispositius, activa el Bluetooth, espera a que es carreguin els auriculars</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Tecles d'accés ràpid</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Tema fosc</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Mida de la font</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Color del text mentre es carrega la bateria</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Tema clar</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Tema fosc</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Color d'icona</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Color d'indicador</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Color de l'indicador quan la bateria és baixa</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Font no trobada</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>Llista de programes de música compatibles</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
+    <value>Què és el radi de cerca?</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
+    <value>Connexió automàtica</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>Reproducció automàtica</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
+    <value>La reproducció es deté i el volum disminueix quan es treu un AirPod de l'orella, o es deté i el volum es restableix quan es treuen ambdós AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
+    <value>Canvi automàtic de sortida d'àudio</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
+    <value>Canvia l'àudio dels AirPods als altaveus predeterminats quan ambdós AirPods estiguin fora de l'orella.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
+    <value>Dispositiu no disponible o eliminat</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
+    <value>Saber més</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
+    <value>Cap veu seleccionada o disponible</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
+    <value>Afegir una nova veu</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HintLink" xml:space="preserve">
+    <value>Capacitat dels AirPods</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
+    <value>Amagar</value>
+  </data>
+  <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
+    <value>Pausar automàticament</value>
+  </data>
+  <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
+    <value>Notificació de bateria baixa</value>
+  </data>
+  <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
+    <value>Mostrar una notificació quan la bateria dels auriculars sigui més baixa que un valor específic.</value>
+  </data>
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
+    <value>Combinació de tecles global per connectar o desconnectar els auriculars.</value>
+  </data>
+  <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
+    <value>Conecta els teus auriculars per a més personalitzacions</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
+    <value>Xip</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
+    <value>Firmware</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Hint" xml:space="preserve">
+    <value>El xip encara no és compatible</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Trànsit</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Interior</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Meditació</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Canviar la tecla de cancel·latge de soroll</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>En prémer la tecla d'accés ràpid s'ix entre els modes de cancel·lació de soroll.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
+    <value>Seguiment del cap</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Fix</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Cap seguit</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
+    <value>AirPod esquerre mantingues premut</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
+    <value>AirPod dret mantingues premut</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Assistència de veu</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Control de soroll (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Control de soroll (ANC/Apagat/Trans.)</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LeftAirPod_Sensitivity.Header" xml:space="preserve">
+    <value>Sensibilitat de l'AirPod esquerre</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
+    <value>Velocitat de pressionament</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
+    <value>Ajusteu la velocitat requerida per pressionar el AirPod esquerre i el AirPod dret dues o tres vegades.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Més ràpid</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Mitjà</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Lent</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
+    <value>Polsació llarga</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Curt</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Mitjà</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Llarga</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
+    <value>Connexió multipunt millorada</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Mode normal</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
+    <value>Sensibilitat de reducció del soroll del vent</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
+    <value>Restabliment de fàbrica d'AirPods requerit per aplicar.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Baix</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Mitjà</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
+    <value>Control de veu</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_GameMode.Header" xml:space="preserve">
+    <value>Mode de joc</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Podrien ser auriculars falsos</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
+    <value>Restableixement de fàbrica</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
+    <value>Col·loqueu els AirPods a l'estoig, obriu la tapa i després prémer el botó durant uns 10 segons.</value>
+  </data>
+  <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
+    <value>AutoDesactivar mans lliures automàticament</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
+    <value>Ecualitzador</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ.Description" xml:space="preserve">
+    <value>Encengueu la música abans de canviar la configuració.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
+    <value>Sonors de l'estutx</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Espectacle en directe</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Estèreo de cinema</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Ritme escènic</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Clàssic</value>
+  </data>
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
+    <value>Volum de so ambiental</value>
+  </data>
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Description" xml:space="preserve">
+    <value>Com més gran sigui el valor, millor es pot escoltar l'ambient.</value>
+  </data>
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Header" xml:space="preserve">
+    <value>Enfocament en veu</value>
+  </data>
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Description" xml:space="preserve">
+    <value>Es sentiran les veus de la gent i es suprimirà el soroll ambiental.</value>
+  </data>
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Header" xml:space="preserve">
+    <value>Desar ajustaments</value>
+  </data>
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Description" xml:space="preserve">
+    <value>Guarda els ajustos de so ambiental a la memòria dels auriculars.</value>
+  </data>
+  <data name="Support_Setting_License.HintLink" xml:space="preserve">
+    <value>Comprar llicència</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
+    <value>Control de soroll</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Adaptatiu</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Adaptatiu</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
+    <value>Detecció de conversa</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
+    <value>Es redueix el volum del contingut i el soroll de fons quan comences a parlar amb algú.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
+    <value>Volum personalitzat</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Description" xml:space="preserve">
+    <value>Ajusta el volum dels continguts multimèdia en funció de l'entorn.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Left.Header" xml:space="preserve">
+    <value>Prem dues vegades l'AirPod esquerre</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Right.Header" xml:space="preserve">
+    <value>Prem dues vegades l'AirPod dret</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Reproduir/Pausar</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>Següent pista d'àudio</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>Pista d'àudio anterior</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>Corona digital</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>D'enrere cap endavant</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
+    <value>Finalitzar trucada/Silenciar i reactivar so</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>Premeu una vegada/Premeu dues vegades</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>Premeu dues vegades/Premeu una vegada</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
+    <value>Micròfon</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>Automàtic</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>AirPod dret sempre</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>AirPod esquerre sempre</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
+    <value>Velocitat de pulsació</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>Defineix la velocitat necessària per pressionar els AirPods dues o tres vegades.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Lent</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>Durada de prémer i mantenir</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>Define durant quant de temps has de mantenir premuts els AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>Per defecte</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>Curta</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>Molt curta</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>Cancel·lació de soroll amb un sol AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>Volum del to</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
+    <value>Ajusta el volum dels efectes de so que reprodueixen els AirPods. Mentre «{0}» estigui activat, el volum no s'aplicarà.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>Gestionar auriculars</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
+    <value>Quan els auriculars estan connectats, s'apliquen les següents opcions.</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Nivell de càrrega mitjançant Handsfree</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Canviar el so de sortida als auriculars</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Forçar el canvi del so de sortida als auriculars després de connectar-se. Aquesta opció no s'aplica si «{0}» està habilitada.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>El volum baixa quan se treu un dels AirPods de l'orella, o es restableix quan se treu / es posa ambdós AirPods.</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>No totes les aplicacions de la llista poden enviar notificaciones, és possible que algunes aplicacions no estiguin a la llista.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Connecteu un adaptador Bluetooth amb suport de Bluetooth Clàssic i reinicieu l'aplicació</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
+    <value>Afegir un nou dispositiu</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
+    <value>Silenciar l'àudio del dispositiu de streaming quan es canvïa la sortida de so als altaveus del PC.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
+    <value>Ajusta el temps de pression i mantén pressionat l'AirPod esquerre i l'AirPod dret.</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>Envia el comandament «Reproduir» després de connectar els AirPods. Si no hi ha finestres de reproductors obertes, es ignorarà el comandament.</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Segons el seu ús, li recomanem que estableixi el valor en {0}</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>Per a la millor experiència d'usuari, li recomanem que habiliti l'execució de l'aplicació a l'Inici de Windows. Ho pot fer des de la pestanya «Inici» a l'Administrador de Tasques.</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE no suportat</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Cerca d'aplicacions</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Mostrar la finestra emergent en canviar la sortida de so.</value>
+  </data>
+  <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
+    <value>Més informació</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
+    <value>Reducció del soroll del vent</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Mostra una advertència a la configuració dels auriculars que són falsos.</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Compra o introdueix una llicència a la pàgina «{0}» dins de «{1}»</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Color de text</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>L'icona es torna transparent quan la sortida d'àudio es canvia a la sortida d'àudio de l'ordinador.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>Mostra el botó «Connectar»</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>Notificacions de VoiceOver</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>Les notificacions s'anuncien quan els auriculars estan connectats i configurats com a dispositiu de sortida d'àudio.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>Per a la millor experiència d'usuari, li recomanem que activi l'inici.</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Eliminar combinació de tecles</value>
+  </data>
+  <data name="Headphones_Setting_AutoPause.Description" xml:space="preserve">
+    <value>Atura la reproducció després de desconnectar els auriculars.</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Interfície redissenyada, ajustaments individuals i més. Alguns ajustaments han canviat. Obre l'aplicació per editar-los.</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>La funció Manos Lliures (comunicació per veu) dels auriculars no estarà disponible. No desactiveu Manos Lliures manualment. Reinicieu l'aplicació per aplicar els canvis.</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Reinicia l'aplicació per aplicar els canvis.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
+    <value>Posa't els dos AirPods abans d'utilitzar-los.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_RightAirPod_Sensitivity.Header" xml:space="preserve">
+    <value>Sensibilitat de l'AirPod dret</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
+    <value>Restabliment de fàbrica d'AirPods requerit per aplicar.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Alt</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_GameMode.Description" xml:space="preserve">
+    <value>També es pot activar pressionant cinc vegades l'AirPod esquerre o dret.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Etiquetatge d'auriculars falsos</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Obre la configuració de Windows a la pàgina de l'aplicació, ves a 'Inici' i activa '{0}'.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Afegeix una mica de màgia als teus auriculars</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>De davant cap a darrere</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
+    <value>El micròfon actiu dels AirPods pot canviar-se automàticament del costat esquerre al dret o fixar-se en un sol costat.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Color de l'indicador durant la càrrega de la bateria</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Reiniciar l'aplicació per aplicar els canvis.</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
+    <value>Connectar automàticament els AirPods quan es tregui de l'estoig l'AirPod dret o esquerre.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Afegeix els AirPods a la llista de dispositius Bluetooth de Windows</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>Porta el teu estotge d'AirPods el més a prop possible del teu ordinador i obre'l</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Fer servir el tema del sistema</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Fer servir l'idioma del sistema</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Reiniciar l'aplicació pot solucionar el problema. Si l'error persisteix, prova de reiniciar l'ordinador.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>Corre, salta i esquiva en un perillós joc d'aventures</value>
+  </data>
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
+    <value>Drecera per connectar</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Prement la tecla predeterminada es modificarà la sortida d'àudio.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
+    <value>Filtre de cancel·lació de soroll</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Mode multipunt</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_CaseSounds.Description" xml:space="preserve">
+    <value>Col·loqueu els AirPods a la funda, mantingueu la tapa oberta i espereu que s'apagui la llum de la funda. Apagueu/enclencheu l'opció, traieu els AirPods mentre manteniu la tapa de la funda oberta, espereu almenys 2 segons, col·loqueu els AirPods a la funda novament i espereu que s'apagui la llum de la funda.</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Cercar actualitzacions</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Comprar clau</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>És necessari tornar a introduir la clau de llicència després de reinstal·lar l'aplicació</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
+    <value>Canvia entre</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>Molt lent</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Tema clar</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Color del text quan la bateria està baixa</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Utilitzeu aquesta opció si no es mostra la bateria dels auriculars. Torneu a connectar els auriculars per aplicar els canvis. La comunicació per veu no estarà disponible.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Ícon de bateria única</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Mostrar canvi de sortida de so</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Opacitat</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
+    <value>Li permet connectar dos dispositius alhora als seus auriculars. Restabliment de fàbrica d'AirPods requerit per aplicar.</value>
+  </data>
+  <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
+    <value>Deshabilita Mans lliures després de connectar els auriculars per evitar que els auriculars canviïn al mode Mans lliures. El micròfon deixarà de funcionar. Desactivar l'opció habilitarà el servei Mans lliures un cop més.</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Feu clic aquí per anar a Microsoft Store.</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>La clau de llicència no és vàlida. Torneu-ho a provar o utilitzeu una clau de llicència diferent.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
+    <value>Prem el botó dels AirPods Max o mantingues premut l'AirPod esquerre o dret dels AirPods Pro per canviar entre els modes de control de soroll seleccionats.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>Per defecte</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>Permet activar el mode de cancel·lació de soroll dels AirPods quan només en portis un posat.</value>
+  </data>
+  <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
+    <value>Auriculars</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>Control de soroll</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Premen la drecera per alternar els modes de control de soroll si «{0}» està disponible a la configuració dels auriculars.</value>
   </data>
 </root>
