@@ -326,7 +326,7 @@
     <value>デバイスが使用できない、または削除されました</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
-    <value>もっと詳しく知る</value>
+    <value>詳しく知る</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>Voice Over 通知</value>
@@ -1333,5 +1333,23 @@
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
     <value>変更を反映するには、アプリケーションを再起動してください。</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Content" xml:space="preserve">
+    <value>アダプティヴ</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
+    <value>風キャンセル</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>ノイズキャンセリング</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
+    <value>詳しく知る</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
+    <value>外部音取り込み</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
+    <value>オフ</value>
   </data>
 </root>
