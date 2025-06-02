@@ -1398,4 +1398,79 @@
   <data name="Battery_Right.Title" xml:space="preserve">
     <value>Right</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Conversation awareness volume</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>The volume will be reduced to the selected volume while the feature is active.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Ear detection volume</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>The volume will be reduced to the selected volume while the feature is active.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Default headphone volume</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>The selected volume is applied after connection.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Activate off</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Activate transparency</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Activate adaptive</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Activate wind cancellation</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Activate noise cancellation</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Cycle between with the hotkey</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Press the «{0}» hotkey to cycle between the selected noise control modes. Modes not supported by the headphones will be skipped.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
+    <value>Transparency</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Content" xml:space="preserve">
+    <value>Adaptive</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
+    <value>Wind cancellation</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Noise cancellation</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Behavior of certain functions with the h2 chip</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
+    <value>Learn more</value>
+  </data>
 </root>
