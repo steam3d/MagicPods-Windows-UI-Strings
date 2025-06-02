@@ -269,7 +269,7 @@
     <value>Η συσκευή έχει αφαιρεθεί ή δεν είναι διαθέσιμη</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
-    <value>Περισσότερες πληροφορίες</value>
+    <value>Μάθετε περισσότερα</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>Ανάγνωση ειδοποιήσεων</value>
@@ -1211,5 +1211,23 @@
   </data>
   <data name="Battery_Right.Title" xml:space="preserve">
     <value>Δεξί</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
+    <value>Διαφάνεια</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Content" xml:space="preserve">
+    <value>Προσαρμοστικό</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Ακύρωση Θορύβου</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
+    <value>Μάθετε περισσότερα</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
+    <value>Ακύρωση θορύβου ανέμου</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
+    <value>Απενεργοποιημένο</value>
   </data>
 </root>
