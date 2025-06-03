@@ -1406,4 +1406,61 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
     <value>Transparence</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Volume d'adaptation à la conversation</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Le volume sera réduit au volume sélectionné pendant que la fonctionnalité est active.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Volume de détection de l'oreille</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Le volume sera réduit au volume sélectionné pendant que la fonctionnalité est active.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Volume par défaut des écouteurs</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Le volume sélectionné est appliqué apres la connexion.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Désactivation</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Activer la transparence</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Activer l'audio adaptatif</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Activer la réduction du bruit du vent</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Activer la réduction du bruit</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Basculer entre les modes avec la touche</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Appuyer sur la touche «{0}» pour basculer entre les modes de contrôle du bruit sélectionnés. Les modes non pris en charge par les écouteurs seront ignorés.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Comportement de certaines fonctionnalités avec la puce H2</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+  </data>
 </root>
