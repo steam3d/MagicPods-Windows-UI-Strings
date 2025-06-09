@@ -90,7 +90,7 @@
     <value>जब आप केस खोलते हैं, तो आईफ़ोन की तरह पॉप-अप विंडो दिखाएँ या छिपाएँ।</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
-    <value>एग्ज़िट</value>
+    <value>निकास</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>कान जाच</value>
@@ -263,7 +263,7 @@
     <value>खोज त्रिज्या - वह त्रिज्या जिसमें आपका कंप्यूटर खुले एयरपॉड्स केस की खोज करेगा।</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
-    <value>बंद</value>
+    <value>बंद करें</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
     <value>विंडो पोजीशन</value>
@@ -767,7 +767,7 @@
     <value>लॉन्ग प्रेस</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
-    <value>छोटा</value>
+    <value>संक्षिप्त</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
     <value>मध्यम</value>
@@ -1155,7 +1155,7 @@
     <value>हेडफ़ोन जुड़े होने पर, नीचे दिए गए विकल्प लागू होते हैं।</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
-    <value>छोटा</value>
+    <value>संक्षिप्त</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
@@ -1352,5 +1352,65 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
     <value>पवन रद्दीकरण</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>संवाद जागरूकता वॉल्यूम</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>ईयर डिटेक्शन वॉल्यूम</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>जब यह फीचर सक्रिय होगा तो वॉल्यूम चुनी गई स्तर तक कम हो जाएगा ।</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>डिफ़ॉल्ट हेडफ़ोन वॉल्यूम</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>कनेक्शन के बाद चुनी गई वॉल्यूम लागू होगी।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>सक्रियता बंद करें</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>ट्रांसपेरेंसी सक्रिय करें</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>अनुकूलनीय सक्रिय करें</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>विंड कैंसलेशन सक्रिय करें</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>शोर रद्द करना सक्रिय करें</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>हॉटकी से मोड बदलें</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>H2 चिप के साथ कुछ फ़ंक्शंस का व्यवहार</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>जब यह फीचर सक्रिय होगा तो वॉल्यूम चुनी गई मात्रा तक कम हो जाएगा ।</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>चयनित नॉइज़ कंट्रोल मोड्स के बीच बदलने के लिए «{0}» हॉटकी दबाएं। हेडफ़ोन द्वारा समर्थित न होने वाले मोड्स को छोड़ दिया जाएगा।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
   </data>
 </root>
