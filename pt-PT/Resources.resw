@@ -1328,4 +1328,58 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>Cancelamento de ruído</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Volume de consciência da conversa</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>O volume será reduzido para o volume selecionado enquanto a função estiver ativa.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Volume de deteção de ouvido</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>O volume será reduzido para o volume selecionado enquanto a função estiver ativa.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Volume predefinido dos auscultadores</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>O volume selecionado é aplicado após a ligação.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Ativar desligado</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Premir a tecla de atalho ativa este modo se “{0}” estiver disponível nas definições dos auscultadores e o modo for suportado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Ativar a transparência</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Ao premir a tecla de atalho ativa este modo se “{0}” estiver disponível nas definições dos auscultadores e o modo for suportado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Ativar adaptação</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Premir a tecla de atalho ativa este modo se “{0}” estiver disponível nas definições dos auscultadores e o modo for suportado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Ativar o cancelamento de vento</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Premir a tecla de atalho ativa este modo se “{0}” estiver disponível nas definições dos auscultadores e o modo for suportado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Ativar cancelamento de ruído</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Alternar entre os dois com a tecla de atalho</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Prima a tecla de atalho “{0}” para alternar entre os modos de controlo de ruído selecionados. Os modos não suportados pelos auscultadores serão ignorados.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Ao premir a tecla de atalho ativa este modo se “{0}” estiver disponível nas definições dos auscultadores e o modo for suportado.</value>
+  </data>
 </root>
