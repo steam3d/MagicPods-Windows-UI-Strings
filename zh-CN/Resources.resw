@@ -1412,4 +1412,55 @@
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
     <value>对话感知音量</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>当该功能处于激活状态时，音量将被降低到选定的音量。</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>当该功能处于激活状态时，音量将被降低到选定的音量。</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>默认音量</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>通过快捷键循环切换</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>带有h2芯片的某些功能的行为表现</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>激活降噪功能</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>按下热键会激活此模式，如果耳机设置中存在「{0}」并且该模式受支持。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>如果耳机设置中有「{0}」，并且该模式被支持，那么按下热键就会激活这种模式。</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>按下快捷键「{0}」可在选定的降噪模式之间循环切换。耳机不支持的模式将被跳过。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>激活风噪声抵消（功能）</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>如果耳机设置中有«{0}»选项，并且该模式被支持，那么按下热键就会激活这种模式。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>激活自适应模式</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>选定的卷在连接之后被应用。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>关闭激活</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>如果耳机设置中有“«{0}»”这个选项，并且该模式被支持，那么按下热键就会激活这种模式。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>激活通透模式</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>如果耳机设置中有「{0}」选项且该模式被支持，那么按下热键就会激活这种模式。</value>
+  </data>
 </root>
