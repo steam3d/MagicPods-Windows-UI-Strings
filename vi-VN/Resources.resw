@@ -989,7 +989,7 @@
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
-    <value>Thuyết minh</value>
+    <value>Trình đọc màn hình</value>
   </data>
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>Kết nối</value>
@@ -1175,7 +1175,7 @@
     <value>Bỏ qua đọc</value>
   </data>
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
-    <value>Nhấn phím tắt sẽ bỏ qua đọc thông báo hiện tại.</value>
+    <value>Nhấn phím tắt để bỏ qua đọc thông báo hiện tại.</value>
   </data>
   <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
     <value>Kết nối / Ngắt kết nối</value>
@@ -1283,7 +1283,7 @@
     <value>Trang web</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
-    <value>hiển thị thay đổi âm thanh đầu ra</value>
+    <value>Hiển thị thay đổi âm thanh đầu ra</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
     <value>Biểu tượng trở nên trong suốt khi âm thanh đầu ra được chuyển sang loa máy tính.</value>
@@ -1314,5 +1314,62 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>Tắt</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Phát hiện âm lượng tai nghe</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Âm lượng sẽ giảm xuống mức âm lượng đã đặt khi tính năng này được bật</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Âm lượng sẽ giảm xuống mức âm lượng đã đặt khi tính năng này được bật.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Âm lượng tai nghe mặc định</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Âm lượng đã đặt sẽ được áp dụng sau khi kết nối.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Tắt hoạt động</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Nhấn phím nóng sẽ kích hoạt chế độ này nếu «{0}» có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Nhận biết Âm lượng Môi trường xung quanh</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Kích hoạt Chế độ Xuyên âm</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu chế độ «{0}» có sẵn trong cài đặt tai nghe và được hỗ trợ.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Bật chế độ Thích ứng</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu «{0}» có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Bật chống ồn gió</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu «{0}» có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Bật Khử tiếng ồn</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Nhấn phím tắt để kích hoạt chế độ này nếu «{0}» có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Chuyển đổi giữa các phím tắt</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Một số tính năng chỉ hỗ trợ công nghệ H2</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>.Nhấn «{0}» để chuyển đổi giữa các chế độ khử tiếng ồn đã chọn. Các chế độ tai nghe không hỗ trợ sẽ được bỏ qua.</value>
   </data>
 </root>
