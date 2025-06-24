@@ -135,7 +135,7 @@
     <value>Diaktifkan semasa permulaan</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Anda boleh buka atau tutup semula dalam tab permulaan di Pengurus Tugas.</value>
+    <value>Dayakan atau lumpuhkan pelancaran aplikasi semasa Windows bermula.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>Permulaan dilumpuhkan oleh kumpulan polisi, atau tidak disokong oleh peranti ini.</value>
@@ -906,5 +906,44 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>Dimatikan</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
+    <value>Kawalan suara</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_GameMode.Header" xml:space="preserve">
+    <value>Mod permainan</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_GameMode.Description" xml:space="preserve">
+    <value>Boleh juga diaktifkan dengan menekan lima kali pada AirPod kiri atau kanan.</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Fon kepala kemungkinan palsu</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
+    <value>Tetapan kilang</value>
+  </data>
+  <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
+    <value>Lumpuhkan secara automatik Bebas Tangan</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
+    <value>Penyama</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Penandaan fon kepala palsu</value>
+  </data>
+  <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
+    <value>Lumpuhkan Bebas Tangan selepas menyambungkan fon kepala untuk mengelakkan fon kepala daripada bertukar kepada mod Bebas Tangan. Mikrofon akan berhenti berfungsi. Mematikan pilihan akan mendayakan perkhidmatan Bebas Tangan sekali lagi.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
+    <value>AirPods memerlukan tetapan semula kilang untuk digunakan.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
+    <value>AirPods memerlukan tetapan semula kilang untuk digunakan.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Tunjukkan amaran palsu dalam tetapan fon kepala.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
+    <value>Letakkan AirPods dalam bekas, buka penutup kemudian tekan butang kira-kira 10 saat.</value>
   </data>
 </root>
