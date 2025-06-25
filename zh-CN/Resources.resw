@@ -484,7 +484,7 @@
     <value>为获得最佳用户体验，我们建议您启用自动启动。</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
-    <value>已充电</value>
+    <value>电量</value>
   </data>
   <data name="Slider_TextOff" xml:space="preserve">
     <value>关</value>
@@ -712,7 +712,7 @@
     <value>支持与社区</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
-    <value>通过重新启动应用程序来使更改生效。</value>
+    <value>重启程序以应用更改。</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>显示弹窗</value>
@@ -1236,7 +1236,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
-    <value>点亮我</value>
+    <value>浅色主题</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
     <value>文本颜色</value>
@@ -1248,7 +1248,7 @@
     <value>字体大小</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
-    <value>黑暗主题</value>
+    <value>深色主题</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
     <value>字体</value>
@@ -1257,10 +1257,10 @@
     <value>电池电量低时的文本颜色</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
-    <value>灯光主题</value>
+    <value>浅色主题</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
-    <value>黑暗主题</value>
+    <value>深色主题</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
     <value>图标颜色</value>
@@ -1281,7 +1281,7 @@
     <value>音频输出</value>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
-    <value>VoiceOver(旁白)</value>
+    <value>旁白</value>
   </data>
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>连接</value>
@@ -1365,7 +1365,7 @@
     <value>需要重新启动</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
-    <value>重新启动应用程序来保存更改。</value>
+    <value>重启程序以应用更改。</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
     <value>重新启动</value>
