@@ -268,7 +268,7 @@
     <value>當取下一耳時降低音量，或當取下/戴上兩耳時復原音量。</value>
   </data>
   <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
-    <value>支援的撥放器列表</value>
+    <value>支援的播放器列表</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPods 搜尋範圍</value>
@@ -413,7 +413,7 @@
     <value>選擇欲使用旁白通知的應用程式</value>
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>並非列表中的所有應用程式都可以發送通知，某些應用程式可能不在列表中。</value>
+    <value>並非列表中的所有應用程式都可以推送通知，某些應用程式可能不在列表中。</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>全部啟用旁白通知</value>
@@ -530,13 +530,13 @@
     <value>發生意外的錯誤</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>輸入快捷鍵</value>
+    <value>輸入熱鍵</value>
   </data>
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
     <value>包括 Windows 鍵、Shift、Alt 或 Ctrl 鍵</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value>移除快捷鍵</value>
+    <value>移除熱鍵</value>
   </data>
   <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
     <value>自動暫停</value>
@@ -605,13 +605,13 @@
     <value>重新設計的使用者介面、個別耳機設定與更多功能。有些設定值已經變更，請開啟應用程式來自訂這些設定。</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>個人化每一個耳機以符合您的使用習慣</value>
+    <value>依照您的喜好客制化每一副耳機</value>
   </data>
   <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
-    <value>全域快捷鍵用來與耳機連線或中斷連線。</value>
+    <value>全域熱鍵用來與耳機連線或中斷連線。</value>
   </data>
   <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
-    <value>連線快捷鍵</value>
+    <value>連線熱鍵</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
     <value>變更圖示</value>
@@ -710,10 +710,10 @@
     <value>支援與論壇</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
-    <value>使用快捷鍵快速翻譯文字</value>
+    <value>使用熱鍵快速翻譯文字</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
-    <value>重新開啟應用程式以套用更改。</value>
+    <value>重新開啟應用程式以套用更變。</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
     <value>顯示視窗</value>
@@ -725,10 +725,10 @@
     <value>了解更多</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
-    <value>切換音效輸出快捷鍵</value>
+    <value>切換音效輸出熱鍵</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
-    <value>按下快捷鍵時會在音效輸出之間循環。</value>
+    <value>按下熱鍵時會在音效輸出之間循環。</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
     <value>喇叭圖案</value>
@@ -752,7 +752,7 @@
     <value>通透模式</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
-    <value>降躁濾鏡</value>
+    <value>降躁過濾</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>交通</value>
@@ -836,7 +836,7 @@
     <value>普通模式</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
-    <value>讓您同時連接兩個裝置到您的耳機。需要將 AirPods 恢復原廠設定以套用此功能。</value>
+    <value>讓您的耳機同時連接到兩個裝置。需要將 AirPods 恢復原廠設定以套用此功能。</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
     <value>風聲降躁</value>
@@ -866,7 +866,7 @@
     <value>盜版耳機提醒</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
-    <value>可能是盜版的耳機</value>
+    <value>這副耳機可能是盜版的</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
     <value>恢復原廠設定</value>
@@ -878,7 +878,7 @@
     <value>需要將 AirPods 恢復原廠設定以套用此功能。</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
-    <value>需要 AirPods 恢復原廠設定以應用此功能。</value>
+    <value>需要將 AirPods 恢復原廠設定才能套用。</value>
   </data>
   <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
     <value>連接您的耳機以進行更多自訂設定</value>
@@ -926,7 +926,7 @@
     <value>顯示盜版 AirPods 的彈出視窗</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
-    <value>若盜版 AirPods 在藍芽列表內，選擇是否顯示彈出視窗。</value>
+    <value>如果盜版 AirPods 位於藍牙裝置清單中，則顯示或隱藏其彈出視窗。</value>
   </data>
   <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
     <value>充電盒音效</value>
@@ -947,10 +947,10 @@
     <value>取消</value>
   </data>
   <data name="Notification_Updates_Description" xml:space="preserve">
-    <value>點選這裡到 Microsoft 商店。</value>
+    <value>點選這裡前往 Microsoft Store。</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>進入 Windows 設定內的應用程式頁面，到「啟動」並開啟「{0}」。</value>
+    <value>進入 Windows 設定內的應用程式頁面，前往「啟動」並開啟「{0}」。</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
@@ -999,7 +999,7 @@
     <value>環境聲模式</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
-    <value>為您的耳機添加一點魔力</value>
+    <value>為您的耳機增添一點魔力</value>
   </data>
   <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
     <value>購買密鑰</value>
@@ -1008,16 +1008,16 @@
     <value>未找到認證密鑰</value>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
-    <value>認證</value>
+    <value>授權</value>
   </data>
   <data name="Support_Setting_License.HintLink" xml:space="preserve">
-    <value>購買密鑰</value>
+    <value>購買授權金鑰</value>
   </data>
   <data name="Support_Setting_License_Button.Content" xml:space="preserve">
-    <value>輸入密鑰</value>
+    <value>輸入授權金鑰</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
-    <value>認證</value>
+    <value>授權</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
     <value>儲存</value>
@@ -1029,16 +1029,16 @@
     <value>產品密鑰</value>
   </data>
   <data name="License_LicenseKey_Header.Text" xml:space="preserve">
-    <value>認證密鑰</value>
+    <value>授權金鑰</value>
   </data>
   <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
-    <value>粘貼認證密鑰</value>
+    <value>在這裡貼上授權金鑰</value>
   </data>
   <data name="License_KeyNotValid.Text" xml:space="preserve">
-    <value>此認證密鑰不可用。請重新或使用不同認證密鑰。</value>
+    <value>此授權金鑰無效。請重新輸入或使用另一個授權金鑰。</value>
   </data>
   <data name="Support_Setting_License.Description" xml:space="preserve">
-    <value>該應用重新安裝時，認證密鑰需要重新輸入</value>
+    <value>當軟體重新安裝後，需要重新輸入授權金鑰</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
     <value>在{0}頁面中，{1}項目下，購買或輸入現有密鑰</value>
@@ -1048,7 +1048,7 @@
     <value>按下 AirPods Max 上的按鈕或按住 AirPods Pro 上的左 AirPod 或右 AirPod，即可在選定的噪音控制模式之間循環。</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
-    <value>對話感知</value>
+    <value>對話感應</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
@@ -1152,7 +1152,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>按壓速度</value>
+    <value>按下速度</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
@@ -1164,11 +1164,11 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
-    <value>按住時長</value>
+    <value>按住持續時間</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
-    <value>調整按住 AirPods 所需的時間。</value>
+    <value>調整按住 AirPods 所需的持續時間。</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
@@ -1190,11 +1190,11 @@
     <value>當連接耳機時，以下選項將生效。</value>
   </data>
   <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
-    <value>使用一只 AirPod 設定降噪模式</value>
+    <value>使用一隻 AirPod 設定降噪模式</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
-    <value>允許將一只 AirPod 放在耳中時，AirPods 仍可以設定降噪模式。</value>
+    <value>允許將一隻 AirPod 放在耳中時，AirPods 仍可以起動降噪模式。</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
@@ -1230,11 +1230,11 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
-    <value>調整在 AirPods 上連續按壓兩次或三次所需的速度。</value>
+    <value>調整按兩下或三下AirPods所需的速度。</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>調整 AirPods 在沒有播放音頻時播放的音效音量。當「{0}」開啟時，此音量設定將不適用。</value>
+    <value>調整 AirPods 在無音訊播放時播放的音效音量。 「{0}」開啟時，音量不會生效。</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
     <value>淺色模式</value>
@@ -1264,7 +1264,7 @@
     <value>深色模式</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
-    <value>圖標顔色</value>
+    <value>圖示顔色</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
     <value>指示顔色</value>
@@ -1306,7 +1306,7 @@
     <value>按下熱鍵可以開啟或關閉藍牙。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>如果耳機設置中提供了「{0}」，則按下熱鍵可以在不同的噪音消除模式之間切換。</value>
+    <value>如果耳機設定中提供了「{0}」，則按下熱鍵可以在不同的噪音消除模式之間切換。</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>聲音輸出控制</value>
@@ -1318,31 +1318,31 @@
     <value>跳過閱讀</value>
   </data>
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
-    <value>按下熱鍵可以跳過閱讀當前的通知。</value>
+    <value>按下熱鍵可以跳過閱讀目前的通知。</value>
   </data>
   <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
-    <value>連接 / 斷開連接</value>
+    <value>連線 / 中斷連線</value>
   </data>
   <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
-    <value>斷開連接</value>
+    <value>中斷連線</value>
   </data>
   <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
-    <value>串流媒體設備</value>
+    <value>串流媒體裝置</value>
   </data>
   <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
-    <value>按名稱搜尋</value>
+    <value>依名稱搜尋</value>
   </data>
   <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
-    <value>要顯示設備，請開啟藍牙，並等待耳機加載完成</value>
+    <value>要顯示裝置，請開啟藍牙，並等待耳機載入完成</value>
   </data>
   <data name="Menu_Item7.Content" xml:space="preserve">
     <value>熱鍵</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
-    <value>透過免提功能查看充電的電量</value>
+    <value>透過免持功能查看充電的電量</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
-    <value>如果未顯示耳機電量，請使用這個選項。重新連接耳機以應用更改。請注意，語音通信將不可用。</value>
+    <value>如果未顯示耳機電量，請使用此選項。重新連接耳機即可套用變更。語音通話將無法進行。</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
     <value>單個電池圖示</value>
@@ -1351,7 +1351,7 @@
     <value>將聲音輸出切換到耳機</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>在連接後強制將聲音輸出切換到耳機。如果啟用了「{0}」，則此選項不適用。</value>
+    <value>在連線後強制將聲音輸出切換到耳機。如果啟用了「{0}」，則此選項不適用。</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
     <value>需要重新啟動</value>
@@ -1408,19 +1408,19 @@
     <value>更多資訊</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
-    <value>對話感知音量</value>
+    <value>對話感應音量</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
-    <value>音量將在此功能啟用時減少至選定的音量。</value>
+    <value>當此功能觸發時，音量會被調降至指定的音量大小。</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
-    <value>耳機偵測音量</value>
+    <value>離耳偵測音量</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
     <value>音量將在此功能啟用時降低至選定的音量。</value>
   </data>
   <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
-    <value>預設耳機音</value>
+    <value>耳機預設音量</value>
   </data>
   <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
     <value>選定的音量會在連線後套用。</value>
@@ -1438,21 +1438,30 @@
     <value>關閉</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>按下快捷鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
+    <value>按下熱鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>按下快捷鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
+    <value>按下熱鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>按下快捷鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
+    <value>按下熱鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>啟用降噪</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>按下快捷鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
+    <value>按下熱鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>按下快捷鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
+    <value>按下熱鍵可啟用此模式，當「{0}」在耳機設定中可用且支援該模式。</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>H2 晶片某些功能的特徵</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>熱鍵循環切換</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>按下「{0}」熱鍵可在所選的噪音控制模式之間循環切換。耳機不支援的模式將被跳過。</value>
   </data>
 </root>
