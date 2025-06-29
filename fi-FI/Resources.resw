@@ -1350,4 +1350,61 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>Melunvaimennus</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Äänenvoimakkuus lasketaan haluttuun tasoon, kun keskustelun tunnistus on käytössä.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Keskustelun tunnistustuksen äänenvoimakkuus</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Automaattisen korvan tunnistuksen äänenvoimakkuus</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Äänenvoimakkuus laskeutuu valitulle tasolle, kun korvan tunnistus on käytössä.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Oletus äänenvoimakkuus</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Valittu äänenvoimakkuus otetaan käyttöön yhdistämisen jälkeen.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Sammuta melunhallinta</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Aktivoi läpikuuluminen</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Aktivoi mukautuva</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktivoi tuulenesto</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktivoi vastamelu</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Selaa pikanäppäimellä vaihtoehtoja</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Paina «{0}» vaihtaaksesi valittujen melunhallintatilojen välillä. Kuulokkeiden tukemattomat tilat ohitetaan.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Tiettyjen toimintojen käyttäytyminen H2-sirun kanssa</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+  </data>
 </root>
