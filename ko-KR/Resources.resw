@@ -817,16 +817,16 @@
     <value>길게</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
-    <value>풍향음 감소 정도</value>
+    <value>풍향음 (바람 소리) 감소 정도</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
-    <value>낮게</value>
+    <value>낮음</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
     <value>중간</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
-    <value>크게</value>
+    <value>높음</value>
   </data>
   <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
     <value>보이스 컨트롤</value>
@@ -847,7 +847,7 @@
     <value>빠르게</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
-    <value>풍향음 감소</value>
+    <value>풍향음 (바람 소리) 감소</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
     <value>기능을 적용하려면 AirPods 공장 초기화가 필요합니다.</value>
@@ -865,10 +865,10 @@
     <value>가짜 헤드폰 안내 표시</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
-    <value>헤드폰 설정 화면에서 짝퉁 제품 경고를 띄웁니다.</value>
+    <value>헤드폰 설정 화면에 가품 경고를 표시합니다.</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
-    <value>짝퉁 제품일 수도 있습니다</value>
+    <value>짝퉁 제품 (가품) 일 수도 있습니다</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
     <value>누르기 속도</value>
@@ -910,7 +910,7 @@
     <value>AirPods을 길게 누를 때 필요한 시간을 조절합니다.</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
-    <value>AirPods을 케이스 안에 넣은 뒤, 뚜껑을 열고 약 10초간 버튼을 누르고 계세요.</value>
+    <value>AirPods을 케이스에 넣은 후 뚜껑을 열고, 약 10초 동안 버튼을 눌러 주세요.</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
     <value>바람 차단</value>
@@ -1197,7 +1197,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
-    <value>Digital crown</value>
+    <value>Digital Crown</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
@@ -1369,5 +1369,98 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
     <value>주변음 허용</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>재시작</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>재시작 필요</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>웹사이트</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>팝</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>사운드 출력 변경 표시</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>사운드 출력이 컴퓨터 스피커로 변경되면 아이콘이 투명해집니다.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>사운드 출력 변경 표시 불투명도</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>대화 인지 시 볼륨 조절</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>기능이 활성화되면 볼륨이 지정된 값으로 줄어듭니다.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>착용 감지 시 볼륨 조절</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>기능이 활성화되면 볼륨이 선택한 값으로 줄어듭니다.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>기본 헤드폰 볼륨</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>선택한 볼륨이 연결 후에 적용됩니다.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>끔</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>주변음 허용 활성화</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>적응형 활성화</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>노이즈 캔슬링 활성화</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>풍절음 (바람 소리) 제거 활성화</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>단축키로 모드 간 전환하기</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>«{0}» 단축키를 사용해 선택한 노이즈 제어 모드를 순서대로 전환할 수 있으며, 헤드폰에서 지원하지 않는 모드는 제외됩니다.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>H2 칩 탑재 기기에서 일부 기능의 동작 방식</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>변경 사항을 적용하려면 앱을 다시 시작하세요.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>단일 배터리 아이콘</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>사운드 출력을 헤드폰으로 전환</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>헤드폰 연결 시, 사운드 출력을 강제로 헤드폰으로 전환합니다. 단, «{0}»이(가) 활성화되어 있을 경우에는 이 설정이 적용되지 않습니다.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
   </data>
 </root>
