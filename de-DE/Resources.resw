@@ -1390,4 +1390,55 @@
   <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
     <value>Ohrdetektions Lautstärke</value>
   </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Die Lautstärke wird zur ausgewählten Lautstärke reduziert währenddem diese Funktion aktiviert ist.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Standardlautstärke für Kopfhöhrer</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Die ausgewählte Lautstärke wird nach dem verbinden der Kopfhörer ausgewählt.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Transparenz aktivieren</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Adaptiv aktivieren</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktiviere Geräuschunterdrückung.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus verfügbar ist.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Mit Tastenkombination durchschalten</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Drücke die Tastenkombination «{0}», um zwischen den ausgewählten Geräuschkontrollmodi zu wechseln. Nicht unterstützte Modi werden übersprungen.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Verhalten bestimmter Funktionen mit dem H2-Chip.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Lautstärke der Gesprächserkennung</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Deaktivieren</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, sofern «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktivier Wind unterdrückung</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen vorhanden ist und der Modus unterstützt wird.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
+  </data>
 </root>
