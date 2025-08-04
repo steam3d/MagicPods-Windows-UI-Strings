@@ -1406,4 +1406,61 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
     <value>Wind onderdrukking</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Gespreksbewustzijn volume</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Het volume zal worden verlaagd naar het geselecteerde volume wanneer deze functie is geactiveerd.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Oordetectie volume</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Het volume zal worden verlaagd naar het geselecteerde volume als deze functie is geactiveerd.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Standaard koptelefoonvolume</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Het geselecteerde volume is toegepast na verbinding.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Activatie uitgeschakeld</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Drukken op de sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Activeer transparantie</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Adaptieve modus inschakelen</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Het indrukken van de sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Windruisonderdrukking inschakelen</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>De sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus ondersteund wordt.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Activeer ruisonderdrukking</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Gebruik de sneltoets «{0}» om te wisselen tussen de gekozen ruisonderdrukkingsmodi. Niet-ondersteunde modi worden automatisch overgeslagen.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Gedrag van bepaalde functies met de H2-chip</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Het indrukken van de sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>De sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus ondersteund wordt.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Schakelen met behulp van de hotkey</value>
+  </data>
 </root>
