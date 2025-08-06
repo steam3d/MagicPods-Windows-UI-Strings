@@ -1411,4 +1411,61 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Content" xml:space="preserve">
     <value>Adaptif</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Konuşma Farkındalığı sesi</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Bu özellik açıkken ses seviyesi seçili değere düşer.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Kulak algılama sesi</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Bu özellik açıkken ses seviyesi seçili değere düşer.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Varsayılan kulaklık sesi</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Seçili ses seviyesi bağlantıdan sonra uygulanır.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Aktiflikiği Kapat</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Şeffaf modu aktifleştir</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Kısayol tuşuna basmak,{0} bu modu kulaklık ayarlarında destekleniyorsa etkinleştirir.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Adaptif modunu etkinleştir</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>ısayol tuşuna basmak,{0} bu modu kulaklık ayarlarında destekleniyorsa etkinleştirir.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Rüzgar engellemeyi etkinleştir</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Kısayol tuşuna basmak,{0} bu modu kulaklık ayarlarında destekleniyorsa etkinleştirir.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Gürültü engellemeyi etkinleştir</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Kısayol tuşuna basmak,{0} bu modu kulaklık ayarlarında destekleniyorsa etkinleştirir.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Kısayol tuşu ile modlar arasında geçiş yap</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Seçili gürültü kontrol modları arasında geçiş yapmak için kısayol tuşuna basın.{0}Kulaklık tarafından desteklenmeyen modlar atlanacaktır.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>H2 çipi ile alakalı problemler</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Kısayol tuşuna basmak, {0} bu modu kulaklık ayarlarında destekleniyorsa etkinleştirir.</value>
+  </data>
 </root>
