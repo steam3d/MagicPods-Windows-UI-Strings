@@ -223,4 +223,100 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>ஆஃப்</value>
   </data>
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
+    <value>காது கண்டறிதல்</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>ஒலி அளவை குறை</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>ஒலி குறை + வாசி/நிறுத்து</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>மற்றது</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
+    <value>லோ ஆடியோ லேடன்சி</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>உதவி பெறுங்கள்</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>சிக்கலை அறிவிக்கவும்</value>
+  </data>
+  <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
+    <value>டிபக் லாக்</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
+    <value>விரைவான தேடல்</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>தொடக்கம்</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>தொடக்கத்தில் இயக்கவும்</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Windows ஸ்டார்ட்அப்பில் application launch ஆகுறத பாத்து enable அல்லது disable பண்ணலாம்.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>சிஸ்டம் டிரே ஐகான்</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>Battery சதவிகிதத்தை காட்டு</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>ஸ்டைல்</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>சின்னம்</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>உரை</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>"Startup-ai enable seiga</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>உதவி</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>இல்லை</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>ஆமாம்</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>மின்கல சேமிப்பு விவரம்</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>பொது அமைப்புகள்</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>அமைப்புகளை மீட்டமை</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>வாசி / இடைநிறுத்து</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>கணெக்ட் பண்ணப்பட்ட ஹெட்ஃபோன்ஸ்-ஓட அவரேஜ் battery percentage-அ காமிக்கறது.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
+    <value>ஒரு Airpod நீக்கப்படும் போது இயக்கம் இடைநிறுத்தப்படுகிறது, இரண்டும் நீக்கப்பட்டால் அது முழுவதுமாக நிறுத்தப்படுகிறது.</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
+    <value>Premiere Pro அல்லது Audition-ல் வேலை செய்வதில் பயனுள்ளது. Turn on செய்த பிறகு AirPods-ஐ மீண்டும் connect செய்ய வேண்டியது தேவை. இது battery பயன்பாட்டை அதிகரிக்கலாம்.</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
+    <value>AirPods-ஐ தேடும் நேரத்தை குறைக்கும். சுற்றில் வேறு யாரும் AirPods பயன்படுத்தவில்லை என்பதை உறுதியாக அறிந்தபின் இதை Turn On செய்யவும்.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>ஸ்டார்ட்அப் group policy ஆல் disable பண்ணப்பட்டிருக்குது, அல்லது இந்த deviceல support கிடையாது.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>சின்னத்தை மறைக்கவும்</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>மாற்றங்களை பயன்படுத்த செயலியை மீள்துவக்கவும்.</value>
+  </data>
 </root>
