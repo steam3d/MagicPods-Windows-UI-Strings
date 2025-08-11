@@ -70,4 +70,67 @@
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>Hætta í MagicPods?</value>
   </data>
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Spila/Pausa</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Lækka hljóðstyrk</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
+    <value>Spilun stöðvast þegar annar AirPod er fjarlægður eða hættir þegar báðir eru fjarlægðir.</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
+    <value>Lág hljóðseinkun</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
+    <value>Hraðleit</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Hætta</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>Gluggastærð</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>Lítið</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>Miðlungs</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>Stórt</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>Endurstilla stillingar</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>Fáðu aðstoð</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>Tilkynna vandamál</value>
+  </data>
+  <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
+    <value>Villuleitarskrá</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Annað</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Sýna glugga</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Sýna eða fela sprettiglugga, eins og á iPhone þegar þú opnar hulstrið.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
+    <value>Eyrnarskynjun</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Báðir (Lækka hljóðstyrk + Spila/Pausa)</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
+    <value>Minnkar leitinartímann fyrir AirPods. Kveiktu á henni þegar þú ert viss um að enginn annar í kring noti AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
+    <value>Gagnlegt þegar unnið er í Premiere Pro eða Audition. Krefst þess að tengja AirPods aftur eftir að þeim er kveikt. Getur aukið rafhlöðuþörf.</value>
+  </data>
 </root>
