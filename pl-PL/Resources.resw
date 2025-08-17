@@ -1356,4 +1356,58 @@
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
     <value>Głośność podczas rozmawiania</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Głośność zostanie zredukowana do wybranego poziomu, gdy funkcja będzie aktywna.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Głośność wykrywania ucha</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Głośność zostanie zredukowana do wybranego poziomu, gdy funkcja będzie aktywna.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Domyślna głośność słuchawek</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Wybrana głośność jest stosowana po połączeniu.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Aktywacja wyłączona</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Aktywuj adaptację</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Przełączaj pomiędzy za pomocą klawisza skrótu</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Naciśnij klawisz skrótu "{0}", aby przełączać się między wybranymi trybami kontroli hałasu. Tryby nieobsługiwane przez słuchawki zostaną pominięte.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Zachowanie niektórych funkcji z czipem h2</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktywuj redukcję hałasu</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Aktywuj tryb kontaktu</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktywuj redukcję hałasu wiatru</value>
+  </data>
 </root>
