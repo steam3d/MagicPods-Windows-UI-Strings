@@ -674,7 +674,7 @@
     <value>Tecla predeterminada para cambiar la salida de audio</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
-    <value>Presionando la tecla predeterminada se modificará la salida de audio.</value>
+    <value>Presionando el atajo de teclado se modificará la salida de audio.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
     <value>Imagen del altavoz</value>
@@ -686,10 +686,10 @@
     <value>El chip aún no es compatible</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
-    <value>Cancelación de Ruido</value>
+    <value>Cancelación de ruido</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
-    <value>Cancelación de Ruido</value>
+    <value>Cancelación de ruido</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>Apagado</value>
@@ -752,7 +752,7 @@
     <value>Meditación</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
-    <value>Tecla de supresión de ruido</value>
+    <value>Atajo de teclado para cambiar la cancelación de ruido</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
     <value>Al pulsar la tecla de acceso rápido se pasa por los modos de cancelación de ruido.</value>
@@ -1379,5 +1379,35 @@
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
     <value>Presionar la tecla seleccionada activa este modo si «{0}» está disponible en la configuración de los auriculares y el modo es compatible.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Activar cancelación de ruido del viento</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Activar modo adaptativo</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Activar cancelación de ruido</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Alternar con la tecla de acceso rápido</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Presione la tecla de acceso rápido«{0}»para alternar entre los modos de control de ruido seleccionados. Los modos no compatibles con los auriculares serán omitidos.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Comportamiento de ciertas funciones con el chip H2</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Presione el atajo de teclado para activar este modo si «{0}» está disponible en la configuración de los auriculares y el modo es compatible.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Presione el atajo de teclado para activar este modo si «{0}» está disponible en la configuración de los auriculares y el modo es compatible.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Presione el atajo de teclado para activar este modo si «{0}» está disponible en la configuración de los auriculares y el modo es compatible.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Presione el atajo de teclado para activar este modo si «{0}» está disponible en la configuración de los auriculares y el modo es compatible.</value>
   </data>
 </root>
