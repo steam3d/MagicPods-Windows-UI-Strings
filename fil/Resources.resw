@@ -1315,4 +1315,61 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>Naka-off</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Ang lakas ng tunog ay mababawasan sa piniling lakas habang buhay ang opsyon.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Ang lakas ng tunog ay mababawasan sa piniling lakas habang buhay ang opsyon.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Default na lakas ng tunog ng headphone</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Ang napiling lakas ng tunog ay mailalapat pagkatapos makakonekta.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>I-activate ang off</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Lakas ng tunog ng Conversation awareness</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Lakas ng tunog ng paglagay sa tainga</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Buhayin ang pagkansela sa hangin</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Buhayin ang adaptive</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Buhayin ang transparency</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Buhayin ang pagkansela sa ingay</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Mamili gamit ang napiling pindutan</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Pindutin ang napiling pindutan ng «{0}» upang mamili sa mga napiling mode ng pagkontrol sa ingay. Ang mga mode na hindi suportado ng headphones ay lalaktawan.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Ugali ng ilang pag-andar gamit ang H2 chip</value>
+  </data>
 </root>
