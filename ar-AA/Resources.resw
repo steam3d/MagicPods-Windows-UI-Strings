@@ -1297,7 +1297,7 @@
     <value>يصبح الرمز شفافًا عند تغيير مخرج الصوت إلى مكبرات الصوت الخاصة بالكمبيوتر.</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
-    <value>الشفافية</value>
+    <value>التعتيم</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
     <value>تبديل مخرج الصوت إلى السماعات</value>
@@ -1355,5 +1355,8 @@
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
     <value>انقر للمزيد</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>مستوى صوت وعي المحادثة</value>
   </data>
 </root>
