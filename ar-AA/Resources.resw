@@ -1357,6 +1357,60 @@
     <value>انقر للمزيد</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
-    <value>مستوى صوت وعي المحادثة</value>
+    <value>مستوى صوت التنبيه للمحادثة</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>مؤشر كشف الأذن</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>سيتم خفض مستوى الصوت إلى مستوى الصوت المحدد عند تفعيل الميزة.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>مستوى سماعة الرأس الافتراضي</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>سيتم تطبيق المستوى المحدد بعد الارتباط.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>التفعيل متوقف</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>تفعيل الشفافية</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى تفعيل هذا الوضع إذا كان «{0}» متاحًا في إعدادات سماعة الرأس وكان الوضع مدعومًا.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>تفعيل التكيف</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>تفعيل إلغاء الرياح</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى تفعيل هذا الوضع إذا كان «{0}» متاحًا في إعدادات سماعة الرأس وكان الوضع مدعومًا.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>تفعيل خاصية إلغاء الضوضاء</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>التنقل بين مفاتيح التشغيل السريع</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>اضغط على مفتاح التشغيل السريع «{0}» للتبديل بين أوضاع التحكم في الضوضاء المحددة. سيتم تخطي الأوضاع غير المدعومة في سماعات الرأس.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>سلوك بعض الوظائف مع شريحة h2</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>سيتم خفض مستوى الصوت إلى مستوى الصوت المحدد عند تفعيل الميزة.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى تنشيط هذا الوضع إذا كان «{0}» متاحًا في إعدادات سماعة الرأس وكان الوضع مدعومًا.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى تفعيل هذا الوضع إذا كان «{0}» متاحًا في إعدادات سماعة الرأس وكان الوضع مدعومًا.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى تفعيل هذا الوضع إذا كان «{0}» متاحًا في إعدادات سماعة الرأس وكان الوضع مدعومًا.</value>
   </data>
 </root>
