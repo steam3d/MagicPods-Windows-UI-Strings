@@ -574,4 +574,25 @@
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
     <value>Add device</value>
   </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Set default image</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Turn on</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>More information</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth connection not available</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Plug in Bluetooth dongle</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>More than one Bluetooth dongle connected</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Leave only one Bluetooth dongle plugged in</value>
+  </data>
 </root>
