@@ -734,4 +734,16 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
     <value>vindreduktion</value>
   </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Forbindelsen til streaming-enheden mislykkedes. Sørg for, at Bluetooth er aktiveret på streaming-enheden.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>Stream lyd fra Bluetooth-enheder til PC'en. PC'en fungerer som en Bluetooth-højttaler.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
+    <value>Tilføj en ny enhed</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
+    <value>Dæmp lyden fra streaming-enheden, når lydudgangen skiftes til pc-højttalere.</value>
+  </data>
 </root>
