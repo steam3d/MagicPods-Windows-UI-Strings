@@ -182,7 +182,7 @@
     <value>Drikkepenge</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Angiv ikke en værdi, der er større end 65. I nogle tilfælde kan animationen blive vist ved et uheld.</value>
+    <value>Indstil ikke en værdi større end 65, da animationen ellers kan vises utilsigtet.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Opret automatisk forbindelse</value>
@@ -745,5 +745,632 @@
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
     <value>Dæmp lyden fra streaming-enheden, når lydudgangen skiftes til pc-højttalere.</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Fællesskab</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Support og fællesskab</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Oversæt hurtigt tekst med en genvejstast</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Vis vindue</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Højttalerbillede</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Det kan hjælpe at genstarte appen</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Audio streaming</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
+    <value>Automatisk lydløs</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Streaming-enhed</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Lydudgang</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Vis pop op-vindue, når lydudgangen ændres.</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>Midten øverst</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>Midten nederst</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Tilslut en Bluetooth-adapter med Bluetooth LE-understøttelse, og genstart applikationen</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Ingen parrede enheder eller Bluetooth slået fra</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Start er deaktiveret af gruppepolitik eller understøttes ikke på denne enhed.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Startup deaktiveret af gruppepolitik</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Annuller</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Søg efter opdateringer</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Klik her for at gå til Microsoft Store.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Vis eller skjul pop op-vindue for falske AirPods, hvis de er på listen over Bluetooth-enheder.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Tilføj lidt magi til dine hovedtelefoner</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Genstart påkrævet</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Genstart applikationen for at anvende ændringerne.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Genstart</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Annuller</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Køb nøgle</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Licensnøgle ikke fundet</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>Køb eller indtast en eksisterende nøgle på siden «{0}» under «{1}»</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Licens</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Indtast nøgle</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Licens</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Gem</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Annuller</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Produktnøgle</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Licensnøgle</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Indsæt licensnøglen her</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Licensnøglen skal indtastes igen, efter at applikationen er geninstalleret</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Tilslut / Afbryd</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Afbryd</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Søg efter navn</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Hurtigtaster</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Ikon for enkelt batteri</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth-styring</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>Støjkontrol</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten skifter du mellem støjreduktionsindstillingerne, hvis «{0}» er tilgængelig i hovedtelefonindstillingerne.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Lydudgang</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Lydudgangskontrol</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten skifter du mellem lydudgangene.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Spring læsning over</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Mørkt</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Lys</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Skrifttype</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Skriftstørrelse</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Tekstfarve</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Tekstfarve, når batteriet oplades</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Tekstfarve ved lavt batteriniveau</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Lys</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Mørkt</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Ikonfarve</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikatorfarve</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikatorfarve, når batteriet oplades</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Indikatorfarve ved lavt batteriniveau</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Skrifttype ikke fundet</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Vis ændring af lydudgang</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Ikonet bliver gennemsigtigt, når lydudgangen skiftes til computerhøjttalerne.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Opacitet</value>
+  </data>
+  <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
+    <value>Eksperimentel funktion</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
+    <value>Chip</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
+    <value>Firmware</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Hint" xml:space="preserve">
+    <value>Chippen understøttes endnu ikke</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
+    <value>Støjreduceringsfilter</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Trafik</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Indendørs</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Meditation</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten skifter du mellem støjreduktionsfunktionerne.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
+    <value>Hovedsporing</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
+    <value>Bær begge AirPods inden brug.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Fast</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Hovedsporing</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
+    <value>Venstre AirPod tryk og hold nede</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Støjkontrol (ANC/Fra/Tran.)</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LeftAirPod_Sensitivity.Header" xml:space="preserve">
+    <value>Venstre AirPod-følsomhed</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
+    <value>Presshastighed</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
+    <value>Juster den ønskede hastighed ved at trykke to eller tre gange på venstre AirPod og højre AirPod.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Hurtigere</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Langsommere</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
+    <value>Langt tryk</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Kortere</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Længere</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
+    <value>Forbedret multipunktsforbindelse</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Understøtter samtidig tilslutning til flere enheder</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Normaltilstand</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
+    <value>Reduktion af vindstøj</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
+    <value>AirPods skal nulstilles til fabriksindstillingerne for at kunne anvendes.</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Det kunne være falske hovedtelefoner</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
+    <value>Fabriksindstilling</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
+    <value>Placer AirPods i etuiet, åbn låget og tryk på knappen i ca. 10 sekunder.</value>
+  </data>
+  <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
+    <value>Deaktiver automatisk håndfri-funktionen</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
+    <value>Equalizer</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ.Description" xml:space="preserve">
+    <value>Tænd for musikken, før du ændrer indstillingen.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
+    <value>Etui-lyde</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Live show</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Biografstereo</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Scenerytme</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Klassik</value>
+  </data>
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
+    <value>Omgivende lydstyrke</value>
+  </data>
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Description" xml:space="preserve">
+    <value>Jo højere værdien er, desto bedre kan omgivelserne høres.</value>
+  </data>
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Header" xml:space="preserve">
+    <value>Fokus på stemmen</value>
+  </data>
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Description" xml:space="preserve">
+    <value>Folks stemmer vil blive hørt, og omgivende støj vil blive dæmpet.</value>
+  </data>
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Header" xml:space="preserve">
+    <value>Gem indstillinger</value>
+  </data>
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Description" xml:space="preserve">
+    <value>Gem indstillingerne for omgivende lyd i hovedtelefonernes hukommelse.</value>
+  </data>
+  <data name="Support_Setting_License.HintLink" xml:space="preserve">
+    <value>Køb nøgle</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
+    <value>Støjkontrol</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
+    <value>Skift mellem</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
+    <value>Tryk på knappen på AirPods Max, eller tryk og hold på venstre eller højre AirPod på AirPods Pro for at skifte mellem de valgte støjkontroltilstande.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
+    <value>Personlig lydstyrke</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Description" xml:space="preserve">
+    <value>Juster medievolumenet i forhold til dit miljø.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Left.Header" xml:space="preserve">
+    <value>Dobbeltklik på venstre AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Right.Header" xml:space="preserve">
+    <value>Dobbeltklik på højre AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Afspil/Pause</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>Næste spor</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>Forrige spor</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>Digital krone</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>Bagfra og frem</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>Forfra og bagfra</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
+    <value>Afslut opkald/Dæmp og ophæv dæmpning</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>Tryk én gang/Tryk to gange</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>Tryk to gange/Tryk en gang</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
+    <value>Mikrofon</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>Automatisk</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>Altid højre AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>Altid venstre AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
+    <value>Presshastighed</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>Juster den hastighed, der kræves for at trykke to eller tre gange på dine AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Langsommere</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>Langsomste</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>Tryk og hold nede varighed</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>Juster den tid, det tager at trykke og holde nede på dine AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Skift lydudgang til hovedtelefoner</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Tving lydudgangen til at skifte til hovedtelefonerne efter tilslutning. Denne indstilling gælder ikke, hvis «{0}» er aktiveret.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>Kortere</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>Korteste</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>Støjreduktion med én AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>Tonevolumen</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
+    <value>Justerer lydstyrken for lydeffekter, der afspilles af AirPods, når der ikke afspilles lyd. Når «{0}» er aktiveret, anvendes lydstyrken ikke.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>Administrer hovedtelefoner</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
+    <value>Når hovedtelefoner er tilsluttet, gælder nedenstående muligheder.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Lydstyrke for samtaleopmærksomhed</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Lydstyrken reduceres til den valgte lydstyrke, mens funktionen er aktiv.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Lydstyrke for øredetektion</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Lydstyrken reduceres til den valgte lydstyrke, mens funktionen er aktiv.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Standardhovedtelefonvolumen</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Den valgte lydstyrke anvendes efter tilslutning.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Aktiver Fra</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten aktiveres denne tilstand, hvis «{0}» er tilgængelig i hovedtelefonindstillingerne, og tilstanden understøttes.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Aktivér gennemsigtighed</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Aktivér adaptiv</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten aktiveres denne tilstand, hvis «{0}» er tilgængelig i hovedtelefonindstillingerne, og tilstanden understøttes.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktivér vindstøjreduktion</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten aktiveres denne tilstand, hvis «{0}» er tilgængelig i hovedtelefonindstillingerne, og tilstanden understøttes.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktivér støjreduktion</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Skift mellem med hurtigtasten</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Tryk på hurtigtasten «{0}» for at skifte mellem de valgte støjkontroltilstande. Tilstande, der ikke understøttes af hovedtelefonerne, springes over.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Adfærd for visse funktioner med h2-chippen</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Håndfri-funktionen (talekommunikation) på hovedtelefonerne vil ikke være tilgængelig. De må ikke deaktivere håndfri-funktionen manuelt. Genstart applikationen for at anvende ændringerne.</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Oversæt ansøgning</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Bliv medlem af vores community, rapporter fejl, hold dig opdateret om nyheder, opdateringer og diskussioner</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Skift lydudgang med hurtigtast</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Genstart applikationen for at anvende ændringerne.</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Nulstil til standardindstillinger</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten skifter du mellem lydudgangene.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Skift støjreduktionsgenvejstast</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_RightAirPod_Sensitivity.Header" xml:space="preserve">
+    <value>Højre AirPod-følsomhed</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
+    <value>Juster den tid, hvor du trykker og holder venstre AirPod og højre AirPod nede.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
+    <value>Giver dig mulighed for at tilslutte to enheder samtidigt til dine hovedtelefoner. Kræver fabriksindstilling af AirPods for at kunne anvendes.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Vis en advarsel i hovedtelefonindstillingerne om, at de er falske.</value>
+  </data>
+  <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
+    <value>Deaktiver håndfri-tilstand efter tilslutning af hovedtelefoner for at forhindre automatisk skift til håndfri-tilstand. Dette deaktiverer mikrofonen. Deaktivering af denne indstilling genaktiverer håndfri-funktionen.</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Streaming-enheder</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>For at vise enheder skal du aktivere Bluetooth og vente på, at hovedtelefonerne indlæses</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten aktiveres denne tilstand, hvis «{0}» er tilgængelig i hovedtelefonindstillingerne, og tilstanden understøttes.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten aktiveres denne tilstand, hvis «{0}» er tilgængelig i hovedtelefonindstillingerne, og tilstanden understøttes.</value>
+  </data>
+  <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
+    <value>Tilslut dine hovedtelefoner for flere tilpasningsmuligheder</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Vis vindue for falske AirPods</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Brug denne indstilling, hvis opladningen af hovedtelefonerne ikke vises. Tilslut hovedtelefonerne igen for at anvende ændringerne. Talekommunikation vil ikke være tilgængelig.</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>Licensnøglen er ikke gyldig. Prøv igen eller brug en anden licensnøgle.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
+    <value>Bevidsthed om samtaler</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>Tillad, at AirPods sættes i støjreduktionsfunktion, når du kun har én AirPod i øret.</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på hurtigtasten slås Bluetooth til eller fra.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
+    <value>Følsomhed over for reduktion af vindstøj</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Gå til Oppstart</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Åbn Windows-indstillinger på siden Applikationer, gå til Start og aktiver {0}.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
+    <value>Den aktive AirPod-mikrofon kan automatisk skifte fra venstre til højre eller fastgøres til den ene side.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Ved at trykke på genvejstasten springes den aktuelle notifikation over.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Mærk falske høretelefoner</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_CaseSounds.Description" xml:space="preserve">
+    <value>Læg AirPods i etuiet, hold etuiets låg åbent, og vent, indtil lyset på etuiet slukkes. Slå funktionen fra/til, tag AirPods ud, mens du holder etuiets låg åbent, vent mindst 2 sekunder, læg AirPods i etuiet igen, og vent, indtil lyset på etuiet slukkes.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Luk</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Startup deaktiveret manuelt</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Opdatering tilgængelig</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Opladningsniveau via håndfri</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
+    <value>Sænker medievolumen og reducerer baggrundsstøj, når du begynder at tale med andre mennesker.</value>
   </data>
 </root>
