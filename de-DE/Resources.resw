@@ -157,22 +157,22 @@
     <value>Lautstärke verringern</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
-    <value>Beides (Lautstärke verinngern + Abspielen/Pausieren)</value>
+    <value>Beides (Lautstärke verringern+ Abspielen/Pausieren)</value>
   </data>
   <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
-    <value>Abgespieltes Audio wird pausiert, wenn du einen AirPod aus deinem Ohr nimmst oder gestoppt, wenn du beide ablegst.</value>
+    <value>Abgespielte Musik wird pausiert, wenn du einen AirPod aus deinem Ohr nimmst oder gestoppt, wenn du beide ablegst.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Anderes</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
-    <value>Geringe Audio Latenz</value>
+    <value>niedrige Audio Latenz</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>Nützlich, wenn in Premiere Pro oder Audition gearbeitet wird. Ein erneutes Verbinden der AirPods ist nach der Aktivierung nötig. Möglicherweise erhöht sich der Energieverbrauch.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
-    <value>Hilfe aufrufen</value>
+    <value>Hilfe erhalten</value>
   </data>
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>Fehler melden</value>
@@ -268,7 +268,7 @@
     <value>Die Lautstärke wird verringert, wenn du einen AirPod aus deinem Ohr nimmst und wieder erhöht, wenn du wieder beide trägst.</value>
   </data>
   <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
-    <value>Liste der unterstützen Programme</value>
+    <value>Liste der unterstützten Programme</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
     <value>AirPods Suchradius</value>
@@ -277,7 +277,7 @@
     <value>Wenn das Pop-up nicht angezeigt wird, öffne das Case mit deinen AirPods und schiebe den Slider nach rechts, bis die Animation zu sehen ist.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
-    <value>Was ist Suchradius?</value>
+    <value>Was ist der Suchradius?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>Tipp</value>
@@ -286,7 +286,7 @@
     <value>Stelle keinen höheren Wert als 65 ein, da die Animation sonst unbeabsichtigt erscheinen könnte.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Zeige „Verbinden“- Schaltfläche</value>
+    <value>Zeige "Verbinden"- Schaltfläche</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>Zeige oder verstecke die "Verbinden"-Schaltfläche im Pop-up. Bei Betätigung der Schaltfläche werden die AirPods verbunden.</value>
@@ -346,7 +346,7 @@
     <value>Schließen</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
-    <value>Beim herausnehmen beider AirPods, das Ausgabegerät auf Standardlautsprecher ändern.</value>
+    <value>Beim herausnehmen beider AirPods das Ausgabegerät auf das Standardausgabegerät ändern.</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>Suche nach AirPods</value>
@@ -385,7 +385,7 @@
     <value>VoiceOver-Benachrichtigungen</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
-    <value>Wähl eine Stimme</value>
+    <value>Wähle eine Stimme</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
     <value>Der Sprecher kann den Text nur in einer Sprache vorlesen.</value>
@@ -430,13 +430,13 @@
     <value>Eine neue Stimme hinzufügen</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Für die beste Benutzererfahrung, empfehlen wir das Aktivieren von Autostart. Dies ist im Reiter "Autostart" des Task-Managers möglich.</value>
+    <value>Für die beste Benutzererfahrung empfehlen wir das Aktivieren von Autostart. Dies ist im Reiter "Autostart" des Task-Managers möglich.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Durchgehende Suche</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
-    <value>AirPods konnte nicht gefunden werden</value>
+    <value>AirPods konnten nicht gefunden werden</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Befolge diese Anleitung, um das Problem zu beheben.</value>
@@ -484,7 +484,7 @@
     <value>Akkustand</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>Wir empfehlen das Aktivieren von Autostart, für eine bessere benutzererfahrung.</value>
+    <value>Wir empfehlen das Aktivieren von Autostart für eine bessere Benutzererfahrung.</value>
   </data>
   <data name="Slider_TextOff" xml:space="preserve">
     <value>Aus</value>
@@ -508,7 +508,7 @@
     <value>Neustart</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
-    <value>Drücke hier zum bearbeiten</value>
+    <value>Zum Bearbeiten hier drücken</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
     <value>Mehrere Verbindungen</value>
@@ -532,7 +532,7 @@
     <value>Tastenkombination eingeben</value>
   </data>
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Inklusive Win, Umschalt, Alt oder Strg Taste</value>
+    <value>Verwende Win, Umschalt, Alt oder Strg Taste</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>Tastenkombination entfernen</value>
@@ -589,7 +589,7 @@
     <value>Kopiere Text aus jedem Bild</value>
   </data>
   <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
-    <value>Renne, springe und ducke dich in einem gefährlichen Abenteuer Spiel</value>
+    <value>Renne, springe und ducke dich in einem gefährlichen Abenteuerspiel</value>
   </data>
   <data name="Support_Setting_Weblate.Description" xml:space="preserve">
     <value>Übersetze, bearbeite oder ergänze neue Sprachen</value>
@@ -604,13 +604,13 @@
     <value>Kopple die Kopfhörer mit diesem Computer und starte diese App neu</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
-    <value>Wie man Kopfhörer koppelt</value>
+    <value>Wie koppelt man Kopfhörer</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
     <value>Bluetooth LE nicht unterstützt</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>Es sind zwei oder mehr Kopfhörer verbunden, lass nur eine Verbindung bestehen</value>
+    <value>Es sind zwei oder mehr Kopfhörer verbunden, lasse nur eine Verbindung bestehen</value>
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>Bild zurücksetzen</value>
@@ -721,7 +721,7 @@
     <value>Mehr erfahren</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
-    <value>Ändere die Audioausgabe Tastenkombination</value>
+    <value>Ändere Tastenkombination für die Audioausgabe</value>
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
     <value>Auf Werkseinstellungen zurücksetzen</value>
@@ -763,7 +763,7 @@
     <value>Hotkey für Geräuschunterdrückung umschalten</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
-    <value>Verfolgung des Kopfes</value>
+    <value>Kopferfassung</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
     <value>Trage beide AirPods vor der Verwendung.</value>
@@ -775,13 +775,13 @@
     <value>Fixiert</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
-    <value>Kopf verfolgt</value>
+    <value>Kopferfassung</value>
   </data>
   <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
-    <value>Linker AirPod drücken und halten</value>
+    <value>Linken AirPod drücken und halten</value>
   </data>
   <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
-    <value>Rechter AirPod drücken und halten</value>
+    <value>Rechten AirPod drücken und halten</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>Sprachassistent</value>
@@ -811,7 +811,7 @@
     <value>Langsamer</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
-    <value>Langes drücken</value>
+    <value>Langes Drücken</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
     <value>Passe die Zeit für drücken und halten des linken und rechten AirPods an.</value>
@@ -841,7 +841,7 @@
     <value>Empfindlichkeit der Windgeräuschunterdrückung</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
-    <value>Tief</value>
+    <value>Niedrig</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
     <value>Mittel</value>
@@ -877,10 +877,10 @@
     <value>Ermöglicht es dir, zwei Geräte gleichzeitig mit deinen Kopfhörern zu verbinden. AirPods müssen auf Werkseinstellungen zurückgesetzt werden, um dies nutzen zu können.</value>
   </data>
   <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
-    <value>Automatisch Freisprecheinrichtung deaktivieren</value>
+    <value>Automatische Freisprecheinrichtung deaktivieren</value>
   </data>
   <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
-    <value>Deaktiviere die Freisprechfunktion nach dem Anschließen des Kopfhörers, um zu verhindern, dass der Kopfhörer in den Freisprechmodus wechselt. Das Mikrofon funktioniert dann nicht mehr. Wenn die Option deaktiviert wird, wird die Freisprechfunktion wieder aktiviert.</value>
+    <value>Deaktiviere die Freisprechfunktion nach dem Anschließen des Kopfhörers, um zu verhindern, dass der Kopfhörer in den Freisprechmodus wechselt. Das Mikrofon funktioniert dann nicht mehr. Wenn die Option deaktiviert ist, wird die Freisprechfunktion wieder aktiviert.</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
     <value>Equalizer</value>
@@ -901,7 +901,7 @@
     <value>Durch Drücken der Tastenkombination werden die verschiedenen Modi der Geräuschunterdrückung durchlaufen.</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
-    <value>Stellen Sie die Geschwindigkeit ein, die erforderlich ist, um den linken AirPod und den rechten AirPod zwei- oder dreimal zu drücken.</value>
+    <value>Stelle die Geschwindigkeit ein, die erforderlich ist, um den linken AirPod und den rechten AirPod zwei- oder dreimal zu drücken.</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
     <value>Erkennung von gefälschten Kopfhörern</value>
@@ -919,7 +919,7 @@
     <value>Klassisch</value>
   </data>
   <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
-    <value>Case Töne</value>
+    <value>Ladecase-Töne</value>
   </data>
   <data name="Headphones_Setting_Airoha_CaseSounds.Description" xml:space="preserve">
     <value>Platziere die AirPods im Gehäuse, lasse den Deckel geöffnet und warte bis das Licht am Gehäuse aus geht. Schalte die Option aus/ein, nimm die AirPods aus dem Gehäuse während es geöffnet bleibt, warte min. 2 Sekunden und platziere sie wieder im Gehäuse. Warte anschließend, bis das Licht ausgeht.</value>
@@ -940,7 +940,7 @@
     <value>Abbrechen</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
-    <value>Zum Startup gehen</value>
+    <value>Zu Autostart gehen</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
     <value>Geräuschunterdrückung</value>
@@ -961,10 +961,10 @@
     <value>Schließen</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
-    <value>Autostart deaktiviert durch Gruppenrichtlinien</value>
+    <value>Autostart durch Gruppenrichtlinien deaktiviert</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Öffne die Windows Einstellungen auf der Anwendungsseite, gehe zu «Hochfahren» und aktivere «{0}».</value>
+    <value>Öffne die Windows Einstellungen auf der Anwendungsseite, gehe zu «Autostart» und aktivere «{0}».</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
@@ -992,16 +992,16 @@
     <value>Hier klicken, um den Microsoft Store zu besuchen.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
-    <value>Start manuell deaktiviert</value>
+    <value>Autostart manuell deaktiviert</value>
   </data>
   <data name="Headphones_Setting_Sony_SaveAmbientSettings.Description" xml:space="preserve">
-    <value>Speichern Sie die Einstellungen für Umgebungsgeräusche im Speicher der Kopfhörer.</value>
+    <value>Speichere die Einstellungen für Umgebungsgeräusche im Speicher der Kopfhörer.</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Gib deinen Kopfhörern ein bisschen Magie</value>
   </data>
   <data name="Support_Setting_License.Description" xml:space="preserve">
-    <value>Der Lizenzschlüssel muss erneut angegeben werden nach dem das Programm neu installiert wurde</value>
+    <value>Der Lizenzschlüssel muss erneut angegeben nach der Neuinstallation des Programmes eingegeben werden</value>
   </data>
   <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
     <value>Lizenzschlüssel kaufen</value>
@@ -1111,7 +1111,7 @@
     <value>Drücke den Knopf auf den AirPods Max oder drücke und halte den linken oder rechten AirPod von AirPods Pro um zwischen den Geräuschmodi zu wechseln.</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
-    <value>Fortsetzen/Pause</value>
+    <value>Play/Pause</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
@@ -1160,10 +1160,10 @@
     <value>Immer der rechte AirPod</value>
   </data>
   <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
-    <value>einmal drücken/zweimal drücken</value>
+    <value>einmal Drücken/zweimal Drücken</value>
   </data>
   <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
-    <value>zweimal drücken/einmal drücken</value>
+    <value>zweimal Drücken/einmal Drücken</value>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
     <value>Automatisch</value>
@@ -1193,7 +1193,7 @@
     <value>Langsamer</value>
   </data>
   <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
-    <value>Erlaubt es die Geräuschunterdrückung zu aktivieren, wenn nur ein AirPod in deinen Ohren ist.</value>
+    <value>Erlaubt es die Geräuschunterdrückung zu aktivieren, wenn nur ein AirPod im Ohr ist.</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
     <value>Sichtbarkeit</value>
@@ -1241,13 +1241,13 @@
     <value>Tastenkombinationen</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
-    <value>Einzelnes Batteriicon</value>
+    <value>Einzelnes Batterieicon</value>
   </data>
   <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
     <value>Durch drücken des Hotkeys wird Bluetooth an- oder ausgeschaltet.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
-    <value>Helles thema</value>
+    <value>Hell</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
     <value>Schriftart</value>
@@ -1268,7 +1268,7 @@
     <value>Icon Farbe</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
-    <value>Dunkles thema</value>
+    <value>Dunkel</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
     <value>Hell</value>
@@ -1388,16 +1388,16 @@
     <value>Die Lautstärke wird zur ausgewählten Lautstärke reduziert während diese Funktion aktiviert ist.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
-    <value>Ohrdetektions Lautstärke</value>
+    <value>Lautstärke für Trageerkennung</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
-    <value>Die Lautstärke wird zur ausgewählten Lautstärke reduziert währenddem diese Funktion aktiviert ist.</value>
+    <value>Die Lautstärke wird zur ausgewählten Lautstärke reduziert während diese Funktion aktiviert ist.</value>
   </data>
   <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
     <value>Standardlautstärke für Kopfhöhrer</value>
   </data>
   <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
-    <value>Die ausgewählte Lautstärke wird nach dem verbinden der Kopfhörer ausgewählt.</value>
+    <value>Die ausgewählte Lautstärke wird nach dem Verbinden der Kopfhörer ausgewählt.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Transparenz aktivieren</value>
@@ -1430,7 +1430,7 @@
     <value>Das Drücken der Tastenkombination aktiviert diesen Modus, sofern «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
-    <value>Aktivier Wind unterdrückung</value>
+    <value>Aktiviere Wind Unterdrückung</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
     <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen vorhanden ist und der Modus unterstützt wird.</value>
