@@ -216,7 +216,7 @@
     <value>啟用開機啟動</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
-    <value>關閉MagicPods</value>
+    <value>退出</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
     <value>實驗功能</value>
@@ -291,7 +291,7 @@
     <value>要退出 MagicPods 嗎？</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>關閉</value>
+    <value>退出</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
     <value>取消</value>
@@ -1510,5 +1510,101 @@
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
     <value>了解更多</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>需要重新開機</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>重新開機</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>當音效輸出轉去電腦喇叭嘅時候，個圖示會變透明。</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>唔透明</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>對話感知音量</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>啟用呢個功能嘅時候，音量會降到所選音量。</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>入耳偵測音量</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>啟用呢個功能嘅時候，音量會降到所選音量。</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>預設耳機音量</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>連接後會套用所選音量。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>關閉啟動</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>啟動通透模式</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>如果耳機設定入面有 «{0}» 同呢個模式受支持，按快捷鍵就可以啟動呢個模式。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>啟動自適應模式</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>如果耳機設定入面有 «{0}» 同呢個模式受支持，按快捷鍵就可以啟動呢個模式。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>啟動風噪消除</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>啟動降噪</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>如果耳機設定入面有 «{0}» 同呢個模式受支持，按快捷鍵就可以啟動呢個模式。</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>用快捷鍵循環切換</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>按 «{0}» 快捷鍵喺選定嘅降噪模式之間循環切換。耳機唔支持嘅模式會被跳過。</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
+    <value>通透模式</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Content" xml:space="preserve">
+    <value>自適應模式</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
+    <value>風噪消除</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>降噪</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>帶有 H2 晶片嘅某啲功能表現</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>顯示音效輸出切換</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>要重新開程式先至生效更改。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>如果耳機設定入面有 «{0}» 並且呢個模式受支持，按快捷鍵就可以啟動呢個模式。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>如果耳機設定入面有 «{0}» 同呢個模式受支持，按快捷鍵就可以啟動呢個模式。</value>
   </data>
 </root>
