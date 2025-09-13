@@ -813,7 +813,7 @@
     <value>Средна</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
-    <value>Висока</value>
+    <value>Високo</value>
   </data>
   <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
     <value>Гласов контрол</value>
@@ -1108,5 +1108,278 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
     <value>Прозрачност</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>Предишна песен</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>Digital crown</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Изисква се рестартиране</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Рестартирайте приложението, за да приложите промените.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Рестартирайте</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Отказ</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>Поп</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Сайт</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth управление</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Пропуснете четенето</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Натискането на клавишната комбинация пропуска четенето на текущото известие.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Свързване / Прекъсване на връзката</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Прекъснете връзката</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Търсене по име</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Бързи клавиши</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Натискането на клавишната комбинация включва или изключва Bluetooth.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Тъмна тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Шрифт</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Размер на шрифта</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвят на текста</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвят на текста при зареждане на батерията</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвят на текста при изтощена батерия</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Светла тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Тъмна тема</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвят на иконата</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвят на индикатора</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвят на индикатора при зареждане на батерията</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Цвят на индикатора при изтощена батерия</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Шрифтът не е намерен</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Промяна на звука на дисплея</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Иконата става прозрачна, когато аудио изходът се промени към високоговорителите на компютъра.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Непрозрачност</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>По подразбиране</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Right.Header" xml:space="preserve">
+    <value>Докоснете двукратно десния AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Left.Header" xml:space="preserve">
+    <value>Докоснете два пъти левия AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Възпроизвеждане/Пауза</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>Следваща песен</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>По подразбиране</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>По-кратъко</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>Най-кратко</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>Шумопотискане с един AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>Сила на звука</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
+    <value>Регулира силата на звука на звуковите ефекти, възпроизвеждани от AirPods, когато не се възпроизвежда аудио. Докато «{0}» е включено, силата на звука няма да се прилага.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>Управлявайте слушалките</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
+    <value>Когато са свързани слушалки, се прилагат опциите по-долу.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Превключване на звуковия изход към слушалки</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Обем на информираността за разговора</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Силата на звука ще бъде намалена до избраната сила на звука, докато функцията е активна.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Звук за откриване на ухо</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Силата на звука ще бъде намалена до избраната сила на звука, докато функцията е активна.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Избраният обем се прилага след свързване.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Активирайте изключено</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Активирайте прозрачността</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Активирайте адаптивно</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Активирайте заглушаване на вятъра</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Активиране на шумопотискането</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Превключвайте между тях с клавишната комбинация</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Поведение на определени функции с чипа H2</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
+    <value>Цикъл през</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Description" xml:space="preserve">
+    <value>Регулирайте силата на звука на мултимедията в съответствие с околната средата.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>Отзад напред</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>Отпред назад</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
+    <value>Край на повикването/Изключване и включване на звука</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>Натиснете веднъж/Натиснете два пъти</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>Натиснете два пъти/Натиснете веднъж</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
+    <value>Микрофон</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
+    <value>Активният микрофон на AirPod може автоматично да се променя от ляво на дясно или да бъде фиксиран на едната страна.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>Регулирайте скоростта, необходима за натискане два или три пъти на вашите AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>По-бавно</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Използвайте тази опция, ако зареждането на слушалките не се показва. Свържете отново слушалките, за да приложите промените. Гласовата комуникация няма да е налична.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>Най-бавно</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>Натиснете и задръжте продължителност</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Стрийминг устройства</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Принудително превключване на звуковия изход към слушалките след свързване. Тази опция не е валидна, ако е активирана опцията «{0}».</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>Регулирайте продължителността, необходима за натискане и задържане на вашите AirPods.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>Позволете на AirPods да се превключват в режим на шумопотискане, когато в ухото ви е само един AirPod.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Светла тема</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Натискането на клавишната комбинация превключва между режимите за шумопотискане, ако в настройките на слушалките е налична опцията «{0}».</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>За да се покажат устройствата, включете Bluetooth и изчакайте слушалките да се заредят</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Икона за единична батерия</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Контрол на звука</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Ниво на зареждане чрез Handsfree</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Сила на звука на слушалките по подразбиране</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Натиснете клавишната комбинация «{0}», за да превключвате между избраните режими за контрол на шума. Режимите, които не се поддържат от слушалките, ще бъдат пропуснати.</value>
   </data>
 </root>
