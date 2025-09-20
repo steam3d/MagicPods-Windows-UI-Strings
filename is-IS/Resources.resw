@@ -133,4 +133,136 @@
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>Gagnlegt þegar unnið er í Premiere Pro eða Audition. Krefst þess að tengja AirPods aftur eftir að þeim er kveikt. Getur aukið rafhlöðuþörf.</value>
   </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Tengja</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth slökkt</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Fleiri Bluetooth millistykki tengd</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Hætta</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Slider_TextOff" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Hljóðeinangrun</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
+    <value>Hljóðeinangrun</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Vindeyðing</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Umhverfishljóð</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Gegnsæi</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Hylki</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Hljóðeinangrun</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Gegnsæi</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Aðlögunarhæfur</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Hleðsla</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Hætta</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
+    <value>Aðlögunarhæfur</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
+    <value>VoiceOver</value>
+  </data>
+  <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
+    <value>Tengja</value>
+  </data>
+  <data name="Battery_Left.Title" xml:space="preserve">
+    <value>Vinstri</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
+    <value>Gegnsæi</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Content" xml:space="preserve">
+    <value>Aðlögunarhæfur</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
+    <value>Vindeyðing</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Hljóðeinangrun</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>Leita að AirPods</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Gegnsæi</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Aðlögunarhæfur</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth millistykki fannst ekki</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Villa við upphaf Bluetooth millistykkis</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
+    <value>Hljóðeinangrun</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Hljóðeinangrun</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Hljóðeinangrun</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>Slökkt</value>
+  </data>
+  <data name="Battery_Right.Title" xml:space="preserve">
+    <value>Hægri</value>
+  </data>
 </root>
