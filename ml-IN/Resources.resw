@@ -559,4 +559,22 @@
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>കണക്റ്റ് ചെയ്യുക</value>
   </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>ബ്ലൂടൂത്ത് അഡാപ്റ്റർ കണ്ടെത്തിയില്ല</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>പല ബ്ലൂടൂത്ത് അഡാപ്റ്ററുകൾ കണക്ട് ചെയ്തിരിക്കുന്നു</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>ബ്ലൂടൂത്ത് അഡാപ്റ്റർ ബ്ലൂടൂത്ത് LE പിന്തുണയ്ക്കുന്നില്ല</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
+    <value>ശബ്ദം നിരസിക്കൽ</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>ശബ്ദം നിരസിക്കൽ</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>ആം</value>
+  </data>
 </root>
