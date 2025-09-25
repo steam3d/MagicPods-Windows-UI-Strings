@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% Batterieladung verbleibend. Lade deine Kopfhörer auf.</value>
+    <value>{0}% Akkuladung verbleibend. Lade deine Kopfhörer auf.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Warnung</value>
@@ -463,7 +463,7 @@
     <value>Dunkel</value>
   </data>
   <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
-    <value>Farbschema</value>
+    <value>Design</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>Windows Farbschema</value>
@@ -655,7 +655,7 @@
     <value>Übertrage die Audiosignale von Bluetooth-Geräten auf den PC. Der PC fungiert als Bluetooth-Lautsprecher.</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
-    <value>Schalte das Streaming-Gerät stumm, wenn das Ausgabegerät auf die PC Lautsprecher geändert wird.</value>
+    <value>Schalte das Streaming-Gerät stumm, sobald das Ausgabegerät auf die PC Lautsprecher geändert wird.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Pop-up-Fenster anzeigen, wenn die Tonausgabe geändert wird.</value>
@@ -775,7 +775,7 @@
     <value>Fixiert</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
-    <value>Kopferfassung</value>
+    <value>Kopf erfasst</value>
   </data>
   <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
     <value>Linken AirPod drücken und halten</value>
@@ -904,7 +904,7 @@
     <value>Stelle die Geschwindigkeit ein, die erforderlich ist, um den linken AirPod und den rechten AirPod zwei- oder dreimal zu drücken.</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
-    <value>Erkennung von gefälschten Kopfhörern</value>
+    <value>Gefälschte Kopfhörern markieren</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
     <value>Stecke die AirPods in das Case, öffne den Deckel und drücke die Taste auf der Rückseite etwa 10 Sekunden lang.</value>
@@ -934,7 +934,7 @@
     <value>Bühnen Rythmus</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
-    <value>Autostart wurde durch eine Gruppenrichtlinie deaktiviert oder wird nicht auf diesem Gerät unterstützt.</value>
+    <value>Der Autostart wurde durch eine Gruppenrichtlinie deaktiviert oder wird nicht auf diesem Gerät unterstützt.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
     <value>Abbrechen</value>
@@ -1247,7 +1247,7 @@
     <value>Durch drücken des Hotkeys wird Bluetooth an- oder ausgeschaltet.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
-    <value>Hell</value>
+    <value>Helles Design</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
     <value>Schriftart</value>
@@ -1268,13 +1268,13 @@
     <value>Icon Farbe</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
-    <value>Dunkel</value>
+    <value>Dunkles Design</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
-    <value>Hell</value>
+    <value>Helles Design</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
-    <value>Dunkel</value>
+    <value>Dunkles Design</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
     <value>Indikator Farbe</value>
