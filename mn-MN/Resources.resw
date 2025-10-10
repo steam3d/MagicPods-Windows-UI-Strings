@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,1303 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Гарах</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% үлдсэн. Чихэвчээ цэнэглэ.</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Анхааруулга</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>Попап цонх</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Цонхыг харуулах</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Хэргийг нээхдээ iPhone дээрх шиг гарч ирэх цонхыг харуулах эсвэл нуух.</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>Цонхны хэмжээ</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>Жижиг</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>Дунд зэрэг</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>Том</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>Тохиргоог дахин тохируулах</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
+    <value>Чих илрүүлэх</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Тоглуулах/түр зогсоох</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Дууны хэмжээг багасгах</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Аль аль нь (Дууны дууг багасгах + Тоглуулах/түр зогсоох)</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
+    <value>Нэг AirPod-г салгахад дахин тоглуулах нь түр зогсдог эсвэл хоёуланг нь салгахад зогсдог.</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>бусад</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
+    <value>Аудио саатал бага</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
+    <value>Premiere Pro эсвэл Audition дээр ажиллахад хэрэгтэй. Асасны дараа AirPods-ийг дахин холбох шаардлагатай. Энэ нь батерейны зарцуулалтыг нэмэгдүүлж болзошгүй.</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>Тусламж авах</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>Асуудлыг мэдээлэх</value>
+  </data>
+  <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
+    <value>Дибаг хийх бүртгэл</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
+    <value>Хурдан хайлт</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
+    <value>AirPods хайх хугацааг багасгадаг. Эргэн тойронд хэн ч AirPods ашиглаагүй гэдэгт итгэлтэй байвал үүнийг асаана уу.</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Эхлэл</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>Эхлүүлэх үед ажиллуулах</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Windows эхлэх үед програмыг ажиллуулахыг идэвхжүүлэх эсвэл идэвхгүй болгох.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Бүлгийн бодлогоор эхлүүлэхийг идэвхгүй болгосон эсвэл энэ төхөөрөмж дээр дэмждэггүй.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>Системийн тавиурын дүрс тэмдэг</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>Дүрсийг нуух</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>Өөрчлөлтийг хэрэгжүүлэхийн тулд програмыг дахин эхлүүлнэ үү.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>Батерейны хувийг харуулах</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>Холбогдсон чихэвчний зайны дундаж хувийг харуулна.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>Загвар</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Дүрс</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Текст</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Эхлүүлэхийг идэвхжүүлнэ үү</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Туслаач</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Үгүй</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Тиймээ</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Батерейны мэдээлэл</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Ерөнхий тохиргоо</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Туршилтын шинж чанарууд</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Гарах</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Дэмжлэг</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Аппликешн хаагдах бөгөөд бүх функцууд идэвхгүй болно.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>MagicPods-с гарах уу?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Гарах</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Цуцлах</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>Нэг AirPod-г чихнээсээ салгах үед дууны түвшин буурч, эсвэл хоёр AirPod-г салгах/ тавих үед дууны хэмжээ сэргэнэ.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>Дэмжигдсэн тоглогчдын жагсаалт</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>AirPods хайлтын радиус</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>Хэрэв цонх гарч ирэхгүй бол дотор нь AirPods-той гэрийг нээж, хөдөлгөөнт дүрс гарч ирэх хүртэл гулсагчийг баруун тийш жигд гулсуулна уу.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
+    <value>Хайлтын радиус гэж юу вэ?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Зөвлөгөө</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Хөдөлгөөнт дүрс нь санамсаргүй гарч ирж болзошгүй тул 65-аас дээш утгыг бүү тохируул.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>"Холбох" товчийг харуулах</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>Гарч ирэх цонхон дээр "Холбох" товчийг харуулах эсвэл нуух. Товчлуур дээр дарснаар AirPods-г холбоно.</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
+    <value>Автомат холболт</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
+    <value>Баруун эсвэл зүүн AirPods-ыг гэрээсээ гаргах үед AirPods-д автоматаар холбогдоно уу.</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>Автоматаар тоглох</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>Чихэвчийг холбосны дараа "Тоглох" командыг илгээнэ үү. Хэрэв нээлттэй тоглогч байхгүй бол Windows тушаалыг үл тоомсорлох болно.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>Бүх тохиргоог дахин тохируулах болно. Та үргэлжлүүлэхийг хүсч байна уу?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>Тийм ээ, тохиргоог дахин тохируулна уу</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Зөвлөгөө</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Таны хэрэглээнд тулгуурлан бид утгыг {0} болгож тохируулахыг зөвлөж байна.</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Өргөдөл гаргах</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Үл тоомсорлох</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Чихэвчтэй холбогдож чадсангүй. Гараар холбогдож үзээрэй.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
+    <value>Та нэг AirPod-г чихнээсээ салгахад тоглуулах ажиллагаа түр зогсч дууны түвшин буурч, эсвэл AirPod-г хоёуланг нь салгахад зогсох ба дууны түвшин сэргэнэ.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>AirPods-ийг Windows Bluetooth төхөөрөмжүүдийн жагсаалтад нэмнэ үү</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods нь ихэнх AirPods болон Beats чихэвчийг дэмждэг</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>AirPods-ийн гэрээ компьютертээ аль болох ойртуулж, нээнэ үү</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>Дараа нь</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>Хайлтын радиус - таны компьютер нээлттэй AirPods гэрийг хайх радиус.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>Хаах</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>AirPods хайж байна</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>Цонхны байрлал</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>Зүүн дээд булан</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>Баруун дээд булан</value>
+  </data>
+  <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
+    <value>Төв</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>Зүүн доод булан</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>Баруун доод булан</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>Аудио</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
+    <value>Дууны гаралтыг автоматаар солих</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
+    <value>AirPods-ийн хоёр чихэнд хүрэхгүй үед аудиог AirPods-ээс үндсэн чанга яригч руу шилжүүлээрэй.</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
+    <value>Төхөөрөмж байхгүй эсвэл устгагдсан</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
+    <value>Илүү ихийг мэдэж аваарай</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>VoiceOver мэдэгдэл</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>Чихэвчийг холбож, аудио гаралтын төхөөрөмж болгон тохируулах үед мэдэгдлийг зарлана.</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>Тохируулах</value>
+  </data>
+  <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
+    <value>VoiceOver тохиргоо</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
+    <value>Дууг сонгоно уу</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
+    <value>Хөтлөгч нь текстийг зөвхөн нэг хэлээр унших боломжтой.</value>
+  </data>
+  <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
+    <value>Сонгосон эсвэл боломжгүй дуу хоолой алга</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
+    <value>Сонгосон дуу хоолойгоор текстийг сонсоорой</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
+    <value>Ярих</value>
+  </data>
+  <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
+    <value>Эдгээр илгээгчээс ирсэн VoiceOver мэдэгдлүүд</value>
+  </data>
+  <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Жагсаалтын бүх програмууд мэдэгдэл илгээх боломжгүй, зарим програм жагсаалтад байхгүй байж магадгүй.</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
+    <value>VoiceOver бүх мэдэгдлүүд</value>
+  </data>
+  <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
+    <value>Бүх програмыг харуулах</value>
+  </data>
+  <data name="Dialog_NotificationsDenied" xml:space="preserve">
+    <value>"VoiceOver мэдэгдэл" функцийг унтраасан тул мэдэгдэлд хандах боломжгүй байна. «Нууцлал ба мэдэгдлүүд»-ийг нээж, мэдэгдэлд хандахыг зөвшөөрч, дараа нь "VoiceOver мэдэгдэл"-ийг асаана уу.</value>
+  </data>
+  <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
+    <value>Нууцлал ба мэдэгдэл</value>
+  </data>
+  <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
+    <value>Шинэ дуу хоолой нэмнэ үү</value>
+  </data>
+  <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
+    <value>Хэрэглэгчийн туршлагыг сайжруулахын тулд эхлүүлэхийг идэвхжүүлэхийг зөвлөж байна. Та үүнийг Task Manager дахь "Startup" таб дээрээс хийж болно.</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
+    <value>Хязгааргүй хайлт</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
+    <value>AirPods-г олж чадсангүй</value>
+  </data>
+  <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
+    <value>Асуудлыг засахын тулд энэ гарын авлагыг дагана уу.</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Гэрэл</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Харанхуй</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Системийн сэдвийг ашиглах</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
+    <value>Цонхны сэдэв</value>
+  </data>
+  <data name="Preferences_Setting_Language.Header" xml:space="preserve">
+    <value>Хэл</value>
+  </data>
+  <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
+    <value>Системийн хэлийг ашиглах</value>
+  </data>
+  <data name="Preferences_Setting_Theme.Header" xml:space="preserve">
+    <value>Сэдэв</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>Хэрэглээний тохиргоо</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.HintLink" xml:space="preserve">
+    <value>AirPods чадвар</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
+    <value>Хэрэглэгчийн туршлагыг сайжруулахын тулд эхлүүлэхийг идэвхжүүлэхийг зөвлөж байна.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
+    <value>Эхлэл</value>
+  </data>
+  <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
+    <value>Өөрчлөхийн тулд энд дарж эсвэл товшино уу</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Header.Text" xml:space="preserve">
+    <value>Олон холболт</value>
+  </data>
+  <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
+    <value>Хоёр буюу түүнээс дээш чихэвч холбогдсон бол зөвхөн нэгийг нь холбоно уу</value>
+  </data>
+  <data name="Text_Connect" xml:space="preserve">
+    <value>Холбох</value>
+  </data>
+  <data name="Text_Connecting" xml:space="preserve">
+    <value>Холбож байна</value>
+  </data>
+  <data name="Text_Disconnect" xml:space="preserve">
+    <value>Салгах</value>
+  </data>
+  <data name="Text_Disconnecting" xml:space="preserve">
+    <value>Салж байна</value>
+  </data>
+  <data name="Battery_Short_Left.Title" xml:space="preserve">
+    <value>зүүн</value>
+  </data>
+  <data name="Battery_Short_Right.Title" xml:space="preserve">
+    <value>зөв</value>
+  </data>
+  <data name="Battery_Case.Title" xml:space="preserve">
+    <value>Кейс</value>
+  </data>
+  <data name="Battery_Charge.Title" xml:space="preserve">
+    <value>Цэнэглэх</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.HintLink" xml:space="preserve">
+    <value>Нуух</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>Татаж авах</value>
+  </data>
+  <data name="Support_Button_Translate.Content" xml:space="preserve">
+    <value>Орчуулах</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Disabled.Text" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Text_Restart" xml:space="preserve">
+    <value>Дахин эхлүүлэх</value>
+  </data>
+  <data name="App_Error.Title" xml:space="preserve">
+    <value>Гэнэтийн алдаа гарлаа</value>
+  </data>
+  <data name="App_Error.Text" xml:space="preserve">
+    <value>Програмыг дахин эхлүүлэх нь асуудлыг шийдэж магадгүй юм. Хэрэв алдаа гарсаар байвал компьютерээ дахин эхлүүлнэ үү.</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Халуун товчийг бичнэ үү</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Win, Shift, Alt эсвэл Ctrl товчлууруудыг оруулаарай</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Халуун товчлуурыг устгана уу</value>
+  </data>
+  <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
+    <value>Автомат түр зогсоох</value>
+  </data>
+  <data name="Headphones_Setting_AutoPause.Description" xml:space="preserve">
+    <value>Чихэвчээ салгасны дараа тоглуулахыг түр зогсоо.</value>
+  </data>
+  <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
+    <value>Батарей бага байгаа тухай мэдэгдэл</value>
+  </data>
+  <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
+    <value>Чихэвчний цэнэг заасан хэмжээнээс доогуур байвал мэдэгдлийг харуул.</value>
+  </data>
+  <data name="Slider_TextOff" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
+    <value>Bluetooth унтраалттай</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Чихэвчийг харуулахын тулд Bluetooth-г асаана уу</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Bluetooth тохиргоо</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Хосолсон чихэвч байхгүй</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>Чихэвчээ компьютерт холбож, програмаа дахин эхлүүлнэ үү</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
+    <value>Чихэвчийг хэрхэн холбох вэ</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth LE-г дэмждэггүй</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Чихэвч</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Сонголтууд</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>Бусад хөгжүүлэгчийн програмууд</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>Дурын зургаас текст хуулах</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>Аюултай адал явдалт тоглоомонд гүйж, үсэрч, бултаарай</value>
+  </data>
+  <data name="Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Орчуулах, засах, шинэ хэл нэмэх</value>
+  </data>
+  <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
+    <value>Програм хайх</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
+    <value>MagicPods 2.0-тэй танилцаарай</value>
+  </data>
+  <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
+    <value>Шинэчилсэн интерфэйс, хувийн тохиргоо болон бусад. Зарим тохиргоог өөрчилсөн. Тохируулахын тулд програмыг нээнэ үү.</value>
+  </data>
+  <data name="Welcome_Text4.Text" xml:space="preserve">
+    <value>Чихэвч тус бүрийг өөрийн сонголтод тохируулан тохируулаарай</value>
+  </data>
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
+    <value>Чихэвчийг холбох эсвэл салгах глобал товч.</value>
+  </data>
+  <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
+    <value>Халуун товчийг холбоно уу</value>
+  </data>
+  <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
+    <value>Зургийг өөрчлөх</value>
+  </data>
+  <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
+    <value>Зургийг сэргээх</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
+    <value>Асаах</value>
+  </data>
+  <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
+    <value>Илүү дэлгэрэнгүй</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
+    <value>Bluetooth адаптер олдсонгүй</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothNotFound_Description.Text" xml:space="preserve">
+    <value>Bluetooth адаптер холбоно уу</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
+    <value>Олон Bluetooth адаптер холбогдсон</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
+    <value>Зөвхөн нэг Bluetooth адаптер холбогдсон хэвээр үлдээгээрэй</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Bluetooth Classic-г дэмждэггүй</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth Сонгодог дэмжлэгтэй Bluetooth адаптерийг холбож, програмыг дахин эхлүүлнэ үү</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth LE дэмжлэгтэй Bluetooth адаптерийг холбож, програмыг дахин эхлүүлнэ үү</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Bluetooth адаптер эхлүүлэхэд алдаа гарлаа</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Аппликешныг дахин эхлүүлэх нь тус болно</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>Bluetooth төхөөрөмжөөс компьютерт дуу дамжуулах. Компьютер нь Bluetooth чанга яригчийн үүрэг гүйцэтгэдэг.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Аудио дамжуулалт</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.HintLink" xml:space="preserve">
+    <value>Шинэ төхөөрөмж нэмнэ үү</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
+    <value>Автоматаар дууг нь хаах</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
+    <value>Дууг компьютерийн чанга яригч болгон өөрчлөх үед урсгал төхөөрөмжийн дууг хаа.</value>
+  </data>
+  <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
+    <value>Дамжуулах төхөөрөмжийг холбож чадсангүй. Дамжуулах төхөөрөмж дээр Bluetooth идэвхжсэн эсэхийг шалгана уу.</value>
+  </data>
+  <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
+    <value>Хосолсон төхөөрөмж байхгүй эсвэл Bluetooth унтраалттай байна</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
+    <value>Дамжуулах төхөөрөмж</value>
+  </data>
+  <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Дууны гаралт</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Дууны гаралт өөрчлөгдөх үед гарч ирэх цонхыг харуулах.</value>
+  </data>
+  <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
+    <value>Төвийн дээд</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomCenter.Text" xml:space="preserve">
+    <value>Төвийн доод хэсэг</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
+    <value>Батерейны хувийг харуулах</value>
+  </data>
+  <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
+    <value>Чихэвчний Handsfree функц (дуу хоолой) ажиллахгүй. Handsfree-г гараар идэвхгүй болгож болохгүй. Өөрчлөлтийг хэрэгжүүлэхийн тулд програмыг дахин эхлүүлнэ үү.</value>
+  </data>
+  <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
+    <value>Туршилтын онцлог</value>
+  </data>
+  <data name="Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Орчуулах програм</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Нийгэмлэг</value>
+  </data>
+  <data name="Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Манай нийгэмлэгт нэгдээрэй, алдааг мэдээлнэ үү, мэдээ, шинэчлэлт, хэлэлцүүлгийг хүлээж байгаарай</value>
+  </data>
+  <data name="Settings_Header_Support.Header" xml:space="preserve">
+    <value>Дэмжлэг ба олон нийт</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
+    <value>Текстийг товч ашиглан хурдан орчуулаарай</value>
+  </data>
+  <data name="Preferences_Setting_Language.Description" xml:space="preserve">
+    <value>Өөрчлөлтийг хэрэгжүүлэхийн тулд програмыг дахин эхлүүлнэ үү.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Цонхыг харуулах</value>
+  </data>
+  <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Өгөгдмөл тохиргоог дахин тохируулна уу</value>
+  </data>
+  <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
+    <value>Илүү ихийг мэдэж аваарай</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
+    <value>Дууны гаралтын товчийг солих</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
+    <value>Халуун товчийг дарснаар дууны гаралтууд дамждаг.</value>
+  </data>
+  <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
+    <value>Илтгэгчийн зураг</value>
+  </data>
+  <data name="Headphones_Setting_HeadphonesDisconnected.Hint" xml:space="preserve">
+    <value>Өөр тохиргоог хийхийн тулд чихэвчээ холбоно уу</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Header" xml:space="preserve">
+    <value>Чип</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Description" xml:space="preserve">
+    <value>Програм хангамж</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_ChipFirmware.Hint" xml:space="preserve">
+    <value>Чип хараахан дэмжигдээгүй байна</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
+    <value>Дуу чимээг арилгах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Дуу чимээг арилгах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
+    <value>Ил тод байдал</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter.Header" xml:space="preserve">
+    <value>Дуу чимээ арилгах шүүлтүүр</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
+    <value>Замын хөдөлгөөн</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Indoor.Text" xml:space="preserve">
+    <value>Дотор</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Meditation.Text" xml:space="preserve">
+    <value>Бясалгал</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
+    <value>Дуу чимээ арилгах товчийг сэлгэх</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Description.Text" xml:space="preserve">
+    <value>Халуун товчийг дарснаар дуу чимээг арилгах горимууд дамждаг.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking.Header" xml:space="preserve">
+    <value>Толгой хянах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
+    <value>Ашиглахын өмнө хоёр AirPod-г өмс.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Off.Text" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_Fixed.Text" xml:space="preserve">
+    <value>Тогтмол</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_HeadTracking_Item_HeadTracked.Text" xml:space="preserve">
+    <value>Толгойг нь мөрдсөн</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
+    <value>Зүүн AirPod-г удаан дар</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
+    <value>Баруун талын AirPod-г удаан дар</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Дуут туслах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Дуу чимээг хянах (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncOffTran.Text" xml:space="preserve">
+    <value>Дуу чимээг хянах (ANC/Off/Tran.)</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LeftAirPod_Sensitivity.Header" xml:space="preserve">
+    <value>Зүүн AirPod-н мэдрэмж</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_RightAirPod_Sensitivity.Header" xml:space="preserve">
+    <value>AirPod-н зөв мэдрэмж</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
+    <value>Хурд дарах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
+    <value>Зүүн AirPod болон баруун AirPod-г хоёр эсвэл гурван удаа дарахад шаардагдах хурдыг тохируулна уу.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Right.Header" xml:space="preserve">
+    <value>Баруун AirPod дээр давхар товш</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Сири</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Тоглуулах/түр зогсоох</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>Дараагийн дуу</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>Өмнөх зам</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>Дижитал титэм</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>Буцаад урд</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>Урдаас хойш</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
+    <value>Дуудлагыг дуусгах/дууг хаах, дуугүй болгох</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>Нэг удаа/хоёр удаа дар</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
+    <value>Илүү хурдан</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Дунд зэрэг</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Удаан</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
+    <value>Удаан дар</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
+    <value>Зүүн AirPod болон баруун AirPod-г дарах цагийг тохируулна уу.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
+    <value>Богино</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Дунд зэрэг</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
+    <value>Илүү урт</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
+    <value>Сайжруулсан олон цэгийн холболт</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
+    <value>Хоёр төхөөрөмжийг нэг дор чихэвчдээ холбох боломжийг танд олгоно. Хэрэглэхийн тулд AirPods-ыг үйлдвэрийн тохиргоонд нь шинэчлэх шаардлагатай.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Олон цэгийн горим</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
+    <value>Ердийн горим</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
+    <value>Салхины дуу чимээг бууруулах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
+    <value>Хэрэглэхийн тулд AirPods-ыг үйлдвэрийн тохиргоонд нь шинэчлэх шаардлагатай.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
+    <value>Салхины дуу чимээг бууруулах мэдрэмж</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
+    <value>Хэрэглэхийн тулд AirPods-ыг үйлдвэрийн тохиргоонд нь шинэчлэх шаардлагатай.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Бага</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Дунд зэрэг</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
+    <value>Өндөр</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
+    <value>Дуут удирдлага</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_GameMode.Header" xml:space="preserve">
+    <value>Тоглоомын горим</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_GameMode.Description" xml:space="preserve">
+    <value>Үүнийг мөн зүүн эсвэл баруун AirPod дээр таван удаа дарснаар идэвхжүүлж болно.</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Хуурамч чихэвчийг тэмдэглэж байна</value>
+  </data>
+  <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
+    <value>Чихэвчний тохиргоонд хуурамч гэдгийг анхааруулж байна.</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
+    <value>Энэ нь хуурамч чихэвч байж болно</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
+    <value>Үйлдвэрийн тохиргоо</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
+    <value>AirPods-ийг хайрцагт хийж, тагийг нь онгойлгож, товчлуурыг 10 секунд орчим дар.</value>
+  </data>
+  <data name="Headphones_Setting_AutoDisableHfp.Header" xml:space="preserve">
+    <value>Handsfree-г автоматаар идэвхгүй болгох</value>
+  </data>
+  <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
+    <value>Чихэвчийг Handsfree горимд шилжүүлэхээс сэргийлэхийн тулд чихэвчийг холбосны дараа Handsfree-г идэвхгүй болго. Микрофон ажиллахаа болино. Сонголтыг унтрааснаар Handsfree үйлчилгээг дахин идэвхжүүлнэ.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
+    <value>Эквалайзер</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ.Description" xml:space="preserve">
+    <value>Тохиргоог өөрчлөхийн өмнө хөгжмөө асаана уу.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
+    <value>Хуурамч AirPods-ийн цонхыг харуул</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
+    <value>Хуурамч AirPods Bluetooth төхөөрөмжүүдийн жагсаалтад байгаа бол гарч ирэх цонхыг харуулах эсвэл нуух.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_CaseSounds.Header" xml:space="preserve">
+    <value>Кейс сонсогдож байна</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_CaseSounds.Description" xml:space="preserve">
+    <value>AirPods-ийг хайрцагт хийж, хайрцгийн тагийг нээлттэй байлгаад гэрлийн гэрэл унтрах хүртэл хүлээнэ үү. Сонголтыг унтрааж/асааж, хайрцагны тагийг онгорхой байлгаж байхдаа AirPods-ыг сугалж аваад, дор хаяж 2 секунд хүлээгээд AirPods-ийг хайрцагт дахин байрлуулж, гэрлийн гэрэл унтрах хүртэл хүлээнэ үү.</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
+    <value>Шууд шоу</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
+    <value>Кино театрын стерео</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Тайзны хэмнэл</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
+    <value>Сонгодог</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Хаах</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Бүлгийн бодлогоор эхлүүлэхийг идэвхгүй болгосон эсвэл энэ төхөөрөмж дээр дэмждэггүй.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Бүлгийн удирдамжаар эхлүүлэхийг идэвхгүй болгосон</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Цуцлах</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Програмын хуудаснаас Windows тохиргоог нээгээд "Startup" руу очоод "{0}"-г идэвхжүүлнэ үү.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Startup руу очно уу</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Гараар эхлүүлэхийг идэвхгүй болгосон</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Шинэчлэлт байгаа эсэхийг шалгана уу</value>
+  </data>
+  <data name="Notification_Updates_Header" xml:space="preserve">
+    <value>Шинэчлэлт боломжтой</value>
+  </data>
+  <data name="Notification_Updates_Description" xml:space="preserve">
+    <value>Энд дарж Microsoft Store руу очно уу.</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
+    <value>Дуу чимээг арилгах</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Дуу чимээг арилгах</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
+    <value>Салхи цуцлах</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
+    <value>Орчны дуу чимээ</value>
+  </data>
+  <data name="Headphones_Setting_Sony_NoiseCancellation_Item_Off.Text" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
+    <value>Орчны дууны хэмжээ</value>
+  </data>
+  <data name="Headphones_Setting_Sony_AmbientSoundVolume.Description" xml:space="preserve">
+    <value>Утга өндөр байх тусам орчныг илүү сайн сонсох болно.</value>
+  </data>
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Header" xml:space="preserve">
+    <value>Дуу хоолой дээр анхаарлаа төвлөрүүл</value>
+  </data>
+  <data name="Headphones_Setting_Sony_FocusOnVoice.Description" xml:space="preserve">
+    <value>Ард түмний дуу хоолой сонсогдож, орчны дуу чимээ дарагдана.</value>
+  </data>
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Header" xml:space="preserve">
+    <value>Тохиргоог хадгалах</value>
+  </data>
+  <data name="Headphones_Setting_Sony_SaveAmbientSettings.Description" xml:space="preserve">
+    <value>Чихэвчний санах ойд орчны дууны тохиргоог хадгал.</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
+    <value>Чихэвчэндээ бага зэрэг ид шид нэмээрэй</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>Түлхүүр худалдаж авах</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>Лицензийн түлхүүр олдсонгүй</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>"{0}" хуудасны "{1}" доор байгаа түлхүүрийг худалдаж авах эсвэл оруулна уу</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>Лиценз</value>
+  </data>
+  <data name="Support_Setting_License.HintLink" xml:space="preserve">
+    <value>Түлхүүр худалдаж авах</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>Түлхүүрийг оруулна уу</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>Лиценз</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>Хадгалах</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Цуцлах</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>Бүтээгдэхүүний түлхүүр</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>Лицензийн түлхүүр</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Лицензийн түлхүүрийг энд оруулна уу</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>Лицензийн түлхүүр хүчингүй байна. Дахин оролдох эсвэл өөр лицензийн түлхүүр ашиглана уу.</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>Програмыг дахин суулгасны дараа лицензийн түлхүүрийг дахин оруулах шаардлагатай</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
+    <value>Дуу чимээний хяналт</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Дуу чимээг арилгах</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Ил тод байдал</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Дасан зохицох чадвартай</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
+    <value>хооронд эргэлдэнэ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
+    <value>Сонгосон дуу чимээний хяналтын горимуудын хооронд шилжихийн тулд AirPods Max дээрх товчлуурыг дар эсвэл AirPods Pro дээрх зүүн эсвэл баруун AirPod-г удаан дар.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Дуу чимээг арилгах</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Ил тод байдал</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
+    <value>Дасан зохицох чадвартай</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Off.Content" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
+    <value>Харилцааны мэдлэг</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
+    <value>Бусад хүмүүстэй ярьж эхлэх үед медиа дууг багасгаж, арын чимээг багасгана.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
+    <value>Хувийн тохируулсан хэмжээ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Description" xml:space="preserve">
+    <value>Хүрээлэн буй орчиндоо тохируулан медиа дууны хэмжээг тохируулна уу.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Left.Header" xml:space="preserve">
+    <value>Зүүн AirPod-г давхар товш</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>Хоёр удаа дарна уу/Нэг удаа дарна уу</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
+    <value>Микрофон</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
+    <value>Идэвхтэй AirPod микрофон нь зүүнээс баруун тийш автоматаар солигдох эсвэл нэг талдаа бэхлэгдэх боломжтой.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>Автомат</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>Үргэлж зөв AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>Үргэлж AirPod-г орхисон</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
+    <value>Хурд дарах</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>AirPods дээрээ хоёр, гурван удаа дарахад шаардагдах хурдыг тохируулна уу.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>Өгөгдмөл</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>Удаан</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>Хамгийн удаан</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>Үргэлжлэх хугацааг удаан дар</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>AirPods дээрээ удаан дарахад шаардагдах хугацааг тохируулна уу.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>Өгөгдмөл</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>Богино</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>Хамгийн богино</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>Нэг AirPod ашиглан дуу чимээг арилгах</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>Зөвхөн нэг AirPod таны чихэнд байх үед AirPods-ийг дуу чимээ арилгах горимд оруулахыг зөвшөөрнө үү.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>Аяны хэмжээ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
+    <value>Аудио тоглуулахгүй байх үед AirPods-ийн тоглуулах дууны эффектийн хэмжээг тохируулна. «{0}» асаалттай үед дууны хэмжээг ашиглахгүй.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>Чихэвчийг удирдах</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
+    <value>Чихэвч холбогдсон үед доорх сонголтууд хэрэгжинэ.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Хөнгөн сэдэв</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Харанхуй сэдэв</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Фонт</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Фонтын хэмжээ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Текстийн өнгө</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Батерейг цэнэглэх үед текстийн өнгө</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Батарей бага байх үед текстийн өнгө</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Хөнгөн сэдэв</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Харанхуй сэдэв</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Дүрс өнгө</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Заагч өнгө</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Батерейг цэнэглэх үед заагч өнгө</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Батерей бага байх үед заагч өнгө</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Фонт олдсонгүй</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth удирдлага</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Халуун товчийг дарснаар Bluetooth-г асааж, унтраана.</value>
+  </data>
+  <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
+    <value>Чихэвч</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>Дуу чимээний хяналт</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бол халуун товчлуурыг дарснаар дуу чимээ арилгах горимууд дамждаг.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
+    <value>Дууны гаралт</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Дууны гаралтын хяналт</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
+    <value>Халуун товчийг дарснаар дууны гаралтууд дамждаг.</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
+    <value>өгүүлэмж</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Уншихыг алгасах</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Халуун товчийг дарснаар одоогийн мэдэгдлийг уншихгүй.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Холбох / салгах</value>
+  </data>
+  <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
+    <value>Холбох</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Салгах</value>
+  </data>
+  <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
+    <value>Чихэвч</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Дамжуулах төхөөрөмж</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Нэрээр нь хайх</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Төхөөрөмжүүдийг харуулахын тулд Bluetooth-г асааж, чихэвч ачаалтал хүлээнэ үү</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Халуун товчлуурууд</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Handsfree-ээр цэнэглэх түвшин</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Хэрэв чихэвчний цэнэгийг харуулахгүй бол энэ сонголтыг ашиглана уу. Өөрчлөлтүүдийг хэрэгжүүлэхийн тулд чихэвчээ дахин холбоно уу. Дуут холбоо барих боломжгүй болно.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Нэг батерейны дүрс тэмдэг</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Дууны гаралтыг чихэвч рүү шилжүүлнэ үү</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Холболтын дараа дууны гаралтыг хүчээр чихэвч рүү шилжүүлээрэй. Хэрэв «{0}» идэвхжсэн бол энэ сонголт хамаарахгүй.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Дууны гаралтын өөрчлөлтийг харуулах</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Аудио гаралтыг компьютерийн чанга яригч болгон өөрчлөхөд дүрс нь ил тод болно.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Тунгалаг байдал</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Дахин эхлүүлэх шаардлагатай</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Өөрчлөлтийг хэрэгжүүлэхийн тулд програмыг дахин эхлүүлнэ үү.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Дахин эхлүүлэх</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Цуцлах</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
+    <value>Дасан зохицох чадвартай</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Вэб сайт</value>
+  </data>
+  <data name="Battery_Left.Title" xml:space="preserve">
+    <value>Зүүн</value>
+  </data>
+  <data name="Battery_Right.Title" xml:space="preserve">
+    <value>Зөв</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Харилцааны мэдлэгийн хэмжээ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Энэ функц идэвхтэй байх үед дууны хэмжээг сонгосон дууны хэмжээнд хүртэл бууруулна.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Чих илрүүлэх хэмжээ</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Энэ функц идэвхтэй байх үед дууны хэмжээг сонгосон дууны хэмжээнд хүртэл бууруулна.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Чихэвчний өгөгдмөл дууны түвшин</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Сонгосон хэмжээг холболтын дараа хэрэглэнэ.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Идэвхжүүлэх унтраах</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Ил тод байдлыг идэвхжүүл</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Дасан зохицох чадварыг идэвхжүүл</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Салхи таслах ажиллагааг идэвхжүүл</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Дуу чимээ арилгахыг идэвхжүүл</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Халуун товчийг ашиглан хооронд нь эргэлдэнэ</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Сонгосон дуу чимээг хянах горимуудын хооронд шилжихийн тулд "{0}" товчийг дарна уу. Чихэвчээр дэмжигдээгүй горимуудыг алгасах болно.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
+    <value>Унтраах</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
+    <value>Ил тод байдал</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Content" xml:space="preserve">
+    <value>Дасан зохицох чадвартай</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
+    <value>Салхи цуцлах</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Дуу чимээг арилгах</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>h2 чиптэй тодорхой функцүүдийн үйл ажиллагаа</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
+    <value>Илүү ихийг мэдэж аваарай</value>
+  </data>
 </root>
