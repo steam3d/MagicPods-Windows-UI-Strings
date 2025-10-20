@@ -1352,4 +1352,61 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>オフ</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>会話感知の音量</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>この機能が有効な間は、音量は選択した音量まで下げられます。</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>耳検出の音量</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>この機能が有効な間は、音量は選択した音量まで下げられます。</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>デフォルトのヘッドフォン音量</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>選択した音量は接続後に適用されます。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>オフが有効になります</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>外部音取り込みが有効になります</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>適応型オーディオが有効になります</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>風キャンセルが有効になります</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>ノイズキャンセリングが有効になります</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>ホットキーで切り替える</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>ホットキー«{0}»を押すと、選択したノイズコントロールモードを切り替えられます。ヘッドホンでサポートされていないモードはスキップされます。</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>h2チップの特定の機能の動作</value>
+  </data>
 </root>
