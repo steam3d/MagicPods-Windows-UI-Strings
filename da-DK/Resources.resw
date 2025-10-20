@@ -65,7 +65,7 @@
     <value>Få hjælp</value>
   </data>
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
-    <value>Rapporter problem</value>
+    <value>Rapportér problem</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>Advarsel</value>
@@ -101,10 +101,10 @@
     <value>Reducerer søgetiden for AirPods. Slå funktionen til, når du er sikker på, at der ikke er andre i nærheden, der bruger AirPods.</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>Start</value>
+    <value>Opstart</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
-    <value>Kør MagicPods, når computeren starter</value>
+    <value>Kør MagicPods, når computeren starter op</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Aktivér eller deaktiver start af applikationen ved opstart af Windows.</value>
@@ -121,10 +121,10 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Genstart programmet, for at anvende ændringer.</value>
+    <value>Genstart programmet for at anvende ændringer.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Vis AirPods-opladning på ikon</value>
+    <value>Vis batteriprocent</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
@@ -152,7 +152,7 @@
     <value>Ja</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
-    <value>Oplysninger om batteri</value>
+    <value>Batteri oplysninger</value>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>Generelle indstillinger</value>
@@ -179,10 +179,10 @@
     <value>Hvad er søgeradius?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
-    <value>Drikkepenge</value>
+    <value>Tip</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Indstil ikke en værdi større end 65, da animationen ellers kan vises utilsigtet.</value>
+    <value>Indstil ikke en værdi større end 65, da animationen ellers kan vises ved en fejl.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Opret automatisk forbindelse</value>
@@ -200,11 +200,11 @@
     <value>Ja, nulstil indstillinger</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>Baseret på dit forbrug anbefaler vi, at du angiver værdien til {0}</value>
+    <value>Baseret på dit forbrug anbefaler vi, at du sætter værdien til {0}</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
-    <value>Drikkepenge</value>
+    <value>Tip</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
     <value>Ignorer</value>
@@ -322,11 +322,11 @@
     <value>Nyttigt, når du arbejder i Premiere Pro eller Audition. Kræver, at AirPods skal genforbindes efter funktionen er slået til. Det kan øge batteriforbruget.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Når AirPods er tilsluttet, viser ikonet for systembakken den gennemsnitlige opladning af dine venstre og højre hovedtelefoner. Ikonopdatering hvert minut.</value>
+    <value>Vis Gennemsnitlige batteriprocent af tilsluttede høretelefoner.</value>
     <comment>Changed</comment>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>Programmet lukkes, og alle funktioner deaktiveres.</value>
+    <value>Programmet bliver lukket, og alle funktioner vil blive deaktiveret.</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>Afslut MagicPods?</value>
@@ -335,7 +335,7 @@
     <value>Lydstyrken reduceres, når du fjerner en AirPods fra øret eller gendannes, når du fjerner/sætter begge AirPods på.</value>
   </data>
   <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
-    <value>Vis liste over understøttede medieafspillere</value>
+    <value>Liste over understøttede medieafspillere</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
     <value>Hvis pop op-vinduet ikke vises skal du åbne etuiet med dine AirPods, og derefter skubbe søgeradius skyderen jævnt til højre, indtil pop op-vinduet vises.</value>
@@ -353,7 +353,7 @@
     <value>Anvend</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>Tilkobling af høretelefoner fejlede. Prøv at oprette forbindelse manuelt.</value>
+    <value>Tilslutning af høretelefoner fejlede. Prøv at oprette forbindelse manuelt.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>Dine AirPods stopper automatisk afspilningen af lyd, når du tager dem af, og fortsætter afspilningen, når du sætter dem i ørerne igen.</value>
