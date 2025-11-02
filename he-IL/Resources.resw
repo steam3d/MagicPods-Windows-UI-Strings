@@ -59,14 +59,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>%{0} סוללה נישארו. טען את האוזניות.</value>
+    <value>%{0} סוללה. טען את האוזניות.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>הצג חלון</value>
   </data>
   <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
-    <value>קָטָן</value>
+    <value>קטן</value>
   </data>
   <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
     <value>בינוני</value>
@@ -87,7 +87,7 @@
     <value>גודל חלון</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>הצג או הסתר חלון קופץ כמו ב- iPhone כשאתה פותח את הcase.</value>
+    <value>הצג או הסתר חלון קופץ כמו באייפון כשאתה פותח את המארז.</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>זיהוי אוזן</value>
@@ -111,7 +111,7 @@
     <value>חיפוש מהיר</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>נגן/עצור</value>
+    <value>נגן/השהה</value>
   </data>
   <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>מפחית את הזמן לחיפוש אוזניות. הפעל כאשר אתה בטוח שאין אף אחד בסביבה שמשתמש באוזניות (אירפודס).</value>
