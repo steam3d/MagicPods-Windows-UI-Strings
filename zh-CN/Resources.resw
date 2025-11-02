@@ -535,7 +535,7 @@
     <value>发生意外错误</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
-    <value>重新启动应用程序可能使其恢复工作。 如果错误仍然存在，请尝试重新启动您的电脑。</value>
+    <value>重新启动应用程序解决问题。 如果错误仍然存在，请尝试重新启动您的电脑。</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>输入快捷键</value>
@@ -823,7 +823,7 @@
     <value>长按</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
-    <value>调整按住左AirPod 和右AirPod 的时间。</value>
+    <value>调整按住左 AirPod 和右 AirPod 的时间。</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
     <value>较短</value>
@@ -974,7 +974,7 @@
     <value>关闭</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
-    <value>风力消除</value>
+    <value>风噪消除</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>环境声</value>
@@ -1167,7 +1167,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>慢点</value>
+    <value>较慢</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
@@ -1187,7 +1187,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
-    <value>使用一只 AirPod 消除噪音</value>
+    <value>单 AirPod 噪音消除模式</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
@@ -1302,7 +1302,7 @@
     <value>蓝牙控制</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中提供了“{0}”，则按下热键可以在不同的噪音取消模式之间切换。</value>
+    <value>如果耳机设置中提供了「{0}」，则按下热键可以在不同的噪音取消模式之间切换。</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>声音输出控制</value>
@@ -1443,19 +1443,19 @@
     <value>激活风噪声抵消（功能）</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中有«{0}»选项，并且该模式被支持，那么按下热键就会激活这种模式。</value>
+    <value>如果耳机设置中有「{0}」选项且该模式被支持，那么按下热键就会激活这种模式。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>激活自适应模式</value>
   </data>
   <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
-    <value>选定的卷在连接之后被应用。</value>
+    <value>选定的音量在连接之后被应用。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
     <value>关闭激活</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中有“«{0}»”这个选项，并且该模式被支持，那么按下热键就会激活这种模式。</value>
+    <value>如果耳机设置中有「{0}」选项且该模式被支持，那么按下热键就会激活这种模式。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>激活通透模式</value>
