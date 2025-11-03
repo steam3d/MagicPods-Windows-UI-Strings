@@ -169,7 +169,7 @@
     <value>Низкая задержка аудио</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
-    <value>Полезно, когда работаете в Premier Pro или Audition. При включении опция требует переподключения к AirPods. Возможен повышенный расход батареи.</value>
+    <value>Полезно, когда работаете в Premiere Pro или Audition. При включении опция требует переподключения к AirPods. Возможен повышенный расход батареи.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Помощь</value>
@@ -244,7 +244,7 @@
     <value>Основные настройки</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>Эксперементальные функции</value>
+    <value>Экспериментальные функции</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>Выход</value>
@@ -301,7 +301,7 @@
     <value>Автоматическое воспроизведение</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Отправить команду «Воспроизвести» после подключения наушников. Если нет открытых плееров Windows проигнорирует команду.</value>
+    <value>Отправить команду «Воспроизвести» после подключения наушников. Если нет открытых плееров, Windows проигнорирует команду.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>Да, сбросить</value>
@@ -325,7 +325,7 @@
     <value>Не удалось подключить наушники. Попробуйте подключить вручную.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
-    <value>Воспроизведение приостанавливается и громкость убавляется, когда вы достаете один AirPods из уха или останавливается и громкость восстанавливается когда вы достаете оба AirPods.</value>
+    <value>Воспроизведение приостанавливается и громкость убавляется, когда вы достаете один AirPods из уха или останавливается и громкость восстанавливается, когда вы достаете оба AirPods.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Добавьте AirPods в список Bluetooth устройств Windows</value>
@@ -340,7 +340,7 @@
     <value>Далее</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
-    <value>Радиус поиска - радиус в котором ваш компьютер будет искать открытый кейс AirPods.</value>
+    <value>Радиус поиска - радиус, в котором ваш компьютер будет искать открытый кейс AirPods.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Закрыть</value>
@@ -391,7 +391,7 @@
     <value>Диктор может зачитывать текст только на одном языке.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
-    <value>Голос не выбран или не доступен</value>
+    <value>Голос не выбран или недоступен</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>Проговорить</value>
@@ -406,7 +406,7 @@
     <value>Показать все приложения</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
-    <value>Озвучивать уведомления когда наушники подключены и выбраны в качества устройства воспроизведения.</value>
+    <value>Озвучивать уведомления, когда наушники подключены и выбраны в качестве устройства воспроизведения.</value>
   </data>
   <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>Настроить</value>
@@ -547,7 +547,7 @@
     <value>Для наилучшего опыта использования рекомендуем включить автозагрузку.</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>Подключены двое или более наушников, оставьте только одни подключенными</value>
+    <value>Подключены два или более наушников, оставьте подключёнными только одни.</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>Выключено</value>
@@ -598,7 +598,7 @@
     <value>Поиск по приложениям</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>Настраивайте каждые наушники индивидуально в соответствии с вашими предпочтениями</value>
+    <value>Настраивайте наушники индивидуально в соответствии с вашими предпочтениями</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
     <value>Встречайте MagicPods 2.0</value>
@@ -664,7 +664,7 @@
     <value>Не удалось подключить транслирующее устройство. Убедитесь, что на транслирующем устройстве включен Bluetooth.</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
-    <value>Транслирующие устройство</value>
+    <value>Транслирующее устройство</value>
   </data>
   <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
     <value>Аудиовыход</value>
@@ -838,7 +838,7 @@
     <value>Подавление шума ветра</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
-    <value>Сила подавление шума ветра</value>
+    <value>Сила подавления шума ветра</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
     <value>Слабо</value>
@@ -880,7 +880,7 @@
     <value>Медленнее</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
-    <value>Настройте время нажатия и удерживайте левый AirPod и правый AirPod.</value>
+    <value>Настройте время нажатия и удерживания левого и правого AirPod.</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
     <value>Позволяет подключить к наушникам сразу два устройства. Для применения требуется сброс AirPods до заводских настроек.</value>
@@ -1232,7 +1232,7 @@
     <value>Нажмите кнопку на AirPods Max или нажмите и удерживайте левый или правый AirPod на AirPods Pro, чтобы переключаться между выбранными режимами шумоподавления.</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Настройки громкость тона звуковых эффектов для наушников AirPods, когда звук не воспроизводится. Пока «{0}» включено, громкость применяться не будет.</value>
+    <value>Настройте громкость звуковых эффектов AirPods, когда аудио не воспроизводится. Пока «{0}» включено, изменение громкости не применяется.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
     <value>Темная тема</value>
