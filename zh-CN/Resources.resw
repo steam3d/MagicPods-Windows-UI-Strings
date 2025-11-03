@@ -412,7 +412,7 @@
     <value>选取需要播报通知的应用</value>
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>并非列表中的所有应用都可以播报通知，有些应用可能不在列表中。</value>
+    <value>列表中的并非所有应用都可以发送通知，有些应用可能不会出现在列表中。</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>没有选择语音或语音不可用</value>
@@ -1395,7 +1395,7 @@
     <value>通透模式</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
-    <value>风噪</value>
+    <value>风噪消除</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>噪音消除</value>
