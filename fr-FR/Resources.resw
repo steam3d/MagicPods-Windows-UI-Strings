@@ -286,7 +286,7 @@
     <value>Afficher le bouton « Connecter »</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Afficher ou cacher le bouton «Connecter» sur la fenêtre pop-up. Presser le bouton connectera les AirPods.</value>
+    <value>Afficher ou cacher le bouton « Connecter » sur la fenêtre pop-up. Presser le bouton connectera les AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Connexion automatique</value>
@@ -421,7 +421,7 @@
     <value>Confidentialité et sécurité</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>La fonctionnalité «Notification VoiceOver» est désactivée, impossible d'accéder aux notifications. Veuillez ouvrir «Confidentialité et sécurité», autorisez l'accès aux notifications, puis activez «Notification VoiceOver».</value>
+    <value>La fonctionnalité « Notification VoiceOver » est désactivée, impossible d'accéder aux notifications. Veuillez ouvrir « Confidentialité et sécurité », autorisez l'accès aux notifications, puis activez « Notification VoiceOver ».</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>Les notification sont annoncées quand les écouteurs sont connectés et sélectionnés comme périphérique de sortie audio.</value>
@@ -436,7 +436,7 @@
     <value>Suivez ce guide pour résoudre le problème.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Pour une expérience utilisateur optimale, nous vous recommandons d'activer le démarrage. Vous pouvez le faire à partir de l'onglet «Démarrage» du Gestionnaire des tâches.</value>
+    <value>Pour une expérience utilisateur optimale, nous vous recommandons d'activer le démarrage. Vous pouvez le faire à partir de l'onglet « Démarrage » du Gestionnaire des tâches.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Recherche infinie</value>
@@ -937,7 +937,7 @@
     <value>Annuler</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Ouvrez les Paramètres Windows, puis dans page des Applications allez dans «Démarage» et activez «{0}».</value>
+    <value>Ouvrez les Paramètres Windows, puis dans page des Applications allez dans « Démarage » et activez « {0} ».</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -1004,7 +1004,7 @@
     <value>Clé de licence non trouvé</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Achetez ou entrez une clé existante sur la page «{0}» sous «{1}»</value>
+    <value>Achetez ou entrez une clé existante sur la page « {0} » sous « {1} »</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
@@ -1211,7 +1211,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Ajuste le volume des effets sonores joués par les AirPods lorsqu'aucun son n'est en cours de lecture. Lorsque «{0}» est activé, le volume ne sera pas appliqué.</value>
+    <value>Ajuste le volume des effets sonores joués par les AirPods lorsqu'aucun son n'est en cours de lecture. Lorsque « {0} » est activé, le volume ne sera pas appliqué.</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
     <value>Le plus court</value>
@@ -1299,7 +1299,7 @@
     <value>Appuyer sur la combinaison de touches allume ou éteint le Bluetooth.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Appuyer sur les touches de raccourci fait défiler les modes de suppression du bruit si « {0} » est disponible dans les paramètres du casque.</value>
+    <value>Appuyer sur les touches de raccourci fait défiler les modes de suppression du bruit si « {0} » est disponible dans les paramètres du casque.</value>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
     <value>VoiceOver</value>
@@ -1350,7 +1350,7 @@
     <value>Basculer la sortie audio vers les écouteurs</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Force la sortie sonore à basculer vers le casque après la connexion. Cette option ne s'applique pas si l'option «{0}» est activée.</value>
+    <value>Force la sortie sonore à basculer vers le casque après la connexion. Cette option ne s'applique pas si l'option « {0} » est activée.</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>Adaptatif</value>
@@ -1428,13 +1428,13 @@
     <value>Activer le Off</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+    <value>Appuyer sur cette touche active ce mode si « {0} » est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Activer la transparence</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+    <value>Appuyer sur cette touche active ce mode si « {0} » est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>Activer l'audio adaptatif</value>
@@ -1443,24 +1443,24 @@
     <value>Activer la réduction du bruit du vent</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+    <value>Appuyer sur cette touche active ce mode si « {0} » est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>Activer la réduction du bruit</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+    <value>Appuyer sur cette touche active ce mode si « {0} » est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Basculer entre les modes avec la touche</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Appuyer sur la touche «{0}» pour basculer entre les modes de contrôle du bruit sélectionnés. Les modes non pris en charge par les écouteurs seront ignorés.</value>
+    <value>Appuyer sur la touche « {0} » pour basculer entre les modes de contrôle du bruit sélectionnés. Les modes non pris en charge par les écouteurs seront ignorés.</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>Comportement de certaines fonctionnalités avec la puce H2</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Appuyer sur cette touche active ce mode si «{0}» est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+    <value>Appuyer sur cette touche active ce mode si « {0} » est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
   </data>
 </root>
