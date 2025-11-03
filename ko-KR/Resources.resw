@@ -286,10 +286,10 @@
     <value>65보다 큰 값을 설정할 경우 애니메이션이 의도하지 않게 나타날 수 있습니다.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>«연결» 버튼 표시</value>
+    <value>“연결” 버튼 표시</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>팝업 창에서 «연결» 버튼을 표시하거나 숨깁니다. 버튼을 누르면 AirPods이 연결됩니다.</value>
+    <value>팝업 창에서 “연결” 버튼을 표시하거나 숨깁니다. 버튼을 누르면 AirPods이 연결됩니다.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>자동 연결</value>
@@ -301,7 +301,7 @@
     <value>자동 재생</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>헤드폰이 연결되면 «재생» 명령을 보냅니다. 실행 중인 플레이어가 없는 경우 Windows는 명령을 무시합니다.</value>
+    <value>헤드폰이 연결되면 “재생” 명령을 보냅니다. 실행 중인 플레이어가 없는 경우 Windows는 명령을 무시합니다.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>모든 설정이 초기화됩니다. 계속하시겠습니까?</value>
@@ -427,7 +427,7 @@
     <value>목록에 있는 모든 앱이 알림을 보낼 수 있는 것은 아니며, 몇몇 앱은 목록에 없을 수 있습니다.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>"알림을 VoiceOver로 안내받기" 기능이 꺼져 있어 알림에 접근할 수 없습니다. «개인 정보 및 알림» 을 열고 알림 접근을 허용한 다음 "알림을 VoiceOver로 안내받기"를 켜십시오.</value>
+    <value>“알림을 VoiceOver로 안내받기” 기능이 꺼져 있어 알림에 접근할 수 없습니다. “개인 정보 및 알림” 을 열고 알림 접근을 허용한 다음 “알림을 VoiceOver로 안내받기”를 켜십시오.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>무한 검색</value>
@@ -439,7 +439,7 @@
     <value>다음 안내에 따라 문제를 해결하세요.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>최고의 사용자 경험을 위해 시작 프로그램으로 등록할 것을 권장합니다. 작업 관리자의 «시작 프로그램» 탭에서 등록할 수 있습니다.</value>
+    <value>최고의 사용자 경험을 위해 시작 프로그램으로 등록할 것을 권장합니다. 작업 관리자의 “시작 프로그램” 탭에서 등록할 수 있습니다.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>밝음</value>
@@ -1030,14 +1030,14 @@
     <value>가짜 AirPods을 위한 창 보여주기</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>애플리케이션 페이지에서 Windows 설정을 연 뒤, «시작 프로그램»에서 «{0}»을 활성화하세요.</value>
+    <value>애플리케이션 페이지에서 Windows 설정을 연 뒤, “시작 프로그램”에서 “{0}”을 활성화하세요.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
     <value>키 구매하기</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>키를 구입하거나 이미 있는 키를 «{1}» 아래에 있는 «{0}» 페이지에서 입력하세요</value>
+    <value>키를 구입하거나 이미 있는 키를 “{1}” 아래에 있는 “{0}” 페이지에서 입력하세요</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="License_KeyNotValid.Text" xml:space="preserve">
@@ -1269,7 +1269,7 @@
     <value>Bluetooth</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>헤드폰 설정에서 «{0}»가 활성화되어 있을 경우, 단축키를 눌러 노이즈 캔슬링 모드를 전환합니다.</value>
+    <value>헤드폰 설정에서 “{0}”가 활성화되어 있을 경우, 단축키를 눌러 노이즈 캔슬링 모드를 전환합니다.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
     <value>소음 제어</value>
@@ -1416,13 +1416,13 @@
     <value>끔</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+    <value>“{0}”이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+    <value>“{0}”이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+    <value>“{0}”이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>주변음 허용 활성화</value>
@@ -1440,7 +1440,7 @@
     <value>단축키로 모드 간 전환하기</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>«{0}» 단축키를 사용해 선택한 노이즈 제어 모드를 순서대로 전환할 수 있으며, 헤드폰에서 지원하지 않는 모드는 제외됩니다.</value>
+    <value>“{0}” 단축키를 사용해 선택한 노이즈 제어 모드를 순서대로 전환할 수 있으며, 헤드폰에서 지원하지 않는 모드는 제외됩니다.</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>H2 칩 탑재 기기에서 일부 기능의 동작 방식</value>
@@ -1455,12 +1455,12 @@
     <value>사운드 출력을 헤드폰으로 전환</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>헤드폰 연결 시, 사운드 출력을 강제로 헤드폰으로 전환합니다. 단, «{0}»이(가) 활성화되어 있을 경우에는 이 설정이 적용되지 않습니다.</value>
+    <value>헤드폰 연결 시, 사운드 출력을 강제로 헤드폰으로 전환합니다. 단, “{0}”이(가) 활성화되어 있을 경우에는 이 설정이 적용되지 않습니다.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+    <value>“{0}”이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>«{0}»이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
+    <value>“{0}”이(가) 헤드폰 설정에서 활성화되어 있고 해당 모드를 지원하는 경우, 단축키를 눌러 이 모드를 활성화할 수 있습니다.</value>
   </data>
 </root>

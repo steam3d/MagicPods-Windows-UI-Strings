@@ -286,7 +286,7 @@
     <value>No establezca un valor superior a 65 ya que la animación puede aparecer accidentalmente.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Muestra el botón «Conectar»</value>
+    <value>Muestra el botón “Conectar”</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Auto conexión</value>
@@ -361,13 +361,13 @@
     <value>Audio</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Muestra u oculta el botón "Conectar" en la ventana emergente. Presionando el botón conectará los AirPods.</value>
+    <value>Muestra u oculta el botón “Conectar” en la ventana emergente. Presionando el botón conectará los AirPods.</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
     <value>Cambia el audio de los AirPods a los altavoces por defecto cuando ambos AirPods están fuera de la oreja.</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Envía el comando "Reproducir" después de conectar los AirPods. Si no hay ningún reproductor abierto Windows ignorará el comando.</value>
+    <value>Envía el comando “Reproducir” después de conectar los AirPods. Si no hay ningún reproductor abierto Windows ignorará el comando.</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>La aplicación se cerrará y todas las funciones serán deshabilitadas.</value>
@@ -518,7 +518,7 @@
     <value>No todas las aplicaciones de la lista pueden mandar notificaciones, algunas aplicaciones pueden no estar en la lista.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>La función "notificación de VoiceOver" esta apagada, no se pudo conseguir acceso a las notificaciones. Por favor abre «Privacidad y notificaciones»‎, permite el acceso a las notificaciones, entonces enciende "notificación de VoiceOver".</value>
+    <value>La función “notificación de VoiceOver” esta apagada, no se pudo conseguir acceso a las notificaciones. Por favor abre “Privacidad y notificaciones”, permite el acceso a las notificaciones, entonces enciende “notificación de VoiceOver”.</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
     <value>Reiniciar la aplicación puede solucionar el problema. Si el error persiste, intente reiniciar su computadora.</value>
@@ -566,7 +566,7 @@
     <value>Mostrar todas las aplicaciones</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Para la mejor experiencia de usuario, nosotros recomendamos que habilites el arranque de inicio. Puedes hacer esto desde la pestaña «Inicio» en el administrador de tareas.</value>
+    <value>Para la mejor experiencia de usuario, nosotros recomendamos que habilites el arranque de inicio. Puedes hacer esto desde la pestaña “Inicio” en el administrador de tareas.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Búsqueda infinita</value>
@@ -929,7 +929,7 @@
     <value>Encienda la música antes de cambiar la configuración.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Abra la configuración de Windows en la página de la aplicación, vaya a «Inicio» y habilite «{0}».</value>
+    <value>Abra la configuración de Windows en la página de la aplicación, vaya a “Inicio” y habilite “{0}”.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
@@ -969,7 +969,7 @@
     <value>Es necesario volver a ingresar la licencia después de reinstalar la aplicación</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Compre o ingrese una clave existente en el «{0}» página debajo «{1}»</value>
+    <value>Compre o ingrese una clave existente en el “{0}” página debajo “{1}”</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
@@ -1228,7 +1228,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Ajusta el volumen de los efectos de sonido que reproducen los AirPods cuando no se está reproduciendo audio. Mientras esté activado «{0}», el volumen no se aplicará.</value>
+    <value>Ajusta el volumen de los efectos de sonido que reproducen los AirPods cuando no se está reproduciendo audio. Mientras esté activado “{0}”, el volumen no se aplicará.</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
     <value>Administrar auriculares</value>
@@ -1333,7 +1333,7 @@
     <value>Control Bluetooth</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Presionar la tecla de acceso rápido cambia entre los modos de cancelación de ruido si «{0}» está disponible en la configuración de los auriculares.</value>
+    <value>Presionar la tecla de acceso rápido cambia entre los modos de cancelación de ruido si “{0}” está disponible en la configuración de los auriculares.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>Control de salida de sonido</value>
@@ -1381,7 +1381,7 @@
     <value>Cambiar la salida de sonido a los auriculares</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Forzar la salida de sonido para que cambie a los auriculares después de la conexión. Esta opción no se aplica si «{0}» está habilitado.</value>
+    <value>Forzar la salida de sonido para que cambie a los auriculares después de la conexión. Esta opción no se aplica si “{0}” está habilitado.</value>
   </data>
   <data name="Battery_Right.Title" xml:space="preserve">
     <value>Derecha</value>

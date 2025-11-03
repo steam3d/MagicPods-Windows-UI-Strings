@@ -396,10 +396,10 @@
     <value>Jos ikkuna ei tule näkyviin, avaa kotelo, jossa AirPodit ovat sisällä, ja liu'uta liukusäädintä oikealle, kunnes animaatio tulee näkyviin.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Näytä «Yhdistä»-painike</value>
+    <value>Näytä ”Yhdistä”-painike</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Näytä tai piilota «Yhdistä»-painike ponnahdusikkunassa. Painikkeen painaminen yhdistää AirPodit.</value>
+    <value>Näytä tai piilota ”Yhdistä”-painike ponnahdusikkunassa. Painikkeen painaminen yhdistää AirPodit.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Kaikki asetukset nollataan. Haluatko jatkaa?</value>
@@ -559,7 +559,7 @@
     <value>Yhdistä automaattisesti AirPodit, kun otat oikean tai vasemman AirPodin pois kotelosta.</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Lähetä «Play»-komento, kun olet liittänyt kuulokkeet. Jos soittimia ei ole avoinna, Windows jättää komennon huomiotta.</value>
+    <value>Lähetä ”Play”-komento, kun olet liittänyt kuulokkeet. Jos soittimia ei ole avoinna, Windows jättää komennon huomiotta.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Käyttökohteesi perusteella suosittelemme asettamaan arvoksi {0}</value>
@@ -584,7 +584,7 @@
     <value>Kaikki luettelon sovellukset eivät voi lähettää ilmoituksia, ja joitakin sovelluksia ei ehkä ole luettelossa.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Ominaisuus "VoiceOver-ilmoitus" on pois päältä, ei pääsyä ilmoituksiin. Avaa "Tietosuoja ja ilmoitukset", salli ilmoitusten käyttö ja ota sitten "VoiceOver-ilmoitus" käyttöön.</value>
+    <value>Ominaisuus ”VoiceOver-ilmoitus” on pois päältä, ei pääsyä ilmoituksiin. Avaa ”Tietosuoja ja ilmoitukset”, salli ilmoitusten käyttö ja ota sitten ”VoiceOver-ilmoitus” käyttöön.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>Parhaan käyttökokemuksen saavuttamiseksi suosittelemme, että otat käynnistyksen käyttöön. Voit tehdä tämän Tehtävienhallinnan Käynnistys-välilehdeltä.</value>
@@ -861,7 +861,7 @@
     <value>Peruuta</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Avaa Windowsin asetukset Sovelluksen sivulla, siirry kohtaan «Käynnistys» ja ota käyttöön «{0}».</value>
+    <value>Avaa Windowsin asetukset Sovelluksen sivulla, siirry kohtaan ”Käynnistys” ja ota käyttöön ”{0}”.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -1153,7 +1153,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Säätää AirPodien toistamien äänitehosteiden äänenvoimakkuutta, kun muuta ääntä ei toisteta. Kun «{0}» on päällä, äänenvoimakkuutta ei sovelleta.</value>
+    <value>Säätää AirPodien toistamien äänitehosteiden äänenvoimakkuutta, kun muuta ääntä ei toisteta. Kun ”{0}” on päällä, äänenvoimakkuutta ei sovelleta.</value>
   </data>
   <data name="Support_Setting_License.Description" xml:space="preserve">
     <value>Lisenssiavain on syötettävä uudelleen, kun sovellus asennetaan uudelleen</value>
@@ -1300,7 +1300,7 @@
     <value>Vaihda äänen ulostulo kuulokkeisiin</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Pakota äänilähtö vaihtamaan kuulokkeisiin liitännän jälkeen. Tämä vaihtoehto ei ole käytössä, jos «{0}» on käytössä.</value>
+    <value>Pakota äänilähtö vaihtamaan kuulokkeisiin liitännän jälkeen. Tämä vaihtoehto ei ole käytössä, jos ”{0}” on käytössä.</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
     <value>Uudelleenkäynnistys vaaditaan</value>
@@ -1372,7 +1372,7 @@
     <value>Sammuta melunhallinta</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos ”{0}” on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Aktivoi läpikuuluminen</value>
@@ -1381,13 +1381,13 @@
     <value>Aktivoi mukautuva</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos ”{0}” on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>Aktivoi tuulenesto</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos ”{0}” on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>Aktivoi vastamelu</value>
@@ -1396,15 +1396,15 @@
     <value>Selaa pikanäppäimellä vaihtoehtoja</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Paina «{0}» vaihtaaksesi valittujen melunhallintatilojen välillä. Kuulokkeiden tukemattomat tilat ohitetaan.</value>
+    <value>Paina ”{0}” vaihtaaksesi valittujen melunhallintatilojen välillä. Kuulokkeiden tukemattomat tilat ohitetaan.</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>Tiettyjen toimintojen käyttäytyminen H2-sirun kanssa</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos ”{0}” on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos «{0}» on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
+    <value>Pikanäppäimen painaminen aktivoi tämän tilan, jos ”{0}” on saatavilla kuulokeasetuksissa ja tila on tuettu.</value>
   </data>
 </root>

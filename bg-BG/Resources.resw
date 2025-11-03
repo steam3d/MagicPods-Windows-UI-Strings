@@ -127,7 +127,7 @@
     <value>Подсказка</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Покажи или скрий бутона «Свържи» на изскачащия прозорец. Натискането на бутона ще свърже AirPods.</value>
+    <value>Покажи или скрий бутона „Свържи“ на изскачащия прозорец. Натискането на бутона ще свърже AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Автоматично свързване</value>
@@ -205,7 +205,7 @@
     <value>Не задавайте стойност по-висока от 65, анимацията може да се появи случайно.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Покажи бутон «Свържи»</value>
+    <value>Покажи бутон „Свържи“</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>За най-добро изживяване, препоръчваме да активирате включване при старт.</value>
@@ -352,7 +352,7 @@
     <value>Добави нов глас</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>За най-доброто изживяване, препоръчваме да активирате включване при старт. Можете да го направите от «Startup» раздела в Диспечер на задачите.</value>
+    <value>За най-доброто изживяване, препоръчваме да активирате включване при старт. Можете да го направите от „Startup“ раздела в Диспечер на задачите.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Безкрайно търсене</value>
@@ -630,7 +630,7 @@
     <value>Ако прозорецът не се появи, отворете кутийката с AirPods вътре и плавно плъзнете плъзгача надясно, докато се появи анимацията.</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Изпрати командата «Възпроизвеждане» при свързване на слушалките. Ако няма отворени плеъри, Windows ще игнорира командата.</value>
+    <value>Изпрати командата „Възпроизвеждане“ при свързване на слушалките. Ако няма отворени плеъри, Windows ще игнорира командата.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
     <value>Възпроизвеждането спира и силата на звука намалява, когато извадите една слушалка от ухото си, или спира и силата на звука се възстановява, когато извадите и двете.</value>
@@ -639,7 +639,7 @@
     <value>Известията се съобщават, когато слушалките са свързани и избрани за аудио изходно устройство.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Функцията "VoiceOver известия“ е изключена, не може да се получ достъп до известията. Моля, отворете «Поверителност и известия»‎, разрешете достъп до известията, след което включете "VoiceOver известия“.</value>
+    <value>Функцията „VoiceOver известия“ е изключена, не може да се получ достъп до известията. Моля, отворете „Поверителност и известия“, разрешете достъп до известията, след което включете „VoiceOver известия“.</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
     <value>Преработен интерфейс, индивидуални настройки и други. Някои настройки са променени. Отворете приложението, за да персонализирате.</value>
@@ -1242,7 +1242,7 @@
     <value>Сила на звука</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Регулира силата на звука на звуковите ефекти, възпроизвеждани от AirPods, когато не се възпроизвежда аудио. Докато «{0}» е включено, силата на звука няма да се прилага.</value>
+    <value>Регулира силата на звука на звуковите ефекти, възпроизвеждани от AirPods, когато не се възпроизвежда аудио. Докато „{0}“ е включено, силата на звука няма да се прилага.</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
     <value>Управлявайте слушалките</value>
@@ -1275,7 +1275,7 @@
     <value>Активирайте прозрачността</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+    <value>Натискането на клавишната комбинация активира този режим, ако „{0}“ е наличен в настройките на слушалките и режимът се поддържа.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>Активирайте адаптивно</value>
@@ -1287,7 +1287,7 @@
     <value>Активиране на шумопотискането</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+    <value>Натискането на клавишната комбинация активира този режим, ако „{0}“ е наличен в настройките на слушалките и режимът се поддържа.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Превключвайте между тях с клавишната комбинация</value>
@@ -1341,7 +1341,7 @@
     <value>Стрийминг устройства</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Принудително превключване на звуковия изход към слушалките след свързване. Тази опция не е валидна, ако е активирана опцията «{0}».</value>
+    <value>Принудително превключване на звуковия изход към слушалките след свързване. Тази опция не е валидна, ако е активирана опцията „{0}“.</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
     <value>Регулирайте продължителността, необходима за натискане и задържане на вашите AirPods.</value>
@@ -1353,7 +1353,7 @@
     <value>Светла тема</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Натискането на клавишната комбинация превключва между режимите за шумопотискане, ако в настройките на слушалките е налична опцията «{0}».</value>
+    <value>Натискането на клавишната комбинация превключва между режимите за шумопотискане, ако в настройките на слушалките е налична опцията „{0}“.</value>
   </data>
   <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
     <value>За да се покажат устройствата, включете Bluetooth и изчакайте слушалките да се заредят</value>
@@ -1371,15 +1371,15 @@
     <value>Сила на звука на слушалките по подразбиране</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+    <value>Натискането на клавишната комбинация активира този режим, ако „{0}“ е наличен в настройките на слушалките и режимът се поддържа.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+    <value>Натискането на клавишната комбинация активира този режим, ако „{0}“ е наличен в настройките на слушалките и режимът се поддържа.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Натискането на клавишната комбинация активира този режим, ако «{0}» е наличен в настройките на слушалките и режимът се поддържа.</value>
+    <value>Натискането на клавишната комбинация активира този режим, ако „{0}“ е наличен в настройките на слушалките и режимът се поддържа.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Натиснете клавишната комбинация «{0}», за да превключвате между избраните режими за контрол на шума. Режимите, които не се поддържат от слушалките, ще бъдат пропуснати.</value>
+    <value>Натиснете клавишната комбинация „{0}“, за да превключвате между избраните режими за контрол на шума. Режимите, които не се поддържат от слушалките, ще бъдат пропуснати.</value>
   </data>
 </root>

@@ -227,10 +227,10 @@
     <value>Хөдөлгөөнт дүрс нь санамсаргүй гарч ирж болзошгүй тул 65-аас дээш утгыг бүү тохируул.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>"Холбох" товчийг харуулах</value>
+    <value>«Холбох» товчийг харуулах</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Гарч ирэх цонхон дээр "Холбох" товчийг харуулах эсвэл нуух. Товчлуур дээр дарснаар AirPods-г холбоно.</value>
+    <value>Гарч ирэх цонхон дээр «Холбох» товчийг харуулах эсвэл нуух. Товчлуур дээр дарснаар AirPods-г холбоно.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Автомат холболт</value>
@@ -242,7 +242,7 @@
     <value>Автоматаар тоглох</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Чихэвчийг холбосны дараа "Тоглох" командыг илгээнэ үү. Хэрэв нээлттэй тоглогч байхгүй бол Windows тушаалыг үл тоомсорлох болно.</value>
+    <value>Чихэвчийг холбосны дараа «Тоглох» командыг илгээнэ үү. Хэрэв нээлттэй тоглогч байхгүй бол Windows тушаалыг үл тоомсорлох болно.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Бүх тохиргоог дахин тохируулах болно. Та үргэлжлүүлэхийг хүсч байна уу?</value>
@@ -362,7 +362,7 @@
     <value>Бүх програмыг харуулах</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>"VoiceOver мэдэгдэл" функцийг унтраасан тул мэдэгдэлд хандах боломжгүй байна. «Нууцлал ба мэдэгдлүүд»-ийг нээж, мэдэгдэлд хандахыг зөвшөөрч, дараа нь "VoiceOver мэдэгдэл"-ийг асаана уу.</value>
+    <value>«VoiceOver мэдэгдэл» функцийг унтраасан тул мэдэгдэлд хандах боломжгүй байна. «Нууцлал ба мэдэгдлүүд»-ийг нээж, мэдэгдэлд хандахыг зөвшөөрч, дараа нь «VoiceOver мэдэгдэл»-ийг асаана уу.</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Нууцлал ба мэдэгдэл</value>
@@ -371,7 +371,7 @@
     <value>Шинэ дуу хоолой нэмнэ үү</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Хэрэглэгчийн туршлагыг сайжруулахын тулд эхлүүлэхийг идэвхжүүлэхийг зөвлөж байна. Та үүнийг Task Manager дахь "Startup" таб дээрээс хийж болно.</value>
+    <value>Хэрэглэгчийн туршлагыг сайжруулахын тулд эхлүүлэхийг идэвхжүүлэхийг зөвлөж байна. Та үүнийг Task Manager дахь «Startup» таб дээрээс хийж болно.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Хязгааргүй хайлт</value>
@@ -920,7 +920,7 @@
     <value>Цуцлах</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Програмын хуудаснаас Windows тохиргоог нээгээд "Startup" руу очоод "{0}"-г идэвхжүүлнэ үү.</value>
+    <value>Програмын хуудаснаас Windows тохиргоог нээгээд «Startup» руу очоод «{0}»-г идэвхжүүлнэ үү.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>Startup руу очно уу</value>
@@ -980,7 +980,7 @@
     <value>Лицензийн түлхүүр олдсонгүй</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>"{0}" хуудасны "{1}" доор байгаа түлхүүрийг худалдаж авах эсвэл оруулна уу</value>
+    <value>«{0}» хуудасны «{1}» доор байгаа түлхүүрийг худалдаж авах эсвэл оруулна уу</value>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
     <value>Лиценз</value>
@@ -1187,7 +1187,7 @@
     <value>Дуу чимээний хяналт</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бол халуун товчлуурыг дарснаар дуу чимээ арилгах горимууд дамждаг.</value>
+    <value>Хэрэв «{0}» чихэвчний тохиргоонд байгаа бол халуун товчлуурыг дарснаар дуу чимээ арилгах горимууд дамждаг.</value>
   </data>
   <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
     <value>Дууны гаралт</value>
@@ -1304,37 +1304,37 @@
     <value>Идэвхжүүлэх унтраах</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+    <value>Хэрэв «{0}» чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Ил тод байдлыг идэвхжүүл</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+    <value>Хэрэв «{0}» чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>Дасан зохицох чадварыг идэвхжүүл</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+    <value>Хэрэв «{0}» чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>Салхи таслах ажиллагааг идэвхжүүл</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+    <value>Хэрэв «{0}» чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>Дуу чимээ арилгахыг идэвхжүүл</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Хэрэв "{0}" чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
+    <value>Хэрэв «{0}» чихэвчний тохиргоонд байгаа бөгөөд энэ горимыг дэмждэг бол халуун товчийг дарснаар энэ горимыг идэвхжүүлнэ.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Халуун товчийг ашиглан хооронд нь эргэлдэнэ</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Сонгосон дуу чимээг хянах горимуудын хооронд шилжихийн тулд "{0}" товчийг дарна уу. Чихэвчээр дэмжигдээгүй горимуудыг алгасах болно.</value>
+    <value>Сонгосон дуу чимээг хянах горимуудын хооронд шилжихийн тулд «{0}» товчийг дарна уу. Чихэвчээр дэмжигдээгүй горимуудыг алгасах болно.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>Унтраах</value>

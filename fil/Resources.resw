@@ -200,10 +200,10 @@
     <value>Huwag magtakda ng halagang value sa 65 dahil maaaring hindi sinasadyang lumabas ang animation.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Ipakita ang pindutan ng "Konnect"</value>
+    <value>Ipakita ang pindutan ng “Konnect”</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Ipakita o itago ang button na «Konnect» sa pop-up window. Ang pagpindot sa button ay magkokonekta sa AirPods.</value>
+    <value>Ipakita o itago ang button na “Konnect” sa pop-up window. Ang pagpindot sa button ay magkokonekta sa AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Auto Konnect</value>
@@ -212,7 +212,7 @@
     <value>Auto-play</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Ipadala ang command na «Play» pagkatapos ikonekta ang mga headphone. Kung walang bukas na mga manlalaro, babalewalain ng Windows ang utos.</value>
+    <value>Ipadala ang command na “Play” pagkatapos ikonekta ang mga headphone. Kung walang bukas na mga manlalaro, babalewalain ng Windows ang utos.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Ire-reset ang lahat ng mga setting. Gusto mo bang magpatuloy?</value>
@@ -280,7 +280,7 @@
     <value>Audio</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Para sa pinakamahusay na karanasan ng user, inirerekomenda namin na paganahin mo ang startup. Magagawa mo ito mula sa tab na «Startup» sa Task Manager.</value>
+    <value>Para sa pinakamahusay na karanasan ng user, inirerekomenda namin na paganahin mo ang startup. Magagawa mo ito mula sa tab na “Startup” sa Task Manager.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
     <value>Ipakita ang Porsyento ng Baterya</value>
@@ -747,7 +747,7 @@
     <value>Hindi lahat ng application mula sa listahan ay maaaring magpadala ng mga notification, ang ilang mga application ay maaaring wala sa listahan.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Ang feature na "VoiceOver notification" ay naka-off, hindi makakuha ng access sa mga notification. Mangyaring buksan ang «Privacy at mga notification»‎, payagan ang pag-access sa mga notification, pagkatapos ay i-on ang "VoiceOver notification".</value>
+    <value>Ang feature na “VoiceOver notification” ay naka-off, hindi makakuha ng access sa mga notification. Mangyaring buksan ang “Privacy at mga notification”, payagan ang pag-access sa mga notification, pagkatapos ay i-on ang “VoiceOver notification”.</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
     <value>Baka ang pag restart ng application ang maka ayos sa problema. kapag may problema padin, i try mong irestart ang computer mo.</value>
@@ -936,7 +936,7 @@
     <value>Mag-click dito upang pumunta sa Microsoft Store.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Buksan ang Windows settings sa pahina ng Application, pumunta sa «Startup» at paganahin ang «{0}».</value>
+    <value>Buksan ang Windows settings sa pahina ng Application, pumunta sa “Startup” at paganahin ang “{0}”.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
@@ -1040,7 +1040,7 @@
     <value>Ang aktibong mikropono ng AirPod ay maaaring pumalit sa kaliwa o kanan, o kaya ay manatili sa isang side.</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Baguhin ang lakas ng sound effects na ipinapatugtog ng AirPods kapag walang audio na tumutogtog. Habang naka gana ang «{0}», and lakas ay hindi ma-aapply.</value>
+    <value>Baguhin ang lakas ng sound effects na ipinapatugtog ng AirPods kapag walang audio na tumutogtog. Habang naka gana ang “{0}”, and lakas ay hindi ma-aapply.</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>Magdagdag ng kaunting mahika sa iyong headphones</value>
@@ -1049,7 +1049,7 @@
     <value>Pindutin ang pindutan sa AirPods Max o kaya naman ay pindutin at diinan ang kaliwa o kanan na AirPod sa AirPods Pro upang magpalit mula sa mga napiling pamamaraan ng pag kontrol sa ingay.</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Bumili o maglagay ng susing mayroon ka sa pahina ng «{0}» sa ilalim ng «{1}»</value>
+    <value>Bumili o maglagay ng susing mayroon ka sa pahina ng “{0}” sa ilalim ng “{1}”</value>
   </data>
   <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
     <value>Tapusin ang tawag/I-mute at unmute</value>
@@ -1259,7 +1259,7 @@
     <value>Kansela</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Ang pagpindot sa hotkey ay nagpapalipat-lipat sa mga mode ng pagkansela ng ingay kung available ang «{0}» sa mga setting ng headphone.</value>
+    <value>Ang pagpindot sa hotkey ay nagpapalipat-lipat sa mga mode ng pagkansela ng ingay kung available ang “{0}” sa mga setting ng headphone.</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
     <value>I-restart</value>
@@ -1289,7 +1289,7 @@
     <value>Gamitin ang opsyong ito kung hindi ipinapakita ang charge ng headphone. Ikonekta muli ang mga headphone upang maisagawa ang mga pagbabago. Hindi magagamit ang voice communication.</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Piliting ilipat ang output ng tunog sa mga headphone pagkatapos ng pagkakakonekta. Hindi naaapektuhan ng opsyong ito kung naka-enable ang «{0}».</value>
+    <value>Piliting ilipat ang output ng tunog sa mga headphone pagkatapos ng pagkakakonekta. Hindi naaapektuhan ng opsyong ito kung naka-enable ang “{0}”.</value>
   </data>
   <data name="Battery_Left.Title" xml:space="preserve">
     <value>Kaliwa</value>
@@ -1337,19 +1337,19 @@
     <value>Lakas ng tunog ng paglagay sa tainga</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang “{0}” ay available sa mga setting ng headphone at ang mode ay suportado.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang “{0}” ay available sa mga setting ng headphone at ang mode ay suportado.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang “{0}” ay available sa mga setting ng headphone at ang mode ay suportado.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>Buhayin ang pagkansela sa hangin</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang “{0}” ay available sa mga setting ng headphone at ang mode ay suportado.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>Buhayin ang adaptive</value>
@@ -1361,13 +1361,13 @@
     <value>Buhayin ang pagkansela sa ingay</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang «{0}» ay available sa mga setting ng headphone at ang mode ay suportado.</value>
+    <value>Ang pagpindot ng napiling pindutan ay mag-a-activate ng mode kung ang “{0}” ay available sa mga setting ng headphone at ang mode ay suportado.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Mamili gamit ang napiling pindutan</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Pindutin ang napiling pindutan ng «{0}» upang mamili sa mga napiling mode ng pagkontrol sa ingay. Ang mga mode na hindi suportado ng headphones ay lalaktawan.</value>
+    <value>Pindutin ang napiling pindutan ng “{0}” upang mamili sa mga napiling mode ng pagkontrol sa ingay. Ang mga mode na hindi suportado ng headphones ay lalaktawan.</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>Ugali ng ilang pag-andar gamit ang H2 chip</value>

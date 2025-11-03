@@ -352,7 +352,7 @@
     <value>Jeśli nie widzisz wyskakującego okienka, otwórz etui AirPods-ów i przesuń suwak w prawo, aż się pojawi.</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Wyślij polecenie "Odtwórz" po podłączeniu słuchawek. Jeśli nie ma otwartych odtwarzaczy, system Windows zignoruje polecenie.</value>
+    <value>Wyślij polecenie „Odtwórz” po podłączeniu słuchawek. Jeśli nie ma otwartych odtwarzaczy, system Windows zignoruje polecenie.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Na podstawie Twojego użycia sugerujemy wartość o {0}</value>
@@ -377,7 +377,7 @@
     <value>Funkcja powiadomień VoiceOver jest wyłączona i nie ma dostępu do powiadomień. Otwórz „Prywatność i powiadomienia”, zezwól na dostęp do powiadomień, a następnie aktywuj „Powiadomienie VoiceOver”.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Aby zapewnić najlepsze wrażenia użytkownika, zalecamy włączenie uruchamiania. Możesz to zrobić z zakładki «Uruchamianie» w Menedżerze zadań.</value>
+    <value>Aby zapewnić najlepsze wrażenia użytkownika, zalecamy włączenie uruchamiania. Możesz to zrobić z zakładki „Uruchamianie” w Menedżerze zadań.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Wyszukiwanie w nieskończoność</value>
@@ -908,7 +908,7 @@
     <value>Kliknij tutaj, aby przejść do sklepu Microsoft Store.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Otwórz ustawienia Windows na stronie aplikacji, przejdź do "Uruchamianie" i włącz "{0}".</value>
+    <value>Otwórz ustawienia Windows na stronie aplikacji, przejdź do „Uruchamianie” i włącz „{0}”.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
@@ -1162,7 +1162,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Dostosuj głośność efektów dźwiękowych w słuchawkach AirPods kiedy żaden dźwięk nie jest odtwarzany. Kiedy opcja «{0}» jest włączona, głośność nie zostanie zastosowana.</value>
+    <value>Dostosuj głośność efektów dźwiękowych w słuchawkach AirPods kiedy żaden dźwięk nie jest odtwarzany. Kiedy opcja „{0}” jest włączona, głośność nie zostanie zastosowana.</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
     <value>Zarządzaj słuchawkami</value>
@@ -1252,7 +1252,7 @@
     <value>Kontrola Bluetooth</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Przytrzymanie skrótu klawiszowego przełącza redukcje hałasu, jeśli «{0}» jest dostępne w ustawieniach słuchawek.</value>
+    <value>Przytrzymanie skrótu klawiszowego przełącza redukcje hałasu, jeśli „{0}” jest dostępne w ustawieniach słuchawek.</value>
   </data>
   <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
     <value>Połącz / Rozłącz</value>
@@ -1291,7 +1291,7 @@
     <value>Zmień wyjście dźwięku na słuchawki</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Wymuś przełączenie wyjścia dźwiękowego na słuchawki po połączeniu. Opcja ta nie ma zastosowania, jeśli «{0}» jest włączona.</value>
+    <value>Wymuś przełączenie wyjścia dźwiękowego na słuchawki po połączeniu. Opcja ta nie ma zastosowania, jeśli „{0}” jest włączona.</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
     <value>Poziom naładowania przez zestaw głośnomówiący</value>
@@ -1375,25 +1375,25 @@
     <value>Aktywacja wyłączona</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli „{0}” jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>Aktywuj adaptację</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli „{0}” jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli „{0}” jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli „{0}” jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Przełączaj pomiędzy za pomocą klawisza skrótu</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Naciśnij klawisz skrótu "{0}", aby przełączać się między wybranymi trybami kontroli hałasu. Tryby nieobsługiwane przez słuchawki zostaną pominięte.</value>
+    <value>Naciśnij klawisz skrótu „{0}”, aby przełączać się między wybranymi trybami kontroli hałasu. Tryby nieobsługiwane przez słuchawki zostaną pominięte.</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>Zachowanie niektórych funkcji z czipem h2</value>
@@ -1402,7 +1402,7 @@
     <value>Aktywuj redukcję hałasu</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli "{0}" jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
+    <value>Naciśnięcie klawisza skrótu aktywuje ten tryb, jeśli „{0}” jest dostępne w ustawieniach słuchawek i tryb jest obsługiwany.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Aktywuj tryb kontaktu</value>

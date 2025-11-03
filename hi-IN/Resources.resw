@@ -224,7 +224,7 @@
     <value>समर्थित खिलाड़ियों की सूची</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>«जुडिये» बटन दिखाएँ</value>
+    <value>“जुडिये” बटन दिखाएँ</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>अपने आप जुडिये</value>
@@ -233,7 +233,7 @@
     <value>अपने आप प्ले</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>पॉप-अप विंडो पर «जुडिये» बटन दिखाएं या छुपाएं। बटन दबाने से एयरपॉड्स कनेक्ट हो जाएंगे।</value>
+    <value>पॉप-अप विंडो पर “जुडिये” बटन दिखाएं या छुपाएं। बटन दबाने से एयरपॉड्स कनेक्ट हो जाएंगे।</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>हाँ, सेटिंग्स रीसेट करें</value>
@@ -242,7 +242,7 @@
     <value>सलाह</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>एयरपॉड्स को जोड़ने के बाद «प्ले» कमांड भेजें।यदि कोई खुला खिलाड़ी नहीं है तो Windows कमांड को अनदेखा कर देगा।</value>
+    <value>एयरपॉड्स को जोड़ने के बाद “प्ले” कमांड भेजें।यदि कोई खुला खिलाड़ी नहीं है तो Windows कमांड को अनदेखा कर देगा।</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>लागू</value>
@@ -323,7 +323,7 @@
     <value>एक नई आवाज जोड़ें</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>सुविधा "VoiceOver सूचना" बंद है, सूचनाओं तक पहुंच प्राप्त नहीं कर सकता। कृपया «गोपनीयता और सूचनाएं»‎ खोलें, सूचनाओं तक पहुंचने की अनुमति दें, फिर "VoiceOver सूचना" चालू करें।</value>
+    <value>सुविधा “VoiceOver सूचना” बंद है, सूचनाओं तक पहुंच प्राप्त नहीं कर सकता। कृपया “गोपनीयता और सूचनाएं” खोलें, सूचनाओं तक पहुंचने की अनुमति दें, फिर “VoiceOver सूचना” चालू करें।</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>गोपनीयता और सूचनाएं</value>
@@ -554,7 +554,7 @@
     <value>जब एक एयरपॉड हटा दिया जाता है, तो प्लेबैक रुक जाता है, और दोनों एयरपॉड्स डालने पर फिर से शुरू हो जाता है।</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>सर्वोत्तम उपयोगकर्ता अनुभव के लिए, हम अनुशंसा करते हैं कि आप स्टार्टअप को सक्षम करें। आप इसे टास्क मैनेजर में «स्टार्टअप» टैब से कर सकते हैं।</value>
+    <value>सर्वोत्तम उपयोगकर्ता अनुभव के लिए, हम अनुशंसा करते हैं कि आप स्टार्टअप को सक्षम करें। आप इसे टास्क मैनेजर में “स्टार्टअप” टैब से कर सकते हैं।</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
     <value>एप्लिकेशन को पुनः प्रारंभ करने से समस्या ठीक हो सकती है। यदि त्रुटि बनी रहती है, तो अपने कंप्यूटर को पुनरारंभ करने का प्रयास करें।</value>
@@ -878,7 +878,7 @@
     <value>रद्द करना</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>एप्लिकेशन पेज पर विंडोज़ सेटिंग्स खोलें, "स्टार्टअप" पर जाएं और "{0}" सक्षम करें।</value>
+    <value>एप्लिकेशन पेज पर विंडोज़ सेटिंग्स खोलें, “स्टार्टअप” पर जाएं और “{0}” सक्षम करें।</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -981,7 +981,7 @@
     <value>चाबी डालें</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>«{0}» पृष्ठ पर «{1}» के अंतर्गत एक मौजूदा की दर्ज करें या खरीदें</value>
+    <value>“{0}” पृष्ठ पर “{1}” के अंतर्गत एक मौजूदा की दर्ज करें या खरीदें</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
@@ -1183,7 +1183,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>AirPods द्वारा बजाए जाने वाले ध्वनि प्रभावों की वॉल्यूम को समायोजित करता है जब कोई ऑडियो नहीं चल रहा हो। जब «{0}» चालू हो, तो वॉल्यूम लागू नहीं होगा।</value>
+    <value>AirPods द्वारा बजाए जाने वाले ध्वनि प्रभावों की वॉल्यूम को समायोजित करता है जब कोई ऑडियो नहीं चल रहा हो। जब “{0}” चालू हो, तो वॉल्यूम लागू नहीं होगा।</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
     <value>लाइट थीम</value>
@@ -1381,7 +1381,7 @@
     <value>अनुकूलनीय सक्रिय करें</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+    <value>यदि हेडफ़ोन सेटिंग्स में “{0}” उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>विंड कैंसलेशन सक्रिय करें</value>
@@ -1390,7 +1390,7 @@
     <value>शोर रद्द करना सक्रिय करें</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+    <value>यदि हेडफ़ोन सेटिंग्स में “{0}” उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>हॉटकी से मोड बदलें</value>
@@ -1402,15 +1402,15 @@
     <value>जब यह फीचर सक्रिय होगा तो वॉल्यूम चुनी गई मात्रा तक कम हो जाएगा ।</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>चयनित नॉइज़ कंट्रोल मोड्स के बीच बदलने के लिए «{0}» हॉटकी दबाएं। हेडफ़ोन द्वारा समर्थित न होने वाले मोड्स को छोड़ दिया जाएगा।</value>
+    <value>चयनित नॉइज़ कंट्रोल मोड्स के बीच बदलने के लिए “{0}” हॉटकी दबाएं। हेडफ़ोन द्वारा समर्थित न होने वाले मोड्स को छोड़ दिया जाएगा।</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+    <value>यदि हेडफ़ोन सेटिंग्स में “{0}” उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+    <value>यदि हेडफ़ोन सेटिंग्स में “{0}” उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>यदि हेडफ़ोन सेटिंग्स में «{0}» उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
+    <value>यदि हेडफ़ोन सेटिंग्स में “{0}” उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
   </data>
 </root>

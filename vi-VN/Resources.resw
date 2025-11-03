@@ -368,16 +368,16 @@
     <value>Hiển thị tất cả ứng dụng</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Tính năng "Thông báo VoiceOver" đã tắt vì không thể truy cập thông báo. Xin hãy mở "Cài đặt &gt; Riêng tư &gt; Thông báo", cho phép truy cập thông báo, sau đó kích hoạt "Thông báo VoiceOver".</value>
+    <value>Tính năng “Thông báo VoiceOver” đã tắt vì không thể truy cập thông báo. Xin hãy mở “Cài đặt &gt; Riêng tư &gt; Thông báo”, cho phép truy cập thông báo, sau đó kích hoạt “Thông báo VoiceOver”.</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
-    <value>Mở "Riêng tư &gt; Thông báo"</value>
+    <value>Mở “Riêng tư &gt; Thông báo”</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
     <value>Thêm giọng nói mới</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Để có trải nghiệm người dùng tốt nhất, chúng tôi khuyên bạn nên cho ứng dụng khởi động cùng WIndows. Bạn có thể làm điều này từ tab "Khởi động" trong Trình quản lý Tác vụ.</value>
+    <value>Để có trải nghiệm người dùng tốt nhất, chúng tôi khuyên bạn nên cho ứng dụng khởi động cùng WIndows. Bạn có thể làm điều này từ tab “Khởi động” trong Trình quản lý Tác vụ.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Tìm kiếm vô hạn</value>
@@ -506,7 +506,7 @@
     <value>Bật Bluetooth để hiển thị tai nghe</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Header" xml:space="preserve">
-    <value>Nói "chào" với MagicPods 2.0</value>
+    <value>Nói “chào” với MagicPods 2.0</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
     <value>Một giao diện mới, cài đặt cá nhân hoá mới và còn hơn thế nữa. Một số cài đặt đã được thay đổi. Hãy mở ứng dụng để tuỳ chỉnh.</value>
@@ -917,7 +917,7 @@
     <value>Tắt</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Mở cài đặt Windows và vào trang Ứng Dụng, đến mục 'Khởi động cùng Windows' và bật «{0}».</value>
+    <value>Mở cài đặt Windows và vào trang Ứng Dụng, đến mục 'Khởi động cùng Windows' và bật “{0}”.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
@@ -985,7 +985,7 @@
     <value>Mua khoá</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>mua hoặc nhập mã tồn tại trong trang «{0}» và «{1}»</value>
+    <value>mua hoặc nhập mã tồn tại trong trang “{0}” và “{1}”</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
@@ -1163,7 +1163,7 @@
     <value>Kiểm soát tiếng ồn</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Nhấn phím tắt sẽ chuyển qua các chế độ khử tiếng ồn nếu «{0}» có sẵn trong cài đặt tai nghe.</value>
+    <value>Nhấn phím tắt sẽ chuyển qua các chế độ khử tiếng ồn nếu “{0}” có sẵn trong cài đặt tai nghe.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>Kiểm soát đầu ra âm thang</value>
@@ -1250,10 +1250,10 @@
     <value>Màu chỉ thị khi pin yếu</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Buộc đầu ra âm thanh chuyển sang tai nghe sau khi kết nối. Tùy chọn này không áp dụng nếu «{0}» được bật.</value>
+    <value>Buộc đầu ra âm thanh chuyển sang tai nghe sau khi kết nối. Tùy chọn này không áp dụng nếu “{0}” được bật.</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Điều chỉnh âm lượng của hiệu ứng âm thanh của AirPods khi không có âm thanh nào phát. Khi «{0}» được bật, âm lượng sẽ không được áp dụng.</value>
+    <value>Điều chỉnh âm lượng của hiệu ứng âm thanh của AirPods khi không có âm thanh nào phát. Khi “{0}” được bật, âm lượng sẽ không được áp dụng.</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
     <value>Sử dụng tùy chọn này nếu mức sạc của tai nghe không được hiển thị. Kết nối lại tai nghe để áp dụng các thay đổi. Giao tiếp bằng giọng nói sẽ không khả dụng.</value>
@@ -1334,7 +1334,7 @@
     <value>Tắt hoạt động</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Nhấn phím nóng sẽ kích hoạt chế độ này nếu «{0}» có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
+    <value>Nhấn phím nóng sẽ kích hoạt chế độ này nếu “{0}” có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
     <value>Nhận biết Âm lượng Môi trường xung quanh</value>
@@ -1343,25 +1343,25 @@
     <value>Kích hoạt Chế độ Xuyên âm</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu chế độ «{0}» có sẵn trong cài đặt tai nghe và được hỗ trợ.</value>
+    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu chế độ “{0}” có sẵn trong cài đặt tai nghe và được hỗ trợ.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>Bật chế độ Thích ứng</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu «{0}» có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
+    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu “{0}” có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>Bật chống ồn gió</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu «{0}» có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
+    <value>Nhấn phím tắt để kích hoạt chế độ này. Nếu “{0}” có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>Bật Khử tiếng ồn</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Nhấn phím tắt để kích hoạt chế độ này nếu «{0}» có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
+    <value>Nhấn phím tắt để kích hoạt chế độ này nếu “{0}” có trong cài đặt tai nghe và chế độ này được hỗ trợ.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Chuyển đổi giữa các phím tắt</value>
@@ -1370,6 +1370,6 @@
     <value>Một số tính năng chỉ hỗ trợ công nghệ H2</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>.Nhấn «{0}» để chuyển đổi giữa các chế độ khử tiếng ồn đã chọn. Các chế độ tai nghe không hỗ trợ sẽ được bỏ qua.</value>
+    <value>.Nhấn “{0}” để chuyển đổi giữa các chế độ khử tiếng ồn đã chọn. Các chế độ tai nghe không hỗ trợ sẽ được bỏ qua.</value>
   </data>
 </root>

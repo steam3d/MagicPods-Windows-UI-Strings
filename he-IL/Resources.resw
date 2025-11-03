@@ -283,10 +283,10 @@
     <value>תשר</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>הצג את לחצן «התחבר»</value>
+    <value>הצג את לחצן ״התחבר״</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>הצג או הסתר את לחצן «התחבר» בחלון המוקפץ. לחיצה על הכפתור תחבר את ה-AirPods.</value>
+    <value>הצג או הסתר את לחצן ״התחבר״ בחלון המוקפץ. לחיצה על הכפתור תחבר את ה-AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>התחברות אוטומטית</value>
@@ -295,7 +295,7 @@
     <value>הפעלה אוטומטית</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>שלח את הפקודה «הפעל» לאחר חיבור האוזניות. אם אין נגנים פתוחים Windows יתעלם מהפקודה.</value>
+    <value>שלח את הפקודה ״הפעל״ לאחר חיבור האוזניות. אם אין נגנים פתוחים Windows יתעלם מהפקודה.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>כן, אפס הגדרות</value>
@@ -332,13 +332,13 @@
     <value>אם החלון אינו מופיע פתוח את המארז עם AirPods בפנים והחלק את המחוון בצורה חלקה ימינה עד שההנפשה תופיע.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>התכונה "הודעת VoiceOver" מבוטלת, לא ניתן לקבל גישה להתראות. נא פתח «פרטיות והודעות», אפשר גישה להודעות ולאחר מכן הפעל את "הודעת VoiceOver".</value>
+    <value>התכונה ״הודעת VoiceOver״ מבוטלת, לא ניתן לקבל גישה להתראות. נא פתח ״פרטיות והודעות״, אפשר גישה להודעות ולאחר מכן הפעל את ״הודעת VoiceOver״.</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>אל תגדיר ערך גדול מ- 65. עקב כך שההנפשה עשויה להופיע בטעות.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>לקבלת חוויית המשתמש הטובה ביותר, מומלץ להפוך את האתחול לזמין. באפשרותך לעשות זאת מהכרטיסיה «הפעלה» במנהל המשימות.</value>
+    <value>לקבלת חוויית המשתמש הטובה ביותר, מומלץ להפוך את האתחול לזמין. באפשרותך לעשות זאת מהכרטיסיה ״הפעלה״ במנהל המשימות.</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>לא היתה אפשרות למצוא את ה-AirPods</value>
@@ -881,7 +881,7 @@
     <value>הפעל את המוזיקה לפני שינוי הגדרה זו.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>פתח את דף האפליקציות בהגדרות Windows, לך להפעלה והפעל «{0}».</value>
+    <value>פתח את דף האפליקציות בהגדרות Windows, לך להפעלה והפעל ״{0}״.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
@@ -984,7 +984,7 @@
     <value>יש להזין מחדש את מפתח הרישיון לאחר התקנה מחדש של היישום</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>קנה או הזן מפתח קיים בדף «{0}» תחת «{1}»</value>
+    <value>קנה או הזן מפתח קיים בדף ״{0}״ תחת ״{1}״</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="License_KeyNotValid.Text" xml:space="preserve">
@@ -1139,7 +1139,7 @@
     <value>עוצמת הקול</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>כוונון עוצמת הקול של אפקטים קוליים המושמעים על ידי AirPods כאשר לא מתנגן אודיו. כאשר «{0}» מופעל, עוצמת הקול לא תופעל.</value>
+    <value>כוונון עוצמת הקול של אפקטים קוליים המושמעים על ידי AirPods כאשר לא מתנגן אודיו. כאשר ״{0}״ מופעל, עוצמת הקול לא תופעל.</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
     <value>ניהול אוזניות</value>
@@ -1172,7 +1172,7 @@
     <value>בקרת רעש</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>לחיצה על מקש הקיצור עוברת בין מצבי ביטול רעשים אם «{0}» זמין בהגדרות האוזניות.</value>
+    <value>לחיצה על מקש הקיצור עוברת בין מצבי ביטול רעשים אם ״{0}״ זמין בהגדרות האוזניות.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>בקרת פלט סאונד</value>
@@ -1256,19 +1256,19 @@
     <value>הפעל כיבוי</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם «{0}» זמין בהגדרות האוזניות והמצב נתמך.</value>
+    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם ״{0}״ זמין בהגדרות האוזניות והמצב נתמך.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>הפעל שקיפות</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם «{0}» זמין בהגדרות האוזניות והמצב נתמך.</value>
+    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם ״{0}״ זמין בהגדרות האוזניות והמצב נתמך.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>הפעל אדפטיבי</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם «{0}» זמין בהגדרות האוזניות והמצב נתמך.</value>
+    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם ״{0}״ זמין בהגדרות האוזניות והמצב נתמך.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>הפעל ביטול רעשי רוח</value>
@@ -1277,7 +1277,7 @@
     <value>הפעל ביטול רעשים</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם «{0}» זמין בהגדרות האוזניות והמצב נתמך.</value>
+    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם ״{0}״ זמין בהגדרות האוזניות והמצב נתמך.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>מעבר בין אפשרויות בעזרת מקש קיצורי דרך</value>
@@ -1349,10 +1349,10 @@
     <value>השתמש באפשרות זו אם טעינת האוזניות אינה מוצגת. חבר מחדש את האוזניות כדי להחיל את השינויים. תקשורת קולית לא תהיה זמינה.</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>כפה את מעבר פלט השמע לאוזניות לאחר החיבור. אפשרות זו אינה חלה אם «{0}» מופעלת.</value>
+    <value>כפה את מעבר פלט השמע לאוזניות לאחר החיבור. אפשרות זו אינה חלה אם ״{0}״ מופעלת.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם «{0}» זמין בהגדרות האוזניות והמצב נתמך.</value>
+    <value>לחיצה על מקש הקיצור מפעילה מצב זה אם ״{0}״ זמין בהגדרות האוזניות והמצב נתמך.</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
     <value>התאם את המהירות הנדרשת ללחיצה פעמיים או שלוש על ה-AirPods שלך.</value>
@@ -1373,6 +1373,6 @@
     <value>שינוי פלט צליל תצוגה</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>לחץ על מקש הקיצור «{0}» כדי לעבור בין מצבי בקרת הרעש שנבחרו. מצבים שאינם נתמכים על ידי האוזניות ידלגו.</value>
+    <value>לחץ על מקש הקיצור ״{0}״ כדי לעבור בין מצבי בקרת הרעש שנבחרו. מצבים שאינם נתמכים על ידי האוזניות ידלגו.</value>
   </data>
 </root>

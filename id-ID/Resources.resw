@@ -219,7 +219,7 @@
     <value>Putar Otomatis</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Kirim perintah «Putar» setelah menghubungkan AirPods. Jika tidak ada pemutar yang terbuka, Windows akan mengabaikan perintah tersebut.</value>
+    <value>Kirim perintah “Putar” setelah menghubungkan AirPods. Jika tidak ada pemutar yang terbuka, Windows akan mengabaikan perintah tersebut.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
     <value>Ya, reset pengaturan</value>
@@ -344,10 +344,10 @@
     <value>Jangan menetapkan nilai lebih besar dari 65 karena animasi mungkin muncul secara tidak sengaja.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Tampilkan tombol «Sambungkan»</value>
+    <value>Tampilkan tombol “Sambungkan”</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Menampilkan atau menyembunyikan tombol «Sambungkan» pada jendela pop-up. Tekan tombol untuk menghubungkan AirPods.</value>
+    <value>Menampilkan atau menyembunyikan tombol “Sambungkan” pada jendela pop-up. Tekan tombol untuk menghubungkan AirPods.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Semua pengaturan akan direset. Apakah Anda ingin melanjutkan?</value>
@@ -383,7 +383,7 @@
     <value>Dua atau lebih headphone telah terhubung, sisakan hanya satu yang tehubung</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Fitur "notifikasi VoiceOver" mati, tidak bisa mengakses notifikasi. Silahkan buka «Privasi dan notifikasi», perbolehkan akses notifikasi, lalu nyalakan "Notifikasi VoiceOver".</value>
+    <value>Fitur “notifikasi VoiceOver” mati, tidak bisa mengakses notifikasi. Silahkan buka “Privasi dan notifikasi”, perbolehkan akses notifikasi, lalu nyalakan “Notifikasi VoiceOver”.</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
     <value>Unduh</value>
@@ -485,7 +485,7 @@
     <value>Tambahkan suara baru</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Untuk pengalaman pengguna terbaik, kami menyarankan anda untuk menyalakan aplikasi di saat memulai komputer. Anda bisa melakukan ini dari menu «Startup» di Task Manager.</value>
+    <value>Untuk pengalaman pengguna terbaik, kami menyarankan anda untuk menyalakan aplikasi di saat memulai komputer. Anda bisa melakukan ini dari menu “Startup” di Task Manager.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Pencarian tanpa batas</value>
@@ -1014,7 +1014,7 @@
     <value>volume efek bunyi</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>menyesuaikan volume efek bunyi yang diputar oleh AirPods ketika tidak ada audio yang diputar. ketika «{0}» dinyalakan, volume tidak akan di terapkan.</value>
+    <value>menyesuaikan volume efek bunyi yang diputar oleh AirPods ketika tidak ada audio yang diputar. ketika “{0}” dinyalakan, volume tidak akan di terapkan.</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
     <value>Kelola headphone</value>
@@ -1116,7 +1116,7 @@
     <value>Klik disini untuk pergi ke Microsoft Store.</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Beli atau masukkan kode lisensi pada «{0}» halaman dibawah «{1}»</value>
+    <value>Beli atau masukkan kode lisensi pada “{0}” halaman dibawah “{1}”</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
     <value>Mengecilkan volume media yang sedang diputar dan mengurangi suara di sekitar Anda ketika Anda mulai berbicara ke orang sekitar.</value>
@@ -1137,7 +1137,7 @@
     <value>Gunakan opsi ini jika tingkat pengisian daya headphone tidak tampil. Sambungkan ulang headphone untuk menerapkan perubaha. Komunikasi suara akan tidak tersedia.</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Paksa keluaran suara untuk beralih ke headphone setelah koneksi berhasil. Opsi ini tidak berlaku jika «{0}» diaktifkan.</value>
+    <value>Paksa keluaran suara untuk beralih ke headphone setelah koneksi berhasil. Opsi ini tidak berlaku jika “{0}” diaktifkan.</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
     <value>Tampilkan peringatan dalam pengaturan headphone bahwa itu palsu.</value>
@@ -1155,7 +1155,7 @@
     <value>Tutup</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Bukan pengaturan windows di halaman aplikasi, lalu ke «Startup» dan aktifkan «{0}».</value>
+    <value>Bukan pengaturan windows di halaman aplikasi, lalu ke “Startup” dan aktifkan “{0}”.</value>
   </data>
   <data name="Notification_Updates_Header" xml:space="preserve">
     <value>Pembaruan tersedia</value>
@@ -1188,7 +1188,7 @@
     <value>Kontrol kebisingan</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Menekan tombol pintas akan beralih di antara mode jika «{0}» tersedia di pengaturan headphone.</value>
+    <value>Menekan tombol pintas akan beralih di antara mode jika “{0}” tersedia di pengaturan headphone.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>Kontrol keluaran suara</value>

@@ -109,7 +109,7 @@
     <value>ポップアップウィンドウの 「接続」 ボタンを表示または非表示にします。このボタンを押すと、AirPodsと接続します。</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>"VoiceOver通知"がオフになっていて、通知にアクセスできません。 «プライバシーと通知»を開き、通知へのアクセスを許可してから、"VoiceOver通知"をオンにしてください。</value>
+    <value>「VoiceOver通知」がオフになっていて、通知にアクセスできません。 「プライバシーと通知」を開き、通知へのアクセスを許可してから、「VoiceOver通知」をオンにしてください。</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>左右いずれかのAirPodsイヤホンが充電ケースから取り出されると、AirPodsへ自動的に接続します。</value>
@@ -256,7 +256,7 @@
     <value>自動再生</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>AirPodsを接続した後、«再生»コマンドを送信します。開いているプレーヤーがない場合、Windowsはコマンドを無視します。</value>
+    <value>AirPodsを接続した後、「再生」コマンドを送信します。開いているプレーヤーがない場合、Windowsはコマンドを無視します。</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>すべての設定が初期化されます。初期化しますか？</value>
@@ -872,7 +872,7 @@
     <value>適用するにはAirPodsの工場出荷時設定へのリセットが必要です。</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>アプリケーションページで Windows 設定を開き、«スタートアップ» に移動し、«{0}» を有効にします。</value>
+    <value>アプリケーションページで Windows 設定を開き、「スタートアップ」 に移動し、「{0}」 を有効にします。</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -1168,7 +1168,7 @@
     <value>ヘッドホンが接続されている場合は、以下のオプションが適用されます。</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>オーディオが再生されていないときにAirPodsで再生される効果音の音量を調整します。«{0}»がオンになっている間は、音量は適用されません。</value>
+    <value>オーディオが再生されていないときにAirPodsで再生される効果音の音量を調整します。「{0}」がオンになっている間は、音量は適用されません。</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
     <value>前のトラック</value>
@@ -1215,7 +1215,7 @@
     <value>ノイズコントロール</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>ホットキーを押すと、ヘッドフォン設定で"{0}"が利用可能な場合は、ノイズキャンセリングモードが切り替わります。</value>
+    <value>ホットキーを押すと、ヘッドフォン設定で「{0}」が利用可能な場合は、ノイズキャンセリングモードが切り替わります。</value>
   </data>
   <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
     <value>Bluetooth</value>
@@ -1389,22 +1389,22 @@
     <value>ホットキーで切り替える</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+    <value>ヘッドフォン設定で「{0}」が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+    <value>ヘッドフォン設定で「{0}」が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+    <value>ヘッドフォン設定で「{0}」が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+    <value>ヘッドフォン設定で「{0}」が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>ヘッドフォン設定で«{0}»が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
+    <value>ヘッドフォン設定で「{0}」が使用可能で、モードがサポートされている場合、ホットキーを押すとこのモードが有効になります。</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>ホットキー«{0}»を押すと、選択したノイズコントロールモードを切り替えられます。ヘッドホンでサポートされていないモードはスキップされます。</value>
+    <value>ホットキー「{0}」を押すと、選択したノイズコントロールモードを切り替えられます。ヘッドホンでサポートされていないモードはスキップされます。</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>h2チップの特定の機能の動作</value>

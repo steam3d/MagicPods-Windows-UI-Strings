@@ -952,7 +952,7 @@
     <value>单击此处转到Microsoft商店。</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>在应用程序页面上打开Windows设置，转到“启动”并启用«{0}».</value>
+    <value>在应用程序页面上打开Windows设置，转到“启动”并启用“{0}”.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
@@ -1302,7 +1302,7 @@
     <value>蓝牙控制</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中提供了「{0}」，则按下热键可以在不同的噪音取消模式之间切换。</value>
+    <value>如果耳机设置中提供了“{0}”，则按下热键可以在不同的噪音取消模式之间切换。</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>声音输出控制</value>
@@ -1431,19 +1431,19 @@
     <value>激活降噪功能</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>按下热键会激活此模式，如果耳机设置中存在「{0}」并且该模式受支持。</value>
+    <value>按下热键会激活此模式，如果耳机设置中存在“{0}”并且该模式受支持。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中有「{0}」，并且该模式被支持，那么按下热键就会激活这种模式。</value>
+    <value>如果耳机设置中有“{0}”，并且该模式被支持，那么按下热键就会激活这种模式。</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>按下快捷键「{0}」可在选定的降噪模式之间循环切换。耳机不支持的模式将被跳过。</value>
+    <value>按下快捷键“{0}”可在选定的降噪模式之间循环切换。耳机不支持的模式将被跳过。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>激活风噪声抵消（功能）</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中有「{0}」选项且该模式被支持，那么按下热键就会激活这种模式。</value>
+    <value>如果耳机设置中有“{0}”选项且该模式被支持，那么按下热键就会激活这种模式。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>激活自适应模式</value>
@@ -1455,12 +1455,12 @@
     <value>关闭激活</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中有「{0}」选项且该模式被支持，那么按下热键就会激活这种模式。</value>
+    <value>如果耳机设置中有“{0}”选项且该模式被支持，那么按下热键就会激活这种模式。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>激活通透模式</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中有「{0}」选项且该模式被支持，那么按下热键就会激活这种模式。</value>
+    <value>如果耳机设置中有“{0}”选项且该模式被支持，那么按下热键就会激活这种模式。</value>
   </data>
 </root>

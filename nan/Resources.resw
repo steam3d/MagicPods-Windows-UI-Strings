@@ -196,7 +196,7 @@
     <value>开机自动运行</value>
   </data>
   <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>您可以在“任务管理器”的“启动”选项卡中启用或禁用此功能。</value>
+    <value>您可以在「任务管理器」的「启动」选项卡中启用或禁用此功能。</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
     <value>启动项被组策略禁用，或者此设备不支持。</value>
@@ -223,10 +223,10 @@
     <value>提示</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
-    <value>显示“连接”按钮</value>
+    <value>显示「连接」按钮</value>
   </data>
   <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>显示或隐藏弹窗动画中的“连接”按钮，通过点击该按钮与 AirPods 进行连接。</value>
+    <value>显示或隐藏弹窗动画中的「连接」按钮，通过点击该按钮与 AirPods 进行连接。</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>自动连接</value>
@@ -238,7 +238,7 @@
     <value>自动播放</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>与 AirPods 建立连接之后发送“播放”指令。如果没有启动的播放器，Windows会忽略这条指令。</value>
+    <value>与 AirPods 建立连接之后发送「播放」指令。如果没有启动的播放器，Windows会忽略这条指令。</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
     <value>所有设置将被恢复至默认。是否继续？</value>
@@ -429,7 +429,7 @@
     <value>隐私与提醒</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>为获得最佳用户体验，我们建议您启用自动启动。 您可以从任务管理器中的“启动”选项卡执行此操作。</value>
+    <value>为获得最佳用户体验，我们建议您启用自动启动。 您可以从任务管理器中的「启动」选项卡执行此操作。</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>持续搜索</value>
@@ -465,10 +465,10 @@
     <value>什么是搜索范围？</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>显示“连接”按钮</value>
+    <value>显示「连接」按钮</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>显示或隐藏弹窗动画中的“连接”按钮，通过点击该按钮与 AirPods 进行连接。</value>
+    <value>显示或隐藏弹窗动画中的「连接」按钮，通过点击该按钮与 AirPods 进行连接。</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>所有设置将被恢复至默认。是否继续？</value>
@@ -558,7 +558,7 @@
     <value>只能使用一种语言播报通知。</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>无通知访问权限，“播报通知”已关闭。请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开“播报通知”。</value>
+    <value>无通知访问权限，「播报通知」已关闭。请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开「播报通知」。</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>自动切换声音输出</value>
@@ -987,7 +987,7 @@
     <value>恢复出厂设置</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>调节 AirPods 在没有播放音频时播放的音效音量。当“{0}”打开时，不会应用音量。</value>
+    <value>调节 AirPods 在没有播放音频时播放的音效音量。当「{0}」打开时，不会应用音量。</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
     <value>浅色主题</value>
@@ -999,7 +999,7 @@
     <value>低电量时指示灯颜色</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>如果耳机设置中提供了“{0}”，则按热键可在降噪模式之间循环切换。</value>
+    <value>如果耳机设置中提供了「{0}」，则按热键可在降噪模式之间循环切换。</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
     <value>如果未显示耳机电量，请使用此选项。重新连接耳机以应用更改。语音通信将不可用。</value>
@@ -1032,7 +1032,7 @@
     <value>取消</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>在“应用程序”页面上打开 Windows 设置，转到“启动”并启用“1{0}”。</value>
+    <value>在「应用程序」页面上打开 Windows 设置，转到「启动」并启用「1{0}」。</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>转到启动</value>
@@ -1344,7 +1344,7 @@
     <value>值越高，环境听到的效果越好。</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>在“{0}”页面的“{1}”下购买或输入现有密钥</value>
+    <value>在「{0}」页面的「{1}」下购买或输入现有密钥</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
     <value>当您开始与其他人交谈时，降低媒体音量并减少背景噪音。</value>
@@ -1362,7 +1362,7 @@
     <value>要显示设备，请打开蓝牙，等待耳机加载</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>连接后强制声音输出切换到耳机。如果启用了“{0}”，则此选项不适用。</value>
+    <value>连接后强制声音输出切换到耳机。如果启用了「{0}」，则此选项不适用。</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>取消</value>

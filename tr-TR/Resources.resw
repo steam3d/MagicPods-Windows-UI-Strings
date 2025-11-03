@@ -290,10 +290,10 @@
     <value>Animasyon yanlışlıkla görünebileceği için 65'ten büyük bir değer ayarlamayın.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>«Bağlan» butonunu göster</value>
+    <value>“Bağlan” butonunu göster</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Açılır pencerede «Bağlan» butonunu göster veya gizle. Düğmeye basmak AirPods'u bağlayacaktır.</value>
+    <value>Açılır pencerede “Bağlan” butonunu göster veya gizle. Düğmeye basmak AirPods'u bağlayacaktır.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Otomatik olarak bağlan</value>
@@ -305,7 +305,7 @@
     <value>Otomatik oynat</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>AirPods bağlandıktan sonra «Oynat» komutunu gönder. Açık oynatıcı yoksa, Windows komutu dikkate almaz.</value>
+    <value>AirPods bağlandıktan sonra “Oynat” komutunu gönder. Açık oynatıcı yoksa, Windows komutu dikkate almaz.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Tüm ayarlar sıfırlanacaktır. Devam etmek istiyor musun?</value>
@@ -432,10 +432,10 @@
     <value>Bu kaynaklardan gelen bildirimleri sesli olarak geri bildir</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>"Sesli geri bildirim" özelliği devre dışı, bildirimlere erişilemiyor. Lütfen Gizlilik ve bildirimler bölümünü açın, bildirimlere izin verin, ardından "Sesli geri bildirim" seçeneğini aktif edin.</value>
+    <value>“Sesli geri bildirim” özelliği devre dışı, bildirimlere erişilemiyor. Lütfen Gizlilik ve bildirimler bölümünü açın, bildirimlere izin verin, ardından “Sesli geri bildirim” seçeneğini aktif edin.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>En iyi kullanıcı deneyimi için, başlatmayı etkinleştirmenizi öneririz. Bunu Görev Yöneticisi'ndeki «Başlangıç» sekmesinden yapabilirsiniz.</value>
+    <value>En iyi kullanıcı deneyimi için, başlatmayı etkinleştirmenizi öneririz. Bunu Görev Yöneticisi'ndeki “Başlangıç” sekmesinden yapabilirsiniz.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Sonsuz arama</value>
@@ -966,7 +966,7 @@
     <value>Microsoft Mağazasına gitmek için burayı tıklayın.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Uygulama sayfasında Windows ayarlarını açın, «Başlangıç» bölümüne gidin ve «{0}» seçeneğini etkinleştirin.</value>
+    <value>Uygulama sayfasında Windows ayarlarını açın, “Başlangıç” bölümüne gidin ve “{0}” seçeneğini etkinleştirin.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -1307,7 +1307,7 @@
     <value>Bluetooth kontrolü</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Kulaklık ayarlarında «{0}» mevcutsa, kısayol tuşuna basıldığında gürültü engelleme modları arasında geçiş yapılır.</value>
+    <value>Kulaklık ayarlarında “{0}” mevcutsa, kısayol tuşuna basıldığında gürültü engelleme modları arasında geçiş yapılır.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>Ses çıkış kontrolü</value>
@@ -1349,7 +1349,7 @@
     <value>Ses çıkışını kulaklığa değiştir</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Bağlantı sonrasında ses çıkışını kulaklığa geçmeye zorlayın. Bu seçenek «{0}» etkinse geçerli değildir.</value>
+    <value>Bağlantı sonrasında ses çıkışını kulaklığa geçmeye zorlayın. Bu seçenek “{0}” etkinse geçerli değildir.</value>
   </data>
   <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
     <value>Bluetooth</value>

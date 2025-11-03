@@ -286,10 +286,10 @@
     <value>Stelle keinen höheren Wert als 65 ein, da die Animation sonst unbeabsichtigt erscheinen könnte.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Zeige "Verbinden"- Schaltfläche</value>
+    <value>Zeige „Verbinden“- Schaltfläche</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Zeige oder verstecke die "Verbinden"-Schaltfläche im Pop-up. Bei Betätigung der Schaltfläche werden die AirPods verbunden.</value>
+    <value>Zeige oder verstecke die „Verbinden“-Schaltfläche im Pop-up. Bei Betätigung der Schaltfläche werden die AirPods verbunden.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Automatische Verbindung</value>
@@ -424,13 +424,13 @@
     <value>Es werden Benachrichtigungen angekündigt, wenn ein Kopfhörer angeschlossen und als Ausgabegerät eingestellt ist.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Die Funktion "VoiceOver Benachrichtigung" ist deaktiviert und kann nicht auf die Benachrichtigungen zugreifen. Bitte öffne «Datenschutz und Benachrichtigungen»‎, erlaube den Zugriff auf Benachrichtigungen und aktiviere dann "VoiceOver Benachrichtigung".</value>
+    <value>Die Funktion „VoiceOver Benachrichtigung“ ist deaktiviert und kann nicht auf die Benachrichtigungen zugreifen. Bitte öffne „Datenschutz und Benachrichtigungen“, erlaube den Zugriff auf Benachrichtigungen und aktiviere dann „VoiceOver Benachrichtigung“.</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.HintLink" xml:space="preserve">
     <value>Eine neue Stimme hinzufügen</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Für die beste Benutzererfahrung empfehlen wir das Aktivieren von Autostart. Dies ist im Reiter "Autostart" des Task-Managers möglich.</value>
+    <value>Für die beste Benutzererfahrung empfehlen wir das Aktivieren von Autostart. Dies ist im Reiter „Autostart“ des Task-Managers möglich.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Durchgehende Suche</value>
@@ -964,7 +964,7 @@
     <value>Autostart durch Gruppenrichtlinien deaktiviert</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Öffne die Windows Einstellungen auf der Anwendungsseite, gehe zu «Autostart» und aktivere «{0}».</value>
+    <value>Öffne die Windows Einstellungen auf der Anwendungsseite, gehe zu „Autostart“ und aktivere „{0}“.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Headphones_Setting_Sony_AmbientSoundVolume.Header" xml:space="preserve">
@@ -1409,13 +1409,13 @@
     <value>Aktiviere Geräuschunterdrückung</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus verfügbar ist.</value>
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn „{0}“ in den Kopfhörereinstellungen verfügbar ist und der Modus verfügbar ist.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Mit Tastenkombination durchschalten</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Drücke die Tastenkombination «{0}», um zwischen den ausgewählten Geräuschkontrollmodi zu wechseln. Nicht unterstützte Modi werden übersprungen.</value>
+    <value>Drücke die Tastenkombination „{0}“, um zwischen den ausgewählten Geräuschkontrollmodi zu wechseln. Nicht unterstützte Modi werden übersprungen.</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>Verhalten bestimmter Funktionen mit dem H2-Chip</value>
@@ -1427,18 +1427,18 @@
     <value>Deaktivieren</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, sofern «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, sofern „{0}“ in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>Aktiviere Wind Unterdrückung</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen vorhanden ist und der Modus unterstützt wird.</value>
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn „{0}“ in den Kopfhörereinstellungen vorhanden ist und der Modus unterstützt wird.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn „{0}“ in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn «{0}» in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
+    <value>Das Drücken der Tastenkombination aktiviert diesen Modus, wenn „{0}“ in den Kopfhörereinstellungen verfügbar ist und der Modus unterstützt wird.</value>
   </data>
 </root>

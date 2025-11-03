@@ -286,10 +286,10 @@
     <value>Stel geen waarde hoger dan 65, in sommige gevallen kan de animatie per ongeluk verschijnen.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Toon «Verbinden» knop</value>
+    <value>Toon „Verbinden” knop</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Toon of verberg de "Connect" knop in het pop-up venster. Als u op de knop drukt, worden de AirPods aangesloten.</value>
+    <value>Toon of verberg de „Connect” knop in het pop-up venster. Als u op de knop drukt, worden de AirPods aangesloten.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Automatisch verbinden</value>
@@ -301,7 +301,7 @@
     <value>Automatisch spelen</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Stuur het «Spelen»-commando na het verbinden met de AirPods. Als er geen programma is geopend dat geluid afspeelt zal Windows het commando negeren.</value>
+    <value>Stuur het „Spelen”-commando na het verbinden met de AirPods. Als er geen programma is geopend dat geluid afspeelt zal Windows het commando negeren.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Alle instellingen zullen worden gereset. Wilt u doorgaan?</value>
@@ -421,13 +421,13 @@
     <value>Niet alle programma's van deze lijst kunne meldingen sturen, sommige programma's staan mogelijk niet in deze lijst.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Voor de beste gebruikerservaring bevelen we aan dat je kiest voor automatisch opstarten. Je kan dit doen via de «Opstarten» tab in Taakbeheer.</value>
+    <value>Voor de beste gebruikerservaring bevelen we aan dat je kiest voor automatisch opstarten. Je kan dit doen via de „Opstarten” tab in Taakbeheer.</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
     <value>Voice-over van allemeldingen</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Instelling 'Voice-over melding' is uitgeschakeld; geen toegang tot meldingen. Open «Privacy en meldingen», sta meldingen toe en schakel 'Voice-over melding' in.</value>
+    <value>Instelling 'Voice-over melding' is uitgeschakeld; geen toegang tot meldingen. Open „Privacy en meldingen”, sta meldingen toe en schakel 'Voice-over melding' in.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Oneindig zoeken</value>
@@ -994,7 +994,7 @@
     <value>Toon venster voor nep AirPods</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Open de Windows-instellingen op de applicatiepagina, ga naar «Opstarten» en schakel «{0}» in.</value>
+    <value>Open de Windows-instellingen op de applicatiepagina, ga naar „Opstarten” en schakel „{0}” in.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
@@ -1013,7 +1013,7 @@
     <value>Licentiesleutel niet gevonden</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Koop of voer een bestaande sleutel op de «{0}» pagina onder «{1}»</value>
+    <value>Koop of voer een bestaande sleutel op de „{0}” pagina onder „{1}”</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
@@ -1229,7 +1229,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Past het volume aan van geluidseffecten die worden afgespeeld door AirPods wanneer er geen audio wordt afgespeeld. Als "{0}" is ingeschakeld, wordt het volume niet toegepast.</value>
+    <value>Past het volume aan van geluidseffecten die worden afgespeeld door AirPods wanneer er geen audio wordt afgespeeld. Als „{0}” is ingeschakeld, wordt het volume niet toegepast.</value>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
     <value>Wissel tussen</value>
@@ -1332,13 +1332,13 @@
     <value>Gebruik deze optie als de hoofdtelefoonlading niet wordt weergegeven. Sluit de hoofdtelefoon opnieuw aan om de wijzigingen toe te passen. Spraakcommunicatie is niet beschikbaar.</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Dwing de geluidsuitvoer om na aansluiting over te schakelen naar de hoofdtelefoon. Deze optie is niet van toepassing als «{0}» is ingeschakeld.</value>
+    <value>Dwing de geluidsuitvoer om na aansluiting over te schakelen naar de hoofdtelefoon. Deze optie is niet van toepassing als „{0}” is ingeschakeld.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
     <value>Lawaaibeheersing</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Door op de sneltoets te drukken, schakelt u tussen de ruisonderdrukkingsmodi als “{0}” beschikbaar is in de hoofdtelefooninstellingen.</value>
+    <value>Door op de sneltoets te drukken, schakelt u tussen de ruisonderdrukkingsmodi als „{0}” beschikbaar is in de hoofdtelefooninstellingen.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>Geluidsuitgangsregeling</value>
@@ -1428,7 +1428,7 @@
     <value>Activatie uitgeschakeld</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Drukken op de sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
+    <value>Drukken op de sneltoets activeert deze modus als „{0}” beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Activeer transparantie</value>
@@ -1437,28 +1437,28 @@
     <value>Adaptieve modus inschakelen</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Het indrukken van de sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
+    <value>Het indrukken van de sneltoets activeert deze modus als „{0}” beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>Windruisonderdrukking inschakelen</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>De sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus ondersteund wordt.</value>
+    <value>De sneltoets activeert deze modus als „{0}” beschikbaar is in de hoofdtelefooninstellingen en de modus ondersteund wordt.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>Activeer ruisonderdrukking</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Gebruik de sneltoets «{0}» om te wisselen tussen de gekozen ruisonderdrukkingsmodi. Niet-ondersteunde modi worden automatisch overgeslagen.</value>
+    <value>Gebruik de sneltoets „{0}” om te wisselen tussen de gekozen ruisonderdrukkingsmodi. Niet-ondersteunde modi worden automatisch overgeslagen.</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>Gedrag van bepaalde functies met de H2-chip</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Het indrukken van de sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
+    <value>Het indrukken van de sneltoets activeert deze modus als „{0}” beschikbaar is in de hoofdtelefooninstellingen en de modus wordt ondersteund.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>De sneltoets activeert deze modus als «{0}» beschikbaar is in de hoofdtelefooninstellingen en de modus ondersteund wordt.</value>
+    <value>De sneltoets activeert deze modus als „{0}” beschikbaar is in de hoofdtelefooninstellingen en de modus ondersteund wordt.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Schakelen met behulp van de hotkey</value>

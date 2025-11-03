@@ -146,7 +146,7 @@
     <value>Nenastavujte hodnotu vyššiu ako 65. V niektorých prípadoch sa môže animácia zobraziť náhodne.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Zobraziť tlačidlo "Pripojiť"</value>
+    <value>Zobraziť tlačidlo „Pripojiť“</value>
   </data>
   <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>Hlasitosť sa zníži, keď vyberiete jedno slúchadlo z ucha, alebo sa obnoví, keď vyberiete/nasadíte obe slúchadlá.</value>
@@ -158,7 +158,7 @@
     <value>Ak sa okno nezobrazí, otvorte puzdro so slúchadlami AirPods vo vnútri a plynulo posúvajte jazdec doprava, kým sa nezobrazí animácia.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Zobraziť alebo skryť tlačidlo "Pripojiť" vo vyskakovacom okne. Stlačením tlačidla pripojíte slúchadlá AirPods.</value>
+    <value>Zobraziť alebo skryť tlačidlo „Pripojiť“ vo vyskakovacom okne. Stlačením tlačidla pripojíte slúchadlá AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>Automaticky sa pripojiť k slúchadlám AirPods, keď pravé alebo ľavé slúchadlo AirPods vyberiete z puzdra.</value>
@@ -250,7 +250,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Po pripojení slúchadiel AirPods odošlite príkaz "Play". Ak nie sú otvorené žiadne prehrávače, systém Windows bude príkaz ignorovať.</value>
+    <value>Po pripojení slúchadiel AirPods odošlite príkaz „Play“. Ak nie sú otvorené žiadne prehrávače, systém Windows bude príkaz ignorovať.</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>Tip</value>
@@ -296,7 +296,7 @@
     <value>Nie každá aplikácia z tohto listu podporuje zasielanie notifikácií, niektoré aplikácie nemusia byť v liste zobrazené.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Pre najlepší užívateľský zážitok, odporúčame povoliť spustenie aplikácie po štarte systému. Toto nastavenie môžete vykonať v správcovi úloh v záložke «Spustenie».</value>
+    <value>Pre najlepší užívateľský zážitok, odporúčame povoliť spustenie aplikácie po štarte systému. Toto nastavenie môžete vykonať v správcovi úloh v záložke „Spustenie“.</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Nasledujte tento postup pre vyriešenie problému.</value>
@@ -554,7 +554,7 @@
     <value>Zobraziť všetky aplikácie</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Funkcia "Hlasové oznámenia" je vypnutá, nie je možné získať prístup k oznámeniam. Prosím otvorte «Súkromie a oznámenia», povoľte prístup k oznámeniam a zapnite "Hlasové oznámenia".</value>
+    <value>Funkcia „Hlasové oznámenia“ je vypnutá, nie je možné získať prístup k oznámeniam. Prosím otvorte „Súkromie a oznámenia“, povoľte prístup k oznámeniam a zapnite „Hlasové oznámenia“.</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Súkromie a oznámenia</value>
@@ -860,7 +860,7 @@
     <value>Skontrolovať aktualizácie</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Otvorte nastavenia Windows na stránke Aplikácie, prejdite do kategórie "Spustenie" a povoľte «{0}».</value>
+    <value>Otvorte nastavenia Windows na stránke Aplikácie, prejdite do kategórie „Spustenie“ a povoľte „{0}“.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -1021,7 +1021,7 @@
     <value>Licenčný kľúč sa nenašiel</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Kúpte si alebo zadajte existujúci kľúč na stránke «{0}» v časti «{1}»</value>
+    <value>Kúpte si alebo zadajte existujúci kľúč na stránke „{0}“ v časti „{1}“</value>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
     <value>Licencia</value>
@@ -1168,7 +1168,7 @@
     <value>Hlasitosť tónu</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Upraví hlasitosť zvukových efektov v AirPodoch keď sa nič neprehráva. Kým «{0}» je zapnuté, hlasitosť nebude aplikovaná.</value>
+    <value>Upraví hlasitosť zvukových efektov v AirPodoch keď sa nič neprehráva. Kým „{0}“ je zapnuté, hlasitosť nebude aplikovaná.</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
     <value>Spravovať slúchadlá</value>
@@ -1183,7 +1183,7 @@
     <value>Zmeniť výstup do slúchadiel</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Nútená zmena vstupu do slúchadiel po pripojení. Táto možnosť nefunguje ak «{0}» je povolená.</value>
+    <value>Nútená zmena vstupu do slúchadiel po pripojení. Táto možnosť nefunguje ak „{0}“ je povolená.</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
     <value>Reštart</value>
@@ -1297,13 +1297,13 @@
     <value>Vypnúť</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Stlačenie klávesovej skratky aktivuje tento mód ak «{0}» je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
+    <value>Stlačenie klávesovej skratky aktivuje tento mód ak „{0}“ je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Aktivovať Transparentný posluch</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Stlačenie klávesovej skratky aktivuje tento mód ak «{0}» je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
+    <value>Stlačenie klávesovej skratky aktivuje tento mód ak „{0}“ je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>Aktivovať adaptívny</value>
@@ -1312,13 +1312,13 @@
     <value>Aktivovať zrušenie vetra</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Stlačenie klávesovej skratky aktivuje tento mód ak «{0}» je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
+    <value>Stlačenie klávesovej skratky aktivuje tento mód ak „{0}“ je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>Aktivovať potláčanie hluku</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Stlačenie klávesovej skratky aktivuje tento mód ak «{0}» je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
+    <value>Stlačenie klávesovej skratky aktivuje tento mód ak „{0}“ je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Vyberať medzi klávesovými skratkami</value>
@@ -1336,7 +1336,7 @@
     <value>Vyžaduje sa reštart na uloženie zmien.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Stlačenie klávesovej skratky aktivuje tento mód ak «{0}» je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
+    <value>Stlačenie klávesovej skratky aktivuje tento mód ak „{0}“ je dostupná v nastaveniach slúchadiel a mód je podporovaný.</value>
   </data>
   <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
     <value>Nastavenie Bluetooth</value>
@@ -1366,12 +1366,12 @@
     <value>Povoliť AirPodom nastaviť Potláčanie Hluku s jedným AirPodom v uchu.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Stlačenie klávesovej skratky zmení filtrovanie šumu ak «{0}» je k dispozícií v nastaveniach sluchadiel.</value>
+    <value>Stlačenie klávesovej skratky zmení filtrovanie šumu ak „{0}“ je k dispozícií v nastaveniach sluchadiel.</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
     <value>Vyžaduje sa reštart</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Stlačiť «{0}» klavesovú skratku a vybrať medzi vybranými režimami počúvania. Módy nepodporované slúchadlami budu preskočené.</value>
+    <value>Stlačiť „{0}“ klavesovú skratku a vybrať medzi vybranými režimami počúvania. Módy nepodporované slúchadlami budu preskočené.</value>
   </data>
 </root>

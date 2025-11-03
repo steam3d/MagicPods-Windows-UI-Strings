@@ -71,7 +71,7 @@
     <value>Hibakeresési napló</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>A «Csatlakozás» gomb megjelenítése vagy elrejtése a felbukkanó ablakban. A gomb megnyomásával az AirPods csatlakozik.</value>
+    <value>A „Csatlakozás” gomb megjelenítése vagy elrejtése a felbukkanó ablakban. A gomb megnyomásával az AirPods csatlakozik.</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPodshoz való csatlakozás sikertelen. Próbálja meg manuálisan csatlakoztatni.</value>
@@ -182,7 +182,7 @@
     <value>Ne állítson be 65-nél nagyobb értéket mert bizonyos esetekben az animáció véletlenül jelenhet meg.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>«Kapcsolódás» gomb mutatása</value>
+    <value>„Kapcsolódás” gomb mutatása</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Automatikus csatlakozás</value>
@@ -194,7 +194,7 @@
     <value>Automatikus lejátszás</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Küldje el a «Play» parancsot az AirPods csatlakoztatása után. Ha nincsenek megnyitott lejátszók, a Windows figyelmen kívül hagyja a parancsot.</value>
+    <value>Küldje el a „Play” parancsot az AirPods csatlakoztatása után. Ha nincsenek megnyitott lejátszók, a Windows figyelmen kívül hagyja a parancsot.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Az összes beállítás vissza lesz állítva. Szeretné folytatni?</value>
@@ -374,10 +374,10 @@
     <value>Adatvédelem és értesítések</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>A "VoiceOver értesítés" funkció kikapcsolt, mivel a MagicPods nem fér hozzá az értesítésekhez. Kérlek nyisd meg a(z) «Privacy and notifications»-t, engedélyezd az értesítések hozzáférését, és kapcsold be a "VoiceOver értesítések" funkciót.</value>
+    <value>A „VoiceOver értesítés” funkció kikapcsolt, mivel a MagicPods nem fér hozzá az értesítésekhez. Kérlek nyisd meg a(z) „Privacy and notifications”-t, engedélyezd az értesítések hozzáférését, és kapcsold be a „VoiceOver értesítések” funkciót.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>A legjobb felhasználói élmény érdekében, javasoljuk, hogy engedélyezd az automata indulást. Ezt a Feladatkezelő «Startup» menüpontjánál tudod aktiválni.</value>
+    <value>A legjobb felhasználói élmény érdekében, javasoljuk, hogy engedélyezd az automata indulást. Ezt a Feladatkezelő „Startup” menüpontjánál tudod aktiválni.</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>AirPods nem található</value>
@@ -923,7 +923,7 @@
     <value>Helyezze az AirPods-t a tokba, tartsa nyitva a tok fedelét, és várja meg, amíg a tok fénye kialszik. Kapcsolja ki/be az opciót, húzza ki az eszközt, miközben a tok fedelét nyitva tartja, várjon legalább 2 másodpercet, majd helyezze vissza az fülhallgatót a tokba, és várja meg, hogy a tok fénye kialudjon.</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Nyissa meg a Windows beállításait az Alkalmazás oldalon, menjen az "Indítás" menüpontra, és engedélyezze a "{0}" opciót.</value>
+    <value>Nyissa meg a Windows beállításait az Alkalmazás oldalon, menjen az „Indítás” menüpontra, és engedélyezze a „{0}” opciót.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
@@ -980,7 +980,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Megvásárlás vagy adj meg egy kulcsot «{0}» ezen az oldalon «{1}»</value>
+    <value>Megvásárlás vagy adj meg egy kulcsot „{0}” ezen az oldalon „{1}”</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
@@ -1252,7 +1252,7 @@
     <value>A gyorsbillentyű megnyomásával be/ki kapcsolja a Bluetooth funkciót.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>A gyorsbillentyű megnyomásával válthat a zajszűrési módok között, ha a «{0}» elérhető a fejhallgató beállításaiban.</value>
+    <value>A gyorsbillentyű megnyomásával válthat a zajszűrési módok között, ha a „{0}” elérhető a fejhallgató beállításaiban.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>Hangkimenet vezérlés</value>
@@ -1291,7 +1291,7 @@
     <value>Hangkimenet váltása fejhallgatóra</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Csatlakoztatás után kényszerítse a hangkimenetet a fejhallgatóra. Ez az opció nem érvényes, ha a «{0}» be van kapcsolva.</value>
+    <value>Csatlakoztatás után kényszerítse a hangkimenetet a fejhallgatóra. Ez az opció nem érvényes, ha a „{0}” be van kapcsolva.</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
     <value>Töltési szint kihangosítón keresztül</value>

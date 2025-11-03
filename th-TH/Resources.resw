@@ -169,7 +169,7 @@
     <value>อย่าตั้งค่าสูงกว่า 65, เนื่องจากภาพเคลื่อนไหวอาจปรากฏขึ้นโดยไม่ได้ตั้งใจ</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>แสดงปุ่ม «เชื่อมต่อ»</value>
+    <value>แสดงปุ่ม “เชื่อมต่อ”</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>เชื่อมต่ออัตโนมัติ</value>
@@ -333,7 +333,7 @@
     <value>สลับเสียงจาก AirPods เป็นลำโพงเริ่มต้นเมื่อ AirPods ทั้งคู่ไม่อยู่ในหู</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>ฟีเจอร์ "การแจ้งเตือน VoiceOver" ปิดอยู่ ไม่สามารถเข้าถึงการแจ้งเตือนได้ โปรดเปิด «ความเป็นส่วนตัวและการแจ้งเตือน»‎ อนุญาตการเข้าถึงการแจ้งเตือน จากนั้นเปิด "การแจ้งเตือน VoiceOver"</value>
+    <value>ฟีเจอร์ “การแจ้งเตือน VoiceOver” ปิดอยู่ ไม่สามารถเข้าถึงการแจ้งเตือนได้ โปรดเปิด “ความเป็นส่วนตัวและการแจ้งเตือน” อนุญาตการเข้าถึงการแจ้งเตือน จากนั้นเปิด “การแจ้งเตือน VoiceOver”</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>หูฟังแอร์พรอด เหลือแบตเตอรี่ {0}% โปรดชาร์จไฟ หูฟังแอร์พรอด ของคุณ</value>
@@ -355,7 +355,7 @@
     <value>ฟีเจอร์ที่กำลังถูกพัฒนา</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>แสดงหรือซ่อนปุ่ม «เชื่อมต่อ» บนหน้าต่างป๊อปอัป การกดปุ่มจะเชื่อมต่อ AirPods</value>
+    <value>แสดงหรือซ่อนปุ่ม “เชื่อมต่อ” บนหน้าต่างป๊อปอัป การกดปุ่มจะเชื่อมต่อ AirPods</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>นำเคส AirPods ของคุณเข้าใกล้คอมพิวเตอร์มากที่สุดแล้วเปิดออก</value>
@@ -364,7 +364,7 @@
     <value>การประกาศสามารถอ่านข้อความในภาษาเดียวเท่านั้น</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>เพื่อประสบการณ์การใช้งานที่ดีที่สุด เราขอแนะนำให้คุณเปิดใช้งานการเริ่มต้นระบบ คุณสามารถทำได้จากแท็บ «เริ่มต้น» ในตัวจัดการงาน</value>
+    <value>เพื่อประสบการณ์การใช้งานที่ดีที่สุด เราขอแนะนำให้คุณเปิดใช้งานการเริ่มต้นระบบ คุณสามารถทำได้จากแท็บ “เริ่มต้น” ในตัวจัดการงาน</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>มีหน้าหูฟังแอร์พรอดเด้งโชว์ขึนมาเหมืนไอโฟน,เวลาที่คุณเปิดเคสของแอร์พรอด</value>
@@ -376,7 +376,7 @@
     <value>แอปพลิเคชันจะถูกปิดและฟังก์ชันทั้งหมดจะถูกปิดใช้งาน</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>ส่งคำสั่ง «เล่น» หลังจากเชื่อมต่อหูฟัง ถึงแม้ว่าไม่มีตัวเล่นทำงาน Windows จะไม่สนใจคำสั่ง</value>
+    <value>ส่งคำสั่ง “เล่น” หลังจากเชื่อมต่อหูฟัง ถึงแม้ว่าไม่มีตัวเล่นทำงาน Windows จะไม่สนใจคำสั่ง</value>
   </data>
   <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
     <value>มุมบนซ้าย</value>
@@ -857,7 +857,7 @@
     <value>การเริ่มต้นถูกปิดใช้งานโดยนโยบายกลุ่ม</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>เปิดการตั้งค่า Windows บนหน้าแอปพลิเคชัน ไปที่ "Startup" และเปิดใช้งาน "{0}"</value>
+    <value>เปิดการตั้งค่า Windows บนหน้าแอปพลิเคชัน ไปที่ “Startup” และเปิดใช้งาน “{0}”</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">

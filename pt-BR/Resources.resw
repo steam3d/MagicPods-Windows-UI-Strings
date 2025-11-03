@@ -290,7 +290,7 @@
     <value>Reprodução automática</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Envie o comando «Play» após conectar os AirPods. Se não houverem reprodutores abertos, o Windows irá ignorar o comando.</value>
+    <value>Envie o comando “Play” após conectar os AirPods. Se não houverem reprodutores abertos, o Windows irá ignorar o comando.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Todas as configurações serão redefinidas. Você deseja continuar?</value>
@@ -338,7 +338,7 @@
     <value>Canto superior esquerdo</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Mostrar o botão «Conectar»</value>
+    <value>Mostrar o botão “Conectar”</value>
   </data>
   <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
     <value>Canto superior direito</value>
@@ -384,7 +384,7 @@
     <value>Alterne o áudio dos AirPods para os alto-falantes padrão quando os dois AirPods estiverem fora do ouvido.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Mostrar ou ocultar o botão «Conectar» na janela pop-up. Pressionar o botão conectará aos AirPods.</value>
+    <value>Mostrar ou ocultar o botão “Conectar” na janela pop-up. Pressionar o botão conectará aos AirPods.</value>
   </data>
   <data name="Headphones_State_SearchingError_Header.Text" xml:space="preserve">
     <value>AirPods não encontrados</value>
@@ -423,7 +423,7 @@
     <value>Mostrar todas os aplicativos</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Para a melhor experiência do usuário, recomendamos que você habilite a execução na inicialização. Você pode fazer isso na guia "Inicializar" no Gerenciador de Tarefas.</value>
+    <value>Para a melhor experiência do usuário, recomendamos que você habilite a execução na inicialização. Você pode fazer isso na guia “Inicializar” no Gerenciador de Tarefas.</value>
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>Siga este guia para corrigir o problema.</value>
@@ -435,7 +435,7 @@
     <value>Nem todos os aplicativos da lista podem enviar notificações, alguns aplicativos podem não estar na lista.</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>O recurso de narração de notificações está desativado e/ou não tem acesso às notificações. Abra "Privacidade e notificações", permita o acesso às notificações e, em seguida, ative a narração de notificações.</value>
+    <value>O recurso de narração de notificações está desativado e/ou não tem acesso às notificações. Abra “Privacidade e notificações”, permita o acesso às notificações e, em seguida, ative a narração de notificações.</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Privacidade e notificações</value>
@@ -966,7 +966,7 @@
     <value>Som ambiente</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Abra as configurações do Windows na pagina Aplicação, vá para «Inicialização» e ative «{0}».</value>
+    <value>Abra as configurações do Windows na pagina Aplicação, vá para “Inicialização” e ative “{0}”.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -1244,7 +1244,7 @@
     <value>Quando os fones de ouvido estão conectados, as opções abaixo se aplicam.</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Ajuste o volume do som dos efeitos sonoros dos AirPods quando nenhum áudio está sendo reproduzido. Enquanto a opção «{0}» estiver ativada, o volume não será aplicado.</value>
+    <value>Ajuste o volume do som dos efeitos sonoros dos AirPods quando nenhum áudio está sendo reproduzido. Enquanto a opção “{0}” estiver ativada, o volume não será aplicado.</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
     <value>Tamanho da fonte</value>
@@ -1307,7 +1307,7 @@
     <value>Mude a saída de som para os fones de ouvido</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Force a saída de som para mudar para os fones de ouvido após a conexão. Esta opção não se aplica se «{0}» estiver ativado.</value>
+    <value>Force a saída de som para mudar para os fones de ouvido após a conexão. Esta opção não se aplica se “{0}” estiver ativado.</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>Adaptativo</value>
@@ -1322,7 +1322,7 @@
     <value>Controle do Bluetooth</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Pressionando o botão cicla entre os modos de cancelamento de ruído se «{0}» está disponível nas configurações do headphone.</value>
+    <value>Pressionando o botão cicla entre os modos de cancelamento de ruído se “{0}” está disponível nas configurações do headphone.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>Controle de saída de som</value>

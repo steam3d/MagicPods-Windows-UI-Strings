@@ -712,13 +712,13 @@
     <value>৬৫ এর বেশি মান সেট করবেন না কারণ অ্যানিমেশনটি দুর্ঘটনাক্রমে প্রদর্শিত হতে পারে।</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>«সংযোগ» বোতাম দেখান</value>
+    <value>“সংযোগ” বোতাম দেখান</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>পপ-আপ উইন্ডোতে «সংযোগ» বোতামটি দেখান বা লুকান। বোতাম টিপলে এয়ারপডস সংযোগ হবে।</value>
+    <value>পপ-আপ উইন্ডোতে “সংযোগ” বোতামটি দেখান বা লুকান। বোতাম টিপলে এয়ারপডস সংযোগ হবে।</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>হেডফোন সংযোগ করার পরে «চালু» কমান্ড পাঠান। কোন ওপেন প্লেয়ার না থাকলে উইন্ডোজ কমান্ডটি উপেক্ষা করবে।</value>
+    <value>হেডফোন সংযোগ করার পরে “চালু” কমান্ড পাঠান। কোন ওপেন প্লেয়ার না থাকলে উইন্ডোজ কমান্ডটি উপেক্ষা করবে।</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>আপনার ব্যবহারের উপর ভিত্তি করে, আমরা {0} এ মান সেট করার পরামর্শ দিই</value>
@@ -767,10 +767,10 @@
     <value>তালিকা থেকে সমস্ত অ্যাপ্লিকেশন বিজ্ঞপ্তি পাঠাতে পারে না, কিছু অ্যাপ্লিকেশন তালিকায় নাও থাকতে পারে।</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>বৈশিষ্ট্য «ভয়েসওভার বিজ্ঞপ্তি» বন্ধ করা হয়েছে, বিজ্ঞপ্তিগুলিতে অ্যাক্সেস পেতে পারে না৷ অনুগ্রহ করে «গোপনীয়তা এবং বিজ্ঞপ্তি» খুলুন, বিজ্ঞপ্তি অ্যাক্সেসের অনুমতি দিন, তারপর «ভয়েসওভার বিজ্ঞপ্তি» চালু করুন।</value>
+    <value>বৈশিষ্ট্য “ভয়েসওভার বিজ্ঞপ্তি” বন্ধ করা হয়েছে, বিজ্ঞপ্তিগুলিতে অ্যাক্সেস পেতে পারে না৷ অনুগ্রহ করে “গোপনীয়তা এবং বিজ্ঞপ্তি” খুলুন, বিজ্ঞপ্তি অ্যাক্সেসের অনুমতি দিন, তারপর “ভয়েসওভার বিজ্ঞপ্তি” চালু করুন।</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>সেরা ব্যবহারকারীর অভিজ্ঞতার জন্য, আমরা আপনাকে স্টার্টআপ সক্ষম করার পরামর্শ দিই। আপনি টাস্ক ম্যানেজারে «স্টার্টআপ» ট্যাব থেকে এটি করতে পারেন।</value>
+    <value>সেরা ব্যবহারকারীর অভিজ্ঞতার জন্য, আমরা আপনাকে স্টার্টআপ সক্ষম করার পরামর্শ দিই। আপনি টাস্ক ম্যানেজারে “স্টার্টআপ” ট্যাব থেকে এটি করতে পারেন।</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>সেরা ব্যবহারকারীর অভিজ্ঞতার জন্য, আমরা আপনাকে স্টার্টআপ সক্ষম করার পরামর্শ দিই।</value>
@@ -888,7 +888,7 @@
     <value>কেসের মধ্যে এয়ারপডস রাখুন, কেসের ঢাকনা খোলা রাখুন এবং কেস লাইট বন্ধ হওয়ার জন্য অপেক্ষা করুন। অপশনটি বন্ধ/অন করুন, কেসের ঢাকনা খোলা রেখে এয়ারপডস টানুন, কমপক্ষে 2 সেকেন্ড অপেক্ষা করুন এবং এয়ারপডস আবার কেসে রাখুন এবং কেস লাইট বন্ধ হওয়ার জন্য অপেক্ষা করুন।</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>অ্যাপ্লিকেশন পৃষ্ঠায় উইন্ডোজ সেটিংস খুলুন, «স্টার্টআপ» এ যান এবং «{0}» সক্ষম করুন।</value>
+    <value>অ্যাপ্লিকেশন পৃষ্ঠায় উইন্ডোজ সেটিংস খুলুন, “স্টার্টআপ” এ যান এবং “{0}” সক্ষম করুন।</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
