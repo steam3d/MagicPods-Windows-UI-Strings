@@ -385,7 +385,7 @@
     <value>添加一个新的语音</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
-    <value>播报通知</value>
+    <value>朗读通知</value>
   </data>
   <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
     <value>设置</value>
@@ -397,19 +397,19 @@
     <value>选取一种语音</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
-    <value>只能使用一种语言播报通知。</value>
+    <value>只能使用一种语言朗读通知。</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>试听</value>
   </data>
   <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
-    <value>播报通知设置</value>
+    <value>朗读通知设置</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
-    <value>当耳机已连接并作为音频输出设备时，自动朗读系统通知。</value>
+    <value>当耳机已连接并作为音频输出设备时，朗读系统通知。</value>
   </data>
   <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
-    <value>选取需要播报通知的应用</value>
+    <value>选取需要朗读通知的应用</value>
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>列表中的并非所有应用都可以发送通知，有些应用可能不会出现在列表中。</value>
@@ -421,13 +421,13 @@
     <value>用选定的语音聆听试读文本</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
-    <value>播报所有应用通知</value>
+    <value>朗读所有应用通知</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>隐私与提醒</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>无通知访问权限，“播报通知”已关闭。请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开“播报通知”。</value>
+    <value>无通知访问权限，“朗读通知”已关闭。请打开&lt;隐私和提醒&gt;后，允许访问通知，再打开“朗读通知”。</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>为获得最佳用户体验，我们建议您启用自动启动。 您可以从任务管理器中的“启动”选项卡执行此操作。</value>
@@ -1281,7 +1281,7 @@
     <value>音频输出</value>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
-    <value>旁白</value>
+    <value>朗读通知</value>
   </data>
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>连接</value>
@@ -1311,10 +1311,10 @@
     <value>按下热键可以在不同的声音输出之间循环切换。</value>
   </data>
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
-    <value>跳过阅读</value>
+    <value>跳过朗读</value>
   </data>
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
-    <value>按下热键可以跳过阅读当前的通知。</value>
+    <value>按下热键可以跳过朗读当前的通知。</value>
   </data>
   <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
     <value>连接 / 断开连接</value>
