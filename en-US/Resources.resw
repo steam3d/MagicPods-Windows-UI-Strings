@@ -290,10 +290,10 @@
     <value>Don't set a value greater than 65 as the animation may appear accidentally.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>Show «Connect» button</value>
+    <value>Show "Connect" button</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Show or hide the «Connect» button on pop-up window. Pressing the button will connect AirPods.</value>
+    <value>Show or hide the "Connect" button on pop-up window. Pressing the button will connect AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>Auto connect</value>
@@ -305,7 +305,7 @@
     <value>Auto play</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Send the «Play» command after connecting the headphones. If there are no open players Windows will ignore the command.</value>
+    <value>Send the "Play" command after connecting the headphones. If there are no open players Windows will ignore the command.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>All settings will be reset. Do you want to continue?</value>
@@ -426,7 +426,7 @@
     <value>Show all apps</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
-    <value>Feature "VoiceOver notification" is turned off, can't get access to notifications. Please open «Privacy and notifications»‎, allow notifications access, then turn on "VoiceOver notification".</value>
+    <value>Feature "VoiceOver notification" is turned off, can't get access to notifications. Please open "Privacy and notifications", allow notifications access, then turn on "VoiceOver notification".</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Privacy and notifications</value>
@@ -435,7 +435,7 @@
     <value>Add a new voice</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>For the best user experience, we recommend that you enable startup. You can do this from the «Startup» tab in Task Manager.</value>
+    <value>For the best user experience, we recommend that you enable startup. You can do this from the "Startup" tab in Task Manager.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Infinite search</value>
@@ -956,7 +956,7 @@
     <value>Cancel</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Open Windows settings on Application page, go to «Startup» and enable «{0}».</value>
+    <value>Open Windows settings on Application page, go to "Startup" and enable "{0}".</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -1017,7 +1017,7 @@
     <value>License key not found</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
-    <value>Purchase or enter an existing key on the «{0}» page under «{1}»</value>
+    <value>Purchase or enter an existing key on the "{0}" page under "{1}"</value>
     <comment>{0} {1} are replaced with page and section names</comment>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
@@ -1237,7 +1237,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
-    <value>Adjusts the volume of sound effects played by AirPods when no audio is playing. While «{0}» is turned on, the volume won't be applied.</value>
+    <value>Adjusts the volume of sound effects played by AirPods when no audio is playing. While "{0}" is turned on, the volume won't be applied.</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
     <value>Manage headphones</value>
@@ -1303,7 +1303,7 @@
     <value>Noise control</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Pressing the hotkey cycles through noise cancellation modes if «{0}» is available in the headphone settings.</value>
+    <value>Pressing the hotkey cycles through noise cancellation modes if "{0}" is available in the headphone settings.</value>
   </data>
   <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
     <value>Sound output</value>
@@ -1360,7 +1360,7 @@
     <value>Switch sound output to headphones</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>Force the sound output to switch to the headphones after connection. This option does not apply if «{0}» is enabled.</value>
+    <value>Force the sound output to switch to the headphones after connection. This option does not apply if "{0}" is enabled.</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
     <value>Display sound output change</value>
@@ -1420,37 +1420,37 @@
     <value>Activate off</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
-    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+    <value>Pressing the hotkey activates this mode if "{0}" is available in the headphone settings and the mode is supported.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Activate transparency</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
-    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+    <value>Pressing the hotkey activates this mode if "{0}" is available in the headphone settings and the mode is supported.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
     <value>Activate adaptive</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
-    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+    <value>Pressing the hotkey activates this mode if "{0}" is available in the headphone settings and the mode is supported.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>Activate wind cancellation</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
-    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+    <value>Pressing the hotkey activates this mode if "{0}" is available in the headphone settings and the mode is supported.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>Activate noise cancellation</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
-    <value>Pressing the hotkey activates this mode if «{0}» is available in the headphone settings and the mode is supported.</value>
+    <value>Pressing the hotkey activates this mode if "{0}" is available in the headphone settings and the mode is supported.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
     <value>Cycle between with the hotkey</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
-    <value>Press the «{0}» hotkey to cycle between the selected noise control modes. Modes not supported by the headphones will be skipped.</value>
+    <value>Press the "{0}" hotkey to cycle between the selected noise control modes. Modes not supported by the headphones will be skipped.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>Off</value>
@@ -1472,5 +1472,101 @@
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
     <value>Learn more</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Activate heart rate sensor</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>To measure your heart rate, wear both earbuds, activate the sensor, and connect to the "{0}" device through compatible fitness equipment.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Activate</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Heart rate sensor</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>When the sensor is turned off, it cannot be activated or transmit data.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Rename headphones</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>The new name will be used the next time the headphones are paired.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Ear detection</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Press and hold the left earbud</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Press and hold the right earbud</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Voice assistant</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Noise control</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Volume up</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Volume down</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Noise control from headphones</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Set the noise control modes you can switch between when the headphone control is set to the "{0}" function.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Noise cancellation with one earbud</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Allow noise cancellation to be enabled when only one earbud is in use.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Case sounds</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Rename</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Enter a name</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>The name must contain at least one character.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>The name is too long.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Rename</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Ear detection</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Case sounds volume</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Adjust the volume of the charging case sound effects.</value>
   </data>
 </root>
