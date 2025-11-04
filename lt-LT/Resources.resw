@@ -459,7 +459,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Norėdami pritaikyti šiuos parametrus, paleiskite programą iš naujo.</value>
+    <value>Iš naujo paleiskite programą, kad pritaikytumėte pakeitimus.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Prijungus „AirPods“, sistemos dėklo piktogramoje bus rodomas vidutinis kairiųjų ir dešiniųjų ausinių įkrovimas. Piktograma su baterijos lygiu atnaujinama kiekvieną minutę.</value>
@@ -841,5 +841,56 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>Išjunk</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
+    <value>Vidutinis</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
+    <value>Vidutinis</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
+    <value>Vidutinis</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Uždaryti</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Paleistis išjungta dėl grupinės strategijos arba ji nepalaikoma šiame įrenginyje.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Atšaukti</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
+    <value>Atšaukti</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
+    <value>Groti / pristabdyti</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Atsijungti</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Iš naujo paleiskite programą, kad pritaikytumėte pakeitimus.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Perkrauti programa</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Atšaukti</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Ausies aptikimas</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Balso asistentas</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Atšaukti</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Ausies aptikimas</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Atšaukti</value>
   </data>
 </root>
