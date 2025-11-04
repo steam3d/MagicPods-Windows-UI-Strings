@@ -570,7 +570,7 @@
     <value>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
-    <value>ರದ್ದುಮಾಡಿ</value>
+    <value>ರದ್ದುಮಾಡು</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
     <value>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗುತ್ತಿದೆ</value>
@@ -843,7 +843,7 @@
     <value>ಗುಂಪು ನೀತಿಯಿಂದ ಅರಂಬಿಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ</value>
+    <value>ರದ್ದುಮಾಡು</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>ಆರಂಭಕ್ಕೆ ಹೋಗಿ</value>
@@ -864,7 +864,7 @@
     <value>ಉಳಿಸಿ</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
-    <value>ರದ್ದುಮಾಡಿ</value>
+    <value>ರದ್ದುಮಾಡು</value>
   </data>
   <data name="License_ProductKey_Header.Text" xml:space="preserve">
     <value>ಉತ್ಪನ್ನಕೀಲಿ</value>
@@ -1357,5 +1357,32 @@
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
     <value>ಹಾಟ್‌ಕೀ ಒತ್ತಿದಾಗ, ಹೆಡ್‌ಫೋನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ “{0}” ಲಭ್ಯವಿದ್ದರೆ ಮತ್ತು ಮೋಡ್ ಬೆಂಬಲಿತವಾಗಿದ್ದರೆ, ಈ ಮೋಡ್ ಸಕ್ರಿಯಗೊಳ್ಳುತ್ತದೆ.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>ಕಿವಿ ಪತ್ತೆ</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>ಧ್ವನಿ ಸಹಾಯಕ</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>ಶಬ್ದ ನಿಯಂತ್ರಣ</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>ಪೆಟ್ಟಿಗೆ ಶಬ್ದಗಳು</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>ಉಳಿಸಿ</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>ರದ್ದುಮಾಡು</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>ಕಿವಿ ಪತ್ತೆ</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>ಉಳಿಸಿ</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>ರದ್ದುಮಾಡು</value>
   </data>
 </root>
