@@ -1019,7 +1019,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
-    <value>Tryb redukcji hałasu</value>
+    <value>Sterowanie hałasem</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
@@ -1234,7 +1234,7 @@
     <value>Wyjście dźwięku</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
-    <value>Redukcja hałasu</value>
+    <value>Sterowanie hałasem</value>
   </data>
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>Połącz</value>
@@ -1409,5 +1409,32 @@
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
     <value>Aktywuj redukcję hałasu wiatru</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Wykrywanie ucha</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Asystent</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Sterowanie hałasem</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Dźwięk etui</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Zapisz</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Wykrywanie ucha</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Zapisz</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Anuluj</value>
   </data>
 </root>
