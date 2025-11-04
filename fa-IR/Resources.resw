@@ -251,7 +251,7 @@
     <value>خروج</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
-    <value>نبندیم</value>
+    <value>انصراف</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>قبول</value>
@@ -848,7 +848,7 @@
     <value>راه اندازی توسط خط مشی گروه غیرفعال شد</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>لغو</value>
+    <value>انصراف</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
     <value>تنظیمات ویندوز را در صفحه برنامه باز کنید، به «Startup» بروید و «{0}» را فعال کنید.</value>
@@ -1079,7 +1079,7 @@
     <value>ریستارت</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
-    <value>لغو</value>
+    <value>انصراف</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
     <value>تطبیقی</value>
@@ -1374,5 +1374,32 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
     <value>با فشردن کلید میانبر «{0}» میان حالت‌های انتخاب‌شدهٔ کنترل نویز جابجا شوید. حالت‌هایی که توسط هدفون پشتیبانی نمی‌شوند نادیده گرفته خواهند شد.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>تشخیص گوش</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>کمک کننده سخنگو</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>کنترل نویز</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>صدای کیس</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>ذخیره</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>انصراف</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>انصراف</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>تشخیص گوش</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>ذخیره</value>
   </data>
 </root>
