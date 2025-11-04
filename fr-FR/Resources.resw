@@ -1287,7 +1287,7 @@
     <value>Écouteurs</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
-    <value>Contrôle du bruit ambiant</value>
+    <value>Contrôle du bruit</value>
   </data>
   <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
     <value>Sortie audio</value>
@@ -1462,5 +1462,32 @@
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
     <value>Appuyer sur cette touche active ce mode si « {0} » est disponible dans les réglages des écouteurs et que le mode est supporté.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Détection de l'oreille</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Assistant vocal</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Contrôle du bruit</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Sons de l'affaire</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Détection de l'oreille</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Annuler</value>
   </data>
 </root>
