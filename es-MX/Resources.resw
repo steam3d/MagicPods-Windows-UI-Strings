@@ -1414,7 +1414,7 @@
     <value>Volumen de conciencia de conversation</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
-    <value>El volumen sera reducido al volumen selecionado quando el elemento esta activo.</value>
+    <value>El volumen será reducido al volumen seleccionado cuando el elemento esté activo.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
     <value>Volumen de detection de oreja</value>
@@ -1429,7 +1429,7 @@
     <value>Apaga activatión</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
-    <value>El volumen sera reducido al volumen seleccionado quando el elemento esta activo.</value>
+    <value>El volumen será reducido al volumen seleccionado cuando el elemento esté activo.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>Activa transparencia</value>
@@ -1439,5 +1439,32 @@
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
     <value>Aprende mas</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Detección de oido</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Asistente de voz</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Control de Ruido</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Sonidos del estuche</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Detección de oido</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Cancelar</value>
   </data>
 </root>
