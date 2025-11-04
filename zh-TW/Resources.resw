@@ -1464,4 +1464,31 @@
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
     <value>按下「{0}」熱鍵可在所選的噪音控制模式之間循環切換。耳機不支援的模式將被跳過。</value>
   </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>離耳偵測</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>語音助手</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>噪音控制</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>充電盒音效</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>離耳偵測</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
 </root>
