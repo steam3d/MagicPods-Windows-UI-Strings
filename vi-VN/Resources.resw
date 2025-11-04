@@ -101,7 +101,7 @@
     <value>Âm thanh</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
-    <value>Phát hiện tai nghe đeo trên tai</value>
+    <value>Phát hiện tai</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Giảm âm lượng</value>
@@ -890,7 +890,7 @@
     <value>Khởi động bị vô hiệu hóa bởi chính sách nhóm</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>Huỷ bỏ</value>
+    <value>Huỷ</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>Đi tới Startup</value>
@@ -1034,7 +1034,7 @@
     <value>Mã kích hoạt cần được xác minh lần nữa sau khi cài đặt lại phần mềm</value>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
-    <value>Khử tiếng ồn</value>
+    <value>Kiểm soát tiếng ồn</value>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
     <value>Thích ứng</value>
@@ -1371,5 +1371,32 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
     <value>.Nhấn “{0}” để chuyển đổi giữa các chế độ khử tiếng ồn đã chọn. Các chế độ tai nghe không hỗ trợ sẽ được bỏ qua.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Phát hiện tai</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Trợ lý giọng nói</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Kiểm soát tiếng ồn</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Âm thanh hộp sạc</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Lưu</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Huỷ</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Phát hiện tai nghe đeo trên tai</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Lưu</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Huỷ</value>
   </data>
 </root>
