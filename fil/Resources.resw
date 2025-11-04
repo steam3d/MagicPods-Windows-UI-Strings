@@ -80,7 +80,7 @@
     <value>I-reset ang mga setting</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
-    <value>diteksyon sa tenga</value>
+    <value>Diteksyon sa tenga</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>I-play/I-pause</value>
@@ -1016,7 +1016,7 @@
     <value>Ang susi ng lisensya ay kailangan ilagay muli pagkatapos i-reinstall ang aplikasyon</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
-    <value>Save</value>
+    <value>I-save</value>
   </data>
   <data name="License_LicenseKey_Header.Text" xml:space="preserve">
     <value>Susi ng Lisensya</value>
@@ -1371,5 +1371,32 @@
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
     <value>Ugali ng ilang pag-andar gamit ang H2 chip</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Diteksyon sa tenga</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Diteksyon sa tenga</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Assistant na boses</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Kontrol sa ingay</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Tunog ng case</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>I-save</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>I-save</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Kansela</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Kansela</value>
   </data>
 </root>
