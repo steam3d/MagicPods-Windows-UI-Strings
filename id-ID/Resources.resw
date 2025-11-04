@@ -665,7 +665,7 @@
     <value>Atur jumlah tekan dan tahan AirPod kiri dan AirPod kanan.</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
-    <value>Lebih pendek</value>
+    <value>Lebih singkat</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
     <value>Sedang</value>
@@ -933,7 +933,7 @@
     <value>Beli kode lisensi</value>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
-    <value>Pengaturan kebisingan</value>
+    <value>Kontrol kebisingan</value>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
     <value>Adaptif</value>
@@ -999,7 +999,7 @@
     <value>Default</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
-    <value>Lebih cepat</value>
+    <value>Lebih singkat</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
     <value>Paling cepat</value>
@@ -1309,5 +1309,32 @@
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
     <value>Beralih antar mode</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Deteksi Telinga</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Asisten suara</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Kontrol kebisingan</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Suara Casing</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Simpan</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Batal</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Deteksi Telinga</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Simpan</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Batal</value>
   </data>
 </root>
