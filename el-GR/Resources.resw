@@ -91,7 +91,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Θα πρέπει να γίνει επανεκκίνηση της εφαρμογής για να εφαρμοστούν οι νέες ρυθμίσεις.</value>
+    <value>Επανεκκινήστε την εφαρμογή για να εφαρμόσετε τις αλλαγές.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>Εμφάνιση εικονιδίου ποσοστού μπαταρίας των AirPods</value>
@@ -826,7 +826,7 @@
     <value>Η εκκίνηση είναι απενεργοποιημένη από πολιτική ομάδας</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>Ακύρωση</value>
+    <value>Άκυρο</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>Πήγαινε στην Εκκίνηση</value>
@@ -1029,7 +1029,7 @@
     <value>Αποθήκευση</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
-    <value>Ακύρωση</value>
+    <value>Άκυρο</value>
   </data>
   <data name="License_ProductKey_Header.Text" xml:space="preserve">
     <value>Κλειδί άδειας χρήσης προϊόντος</value>
@@ -1229,5 +1229,44 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
     <value>Απενεργοποιημένο</value>
+  </data>
+  <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
+    <value>Αποσύνδεση</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Επανεκκινήστε την εφαρμογή για να εφαρμόσετε τις αλλαγές.</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Επανεκκίνηση</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Άκυρο</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Ανίχνευση Αυτιού</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Φωνητικός βοηθός</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Έλεγχος θορύβου</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Ήχοι θήκης</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Αποθήκευση</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Άκυρο</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Ανίχνευση Αυτιού</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Αποθήκευση</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Άκυρο</value>
   </data>
 </root>
