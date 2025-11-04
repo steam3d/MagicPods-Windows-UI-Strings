@@ -265,7 +265,7 @@
     <value>יְצִיאָה</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
-    <value>ביטל</value>
+    <value>לְבַטֵל</value>
   </data>
   <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
     <value>עוצמת הקול פוחתת בעת הסרת AirPods אחת מהאוזן, או שחזור בעת הסרה/אוורור של שתי ה-AirPods.</value>
@@ -863,7 +863,7 @@
     <value>הפעלה אוטומטית מושבתת על ידי מדיניות קבוצה</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>ביטול</value>
+    <value>לְבַטֵל</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>לך להפעלה</value>
@@ -1061,7 +1061,7 @@
     <value>למד עוד</value>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
-    <value>בקרת רעשי רקע</value>
+    <value>בקרת רעש</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
     <value>מוריד את עוצמת הקול של המדיה ומפחית רעשי רקע כשאתה מתחיל לדבר עם אנשים אחרים.</value>
@@ -1157,7 +1157,7 @@
     <value>הפעלה מחדש</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
-    <value>ביטל</value>
+    <value>לְבַטֵל</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
     <value>פופ</value>
@@ -1374,5 +1374,32 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
     <value>לחץ על מקש הקיצור ״{0}״ כדי לעבור בין מצבי בקרת הרעש שנבחרו. מצבים שאינם נתמכים על ידי האוזניות ידלגו.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>זיהוי אוזן</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>עוזרת קולית</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>בקרת רעש</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>צלילי כיסוי</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>שמור</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>לְבַטֵל</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>זיהוי אוזן</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>שמור</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>לְבַטֵל</value>
   </data>
 </root>
