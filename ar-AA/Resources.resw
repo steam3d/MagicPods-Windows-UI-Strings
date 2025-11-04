@@ -174,7 +174,7 @@
     <value>قائمة المشغلات المدعومة</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>اظهر زر الربط</value>
+    <value>إظهار زر "اتصال"</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>اتصال تلقائي</value>
@@ -1445,5 +1445,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>انقر للمزيد</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>فعّل مستشعر معدل ضربات القلب</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>لقياس معدل ضربات قلبك، ارتدِ سماعتي الأذن معًا، فعّل المستشعر، واتصل بجهاز "{0}" عبر معدات اللياقة البدنية المتوافقة.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>فعِّل</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>مستشعر معدل ضربات القلب</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>عند إيقاف تشغيل المستشعر، لا يمكن تفعيله أو نقل البيانات.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>إعادة تسمية سماعات الرأس</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>سيتم استخدام الاسم الجديد في المرة القادمة التي يتم فيها إقران سماعات الرأس.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>اضغط مع الاستمرار على سماعة الأذن اليسرى</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>اضغط مع الاستمرار على سماعة الأذن اليمنى</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>رفع مستوى الصوت</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>خفض مستوى الصوت</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>التحكم في الضوضاء من سماعات الرأس</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>قم بتعيين أوضاع التحكم في الضوضاء التي يمكنك التبديل بينها عندما يتم ضبط التحكم في السماعة على وظيفة "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>إلغاء الضوضاء باستخدام سماعة أذن واحدة</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>السماح بتفعيل إلغاء الضوضاء عند استخدام سماعة أذن واحدة فقط.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>إعادة التسمية</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>إعادة الضبط</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>أدخل اسمًا</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>يجب أن يحتوي الاسم على حرف واحد على الأقل.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>الاسم طويل جدًا.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>إعادة التسمية</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>مستوى صوت أصوات العلبة</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>اضبط مستوى صوت مؤثرات العلبة أثناء الشحن.</value>
   </data>
 </root>
