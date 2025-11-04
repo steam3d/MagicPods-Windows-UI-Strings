@@ -971,7 +971,7 @@
     <value>Dozvola</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
-    <value>spremi</value>
+    <value>Spremi</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
     <value>Otkazati</value>
@@ -1172,7 +1172,7 @@
     <value>Glasovi ljudi će se čuti i ambijentalna buka će biti potisnuta.</value>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
-    <value>Regulacija buke</value>
+    <value>Kontrola buke</value>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
     <value>Pritisnite tipku na AirPods Max slušalicama ili pritisnite i držite lijevu ili desnu AirPod slušalicu na AirPods Pro slušalicama za kretanje između odabranih načina regulacije buke.</value>
@@ -1311,5 +1311,32 @@
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
     <value>Saznajte više</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>Detekcija uha</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Glasovni asistent</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Kontrola buke</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>Zvukovi slučaja</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Spremi</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Spremi</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Otkazati</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>Detekcija uha</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>Otkazati</value>
   </data>
 </root>
