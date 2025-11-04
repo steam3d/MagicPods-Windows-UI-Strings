@@ -1312,7 +1312,7 @@
     <value>إعادة تشغيل</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
-    <value>يلغي</value>
+    <value>الغاء</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
     <value>يؤدي الضغط على مفتاح التشغيل السريع إلى الانتقال عبر أوضاع إلغاء الضوضاء إذا كان «{0}» متاحًا في إعدادات سماعة الرأس.</value>
@@ -1412,5 +1412,32 @@
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
     <value>يؤدي الضغط على مفتاح التشغيل السريع إلى تفعيل هذا الوضع إذا كان «{0}» متاحًا في إعدادات سماعة الرأس وكان الوضع مدعومًا.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
+    <value>اكتشاف الأذن</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>مساعد صوتي</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>تحكم الضوضاء</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
+    <value>أصوات العلبة</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>احفظ</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>الغاء</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
+    <value>اكتشاف الأذن</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>احفظ</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
+    <value>يلغي</value>
   </data>
 </root>
