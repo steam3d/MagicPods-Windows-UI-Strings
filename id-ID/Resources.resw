@@ -1008,7 +1008,7 @@
     <value>Peredam Kebisingan Aktif dengan satu AirPod</value>
   </data>
   <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
-    <value>Memungkinkan AirPods untuk mengaktifkan Peredam Kebisingan Aktif dengan satu AirPod saja.</value>
+    <value>Izinkan AirPods untuk mengaktifkan Peredam Kebisingan Aktif saat menggunakan satu AirPod saja.</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
     <value>volume efek bunyi</value>
@@ -1342,5 +1342,134 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Pelajari Selengkapnya</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>Dean ke belakang</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktifkan suara peredam</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Nyalakan sensor detak jantung</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Aktifkan</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>sensor detak jantung</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Ubah nama headphone</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Tekan dan tahan earbud kiri</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Tekan dan tahan earbud kanan</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Naikan Volume</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Turunkan volume</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Ubah nama</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Artur ulang</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Masukkan nama</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Nama harus ada satu karakter.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>Nama terlalu panjang.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Ubah nama</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Volume kesadaran saat percakapan</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Volume akan dikurangi sesuai dengan pilihan saat fiturnya dinyalakan.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Volume deteksi telinga</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Volume headphone bawaan</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Perilaku fungsi tertentu dengan chip h2</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Untuk mengukur detak jantung Anda, kenakan kedua earbud, aktifkan sensor, dan hubungkan ke perangkat "{0}" melalui peralatan kebugaran yang kompatibel.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Saat sensor dimatikan, ia tidak dapat dinyalakan atau mengirim data.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>Nama baru akan digunakan saat headpone dipasangkan berikutnya.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Kontrol kebisingan dari headphone</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Peredam suara dengan satu earbud</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Izinkan peredam suara saat satu earbud dipakai.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Suara kasing</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Sesuaikan volume efek suara casing pengisi daya.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Volume akan dikurangi ke volume yang dipilih saat fitur aktif.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Volume yang dipilih akan digunakan setelah koneksi.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Menekan tombol pintas akan mengaktifkan mode ini jika "{0}" tersedia dalam pengaturan headphone dan mode tersebut didukung.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Nyalakan transparansi</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Menekan tombol pintas akan mengaktifkan mode ini jika "{0}" tersedia dalam pengaturan headphone dan mode tersebut didukung.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Nyalakan mode adaptif</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Beralih di antara keduanya dengan tombol pintas</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Tekan tombol pintas "{0}" untuk beralih di antara mode pengendalian kebisingan yang dipilih.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Tetapkan mode kontrol kebisingan yang dapat Anda alihkan saat kontrol headphone diatur ke fungsi "{0}".</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Aktifkan matikan</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Menekan tombol pintas akan mengaktifkan mode ini jika "{0}" tersedia dalam pengaturan headphone dan mode tersebut didukung.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Menekan tombol pintas akan mengaktifkan mode ini jika "{0}" tersedia dalam pengaturan headphone dan modenya didukung.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Menekan tombol pintas akan mengaktifkan mode ini jika "{0}" tersedia dalam pengaturan headphone dan mode tersebut didukung.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Aktifkan peredam suara angin</value>
   </data>
 </root>
