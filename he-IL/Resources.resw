@@ -416,7 +416,7 @@
     <value>יכולות ה-AirPods</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
-    <value>לְחַבֵּר</value>
+    <value>התחבר</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
     <value>הפעלה</value>
@@ -509,7 +509,7 @@
     <value>מתחבר</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
-    <value>מנותק</value>
+    <value>התנתק</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
     <value>מתנתק</value>
@@ -1154,7 +1154,7 @@
     <value>הפעל מחדש את היישום כדי להחיל את השינויים.</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
-    <value>הפעלה מחדש</value>
+    <value>אתחול</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>לְבַטֵל</value>
@@ -1407,5 +1407,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>למד עוד</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>הפעלת מד דופק</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>כדי למדוד את הדופק שלך, שים את שתי האוזניות, הפעל את המדד והתחבר למכשיר "{0}" ע"י ציוד כושר נתמך.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>פעיל</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>מד דופק</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>כאשר מד הדופק כבוי, הוא לא יכול לפעול או לשדר נתונים.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>שנה שם לאוזניות</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>השם החדש יופיע כאשר תעשה תתחבר לאוזניות בפעם הבאה.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>לחץ והחזק את האוזנייה השמאלית</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>לחץ והחזק את האוזניה הימנית</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>הגברת עוצמת הקול</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>הנמכת עוצמת הקול</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>בקרת רעשים מהאוזניות</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>בקרת רעשים עם אוזניה אחת</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>אפשר בקרת רעשים גם בשימוש באוזניה אחת בלבד.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>שנה שם</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>אתחול</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>הזן שם</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>השם חייב לכלול לפחות תו אחד.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>השם ארוך מידי.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>שנה שם</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>עוצת ווליום של מארז</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>הגדר עוצמת ווליום של האפקט הקולי למארז.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>הגדרת מצב ביטול הרעשים מאפשרת לך לעבור בין המצבים כאשר שליטה האוזניות מוגדרת על "{0}".</value>
   </data>
 </root>
