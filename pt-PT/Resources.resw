@@ -803,7 +803,7 @@
     <value>Marcação de auscultadores falsos</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Description" xml:space="preserve">
-    <value>Mostra um aviso nas definições dos auscultadores de que são falsos.</value>
+    <value>Mostra um aviso nas definições dos auscultadores que são falsos.</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
     <value>Podem ser auscultadores falsos</value>
@@ -902,7 +902,7 @@
     <value>Espetáculo ao vivo</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
-    <value>Cinema stereo</value>
+    <value>Estéreo Cinema</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
     <value>Ritmo de palco</value>
@@ -1417,5 +1417,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Saber mais</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Ativar sensor de batimento cardíaco</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Para medir a frequência cardíaca, use ambos os auscultadores, ative o sensor e ligue ao dispositivo “{0}” através de equipamento de fitness compatível.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Ativar</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Sensor de batimento cardíaco</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Quando o sensor está desligado, não pode ser ativado nem transmitir dados.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Renomear fones</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>O novo nome será utilizado da próxima vez que os auscultadores forem emparelhados.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Pressionar e segurar o fone de ouvido esquerdo</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Pressionar e segurar o fone de ouvido direito</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Aumentar o volume</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Diminuir o volume</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Modos de escuta dos fones</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Defina os modos de controlo de ruído entre os quais pode alternar quando o controlo dos auscultadores estiver definido para a função “{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Cancelação de ruído com um fone de ouvido</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Permitir que o cancelamento de ruído seja ativado quando apenas um auscultador estiver a ser usado.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Renomear</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Resetar</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Introduza um nome</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>O nome deve conter pelo menos um caráter.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>O nome é demasiado grande.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Renomear</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Volume dos sons da caixa</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Ajustar o volume dos efeitos sonoros da caixa de carregamento.</value>
   </data>
 </root>
