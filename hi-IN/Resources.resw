@@ -105,7 +105,7 @@
     <value>आवाज़ कम करें</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
-    <value>और</value>
+    <value>अन्य</value>
     <comment>Not used now</comment>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
@@ -1414,7 +1414,7 @@
     <value>यदि हेडफ़ोन सेटिंग्स में “{0}” उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
   </data>
   <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
-    <value>कान जाच</value>
+    <value>कान का पता लगना</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>आवाज सहायक</value>
@@ -1445,5 +1445,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>और जानें</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>हृदय सेंसर सक्रिय करें</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>अपनी हृदय गति मापने के लिए, दोनों ईयरबड पहनें, सेंसर सक्रिय करें, और संगत फिटनेस उपकरण के माध्यम से "{0}" डिवाइस से कनेक्ट करें।</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>सक्रिय करें</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>हृदय दर सेंसर</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>जब सेंसर बंद हो जाता है, तो इसे सक्रिय नहीं किया जा सकता या डेटा संचारित नहीं किया जा सकता।</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>हेडफ़ोन का नाम बदलें</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>अगली बार जब हेडफोन जोड़े जाएंगे तो नया नाम इस्तेमाल किया जाएगा।</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>बाएँ ईयरबड को दबाकर रखें</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>दाएँ ईयरबड को दबाकर रखें</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>आवाज बढ़ाएं</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>आवाज़ कम करें</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>हेडफ़ोन से शोर नियंत्रण</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>शोर नियंत्रण मोड सेट करें जिनके बीच आप स्विच कर सकते हैं जब हेडफ़ोन नियंत्रण "{0}" फ़ंक्शन पर सेट हो।</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>एक ईयरबड से शोर रद्द करना</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>जब केवल एक ईयरबड उपयोग में हो तो शोर रद्दीकरण को सक्षम करने की अनुमति दें।</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>नाम बदलें</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>रीसेट करें</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>नाम डालें</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>नाम में कम से कम एक अक्षर अवश्य होना चाहिए।</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>नाम बहुत लंबा है।</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>नाम बदलें</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>ईयरफोन केस की ध्वनि मात्रा</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>चार्जिंग केस ध्वनि प्रभाव की मात्रा समायोजित करें।</value>
   </data>
 </root>
