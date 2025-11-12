@@ -624,7 +624,7 @@
     <value>Redefinir imagem</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button_TurnOn.Content" xml:space="preserve">
-    <value>Ativar</value>
+    <value>Ligar</value>
   </data>
   <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
     <value>Mais detalhes</value>
@@ -1500,5 +1500,23 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Saiba mais</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Ativar sensor de frequência cardíaca</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Para medir sua frequência cardíaca, use os dois fones de ouvido, ative o sensor e conecte-se ao dispositivo "{0}" através de equipamentos de ginástica compatíveis.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Ativar</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Sensor de frequência cardíaca</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Quando o sensor está desligado, ele não pode ser ativado nem transmitir dados.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Renomear fones de ouvido</value>
   </data>
 </root>
