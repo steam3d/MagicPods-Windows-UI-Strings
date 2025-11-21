@@ -1478,7 +1478,7 @@
     <value>Controle de ruído</value>
   </data>
   <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
-    <value>Sons da caixinha</value>
+    <value>Sons do estojo</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
     <value>Salvar</value>
@@ -1518,5 +1518,56 @@
   </data>
   <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
     <value>Renomear fones de ouvido</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>O novo nome será utilizado na próxima vez que os fones forem conectados.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Pressione e segure o fone esquerdo</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Pressione e segure o fone direito</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Aumentar volume</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Reduzir volume</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Controle de ruídos do fone de ouvido</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Defina os modos de controle de ruído que você pode alternar quando o controle do fone de ouvido estiver configurado para a função "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Cancelamento de ruído com um fone</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Permita que a função de cancelamento de ruído seja habilitada mesmo com apenas um fone de ouvido em uso.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Renomear</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Insira um nome</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>O nome deve conter ao menos um caractere.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>O nome é muito longo.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Renomear</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Ajuste o volume dos efeitos sonoros do estojo de carregamento.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Redefinir</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Volume dos sons do estojo</value>
   </data>
 </root>
