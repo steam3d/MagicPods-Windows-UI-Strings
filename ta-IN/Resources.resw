@@ -355,4 +355,76 @@
   <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
     <value>காது கண்டறிதல்</value>
   </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>பரிசோதனை அம்சங்கள்</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>ஆதரவு</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>பயன்பாடு மூடப்படும் மற்றும் அனைத்து செயல்பாடுகளும் முடக்கப்படும்.</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>ரத்து செய்</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>உங்கள் காதில் இருந்து ஒரு ஏர்போட்களை அகற்றும்போது ஒலி அளவு குறைகிறது அல்லது இரண்டு ஏர்போட்களையும் அகற்றும்போது / போடும்போது ஒலி அளவு மீட்டமைக்கப்படும்.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>ஆதரிக்கப்படும் ஒலி இயக்கிகளின் பட்டியல்</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>AirPods தேடல் ஆரம்</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>சாளரம் தோன்றவில்லை என்றால், உள்ளே AirPods உடன் கேஸைத் திறந்து, அனிமேஷன் தோன்றும் வரை ஸ்லைடரை வலதுபுறமாக மென்மையாக ஸ்லைடு செய்யவும்.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
+    <value>தேடல் ஆரம் என்றால் என்ன?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>உதவிக்குறிப்பு</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>அனிமேஷன் தற்செயலாகத் தோன்றக்கூடும் என்பதால் 65 ஐ விட அதிகமான மதிப்பை அமைக்க வேண்டாம்.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>"இணை" பொத்தானைக் காட்டு</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>பாப்-அப் சாளரத்தில் "இணை" பொத்தானைக் காட்டு அல்லது மறைக்கவும். பொத்தானை அழுத்தினால் AirPodகள் இணைக்கப்படும்.</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
+    <value>தானாக இணைக்கவும்</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
+    <value>வலது அல்லது இடது ஏர்போட்களை கேஸிலிருந்து வெளியே எடுக்கும்போது தானாகவே ஏர்போட்களுடன் இணைக்கவும்.</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>ஆட்டோ ப்ளே</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>ஹெட்ஃபோன்களை இணைத்த பிறகு "ப்ளே" கட்டளையை அனுப்பவும். திறந்த பிளேயர்கள் இல்லையென்றால் விண்டோஸ் கட்டளையைப் புறக்கணிக்கும்.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>எல்லா அமைப்புகளும் மீட்டமைக்கப்படும். தொடர விரும்புகிறீர்களா?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>ஆம், அமைப்புகளை மீட்டமைக்கவும்</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>உதவிக்குறிப்பு</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>உங்கள் பயன்பாட்டின் அடிப்படையில், மதிப்பை {0} ஆக அமைக்க பரிந்துரைக்கிறோம்</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>விண்ணப்பிக்கவும்</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>புறக்கணிக்கவும்</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>ஹெட்ஃபோன்களுடன் இணைக்க முடியவில்லை. கைமுறையாக இணைக்க முயற்சிக்கவும்.</value>
+  </data>
 </root>
