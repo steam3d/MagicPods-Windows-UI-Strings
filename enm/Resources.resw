@@ -695,16 +695,16 @@
     <value>More information</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
-    <value>This device can't is not supported.</value>
+    <value>Bluetooth Classic not supported</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
     <value>Restarting the app might help.Try closing it and opening it again</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
-    <value>This device is not supported.Try another Device.</value>
+    <value>Stream audio from Bluetooth devices to PC. The PC acts as a Bluetooth speaker.</value>
   </data>
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
-    <value>You can stream audio from a Bluetooth device to your PC, and the PC will act as a Bluetooth speaker.</value>
+    <value>Audio streaming</value>
   </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
     <value>Failed to connect to the streaming device Make sure Bluetooth is enabled on the streaming device.</value>
