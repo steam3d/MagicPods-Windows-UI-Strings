@@ -295,7 +295,7 @@
     <value>Agregue AirPods a la lista de dispositivos Bluetooth de Windows</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
-    <value>Ventajoso cuando esta utilizando Premiere Pro o Audition. Esto requiere reconectar los AirPods luego de activar esta opción. Es posible que se note un incremento en el consumo de la batería.</value>
+    <value>Beneficioso cuando se está utilizando Premiere Pro o Audition. Esto requiere volver a conectar los AirPods después de activar esta opción. Es posible que se note un aumento en el consumo de la batería.</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
     <value>Se cerrará la aplicación y se deshabilitarán todas las funciones.</value>
@@ -1442,5 +1442,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Más información</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Subir volumen</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Activar</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Renombrar auriculares</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Bajar volumen</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Control de ruido de los auriculares</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Activar sensor de frecuencia cardíaca</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Sensor de frecuencia cardíaca</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>El nuevo nombre se utilizará la próxima vez que se emparejen los auriculares.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Cuando el sensor está apagado, no puede activarse ni transmitir datos.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Mantén presionado el auricular izquierdo</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Mantén presionado el auricular derecho</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Introduce un nombre</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Ajusta el volumen de los efectos de sonido del estuche de carga.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Volumen de los sonidos del estuche</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Renombrar</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>El nombre es demasiado largo.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>El nombre debe contener al menos un carácter.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Restablecer</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Permitir que se active la cancelación de ruido cuando solo se use un auricular.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Cancelación de ruido con un auricular</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Establece los modos de control de ruido entre los que puedes cambiar cuando el control de los auriculares está configurado en la función "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Renombrar</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Para medir tu ritmo cardíaco, usa ambos auriculares, activa el sensor y conéctate al dispositivo "{0}" a través de equipos de ejercicio compatibles.</value>
   </data>
 </root>
