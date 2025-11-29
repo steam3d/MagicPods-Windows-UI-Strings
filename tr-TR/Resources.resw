@@ -169,7 +169,7 @@
     <value>Düşük ses gecikmesi</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
-    <value>Premiere Pro ve Audition'da kullanışlı. Açtıktan sonra AirPods'un tekrar bağlanması gerekir. Batarya tüketimini arttırabilir.</value>
+    <value>Premiere Pro veya Audition'da çalışırken kullanışlıdır. Açıldıktan sonra AirPods'u yeniden bağlamanız gerekir. Pil tüketimini artırabilir.</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Yardım al</value>
@@ -184,7 +184,7 @@
     <value>Hızlı arama</value>
   </data>
   <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
-    <value>AirPods arama süresini kısaltır. Etrafta başka kimsenin AirPods kullanmadığından emin olduğunuzda açın.</value>
+    <value>AirPods'u arama süresini kısaltır. Etrafta AirPods kullanan başka kimse olmadığından emin olduğunuzda bu özelliği açın.</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>Başlangıç</value>
@@ -193,10 +193,10 @@
     <value>Başlangıçta çalıştır</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
-    <value>Uygulamanın Windows başlatıldığında başlatılmasını etkinleştirin veya devre dışı bırakın.</value>
+    <value>Windows başlangıcında MagicPods'un başlatılmasını etkinleştirin veya devre dışı bırakın.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Başlangıç, grup politikası tarafından devre dışı bırakıldı veya bu cihazda desteklenmiyor.</value>
+    <value>Başlangıç, grup ilkesi tarafından devre dışı bırakıldı veya bu cihazda desteklenmiyor.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Sistem tepsisi simgesi</value>
@@ -207,27 +207,27 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
-    <value>Değişikliklerin uygulanması için programı yeniden başlatın.</value>
+    <value>Değişiklikleri uygulamak için uygulamayı yeniden başlatın.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
     <value>AirPods şarj yüzdesini göster</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>Bağlı kulaklıklağın ortalama pil yüzdesini gösterir.</value>
+    <value>Bağlı kulaklıkların ortalama pil yüzdesini gösterir.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
-    <value>Stil</value>
+    <value>Gösterim stili</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
-    <value>Görünüm</value>
+    <value>Pil simgesi</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
     <value>Metin</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
-    <value>Başlangıcı etkinleştir</value>
+    <value>Başlangıçta çalıştır</value>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Çıkış</value>
@@ -242,7 +242,7 @@
     <value>Evet</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
-    <value>Batarya bilgisi</value>
+    <value>Pil ayrıntıları</value>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>Genel ayarlar</value>
@@ -275,37 +275,37 @@
     <value>Desteklenin cihazlar listesi</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
-    <value>AirPods arama alanı</value>
+    <value>AirPods tarama alanı</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
-    <value>Pencere görünmüyorsa, içinde AirPods olan kutuyu açın ve animasyon görünene kadar kaydırıcıyı yavaşça sağa kaydırın.</value>
+    <value>Pencere gözükmezse, AirPods'un kutusunu açın ve animasyon görünene kadar kaydırıcıyı yavaşça sağa doğru kaydırın.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
-    <value>Arama alanı nedir?</value>
+    <value>Tarama alanı nedir?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
-    <value>İpucu</value>
+    <value>Öneri</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Animasyon yanlışlıkla görünebileceği için 65'ten büyük bir değer ayarlamayın.</value>
+    <value>Bazı durumlarda bağlanma animasyonunun yanlışlıkla görünebilme ihtimaline karşı 65'ten büyük değerleri yalnızca animasyon gözükmüyorsa ayarlayın.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
-    <value>“Bağlan” butonunu göster</value>
+    <value>“Bağlan” düğmesini göster</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Açılır pencerede “Bağlan” butonunu göster veya gizle. Düğmeye basmak AirPods'u bağlayacaktır.</value>
+    <value>Açılır pencerede “Bağlan” düğmesini gösterin veya gizleyin. Düğmeye basıldığında AirPods bağlanacaktır.</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
-    <value>Otomatik olarak bağlan</value>
+    <value>Otomatik bağlan</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
-    <value>Sağ veya sol AirPods'u kutudan çıkardığınızda otomatik olarak AirPods'a bağlanın.</value>
+    <value>Sağ veya sol AirPods'u kutusundan çıkardığınızda otomatik olarak bağlanın.</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>Otomatik oynat</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>AirPods bağlandıktan sonra “Oynat” komutunu gönder. Açık oynatıcı yoksa, Windows komutu dikkate almaz.</value>
+    <value>Kulaklıkları bağladıktan sonra “Oynat” komutunu gönder. Eğer açık bir oynatıcı yoksa, Windows bu komutu yok sayar.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Tüm ayarlar sıfırlanacaktır. Devam etmek istiyor musun?</value>
@@ -314,38 +314,38 @@
     <value>Evet, ayarları sıfırla</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
-    <value>İpucu</value>
+    <value>Öneri</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
-    <value>Kullanımınıza bağlı olarak, değeri {0} olarak ayarlamanızı öneririz</value>
+    <value>Kullanımınıza bağlı olarak değeri {0} olarak ayarlamanızı tavsiye ederiz</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
-    <value>Uygula</value>
+    <value>Ayarla</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Atla</value>
+    <value>Yoksay</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
     <value>AirPods'a bağlanılamadı. Manuel olarak bağlanmayı deneyin.</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
-    <value>Kulağınızdan bir AirPods'u çıkardığınızda çalma duraklatılır ve ses seviyesi azalır veya her iki AirPods'u çıkardığınızda durur ve ses eski haline döner.</value>
+    <value>Bir AirPods'u kulağınızdan çıkardığınızda çalma duraklatılır ve ses seviyesi azalır; her iki AirPods'u da çıkardığınızda çalma durur ve ses seviyesi eski haline döner.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>AirPods'u, Windows Bluetooth cihazları listesine ekle</value>
+    <value>AirPods'unuzu, Windows Bluetooth cihazları listesine ekleyin</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>MagicPods çoğu AirPods ve Beats kulaklıkları destekler</value>
+    <value>MagicPods, çoğu AirPods ve Beats kulaklıkları destekler</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>AirPods kutusunu bilgisayara olabildiğince yaklaştırıp kutuyu açın</value>
+    <value>AirPods kutusunu bilgisayara mümkün olduğunca yaklaştırın ve kutunun kapağını açın</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>Sonraki</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
-    <value>Arama alanı - bilgisayarınızın açık bir AirPods kutusu arayacağı alan.</value>
+    <value>Tarama alanı - bilgisayarınızın açık bir AirPods kutusunu arayacağı minimum uzaklığı belirler.</value>
   </data>
   <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
     <value>Kapat</value>
@@ -357,25 +357,25 @@
     <value>Yeni ses ekle</value>
   </data>
   <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
-    <value>Sol üst köşe</value>
+    <value>Sol üst</value>
   </data>
   <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
-    <value>Merkez</value>
+    <value>Orta</value>
   </data>
   <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
-    <value>Sol alt köşe</value>
+    <value>Sol alt</value>
   </data>
   <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
-    <value>Sağ alt köşe</value>
+    <value>Sağ alt</value>
   </data>
   <data name="Settings_Audio_Header.Header" xml:space="preserve">
     <value>Ses</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
-    <value>Ses çıkış aygıtını otomatik olarak değiştir</value>
+    <value>Otomatik ses çıkışı geçişi</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
-    <value>Aygıt hazır değil veya çıkarıldı</value>
+    <value>Aygıt hazır değil veya kaldırıldı</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
     <value>Daha fazlasını öğrenin</value>
@@ -384,19 +384,19 @@
     <value>Ayarla</value>
   </data>
   <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
-    <value>Sesli geri bildirim ayarları</value>
+    <value>VoiceOver ayarları</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
-    <value>Bir ses tonu seçin</value>
+    <value>Ses tonu</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
-    <value>Seslendirme sadece tek bir dili destekler.</value>
+    <value>Seslendirme yalnızca bir dilde okuyabilir.</value>
   </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>Ses tonu bulunamadı veya seçilmedi</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText.Header" xml:space="preserve">
-    <value>Seçilen ses tonu ile metni dinle</value>
+    <value>Seçilen sesle metni dinle</value>
   </data>
   <data name="Configure_VoiceOver_Setting_SampleText_Button_Speak.Content" xml:space="preserve">
     <value>Dinle</value>
@@ -411,10 +411,10 @@
     <value>Tüm uygulamaları göster</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
-    <value>Pencere konumu</value>
+    <value>Açılır pencere konumu</value>
   </data>
   <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
-    <value>Sağ üst köşe</value>
+    <value>Sağ üst</value>
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>Gizlilik ve bildirimler</value>
@@ -423,13 +423,13 @@
     <value>Her iki AirPods kulağımda değilken varsayılan ses aygıtına geçiş yap.</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
-    <value>AirPods her bağlandığında ve ses çıkış aygıtı olarak ayarlandığında sesli geri bildirimde bulunacak.</value>
+    <value>AirPods bağlandığında ve ses çıkış cihazı olarak seçildiğinde bildirimler sesli olarak duyurulur.</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
-    <value>Sesli geri bildirim</value>
+    <value>VoiceOver bildirimleri</value>
   </data>
   <data name="Configure_VoiceOver_Header_ChooseApps.Header" xml:space="preserve">
-    <value>Bu kaynaklardan gelen bildirimleri sesli olarak geri bildir</value>
+    <value>VoiceOver'ın sesli olarak geri bildireceği bildirimler</value>
   </data>
   <data name="Dialog_NotificationsDenied" xml:space="preserve">
     <value>“Sesli geri bildirim” özelliği devre dışı, bildirimlere erişilemiyor. Lütfen Gizlilik ve bildirimler bölümünü açın, bildirimlere izin verin, ardından “Sesli geri bildirim” seçeneğini aktif edin.</value>
@@ -447,7 +447,7 @@
     <value>Sorunu gidermek için bu kılavuzu izleyin.</value>
   </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
-    <value>Işık</value>
+    <value>Açık</value>
   </data>
   <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
     <value>Koyu</value>
@@ -471,13 +471,13 @@
     <value>Uygulama ayaları</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.HintLink" xml:space="preserve">
-    <value>AirPods kapasitesi</value>
+    <value>AirPods yetenekleri</value>
   </data>
   <data name="Battery_Short_Left.Title" xml:space="preserve">
-    <value>L</value>
+    <value>So</value>
   </data>
   <data name="Battery_Short_Right.Title" xml:space="preserve">
-    <value>R</value>
+    <value>Sa</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
     <value>Bağlan</value>
@@ -486,7 +486,7 @@
     <value>Başlangıç</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
-    <value>En iyi kullanıcı deneyimi için, başlatmayı etkinleştirmenizi öneririz.</value>
+    <value>En iyi kullanıcı deneyimi için, başlangıçta etkinleştirmenizi öneririz.</value>
   </data>
   <data name="Slider_TextOff" xml:space="preserve">
     <value>Kapalı</value>
@@ -498,7 +498,7 @@
     <value>Çoklu bağlantı</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>İki veya daha fazla kulaklık bağlandı, birini bağlı tutun</value>
+    <value>İki veya daha fazla kulaklık bağlıysa, yalnızca bir tanesini bağlı bırakın</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
     <value>Bağlanıyor</value>
@@ -522,19 +522,19 @@
     <value>Kulaklık bağlantısı kesildikten sonra oynatmayı duraklat.</value>
   </data>
   <data name="Headphones_Setting_LowBatteryNotification.Description" xml:space="preserve">
-    <value>Kulaklık pil seviyesi belirtilen seviyenin altına düştüğü zaman uyar.</value>
+    <value>Kulaklık şarjı belirtilen değerin altına düştüğünde bildirim göster.</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
-    <value>Kulaklığı bilgisayara bağlayın ve ardından uygulamayı yeniden başlatın</value>
+    <value>Bilgisayara bir kulaklık bağlayın ve uygulamayı yeniden başlatın</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
-    <value>Kulaklığı görüntülemek için Bluetooth'u açın</value>
+    <value>Kulaklıkları görüntülemek için Bluetooth'u açın</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
-    <value>Bluetooth seçenekleri</value>
+    <value>Bluetooth ayarları</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
-    <value>Herhangi bir kulaklık bağlı değil</value>
+    <value>Eşleştirilmiş kulaklık yok</value>
   </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
     <value>Kulaklıklar</value>
@@ -546,13 +546,13 @@
     <value>MagicPods 2.0 ile tanışın</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
-    <value>Yeniden tasarlanmış arayüz, kişisel ayarlar ve daha fazlası. Bazı seçenekler yenilendi. Özelleştirmek için uygulamayı açın.</value>
+    <value>Yenilenen arayüz, kişisel ayarlar ve daha fazlasıyla karşınızda. Bazı ayarlar değişti, özelleştirmek için uygulamayı açın.</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>Her bir kulaklığı tercihlerinize göre özelleştirin</value>
+    <value>Kulaklıkları tercihlerinize göre ayrı ayrı özelleştirin</value>
   </data>
   <data name="Headphones_Setting_ConnectDisconnectHotkey.Description" xml:space="preserve">
-    <value>Kulaklığı bağlamak veya bağlantısını kesmek için genel kısayol tuşu.</value>
+    <value>Kulaklıkları bağlamak veya bağlantısını kesmek için ortak kısayol tuşu.</value>
   </data>
   <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
     <value>Bağlantı kısayol tuşu</value>
@@ -564,13 +564,13 @@
     <value>Herhangi bir görselden metni kopyalayın</value>
   </data>
   <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
-    <value>Tehlikeli bir macera oyununda koş, zıpla ve savuştur</value>
+    <value>Tehlikeli bir macera oyununda koş, zıpla ve kaç</value>
   </data>
   <data name="Support_Setting_Weblate.Description" xml:space="preserve">
-    <value>Çevir, düzenle ya da yeni diller ekle</value>
+    <value>Uygulamayı çevirin, yazım yanlışlarını düzenleyin veya yeni diller ekleyin</value>
   </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
-    <value>Uygulama ara</value>
+    <value>Uygulamalarda ara</value>
   </data>
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>Şarj</value>
@@ -579,7 +579,7 @@
     <value>Sakla</value>
   </data>
   <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
-    <value>İndir</value>
+    <value>Yükle</value>
   </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
     <value>Çevir</value>
@@ -588,7 +588,7 @@
     <value>Tekrar başlat</value>
   </data>
   <data name="App_Error.Title" xml:space="preserve">
-    <value>Bilinmeyen bir hata meydana geldi</value>
+    <value>Bilinmeyen bir hata oluştu</value>
   </data>
   <data name="App_Error.Text" xml:space="preserve">
     <value>Uygulamayı yeniden başlatmak sorununuzu çözebilir. Eğer hata almaya devam ederseniz, bilgisayarınızı yeniden başlatmayı deneyin.</value>
@@ -600,22 +600,22 @@
     <value>Win, Shift, Alt veya Ctrl tuşunu dahil edin</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Kısayol tuşunu kaldırın</value>
+    <value>Kısayol tuşunu kaldır</value>
   </data>
   <data name="Headphones_Setting_AutoPause.Header" xml:space="preserve">
-    <value>Otomatik durdurma</value>
+    <value>Otomatik duraklat</value>
   </data>
   <data name="Headphones_Setting_LowBatteryNotification.Header" xml:space="preserve">
     <value>Düşük pil uyarısı</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothOff_Header.Text" xml:space="preserve">
-    <value>Bluetooth devre dışı</value>
+    <value>Bluetooth kapalı</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
     <value>Kulaklık nasıl bağlanır</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
-    <value>Bluetooth LE desteklenmiyor</value>
+    <value>Cihazınızda Bluetooth LE desteklenmiyor</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
     <value>Resmi değiştir</value>
@@ -624,7 +624,7 @@
     <value>Aç</value>
   </data>
   <data name="Headphones_HelpMessage_Common_Button_MoreDetails.Content" xml:space="preserve">
-    <value>Daha fazla</value>
+    <value>Daha fazla bilgi</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
     <value>Bluetooth bağdaştırıcısı bulunamadı</value>
@@ -633,13 +633,13 @@
     <value>Bir Bluetooth bağdaştırıcısı bağlayın</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Header.Text" xml:space="preserve">
-    <value>Birden çok Bluetooth bağdaştırıcısı bağlı</value>
+    <value>Birden fazla Bluetooth bağdaştırıcısı bağlı</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
-    <value>Bluetooth Classic standardı desteklenmiyor</value>
+    <value>Bluetooth Classic desteklenmiyor</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
-    <value>Bluetooth Classic standardını destekleyen bir Bluetooth adaptörü bağlayın ve uygulamayı yeniden başlatın</value>
+    <value>Bluetooth Classic standardını destekleyen bir Bluetooth bağdaştırıcı bağlayın ve uygulamayı yeniden başlatın</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
     <value>Bluetooth bağdaştırıcısı başlatma hatası</value>
@@ -648,10 +648,10 @@
     <value>Uygulamayı yeniden başlatmak yardımcı olabilir</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothMultipleAdaptersFound_Description.Text" xml:space="preserve">
-    <value>Yalnızca bir Bluetooth bağdaştırıcısını bağlı bırakın</value>
+    <value>Yalnızca bir Bluetooth bağdaştırıcısı bağlı olmalıdır</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
-    <value>Bluetooth LE standardını destekleyen bir Bluetooth adaptörü bağlayın ve uygulamayı yeniden başlatın</value>
+    <value>Bluetooth LE standardını destekleyen bir Bluetooth bağdaştırıcı bağlayın ve uygulamayı yeniden başlatın</value>
   </data>
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
     <value>Ses aktarımı</value>
@@ -663,7 +663,7 @@
     <value>Otomatik sessize alma</value>
   </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
-    <value>Sesin çalınacağı cihaza bağlanılamadı. Cihazınızda Bluetoothun açık olduğuna emin olun.</value>
+    <value>Akış cihazına bağlanılamadı. Akış cihazında Bluetooth'un etkinleştirildiğinden emin olun.</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>Eşlenen cihaz yok veya Bluetooth kapalı</value>
@@ -681,19 +681,19 @@
     <value>Orta alt</value>
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
-    <value>Görüntüyü yeniden yükle</value>
+    <value>Resmi sıfırla</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
-    <value>Ses aktarımını Bluetooth cihazlardan bilgisayara yap. Bilgisayar Bluetooth hoparölerü işlevi görür.</value>
+    <value>Bluetooth cihazlarından PC'ye ses akışı yapın. PC, Bluetooth hoparlör görevi görür.</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Description" xml:space="preserve">
-    <value>Ses çıkışı bilgisayar hoparlörüne geçtiğinde sesin aktarıldığı cihazı sustur.</value>
+    <value>Ses çıkışı PC hoparlörlerine değiştirildiğinde akış cihazının sesini kapatın.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>Sesin aktarıldığı kaynak değiştirse pop-up penceresi göster.</value>
+    <value>Ses çıkışı değiştiğinde açılır pencere göster.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
-    <value>Batarya yüzdesini göster</value>
+    <value>Pil yüzdesini göster</value>
   </data>
   <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
     <value>Deneysel özellik</value>
@@ -708,37 +708,37 @@
     <value>Destek ve topluluk</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicTranslate.Description" xml:space="preserve">
-    <value>Kısayol ile hızlıca çevir</value>
+    <value>Kısayol tuşuyla metni hızlıca çevirin</value>
   </data>
   <data name="Preferences_Setting_Language.Description" xml:space="preserve">
     <value>Değişiklikleri uygulamak için uygulamayı yeniden başlat.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Pencereyi göster</value>
+    <value>Açılır pencere göster</value>
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
     <value>Varsayılan ayarlara geri dön</value>
   </data>
   <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
-    <value>Daha fazlasını öğrenin</value>
+    <value>Daha fazla bilgi edinin</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
-    <value>Ses çıktısı kısayolunu değiştir</value>
+    <value>Ses çıkışını değiştirme kısayol tuşu</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup_SpeakerImage.Header" xml:space="preserve">
     <value>Hoparlör resmi</value>
   </data>
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
-    <value>Topluluğa katıl, sorunları raporla, yeni güncellemeler haberler ver tartışmalar için takipte kal</value>
+    <value>Topluluğumuza katılın, hataları bildirin, haberler, güncellemeler ve tartışmalar için bizi takip edin</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
-    <value>Kısayol tuşuna basmak ses çıktıları arasında değişikliğe neden olur.</value>
+    <value>Kısayol tuşuna basıldığında ses çıkışları arasında geçiş yapılır.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>Kulaklığın Hands-Free fonksiyonu müsait değil. Manuel olarak Hands-Free'yi kapatmayın. Değişiklikleri uygulamak için uygulamayı yeniden başlatın.</value>
+    <value>Kulaklığın Handsfree işlevi (sesli iletişim) şu an kullanılabilir değil. Handsfree işlevini manuel olarak devre dışı bırakmayın. Değişiklikleri uygulamak için uygulamayı yeniden başlatın.</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
-    <value>Sesli asistan</value>
+    <value>Sesli yardım</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
     <value>Gürültü kontrolü (ANC/Şeffaf)</value>
@@ -768,7 +768,7 @@
     <value>Kapalı</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Transparency.Text" xml:space="preserve">
-    <value>Şeffaf Mod</value>
+    <value>Şeffaflık Modu</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Filter_Item_Traffic.Text" xml:space="preserve">
     <value>Trafik</value>
@@ -795,19 +795,19 @@
     <value>Meditasyon</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Hotkey_Header.Text" xml:space="preserve">
-    <value>Gürültü engelleme kısayol tuşunu değiştir</value>
+    <value>Gürültü engelleme kısayol tuşu</value>
   </data>
   <data name="Headphones_Setting_Airoha_HeadTracking.Description" xml:space="preserve">
     <value>Kullanmadan önce her iki AirPods'u da takın.</value>
   </data>
   <data name="Headphones_Setting_Airoha_LeftAirPod_PressAndHold.Header" xml:space="preserve">
-    <value>Sol AirPods'a basılı tutma</value>
+    <value>Sol AirPods'a basılı tuttuğumda</value>
   </data>
   <data name="Headphones_Setting_Airoha_RightAirPod_PressAndHold.Header" xml:space="preserve">
-    <value>Sağ AirPods'a basılı tutma</value>
+    <value>Sağ AirPods'a basılı tuttuğumda</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Description" xml:space="preserve">
-    <value>Sol AirPods'a ve sağ AirPods'a basılı tutma süresini ayarlayın.</value>
+    <value>Sol ve sağ AirPods'a basılı tutma süresini ayarlayın.</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
     <value>Rüzgar gürültüsünü azaltma hassasiyeti</value>
@@ -849,22 +849,22 @@
     <value>Orta</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
-    <value>uzun</value>
+    <value>Daha uzun</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
-    <value>Geliştirilmiş çoklu bağlantı</value>
+    <value>Geliştirilmiş çok noktaya bağlantı</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP.Description" xml:space="preserve">
     <value>Kulaklığınıza aynı anda iki cihazı bağlamanızı sağlar. Uygulanabilmesi için AirPods'un fabrika ayarlarına sıfırlanması gerekir.</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
-    <value>Çoklu mod</value>
+    <value>Çok noktalı mod</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
     <value>Normal mod</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
-    <value>Rüzgar gürültüsünü azaltma</value>
+    <value>Rüzgar gürültüsü azaltma</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
     <value>Düşük</value>
@@ -885,13 +885,13 @@
     <value>Ayrıca sol veya sağ AirPods'a beş kez basılarak da etkinleştirilebilir.</value>
   </data>
   <data name="Preferences_Setting_ShowFakeHeadphonesWarning.Header" xml:space="preserve">
-    <value>Sahte kulaklıkları belirt</value>
+    <value>Sahte kulaklıkları etiketle</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
     <value>Sahte kulaklık olabilir</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Header" xml:space="preserve">
-    <value>Fabrika ayarları</value>
+    <value>Fabrika ayarlarına sıfırla</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
     <value>AirPods'u kutuya yerleştirin, kapağı açın ve düğmeye yaklaşık 10 saniye basın.</value>
@@ -1500,5 +1500,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Daha fazlasını öğrenin</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Uyarlanabilir sesi etkinleştir</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Kalp atış hızınızı ölçmek için her iki kulaklığı da takın, sensörü etkinleştirin ve uyumlu fitness ekipmanı aracılığıyla "{0}" cihazına bağlanın.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Etkinleştir</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Kalp atış sensörü</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Sensör kapatıldığında, etkinleştirilmez veya veri iletemez.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Kulaklıkları yeniden adlandır</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>Yeni isim, kulaklıkları bir sonraki eşleştirmenizde görünecektir.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Sol kulaklığa basılı tutun</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Sağ kulaklığa basılı tutun</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Sesi artır</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Sesi azalt</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Kulaklık üzerinden gürültü kontrolü</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Kulaklık kontrolü ‘{0}’ işlevine aylandığında, geçiş yapılabilecek gürültü kontrolü modlarını seç.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Tek kulaklıkla gürültü engelleme</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Tek kulaklık kullanırken gürültü engellemeyi açmaya izin ver.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Yeniden adlandır</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Sıfırla</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Yeni kulaklık adını girin</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Ad en az bir karakter içermelidir.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>İsim çok uzun.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Yeniden adlandır</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Kutu sesi seviyesi</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Şarj kutusu ses efektlerinin ses seviyesini ayarlayın.</value>
   </data>
 </root>
