@@ -59,20 +59,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>残り{0}%です。ヘッドフォンを充電してください。</value>
+    <value>残量は{0}%です。ヘッドフォンを充電してください。</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
     <value>ウィンドウを表示</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>ケースを開いたときに、iPhoneのようにポップアップウィンドウを表示します。</value>
+    <value>ケースを開いたときにiPhoneに表示されるようなポップアップを表示または非表示にします。</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>ウィンドウサイズ</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
-    <value>耳の探知</value>
+    <value>自動耳装着検出</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>両方 (音量を下げる + 再生/一時停止)</value>
@@ -87,7 +87,7 @@
     <value>変更を適用するにはアプリケーションを再起動してください。</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
-    <value>AirPodsが接続されている場合、システムトレイアイコンに左右のヘッドホンの平均充電量が表示されます。 アイコンは毎分更新されます。</value>
+    <value>接続されているヘッドフォンの平均バッテリー残量を表示します。</value>
     <comment>Changed</comment>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Description" xml:space="preserve">
@@ -118,7 +118,7 @@
     <value>警告</value>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
-    <value>ポップアップ ウィンドウ</value>
+    <value>ポップアップウィンドウ</value>
   </data>
   <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
     <value>小</value>
@@ -184,7 +184,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
-    <value>バッテリーアイコン</value>
+    <value>スタイル</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>アイコン</value>
@@ -211,7 +211,7 @@
     <value>一般設定</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>試験的機能</value>
+    <value>試験的な機能</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
     <value>閉じる</value>
@@ -275,7 +275,7 @@
     <value>無視する</value>
   </data>
   <data name="Notification_ConnectionError" xml:space="preserve">
-    <value>ヘッドフォンとの接続に失敗しました。手動で接続してみてください。</value>
+    <value>ヘッドフォンとの接続に失敗しました。手動での接続を試みてください。</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>WindowsのBluetoothデバイスリストにAirPodsを追加してください</value>
@@ -329,7 +329,7 @@
     <value>詳しく知る</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
-    <value>Voice Over 通知</value>
+    <value>VoiceOver 通知</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
     <value>AirPodsが接続され、オーディオ出力デバイスとして設定されると、VoiceOverが通知を読み上げます。</value>
@@ -338,7 +338,7 @@
     <value>設定</value>
   </data>
   <data name="Configure_VoiceOver_Header.Header" xml:space="preserve">
-    <value>Voice Overの設定</value>
+    <value>VoiceOverの設定</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseAnnouncerVoice.Header" xml:space="preserve">
     <value>声を選んでください</value>
@@ -356,7 +356,7 @@
     <value>VoiceOverが通知を読み上げるアプリケーションを選択</value>
   </data>
   <data name="Configure_VoiceOver_Setting_ChooseApps_SelectAll.Header" xml:space="preserve">
-    <value>すべての通知でVoice Overを有効にする</value>
+    <value>すべての通知でVoiceOverを有効にする</value>
   </data>
   <data name="Configure_VoiceOver_CheckBox_ChooseApps_ShowAll.Content" xml:space="preserve">
     <value>すべてのアプリケーションを表示</value>
@@ -452,7 +452,7 @@
     <value>複数接続</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>複数のヘッドフォンが接続されていますが、同時に接続できるヘッドフォンは一つのみです</value>
+    <value>複数のヘッドフォンが接続されています。同時に接続できるヘッドフォンは１つのみです</value>
   </data>
   <data name="Text_Connecting" xml:space="preserve">
     <value>接続中</value>
@@ -503,7 +503,7 @@
     <value>MagicPods 2.0 について</value>
   </data>
   <data name="Welcome_Text4.Text" xml:space="preserve">
-    <value>好みに合わせてヘッドホンを個別にカスタマイズできます</value>
+    <value>好みに合わせてヘッドフォンを個別にカスタマイズできます</value>
   </data>
   <data name="MigrateFrom1To2_Notification_Description" xml:space="preserve">
     <value>インターフェース、個別設定などを一新しました。一部の設定が変更されています。カスタマイズするには、アプリを開いてください。</value>
@@ -602,7 +602,7 @@
     <value>Bluetooth LEをサポートしているBluetoothアダプターを接続し、再起動してください</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
-    <value>Bluetoothアダプターのイニシャライズに失敗</value>
+    <value>Bluetoothアダプターの初期化エラー</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
     <value>アプリを再起動すると解決する場合があります</value>
@@ -674,10 +674,10 @@
     <value>バッテリーのパーセンテージを表示する</value>
   </data>
   <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
-    <value>試験的の機能</value>
+    <value>試験的な機能</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>ヘッドホンのハンズフリー機能（音声通話）は利用できなくなります。 ハンズフリーを手動で無効にしないでください。 アプリケーションを再起動して変更を適用します。</value>
+    <value>ヘッドフォンのハンズフリー機能（音声通話）は利用できなくなります。 ハンズフリーを手動で無効にしないでください。 アプリケーションを再起動して変更を適用します。</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
     <value>ノイズキャンセリング</value>
@@ -891,7 +891,7 @@
     <value>設定を変更する前に音楽をオンにしてください。</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Header" xml:space="preserve">
-    <value>偽AirPodsのショーウィンドウ</value>
+    <value>偽AirPodsのウインドウを表示</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopupForFakeAirPods.Description" xml:space="preserve">
     <value>偽の AirPods が Bluetooth デバイスのリストにある場合、そのポップアップ ウィンドウを表示または非表示にします。</value>
@@ -900,7 +900,7 @@
     <value>ケース音</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
-    <value>ライブ</value>
+    <value>ライブ表示</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
     <value>シネマステレオ</value>
@@ -973,28 +973,28 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
-    <value>イヤホンに少しの魔法を</value>
+    <value>あなたのヘッドホンに、ちょっとした魔法を</value>
   </data>
   <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
-    <value>鍵の購入です</value>
+    <value>キーを購入</value>
   </data>
   <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
     <value>ライセンスキーが見つかりません</value>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
-    <value>免許</value>
+    <value>ライセンス</value>
   </data>
   <data name="Support_Setting_License.HintLink" xml:space="preserve">
-    <value>キーホルダ买おう</value>
+    <value>キーを購入</value>
   </data>
   <data name="Support_Setting_License_Button.Content" xml:space="preserve">
-    <value>、エンターキー</value>
+    <value>キーを入力</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
-    <value>免許</value>
+    <value>ライセンス</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
-    <value>救う</value>
+    <value>保存</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
     <value>キャンセル</value>
@@ -1023,18 +1023,18 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
-    <value>アダプティヴ</value>
+    <value>適応型</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
-    <value>間のサイクル</value>
+    <value>切り替え</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
     <value>AirPods Maxのボタンを押すか、AirPods Proの左右のAirPodを長押しして、選択したノイズコントロールモードを切り替えます。</value>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_Adaptive.Content" xml:space="preserve">
-    <value>アダプティヴ</value>
+    <value>適応型</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
@@ -1062,7 +1062,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
-    <value>Siri (シリ)</value>
+    <value>Siri</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
@@ -1078,7 +1078,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
-    <value>フロントに戻る</value>
+    <value>後ろから前へ</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
@@ -1106,11 +1106,11 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
-    <value>常に正しいAirPod</value>
+    <value>常に右のAirPod</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
-    <value>常にAirPodを放置する</value>
+    <value>常に左のAirPod</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
@@ -1126,11 +1126,11 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>遅い</value>
+    <value>遅く</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
-    <value>遅い</value>
+    <value>最も遅く</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
@@ -1146,11 +1146,11 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
-    <value>短い</value>
+    <value>短く</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
-    <value>最短</value>
+    <value>最も短く</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
@@ -1165,7 +1165,7 @@
     <value>ヘッドフォンを管理する</value>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
-    <value>ヘッドホンが接続されている場合は、以下のオプションが適用されます。</value>
+    <value>ヘッドフォンが接続されている場合は、以下のオプションが適用されます。</value>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
     <value>オーディオが再生されていないときにAirPodsで再生される効果音の音量を調整します。「{0}」がオンになっている間は、音量は適用されません。</value>
@@ -1182,7 +1182,7 @@
     <value>ヘッドフォン</value>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
-    <value>ボイスオーバー（VoiceOver）</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>接続</value>
@@ -1263,7 +1263,7 @@
     <value>接続/切断</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
-    <value>ヘッドホンの充電が表示されない場合は、このオプションを使用します。ヘッドホンを再接続して変更を適用します。音声通話ができなくなります。</value>
+    <value>ヘッドフォンの充電が表示されない場合は、このオプションを使用します。ヘッドフォンを再接続して変更を適用します。音声通話ができなくなります。</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>キャンセル</value>
@@ -1272,16 +1272,16 @@
     <value>再起動する</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
-    <value>音声放送を支配</value>
+    <value>サウンド出力の制御</value>
   </data>
   <data name="Menu_Item7.Content" xml:space="preserve">
     <value>ホットキー</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
-    <value>不透明さ</value>
+    <value>不透明度</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Adaptive.Text" xml:space="preserve">
-    <value>アダプティヴ</value>
+    <value>適応型</value>
   </data>
   <data name="Battery_Left.Title" xml:space="preserve">
     <value>ひだり</value>
@@ -1335,7 +1335,7 @@
     <value>変更を反映するには、アプリケーションを再起動してください。</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Content" xml:space="preserve">
-    <value>アダプティヴ</value>
+    <value>適応型</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
     <value>風キャンセル</value>
@@ -1371,7 +1371,7 @@
     <value>選択した音量は接続後に適用されます。</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
-    <value>オフが有効になります</value>
+    <value>無効化</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
     <value>外部音取り込みが有効になります</value>
@@ -1419,27 +1419,96 @@
     <value>ノイズコントロール</value>
   </data>
   <data name="Headphones_Setting_Beats_CaseSounds.Header" xml:space="preserve">
-    <value>ケース音</value>
+    <value>ケースのサウンド</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>救う</value>
+    <value>保存</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
     <value>キャンセル</value>
   </data>
   <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
-    <value>耳の探知</value>
+    <value>自動耳装着検出</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>救う</value>
+    <value>保存</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
     <value>キャンセル</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.PrimaryButtonText" xml:space="preserve">
-    <value>詳しく知る</value>
+    <value>詳しくはこちら</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
-    <value>詳しく知る</value>
+    <value>詳しくはこちら</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>心拍センサーが有効になります</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>心拍数を測定するには、両方のイヤホンを装着し、センサーを有効にして、互換性のあるフィットネス機器を経由して「{0}」デバイスに接続してください。</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>有効にする</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>心拍センサー</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>センサーがオフの場合、有効化したり、データを送信したりすることはできません。</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>ヘッドフォンの名前を変更</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>新しい名前は、次回ヘッドフォンがペアリングされる際に使用されます。</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>左のイヤホンを長押し</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>右のイヤホンを長押し</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>音量を上げる</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>音量を下げる</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>ヘッドフォンのノイズコントロール</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>ヘッドフォンコントロールが「{0}」機能に設定されている場合に切り替えられるノイズコントロールモードを設定します。</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>イヤホンを１つだけ装着時にノイズキャンセリング</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>イヤホンが１つだけ耳に装着されている場合のノイズキャンセリングを有効にします。</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>名前を変更</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>リセット</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>名前を入力</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>名前は１文字以上である必要があります。</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>名前が長すぎます。</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>名前を変更</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>ケースのサウンド音量</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>充電ケースのサウンドエフェクトの音量を調整します。</value>
   </data>
 </root>
