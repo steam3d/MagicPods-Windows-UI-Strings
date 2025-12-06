@@ -85,7 +85,7 @@
     <value>Nếu cửa sổ không hiện lên hãy mở nắp hộp sạc với hai bên AirPods đặt ở bên trong và kéo thanh trượt cho đến khi cửa sổ hiện lên.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
-    <value>Hiển thị hoặc ẩn nút Kết nối khi cửa sổ pop-up mở. Nhấn vào nút sẽ kết nối với AirPods.</value>
+    <value>Hiển thị hoặc ẩn nút Kết nối khi cửa sổ nổi bật lên. Nhấn vào nút sẽ kết nối với AirPods.</value>
   </data>
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>Dựa trên sử dụng của bạn, chúng tôi khuyên cáo chỉnh thông số về {0}</value>
@@ -1404,5 +1404,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Tìm hiểu thêm</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Kích hoạt cảm biến đo nhịp tim</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Để đo nhịp tim, đeo cả 2 tai nghe, kích hoạt cảm biến và kết nối với thiết bị "{0}" thông qua thiết bị tập thể dục tương thích.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Kích hoạt</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Cảm biến đo nhịp tim</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Khi cảm biến tắt, nó không thể được kích hoạt hoặc truyền dữ liệu.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Đổi tên tai nghe</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>Tên mới sẽ được sử dụng lần tiếp theo khi tai nghe được ghép nối.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Ấn và giữ tai nghe trái</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Ấn và giữ tai nghe phải</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Tăng âm lượng</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Giảm âm lượng</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Kiểm soát tiếng ồn từ tai nghe</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Điều chỉnh các chế độ kiểm soát tiếng ồn mà bạn có thể chuyển qua lại khi điều khiển tai nghe được đặt thành chức năng "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Khử tiếng ồn bằng 1 tai nghe</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Cho phép khử tiếng ồn được bật khi chỉ sử dụng 1 tai nghe.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Đổi tên</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Đặt lại</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Nhập một cái tên</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Tên phải chứa ít nhất 1 ký tự.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>Tên quá dài.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Đổi tên</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Âm lượng vỏ tai nghe</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Điều chỉnh âm lượng hiệu ứng âm thanh khi sạc vỏ tai nghe.</value>
   </data>
 </root>
