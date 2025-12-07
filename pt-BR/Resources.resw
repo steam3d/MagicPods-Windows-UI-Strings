@@ -465,7 +465,7 @@
     <value>Tema</value>
   </data>
   <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
-    <value>Configurações da aplicação</value>
+    <value>Configurações do aplicativo</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Theme.Header" xml:space="preserve">
     <value>Tema da Janela</value>
@@ -642,16 +642,16 @@
     <value>Bluetooth Clássico não é suportado</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
-    <value>Conecte um adaptador Bluetooth com suporte ao Bluetooth LE e reinicie a aplicação</value>
+    <value>Conecte um adaptador Bluetooth com suporte ao Bluetooth LE e reinicie o aplicativo</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
-    <value>Reiniciar a aplicação pode ajudar</value>
+    <value>Reiniciar o aplicativo pode ajudar</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothNotFound_Header.Text" xml:space="preserve">
     <value>Adaptador Bluetooth não encontrado</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
-    <value>Conecte um adaptador Bluetooth com suporte ao Bluetooth Clássico e reinicie a aplicação</value>
+    <value>Conecte um adaptador Bluetooth com suporte ao Bluetooth Clássico e reinicie o aplicativo</value>
   </data>
   <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
     <value>Erro ao inicializar o adaptador Bluetooth</value>
@@ -687,7 +687,7 @@
     <value>Centro superior</value>
   </data>
   <data name="Support_Setting_Weblate.Header" xml:space="preserve">
-    <value>Traduza a aplicação</value>
+    <value>Traduza o aplicativo</value>
   </data>
   <data name="Support_Setting_Discord.Header" xml:space="preserve">
     <value>Comunidade</value>
@@ -858,7 +858,7 @@
     <value>Enviar audio de dispositivos Bluetooth para o computador. O computador funcionará como um alto falante Bluetooth.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
-    <value>A funcionalidade de mãos livres (comunicação por voz) dos fones de ouvido não estará disponível. Não desative a funcionalidade de mãos livres manualmente. Reinicie a aplicação para aplicar as mudanças.</value>
+    <value>A funcionalidade de mãos livres (comunicação por voz) dos fones de ouvido não estará disponível. Não desative a funcionalidade de mãos livres manualmente. Reinicie o aplicativo para aplicar as mudanças.</value>
   </data>
   <data name="Support_Setting_Discord.Description" xml:space="preserve">
     <value>Junte-se a nossa comunidade, indique erros e fique atualizado com novidades e discussões</value>
@@ -966,7 +966,7 @@
     <value>Som ambiente</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
-    <value>Abra as configurações do Windows na pagina Aplicação, vá para “Inicialização” e ative “{0}”.</value>
+    <value>Abra as configurações do Windows na página Aplicativos, vá até “Inicialização” e ative “{0}”.</value>
     <comment>{0} will be replaced with a name of the app</comment>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
@@ -1322,7 +1322,7 @@
     <value>Controle do Bluetooth</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Pressionando o botão cicla entre os modos de cancelamento de ruído se “{0}” está disponível nas configurações do headphone.</value>
+    <value>Pressionar o botão alterna entre os modos de cancelamento de ruído se “{0}” está disponível nas configurações do headphone.</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>Controle de saída de som</value>
@@ -1331,7 +1331,7 @@
     <value>Pular leitura</value>
   </data>
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
-    <value>Pressionando o botão irá pular a leitura da notificação atual.</value>
+    <value>Pressionar o botão pulará a leitura da notificação atual.</value>
   </data>
   <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
     <value>Conectar / Desconectar</value>
@@ -1355,7 +1355,7 @@
     <value>Ícone único de bateria</value>
   </data>
   <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
-    <value>Pressionar o botão faz o Bluetooth ligar ou desligar.</value>
+    <value>Pressionar o botão liga ou desliga o Bluetooth.</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
     <value>Opacidade</value>
@@ -1376,13 +1376,13 @@
     <value>POP</value>
   </data>
   <data name="Support_Buttons_Website.Content" xml:space="preserve">
-    <value>Sítio web</value>
+    <value>Site</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
     <value>Exibir alteração da saída de som</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
-    <value>O ícone torna-se transparente quando a saída de áudio é alterada para os alto-falantes do computador.</value>
+    <value>O ícone fica transparente quando a saída de áudio é alterada para os alto-falantes do computador.</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
     <value>Nível de carga via viva-voz</value>
