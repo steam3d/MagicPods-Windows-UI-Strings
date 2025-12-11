@@ -826,7 +826,7 @@
     <value>Sla de transparantie instellingen op in de koptelefoon zijn geheugen.</value>
   </data>
   <data name="Headphones_Setting_AutoDisableHfp.Description" xml:space="preserve">
-    <value>Zet Handsfree uit na verbinding met de koptelefoon om te voorkomen dat de koptelefoon in handsfree modus gaat. De microfoon stopt met werken. Als je de optie uit zet gaat handsfree weer aan.</value>
+    <value>Zet Handsfree uit na het verbinden met de koptelefoon om te voorkomen dat de koptelefoon in handsfree modus gaat. De microfoon stopt met werken. Als je de optie uit zet gaat handsfree weer aan.</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_Classic.Text" xml:space="preserve">
     <value>Klassiek</value>
@@ -1509,7 +1509,7 @@
     <value>Hartslagmeter</value>
   </data>
   <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
-    <value>Wanneer de sensor is uitgeschakeld, kan deze niet meer worden geactiveerd of gegevens verzenden.</value>
+    <value>Wanneer de sensor is uitgeschakeld, kan deze niet meer geactiveerd worden of gegevens verzenden.</value>
   </data>
   <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
     <value>Hoofdtelefoon hernoemen</value>
@@ -1527,7 +1527,7 @@
     <value>Volume omlaag</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
-    <value>Lawaaibeheersing van hoofdtelefoon</value>
+    <value>Ruisonderdrukking van de hoofdtelefoons</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
     <value>Hernoem</value>
@@ -1546,5 +1546,23 @@
   </data>
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
     <value>Het volume van de geluidseffecten van de oplaadcase aanpassen.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>De nieuwe naam zal de volgende keer gebruikt worden bij het verbinden van de hoofdtelefoon.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Stel de ruisonderdrukking modes in waartussen u kunt schakelen wanneer de hoofdtelefoon onderdrukking is ingesteld op de functie "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Ruisonderdrukking met één oortje</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Sta het inschakelen van ruisonderdrukking toe bij het gebruik van maar één oortje.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>De naam moet minstens één letter bevatten.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>De naam is te lang.</value>
   </data>
 </root>
