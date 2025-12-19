@@ -365,4 +365,34 @@
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
     <value>ਰੱਦ ਕਰੋ</value>
   </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>ਖੋਜ ਅਰਧ-ਵਿਆਸ — ਉਹ ਅਰਧ-ਵਿਆਸ ਜਿਸ ਦੇ ਅੰਦਰ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਖੁੱਲ੍ਹੇ AirPods ਕੇਸ ਦੀ ਖੋਜ ਕਰੇਗਾ।</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>AirPods ਦੀ ਖੋਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>ਵਿੰਡੋ ਦੀ ਸਥਿਤੀ</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>ਉੱਪਰਲਾ ਖੱਬਾ ਕੋਨਾ</value>
+  </data>
+  <data name="Settings_StyleOptions_TopRight.Text" xml:space="preserve">
+    <value>ਉੱਪਰਲਾ ਸੱਜਾ ਕੋਨਾ</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
+    <value>ਆਵਾਜ਼ ਆਉਟਪੁੱਟ ਨੂੰ ਆਪਣੇ ਆਪ ਬਦਲੋ</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
+    <value>ਜਦੋਂ ਦੋਵੇਂ AirPods ਕੰਨਾਂ ਤੋਂ ਬਾਹਰ ਹੋਣ, ਤਾਂ ਆਡੀਓ ਨੂੰ AirPods ਤੋਂ ਮੂਲ ਸਪੀਕਰਾਂ ਵੱਲ ਬਦਲੋ।</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
+    <value>ਹੋਰ ਜਾਣੋ</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>ਵੋਇਸਓਵਰ ਸੂਚਨਾਵਾਂ</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>ਜਦੋਂ ਹੈੱਡਫੋਨ ਜੁੜੇ ਹੋਣ ਅਤੇ ਆਡੀਓ ਆਉਟਪੁੱਟ ਡਿਵਾਈਸ ਵਜੋਂ ਸੈੱਟ ਕੀਤੇ ਹੋਣ, ਤਦੋਂ ਸੂਚਨਾਵਾਂ ਦਾ ਐਲਾਨ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।</value>
+  </data>
 </root>
