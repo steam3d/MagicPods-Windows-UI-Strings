@@ -1225,7 +1225,7 @@
     <value>Nie znaleziono czcionki</value>
   </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
-    <value>Asystent głosowy</value>
+    <value>VoiceOver</value>
   </data>
   <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
     <value>Słuchawki</value>
@@ -1457,5 +1457,59 @@
   </data>
   <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
     <value>Kiedy czujnik jest wyłączony, nie może być aktywowany lub przesyłać danych.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Zmień nazwę słuchawek</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>Nowa nazwa zostanie użyta przy następnym parowaniu słuchawek.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Naciśnij i przytrzymaj lewą słuchawkę</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Naciśnij i przytrzymaj prawą słuchawkę</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Zwiększ głośność</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Zmniejsz głośność</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Redukcja hałasu w słuchawkach</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Ustaw tryby kontroli hałasu, między którymi możesz przełączać się, gdy sterowanie słuchawkami jest przypisane do funkcji „{0}”.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Aktywna redukcja hałasu w jednej słuchawce</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Włącz redukcję hałasu przy użyciu jednej słuchawki.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Zmień nazwę</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Zrestartuj</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Wprowadź nazwę</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Nazwa musi zawierać przynajmniej jeden znak.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>Ta nazwa jest zbyt długa.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Zmień nazwę</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Głośność dźwięków etui ładującego</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Dostosuj głośność efektów dźwiękowych etui ładującego.</value>
   </data>
 </root>
