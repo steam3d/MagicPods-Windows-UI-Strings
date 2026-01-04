@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,265 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>Asilimia {0} imebaki. Chaji vichwa vya sauti vyako.</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>Onyo</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>Dirisha ibukizi</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>Onyesha au ficha dirisha ibukizi kama kwenye iPhone unapoifungua kipochi.</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>Ukubwa wa dirisha</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>Ndogo</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>Wastani</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>Kubwa</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
+    <value>Weka upya mipangilio</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>Utambuzi wa sikio</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>Cheza/Pauza</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>Punguza sauti</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
+    <value>Uchezaji husimama unapotoa AirPod moja, au hukoma wakati zote mbili zimeondolewa.</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>Nyingine</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
+    <value>Cheleweshaji mdogo wa sauti</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>Pata usaidizi</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
+    <value>Inasaidia unapofanya kazi katika Premiere Pro au Audition. Inahitaji kuunganisha tena AirPods baada ya kuiwasha. Inaweza kuongeza matumizi ya betri.</value>
+  </data>
+  <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
+    <value>Ripoti tatizo</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
+    <value>Kumbukumbu ya utatuzi</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
+    <value>”Hupunguza muda wa kutafuta AirPods. Iwashe ukiwa umehakikisha hakuna mtu mwingine karibu anayetumia AirPods.</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Uzinduzi</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>Endesha wakati wa kuwasha</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Washa au zima uzinduzi wa programu wakati Windows inaanza.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Uzinduzi umelemazwa na sera ya kikundi, au hauungiwi mkono kwenye kifaa hiki.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>Ikoni ya treya ya mfumo</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>Ficha ikoni</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>Anzisha tena programu ili kutumia mabadiliko.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>Huonyesha wastani wa asilimia ya betri ya vichwa vya sauti vilivyounganishwa.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>Mtindo</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Ikoni</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Maandishi</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Washa uzinduzi</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Msaada</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Toka</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Hapana</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Ndiyo</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Taarifa ya betri</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Mipangilio ya jumla</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Vipengele vya majaribio</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Toka</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Usaidizi</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Programu itafungwa na kazi zote zitazimwa.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Utoke MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Toka</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Ghairi</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>Orodha ya wachezaji wanaoungwa mkono</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>Sauti hupungua unapotoa AirPod moja sikioni mwako, au hurudi unapotoa/kuvaa AirPod zote mbili.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>Masafa ya utafutaji ya AirPods</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>Ikiwa dirisha halionekani, fungua kipochi ukiwa na AirPods ndani, kisha telezesha kielekezi upande wa kulia kwa utaratibu hadi uhuishaji uonekane.</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>Onyesha dirisha</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>Ripoti tatizo</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Kuunganisha vichwa vya sauti kumeharibika. Jaribu kuunganisha mwenyewe.</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>TumPuuzaia</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>Puuza</value>
+  </data>
+  <data name="Preferences_Header_AppSettings.Header" xml:space="preserve">
+    <value>Mipangilio ya programu</value>
+  </data>
+  <data name="SettingsApplicationItem_Button_Download.Content" xml:space="preserve">
+    <value>Pakua</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Description.Text" xml:space="preserve">
+    <value>Washa Bluetooth ili kuonyesha vichwa vya sauti</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothOff_Button.Content" xml:space="preserve">
+    <value>Mipangilio ya Bluetooth</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
+    <value>Hakuna vichwa vya sauti vilivyoanishwa</value>
+  </data>
+  <data name="Headphones_HelpMessage_NoPairedHeadphones_Description.Text" xml:space="preserve">
+    <value>‘Oanisha vichwa vya sauti na kompyuta kisha anzisha tena programu</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Header.Text" xml:space="preserve">
+    <value>Jinsi ya kuoanisha vichwa vya sauti</value>
+  </data>
+  <data name="Menu_Item5.Content" xml:space="preserve">
+    <value>Bluetooth LE haiungwi mkono</value>
+  </data>
+  <data name="Menu_Item6.Content" xml:space="preserve">
+    <value>Vichwa vya sauti</value>
+  </data>
+  <data name="Support_DeveloperApps_Header.Header" xml:space="preserve">
+    <value>Mapendeleo</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_MagicSelect.Description" xml:space="preserve">
+    <value>Programu za watengenezaji wengine</value>
+  </data>
+  <data name="Support_About_ApplicationSetting_YAD.Description" xml:space="preserve">
+    <value>Kimbia, ruka na epuka katika mchezo hatari wa adventure</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Header.Text" xml:space="preserve">
+    <value>Tafsiri, hariri au ongeza lugha mpya</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothClassicNotSupported_Description.Text" xml:space="preserve">
+    <value>Bluetooth Classic haiungwi mkono</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothLeNotSupported_Description.Text" xml:space="preserve">
+    <value>Unganisha adapta ya Bluetooth yenye uungaji mkono wa Bluetooth Classic na anzisha tena programu</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Header.Text" xml:space="preserve">
+    <value>Unganisha adapta ya Bluetooth yenye uungaji mkono wa Bluetooth LE na anzisha tena programu</value>
+  </data>
+  <data name="Headphones_HelpMessage_BluetoothInitializationError_Description.Text" xml:space="preserve">
+    <value>Hitilafu ya uanzishaji wa adapta ya Bluetooth</value>
+  </data>
+  <data name="Settings_AudioStreaming_Setting_StreamingDevice.Description" xml:space="preserve">
+    <value>Tiririsha sauti kutoka kwa vifaa vya Bluetooth hadi kwenye PC. PC inafanya kazi kama spika ya Bluetooth.</value>
+  </data>
+  <data name="Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Jumuiya</value>
+  </data>
+  <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
+    <value>Utiririshaji wa sauti</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
+    <value>Udhibiti wa kelele (ANC/Tran.)</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EMP_Item_MultipointMode.Text" xml:space="preserve">
+    <value>Hali ya multipoint</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
+    <value>Weka AirPods kwenye kipochi, fungua kifuniko kisha bonyeza kitufe kwa takriban sekunde 10.</value>
+  </data>
+  <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Ghairi</value>
+  </data>
+  <data name="Preferences_Setting_Updates.Header" xml:space="preserve">
+    <value>Angalia masasisho</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
+    <value>Kughairi kelele</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Transparency.Text" xml:space="preserve">
+    <value>Uwazi</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Adaptive.Text" xml:space="preserve">
+    <value>Inayobadilika</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl_Item_Off.Text" xml:space="preserve">
+    <value>Zima</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
+    <value>Badilisha kati ya</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
+    <value>Bonyeza kitufe kwenye AirPods Max au bonyeza na ushikilie AirPod ya kushoto au ya kulia kwenye AirPods Pro ili kubadilisha kati ya modi za udhibiti wa kelele zilizochaguliwa.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
+    <value>Kughairi kelele</value>
+  </data>
+  <data name="Headphones_Setting_Aap_CycleBetween_Item_Transparency.Content" xml:space="preserve">
+    <value>Uwazi</value>
+  </data>
 </root>
