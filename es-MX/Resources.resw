@@ -1303,7 +1303,7 @@
     <value>Adaptativo</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
-    <value>Reiniciar la necesidad</value>
+    <value>Reinicio requerido</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.Content" xml:space="preserve">
     <value>Reinicia la aplicación para aplicar los cambios.</value>
@@ -1408,10 +1408,10 @@
     <value>Activar cancelación de ruido</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
-    <value>Activa adaptivo</value>
+    <value>Activar modo adaptivo</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
-    <value>Volumen de conciencia de conversation</value>
+    <value>Volumen de conciencia de conversación</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
     <value>El volumen será reducido al volumen seleccionado cuando el elemento esté activo.</value>
@@ -1420,13 +1420,13 @@
     <value>Volumen de detection de oreja</value>
   </data>
   <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
-    <value>Volumen default</value>
+    <value>Volumen por defecto</value>
   </data>
   <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
-    <value>El volumen seleccionado sera applicado despues de connexión.</value>
+    <value>El volumen seleccionado será aplicado despues de la conexión.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
-    <value>Apaga activatión</value>
+    <value>Activar apagado</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
     <value>El volumen será reducido al volumen seleccionado cuando el elemento esté activo.</value>
@@ -1453,7 +1453,7 @@
     <value>Sonidos del estuche</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Salvar</value>
+    <value>Guardar</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
     <value>Cancelar</value>
@@ -1462,7 +1462,7 @@
     <value>Detección de oido</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Salvar</value>
+    <value>Guardar</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
     <value>Cancelar</value>
@@ -1514,5 +1514,53 @@
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
     <value>Bajar volumen</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Presiona la tecla de acceso rápido "{0}" para cambiar entre los modos de control de ruido seleccionados.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Activar monitor de ritmo cardíaco</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Para medir tu ritmo cardíaco, usa ambos audífonos, activa el sensor, y conecta al dispositivo "{0}" através de equipos de ejercicio compatibles.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Comportamiento de ciertas funciones con el chip h2</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Control de ruido de los audífonos</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Cambia los modos de control de ruido entre los que puedes cambiar cuando el control del audífono está puesto en la función "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Cancelación de ruido con un audífono</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Permitir la activación de cancelación de ruido cuando solo se usa un audífono.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Renombrar</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Resetear</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Ingrese un nombre</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>El nombre debe contener al menos un carácter.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>El nombre es demasiado largo.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Renombrar</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Volumen de sonidos del estuche</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Ajustar el volumen de los sonidos de carga del estuche.</value>
   </data>
 </root>
