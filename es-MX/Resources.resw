@@ -1432,10 +1432,10 @@
     <value>El volumen será reducido al volumen seleccionado cuando el elemento esté activo.</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
-    <value>Activa transparencia</value>
+    <value>Activar transparencia</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
-    <value>Activa cancelacion de viento</value>
+    <value>Activar cancelación de viento</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
     <value>Aprende mas</value>
@@ -1562,5 +1562,8 @@
   </data>
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
     <value>Ajustar el volumen de los sonidos de carga del estuche.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Cambiar con la tecla de acceso rápido</value>
   </data>
 </root>
