@@ -64,4 +64,235 @@
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>MagicPodsتىن چىقىش؟</value>
   </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>ئاگاھلاندۇرۇش</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>تىزىملىكنى ئېچىڭ</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>كۆزنەكلەرنى كۆرسىتىڭ</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>دېلونى ئاچقاندا iPhone غا ئوخشاش قاڭقىش كۆزنىكىنى كۆرسەت ياكى يوشۇرۇش.</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>كۆزنەك چوڭلۇقى</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>كىچىك</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>ئوتتۇراھال</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>چوڭ</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>تەڭشەكلەرنى ئەسلىگە كەلتۈرۈش</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
+    <value>قۇلاق بايقاش</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>ئويناش/توختاپ قېلىش</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>ھەجىمى تۆۋەنلەش</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>ھەر ئىككىسى (ھەجىمىنى تۆۋەنلىتىش + قويۇش/توختاپ قېلىش)</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
+    <value>ھەر ئىككىسى چىقىرىۋېتىلگەندە بىر AirPod ئېلىۋېتىلگەندە ياكى توختاپ قالغاندا قويۇش توختايدۇ.</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>باشقا</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
+    <value>تۆۋەن ئاۋازنىڭ كېچىكىشى</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
+    <value>Premiere Pro ياكى Audition دا ئىشلىگەندە پايدىلىق. ئېچىلغاندىن كېيىن AirPods نى قايتا ئۇلاشنى تەلەپ قىلىدۇ. ئۇ باتارېيە سەرپىياتىنى ئاشۇرۇشى مۇمكىن.</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>ياردەمگە ئېرىشىڭ</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>دوكلات مەسىلىسى</value>
+  </data>
+  <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
+    <value>قەرز خاتىرىسى</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
+    <value>تېز ئىزدەش</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
+    <value>AirPods نىڭ ئىزدەش ۋاقتىنى قىسقارتىدۇ. ئەتراپىڭىزدىكى ھېچكىمنىڭ AirPods نى ئىشلەتمەيدىغانلىقىنى جەزملەشتۈرگەندە ئۇنى ئېچىڭ.</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>ئىگىلىك تىكلەش</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>ئىگىلىك تىكلەشتە ئىجرا قىلىڭ</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Windows دا پروگراممىنىڭ قوزغىتىلىشىنى قوزغىتىش ياكى چەكلەش.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>گۇرۇپپا سىياسىتى ئارقىلىق قوزغىتىش چەكلەنگەن ياكى بۇ ئۈسكۈنىدە قوللىمىغان.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>سىستېما تەخسە سىنبەلگىسى</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>سىنبەلگىنى يوشۇر</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>ئۆزگەرتىش ئۈچۈن ئىلتىماسنى قايتا قوزغىتىڭ.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>باتارېيە نىسبىتىنى كۆرسىتىڭ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>ئۇلانغان تىڭشىغۇچنىڭ ئوتتۇرىچە باتارېيە نىسبىتىنى كۆرسىتىدۇ.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>ئۇسلۇب</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>سىنبەلگە</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>تېكىست</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>قوزغىتىش</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>چىقىش</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>ياردەم</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>ياق</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>ھەئە</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>باتارېيە ئۇچۇرى</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>ئادەتتىكى تەڭشەكلەر</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>تەجرىبە ئالاھىدىلىكى</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>چىقىش</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>قوللاش</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>پروگرامما تاقىلىدۇ ۋە بارلىق ئىقتىدارلار چەكلىنىدۇ.</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>چىقىش</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>ئەمەلدىن قالدۇرۇڭ</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>قۇلىقىڭىزدىن بىر AirPods نى ئېلىۋەتكەندە ياكى AirPods نى ئېلىۋەتكەندە/قويغاندا ئەسلىگە كەلسىڭىز ئاۋاز تۆۋەنلەيدۇ.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>قوللايدىغان توپچىلارنىڭ تىزىملىكى</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>AirPods ئىزدەش رادىئوسى</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>ئەگەر كۆزنەك كۆرۈنمىسە، AirPods بىلەن قاپنى ئېچىپ، كارتون كۆرۈنمىگۈچە سىيرىلغۇچنى ئوڭ تەرەپكە ئوڭۇشلۇق سىيرىڭ.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
+    <value>ئىزدەش رادىئوسى دېگەن نېمە؟</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>تەكلىپ</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>كارتون ئېھتىياتسىزلىقتىن كۆرۈنگەچكە، 65 دىن يۇقىرى قىممەت بەلگىلىمەڭ.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>"ئۇلىنىش" كۇنۇپكىسىنى كۆرسىتىڭ</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>كۆزنەكتىكى "ئۇلىنىش" كۇنۇپكىسىنى كۆرسەت ياكى يوشۇرۇش. كۇنۇپكىنى باسسىڭىز AirPods ئۇلىنىدۇ.</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
+    <value>ئاپتوماتىك ئۇلىنىش</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
+    <value>ئوڭ ياكى سول AirPods نى دېلودىن چىقارغاندا ئاپتوماتىك ھالدا AirPods غا ئۇلىنىڭ.</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>ئاپتوماتىك ئويناش</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>تىڭشىغۇچنى ئۇلىغاندىن كېيىن "قويۇش" بۇيرۇقىنى ئەۋەتىڭ. ئەگەر ئوچۇق قويغۇچ بولمىسا Windows بۇيرۇققا پەرۋا قىلمايدۇ.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>بارلىق تەڭشەكلەر ئەسلىگە كېلىدۇ. داۋاملاشتۇرۇشنى خالامسىز؟</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>ھەئە، تەڭشەكلەرنى ئەسلىگە كەلتۈرۈڭ</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>تەكلىپ</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>ئىشلىتىلىشىڭىزگە ئاساسەن، قىممىتىنى {0} قىلىپ تەڭشەشنى تەۋسىيە قىلىمىز</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>ئىلتىماس قىلىڭ</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>پەرۋا قىلمايدۇ</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>تىڭشىغۇچقا ئۇلىنىش مەغلۇپ بولدى. قولدا ئۇلىنىشقا تىرىشىڭ.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
+    <value>قۇلاقتىكى بىر AirPods نى ئېلىۋەتكەندە ياكى توختاپ، AirPods نى ئېلىۋەتكەندە ئاۋاز ئەسلىگە كېلىدۇ.</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Windows كۆك چىش ئۈسكۈنىلىرى تىزىملىكىگە AirPods نى قوشۇڭ</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods كۆپىنچە AirPods ۋە Beats تىڭشىغۇچنى قوللايدۇ</value>
+  </data>
+  <data name="Welcome_Text3.Text" xml:space="preserve">
+    <value>AirPods قېپىڭىزنى كومپيۇتېرىڭىزغا يېقىنراق ئېلىپ كېلىپ ئېچىڭ</value>
+  </data>
+  <data name="Welcome_Button1.Content" xml:space="preserve">
+    <value>كېيىنكى</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help.Text" xml:space="preserve">
+    <value>ئىزدەش رادىئوسى - كومپيۇتېرىڭىز ئوچۇق AirPods قېپىنى ئىزدەيدىغان رادىئو.</value>
+  </data>
+  <data name="Settings_Popup_Dialog_SearchRadius_Help_Button_Close.Content" xml:space="preserve">
+    <value>تاقاش</value>
+  </data>
+  <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
+    <value>AirPods نى ئىزدەش</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Position.Header" xml:space="preserve">
+    <value>كۆزنەك ئورنى</value>
+  </data>
+  <data name="Settings_StyleOptions_TopLeft.Text" xml:space="preserve">
+    <value>سول ئۈستى بۇلۇڭ</value>
+  </data>
 </root>
