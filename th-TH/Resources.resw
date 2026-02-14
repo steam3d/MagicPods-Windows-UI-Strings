@@ -1038,7 +1038,7 @@
     <value>หูฟัง</value>
   </data>
   <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
-    <value>เสียงออก</value>
+    <value>เอาต์พุตเสียง</value>
   </data>
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
     <value>หูฟัง</value>
@@ -1047,7 +1047,7 @@
     <value>ผสมผสาน</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
-    <value>รับฟังเสียงพูดคุย</value>
+    <value>รับรู้เมื่อมีการสนทนา</value>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
     <value>ลดเสียงและการตัดเสียงรบกวนเมื่อเริ่มสนทนา</value>
@@ -1140,7 +1140,7 @@
     <value>สั้น</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
-    <value>การกดปุ่มลูกศรจะเปลี่ยนแหล่งเสียงตามลำดับ</value>
+    <value>ใช้ปุ่มลัดเพื่อปรับเปลี่ยนเอาต์พุตเสียงตามลำดับ</value>
   </data>
   <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
     <value>ตัดการเชื่อมต่อ</value>
@@ -1189,5 +1189,137 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>เรียนรู้เพิ่มเติม</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>อัตโนมัติ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>AirPod ข้างขวาเสมอ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>AirPod ข้างซ้ายเสมอ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>ปรับความเร็วในการกดสองครั้งหรือสามครั้งบน AirPods ของคุณ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>ค่าเริ่มต้น</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>ช้าที่สุด</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>ระยะเวลาการกดค้าง</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>ปรับระยะเวลาการกดค้างบน AirPods ของคุณ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>ค่าเริ่มต้น</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>สั้นที่สุด</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>การตัดเสียงรบกวนกับ AirPod หนึ่งข้าง</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>อนุญาตให้ AirPods อยู่ในโหมดการตัดเสียงรบกวนเมื่อมี AirPod อยู่ในหูของคุณหนึ่งข้างเท่านั้น</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>ระดับสัญญาณเสียง</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
+    <value>ปรับระดับสัญญาณเสียงของเอฟเฟ็กต์เสียงที่เล่นโดย AirPods หาก"{0}"กำลังเปิดใช้งานอยู่ ระดับสัญญาณเสียงที่ปรับไว้จะไม่ถูกปรับตาม</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>ตั้งค่าหูฟัง</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
+    <value>เมื่อหูฟังเชื่อมต่อกับอุปกรณ์แล้ว ตัวเลือกด้านล่างจะถูกปรับใช้งาน</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>ธีมสว่าง</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>ธีมมืด</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>ฟอนต์</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>ขนาดตัวอักษร</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>สีตัวอักษร</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>สีตัวอักษรขณะชาร์จแบตเตอรี่</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>สีตัวอักษรขณะแบตเตอรี่ต่ำ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>ธีมสว่าง</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>ธีมมืด</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>สีไอคอน</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>สีบอกสถานะ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>สีบอกสถานะขณะชาร์จแบตเตอรี่</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>สีบอกสถานะขณะแบตเตอรี่ต่ำ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>ไม่พบฟอนต์</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>บลูทูธ</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>ปรับบลูทูธ</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>ใช้ปุ่มลัดเพื่อเปิด-ปิด บลูทูธ</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>ใช้ปุ่มลัดเพื่อเปลี่ยนโหมดตัดเสียงรบกวนตามลำดับ ถ้า "{0}" มีให้ปรับใช้ในการตั้งค่าหูฟัง</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>ปรับเอาต์พุตเสียง</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>ข้ามการอ่าน</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>ใช้ปุ่มลัดเพื่อข้ามการอ่านแจ้งเตือนปัจจุบัน</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>เชื่อมต่อ / ตัดการเชื่อมต่อ</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>อุปกรณ์สตรีมมิ่ง</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>ค้นหาตามชื่อ</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>เพื่อให้อุปกรณ์แสดงขึ้น กรุณาเปิดบลูทูธแล้วรอสักครู่</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>ปุ่มลัด</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>ป๊อป</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>เว็บไซต์</value>
   </data>
 </root>
