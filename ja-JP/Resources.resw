@@ -845,13 +845,13 @@
     <value>偽のヘッドフォンにタグを付ける</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning.Header" xml:space="preserve">
-    <value>偽物のヘッドフォンかもしれない</value>
+    <value>正規品でない可能性があります</value>
   </data>
   <data name="Headphones_Setting_Airoha_FactoryReset.Description" xml:space="preserve">
     <value>AirPodsをケースに入れて蓋を開け、ボタンを10秒ほど押します。</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
-    <value>風キャンセル</value>
+    <value>風ノイズ低減</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>周囲の音</value>
@@ -1042,7 +1042,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
-    <value>メディアの音量を下げ、他の人と話し始めるときのバックグラウンドノイズを減らします。</value>
+    <value>会話を始めると、メディアの音量を下げ、周囲のノイズを抑えます。</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
@@ -1203,7 +1203,7 @@
     <value>テキストカラー</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
-    <value>インジゲーターカラー</value>
+    <value>インジケーター色</value>
   </data>
   <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
     <value>１つのAirPodによるノイズキャンセリング</value>
@@ -1236,10 +1236,10 @@
     <value>フォントサイズ</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
-    <value>バッテリーチャージ時のテキストカラー</value>
+    <value>充電中のテキスト色</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
-    <value>バッテリー残量が少ない時のテキストカラー</value>
+    <value>残量少なめ時のテキスト色</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
     <value>ライトテーマ</value>
@@ -1248,7 +1248,7 @@
     <value>ダークテーマ</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
-    <value>アイコンカラー</value>
+    <value>アイコン色</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
     <value>バッテリー充電時のインジケーターの色</value>
@@ -1323,7 +1323,7 @@
     <value>ハンズフリーでバッテリー残量を確認</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
-    <value>単一バッテリーアイコン</value>
+    <value>バッテリーアイコン（1個表示）</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
     <value>音声出力をイヤホンに切り替え</value>
@@ -1338,7 +1338,7 @@
     <value>適応型</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
-    <value>風キャンセル</value>
+    <value>風ノイズ低減</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>ノイズキャンセリング</value>
@@ -1380,7 +1380,7 @@
     <value>適応型オーディオが有効になります</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
-    <value>風キャンセルが有効になります</value>
+    <value>風ノイズ低減が有効になります</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
     <value>ノイズキャンセリングが有効になります</value>
