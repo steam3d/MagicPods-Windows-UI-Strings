@@ -95,7 +95,7 @@
     <value>Նվագարկել/Դադար</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
-    <value>Դուրս գա՞լ MagicPods-ից։</value>
+    <value>Շարունակել MagicPods?</value>
   </data>
   <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
     <value>Նվագարկումը դադարեցվում է, երբ հանվում է մեկ AirPod-ը, կամ կանգ է առնում, երբ հանվում են երկուսն էլ։</value>
@@ -144,5 +144,134 @@
   </data>
   <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
     <value>Ականջի հայտնաբերում</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
+    <value>Արագ որոնում</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
+    <value>Փնտրման ժամանակը AirPods-ների համար կրճատում է։ Միացրեք այն, երբ համոզված եք, որ շրջապատում ոչ ոք այլ AirPods չի օգտագործում։</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>Սթարթափ</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>Սկսել գործարկման ժամանակ</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Ակտիվացնել կամ անջատել հավելվածի գործարկումը Windows-ի մեկնարկի ժամանակ։</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>Ստարտափը խմբային քաղաքականությամբ անջատված է կամ այս սարքում չի աջակցվում։</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>Ծանուցումների տողի պատկերակ</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>Նշան թաքցնել</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>Փոխումները կիրառելու համար վերագործարկեք հավելվածը։</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>Ցուցադրել մարտկոցի տոկոսը</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>Ցուցադրում է միացված ականջակալների մարտկոցի միջին տոկոսը։</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>ոճ</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>Նշան</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>Տեքստ</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>Ակտիվացնել մեկնարկը</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>Ելք</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>Օգնություն</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>Ոչ</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>Այո</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>Մարտկոցի տեղեկություններ</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>Ընդհանուր կարգավորումներ</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Փորձարկման առանձնահատկություններ</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>Ելք</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Աջակցություն</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Դիմումը կփակվի և բոլոր ֆունկցիաները անջատված կլինեն։</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>Ելք</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Չեղարկել</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>Երբ ականջից հանում եք մեկ AirPods, ձայնի բարձրությունը նվազում է, իսկ երբ հանում կամ դնում եք երկու AirPods-ները, այն վերականգնվում է։</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>Աջակցվող նվագարկիչների ցանկ</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>AirPods-ների որոնման շառավիղ</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>Եթե պատուհանը չի երևում բաց, դրեք AirPods-ները ներսում և հարթ քաշեք սլայդերը աջ, մինչև հայտնվի անիմացիան։</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
+    <value>Ի՞նչ է որոնման շառավիղը։</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Խորհուրդ</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Մի սահմանեք 65-ից մեծ արժեք, քանի որ անիմացիան կարող է պատահաբար հայտնվել։</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>Ցուցադրել «Միացնել» կոճակը</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>Ցուցադրել կամ թաքցնել «Միացնել» կոճակը պոպ-ափ պատուհանում։ Կոճակը սեղմելիս կմիացվեն AirPods-ները։</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
+    <value>Ավտոմատ միացում</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
+    <value>Ավտոմատ կերպով միացրեք AirPods-ները, երբ աջ կամ ձախ AirPod-ը հանեք պատյանից։</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
+    <value>Քամու աղմուկի նվազեցում</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
+    <value>Փոփոխությունները կիրառելու համար անհրաժեշտ է AirPods-ները վերականգնել գործարանային կարգավորումներին։</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Header" xml:space="preserve">
+    <value>Քամու աղմուկի նվազեցման զգայունություն</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity.Description" xml:space="preserve">
+    <value>Փոփոխությունները կիրառելու համար անհրաժեշտ է AirPods-ները վերականգնել գործարանային կարգավորումներին։</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
+    <value>Ցածր</value>
   </data>
 </root>
