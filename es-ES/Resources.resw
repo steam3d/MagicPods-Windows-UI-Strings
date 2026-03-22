@@ -92,7 +92,7 @@
     <value>Bajar volumen</value>
   </data>
   <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
-    <value>La reproducción se pausa cuando se quita uno de los AirPods o se detiene cuando se quitan los dos.</value>
+    <value>La reproducción se pausa cuando se quita uno de los AirPods o se detiene cuando se quitan ambas.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Otro</value>
@@ -119,7 +119,7 @@
     <value>Arranque en el inicio</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Inicio deshabilitado por la política de grupo, o no está soportado en este dispositivo.</value>
+    <value>Arranque deshabilitado por la política de grupo, o no está soportado en este dispositivo.</value>
   </data>
   <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
     <value>Esconder icono</value>
@@ -623,7 +623,7 @@
     <value>No hay dispositivos emparejados o Bluetooth desactivado</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_StreamingDevice.Header" xml:space="preserve">
-    <value>Dispositivo de streaming</value>
+    <value>Dispositivo de transmisión</value>
   </data>
   <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
     <value>Salida de sonido</value>
@@ -1498,7 +1498,7 @@
     <value>Restablecer</value>
   </data>
   <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
-    <value>Permitir que se active la cancelación de ruido cuando solo se use un auricular.</value>
+    <value>Permitir que la cancelación de ruido se active cuando solo se utilice un auricular.</value>
   </data>
   <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
     <value>Cancelación de ruido con un auricular</value>
