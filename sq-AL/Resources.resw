@@ -84,7 +84,7 @@
     <value>E mesme</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>Play/Pause</value>
+    <value>Luaj/Pauzo</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>Të dyja (Ul volumin + Play/Pause)</value>
@@ -610,7 +610,7 @@
     <value>Lidh çelësin e nxehtë</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
-    <value>Change image</value>
+    <value>Ndrysho imazhin</value>
   </data>
   <data name="Headphones_Image_RestoreImage.Text" xml:space="preserve">
     <value>Rivendos imazhin</value>
@@ -832,10 +832,10 @@
     <value>Modaliteti me shumë pika</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP_Item_NormalMode.Text" xml:space="preserve">
-    <value>Mënyra normale</value>
+    <value>Modaliteti normal</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction.Header" xml:space="preserve">
-    <value>Mënyra normale</value>
+    <value>Reduktimi i zhurmës së erës</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction.Description" xml:space="preserve">
     <value>Kërkohet rivendosja e cilësimeve të fabrikës së AirPods për të aplikuar.</value>
@@ -1252,7 +1252,7 @@
     <value>Për të shfaqur pajisjet, aktivizoni Bluetooth-in, prisni që të ngarkohen kufjet</value>
   </data>
   <data name="Menu_Item7.Content" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>Tastet e shkurtra</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
     <value>Niveli i karikimit nëpërmjet Handsfree</value>
@@ -1400,5 +1400,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Mësoni më shumë</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Aktivizo sensorin e rrahjeve të zemrës</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Për të matur ritmin e zemrës, vishni të dy kufjet, aktivizoni sensorin dhe lidheni me pajisjen "{0}" përmes pajisjeve të përshtatshme të fitnesit.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Aktivizo</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Sensor i ritmit të zemrës</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Kur sensori fiket, ai nuk mund të aktivizohet ose të transmetojë të dhëna.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Riemërto kufjet</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>Emri i ri do të përdoret herën tjetër kur kufjet lidhen.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Shtyp dhe mbaj dëgjuesin e majtë</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Shtyp dhe mbaj dëgjuesin e djathtë</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Rrit volum</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Zvogëlo volumin</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Kontrolli i zhurmës nga kufjet</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Vendosni mënyrat e kontrollit të zhurmës ndërmjet të cilave mund të kaloni kur kontrolli i kufjeve është vendosur në funksionin "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Anulimi i zhurmës me një kufje</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Lejo që anulimi i zhurmës të aktivizohet kur përdoret vetëm një kufje.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Riemërto</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Rivendos</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Shkruaj një emër</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Emri duhet të përmbajë të paktën një karakter.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>Emri është tepër i gjatë.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Riemërto</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Volumi i tingullit të kutisë</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Rregullo volumin e efekteve zanore të kutisë së karikimit.</value>
   </data>
 </root>
