@@ -765,7 +765,7 @@
     <value>Det kan hjælpe at genstarte appen</value>
   </data>
   <data name="Settings_AudioStreaming_Header.Header" xml:space="preserve">
-    <value>Audio streaming</value>
+    <value>Lydstreaming</value>
   </data>
   <data name="Settings_AudioStreaming_Setting_AutoMute.Header" xml:space="preserve">
     <value>Automatisk lydløs</value>
@@ -1059,7 +1059,7 @@
     <value>Deaktiver automatisk håndfri-funktionen</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ.Header" xml:space="preserve">
-    <value>Equalizer</value>
+    <value>Ligevægt</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ.Description" xml:space="preserve">
     <value>Tænd for musikken, før du ændrer indstillingen.</value>
@@ -1068,7 +1068,7 @@
     <value>Etui-lyde</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_LiveShow.Text" xml:space="preserve">
-    <value>Live show</value>
+    <value>Live-show</value>
   </data>
   <data name="Headphones_Setting_Airoha_EQ_Item_CinemaStereo.Text" xml:space="preserve">
     <value>Biografstereo</value>
@@ -1408,5 +1408,71 @@
   </data>
   <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
     <value>Aktivér hjertesensor</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>For at måle din hjertefrekvens skal du bære begge øretelefoner, aktivere sensoren og forbinde til "{0}"-enheden gennem kompatibelt fitnessudstyr.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Aktivér</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Pulsmåler</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Når sensoren er slukket, kan den ikke aktiveres eller sende data.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Omdøb hovedtelefoner</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>Det nye navn vil blive brugt næste gang hovedtelefonerne parres.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Tryk og hold den venstre øreprop</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Tryk og hold den højre øreprop</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Skru op for lyden</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Lydstyrke ned</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Støjkontrol fra hovedtelefoner</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Indstil de støjkontroltilstande, du kan skifte mellem, når hovedtelefonkontrollen er indstillet til funktionen "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Støjdæmpning med ét øreprop</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Tillad, at støjreduktion kan aktiveres, når kun ét øreprop er i brug.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Omdøb</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Nulstil</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Indtast et navn</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Navnet skal indeholde mindst ét tegn.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>Navnet er for langt.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Omdøb</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Kassedæksel lydstyrke</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Justér lydstyrken på lydeffekterne fra opladningsetuiet.</value>
   </data>
 </root>
