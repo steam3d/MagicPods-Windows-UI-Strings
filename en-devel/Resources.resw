@@ -1510,7 +1510,7 @@
     <value>Wireless bluetooth connecton</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
-    <value>Choose your own hotkey to cycle through the noise cancellation mode of your headphones if applicable</value>
+    <value>Executing the hotkey iterates through ANC state machine profiles, contingent on the availability of "{0}" within the device configuration.</value>
   </data>
   <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
     <value>Stop the narrator from reading aloud notifications</value>
@@ -1520,5 +1520,92 @@
   </data>
   <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
     <value>Connecting and Disconnecting</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_StageRhythm.Text" xml:space="preserve">
+    <value>Dynamic audio-visual synchronization profile</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Bluetooth stack management and peripheral connectivity interface</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Executing the designated hotkey toggles the power state of the Bluetooth radio.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Audio endpoint routing and output device management</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Network-attached media renderers and cast endpoints</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Filter peripheral list by string matching on device identifiers</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Enable Bluetooth stack and await population of peripheral device cache</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Configurable keyboard shortcuts and input triggers</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Battery state-of-charge reporting via HFP profile</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Enable HFP-based battery reporting if standard GATT services fail. Requires device re-enumeration to propagate changes. Note: This locks the SCO channel, disabling bidirectional voice transport.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Unified power state indicator</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Redirect audio stream to primary Bluetooth endpoint</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Enforce audio endpoint redirection to the peripheral upon successful handshake. This logic is bypassed if the "{0}" flag is active.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Notify on audio endpoint transition</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Reduce opacity of the system tray icon when the default audio endpoint is set to the internal speaker bus.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Alpha channel transparency level</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Process reboot mandated for state persistence</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>Popular music frequency response preset</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>External domain documentation and resource landing page</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Voice-trigger attenuation threshold and gain control</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Attenuate output gain to the predefined decibel offset during active voice-detection triggers.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Proximity-triggered playback gain and attenuation</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Apply gain reduction to the specified level when proximity sensor state indicates device removal.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Initial gain stage for primary audio sink</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Initialize output gain to the predefined decibel level upon successful device pairing and stream establishment.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Set ANC state to disabled</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Executing the hotkey triggers the 'OFF' state transition, contingent on "{0}" presence and firmware-level support for ANC bypass.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Enable ambient pass-through mode</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Executing the hotkey triggers the 'Transparency' state transition, contingent on "{0}" availability and firmware-level support for ambient bypass.</value>
   </data>
 </root>
