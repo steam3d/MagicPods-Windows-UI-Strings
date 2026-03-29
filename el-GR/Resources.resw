@@ -344,7 +344,7 @@
     <value>Εμφάνιση ή κρύψιμο του κουμπιού &lt;&lt;Σύνδεση&gt;&gt; σε αναδυόμενο παράθυρο. Πατώντας του κουμπί θα γίνει σύνδεση με τα AirPods.</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Εκκινεί την αναπαραγωγή μόλις συνδεθούν τα AirPods. Εάν δεν υπάρχουν ανοιχτά παράθυρα αναπαραγωγής, δεν θα γίνει τίποτα.</value>
+    <value>Στείλτε την εντολή «Αναπαραγωγή» μετά τη σύνδεση των ακουστικών. Αν δεν υπάρχουν ανοιχτά προγράμματα αναπαραγωγής, τα Windows θα αγνοήσουν την εντολή.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
     <value>Θα γίνει επαναφορά όλων των ρυθμίσεων. Θέλετε να συνεχίσετε;</value>
@@ -1274,5 +1274,242 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Μάθετε περισσότερα</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>Λευκό Θέμα</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>Σκούρο Θέμα</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>Γραμματοσειρά</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>Μέγεθος Γραμματοσειράς</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Χρώμα γραμμάτων</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Χρώμα γραμμάτων όταν φορτίζει η μπαταρία</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Χρώμα γραμμάτων όταν η μπαταρία είναι λίγη</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>Λευκό Θέμα</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Σκούρο Θέμα</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Χρώμα εικονιδίου</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Χρώμα δείκτη</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Χρώμα δείκτη όταν η μπαταρία φορτίζει</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Χρώμα δείκτη όταν η μπαταρία είναι λίγη</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>Η γραμματοσειρά δεν βρέθηκε</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>Έλεγχος Bluetooth</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>Πατώντας το πλήκτρο συντόμευσης, το Bluetooth ενεργοποιείται ή απενεργοποιείται.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>Πατώντας το πλήκτρο συντόμευσης. εναλλάσονται οι λειτουργίες ακύρωσης θορύβου εάν "{0}" είναι διαθέσιμο στις ρυθμίσεις των ακουστικών.</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>Έλεγχος εξόδου ήχου</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>Παράλειψη ανάγνωσης</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>Πατώντας το πλήκτρο συντόμευσης η ανάγνωση παραλείπεται για την συγκεκριμένη ειδοποίηση.</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>Σύνδεση / Αποσύνδεση</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>Συσκευές Streaming</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>Αναζήτηση με όνομα</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>Για να εμφανιστούν συσκευές, ενεργοποιήστε το , αναμένετε να φορτώσουν τα ακουστικά</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>Πλήκτρα Συντόμευσης</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>Επίπεδο φόρτωσης μέσω Handsfree</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>Χρησιμοποιείστε αυτή την επιλογή εαν η φόρτιση των ακουστικών δεν εμφανίζεται. Ξανασυνδέστε τα ακουστικά για να εφαρμόσετε τις αλλαγές. Η φωνητική επικοινωνία δεν θα είναι διαθέσιμη.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>Μονό εικονίδιο μπαταρίας</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>Αλλαγή εξόδου ήχου στα ακουστικά</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>Αναγκάστε την έξοδο ήχου να αλλάξει στα ακουστικά μετά την σύνδεση. Αυτή είναι επιλογή δεν είναι διαθέσιμη αν "{0}" έχει ενεργοποιηθεί.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>Εμφάνιση αλλαγής ήχου εξόδου</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>Το εικονίδιο γίνεται διαφανές όταν η έξοδος ήχου αλλάζει στα ηχεία του υπολογιστή.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>Αδιαφάνεια</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Απαιτείται επανεκκίνηση</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>POP</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>Ιστοσελίδα</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Ένταση αναγνώρισης συζήτησης</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>Η ένταση θα μειωθεί στην επιλεγμένη ένταση όταν η λειτουργία είναι ενεργοποιημένη.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>Ένταση ανίχνευσης αυτιού</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>Η ένταση θα μειωθεί στην επιλεγμένη ένταση όταν η λειτουργία είναι ενεργοποιημένη.</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>Προεπιλεγμένη ένταση ακουστικών</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>Η επιλεγμένη ένταση ενεργοποιείται μετά τη σύνδεση.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>Ενεργοποίηση "απενεργοποιημένο"</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>Πατώντας το πλήκτρο συντόμευσης ενεργοποιεί αυτή την λειτουργία εάν "{0}" είναι διαθέσιμη στις ρυθμίσεις των ακουστικών και υποστηρίζεται.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>Ενεργοποίηση "Διαφάνεια"</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>Πατώντας το πλήκτρο συντόμευσης ενεργοποιεί αυτή την λειτουργία εάν "{0}" είναι διαθέσιμη στις ρυθμίσεις των ακουστικών και υποστηρίζεται.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Ενεργοποίηση "Προσαρμοστικό"</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Πατώντας το πλήκτρο συντόμευσης ενεργοποιεί αυτή την λειτουργία εάν "{0}" είναι διαθέσιμη στις ρυθμίσεις των ακουστικών και υποστηρίζεται.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Ενεργοποίηση ακύρωσης ανέμου</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Πατώντας το πλήκτρο συντόμευσης ενεργοποιεί αυτή την λειτουργία εάν "{0}" είναι διαθέσιμη στις ρυθμίσεις των ακουστικών και υποστηρίζεται.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Ενεργοποίηση ακύρωσης θορύθου</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>Πατώντας το πλήκτρο συντόμευσης ενεργοποιεί αυτή την λειτουργία εάν "{0}" είναι διαθέσιμη στις ρυθμίσεις των ακουστικών και υποστηρίζεται.</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>Εναλλαγή μεταξύ λειτουργιών με το πλήκτρο συντόμευσης</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>Πατήστε το "{0}" πλήκτρο συντόμευσης για να γίνει εναλλαγή μεταξύ των επιλεγμένων λειτουργιών της ακύρωσης θορύβου.</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>Συμπεριφορά συγκεκριμένων λειτουργιών με το h2 τσιπ</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Ενεργοποίηση σένσορα καρδιακών παλμών</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Για να μετρήσετε τους παλμούς σας, φορέστε και τα δύο ακουστικά, ενεργοποιήστε τον σένσορα, και συνδεθείτε στην "{0}" συσκευή μέσω συμβατού εξοπλισμού άθλησης.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Ενεργοποίηση</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Σένσορας καρδιακών παλμών</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Όταν ο σένσορας είναι απενεργοποιημένος, δεν μπορεί να ενεργοποιηθεί ή να μεταφέρει δεδομένα.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Μετονομασία ακουστικών</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>Το καινούργιο όνομα θα χρησιμοποιηθεί με την επόμενη σύνδεση των ακουστικών.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Πατήστε παρατεταμένα το αριστερό ακουστικό</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Πατήστε παρατεταμένα το δεξί ακουστικό</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Αύξηση έντασης</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Μείωση έντασης</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Έλεγχος θορύβου απ'τα ακουστικά</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Διαλέξτε τις λειτουργίες ελέγχου ήχου που μπορείτε να εναλλάσετε όταν ο έλεγχος των ακουστικών έχει τεθεί σε λειτουργία "{0}".</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Ακύρωση θορύβου με ένα ακουστικό</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Επιτρέψτε στην ακύρωση θορύβου να ενεργοποιηθεί με μόνο ένα ακουστικό εν χρήση.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Μετονομασία</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Επαναφορά</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Πληκτρολογείστε ένα όνομα</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Το όνομα πρέπει να έχει τουλάχιστον έναν χαρακτήρα.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>Το όνομα είναι πολύ μακρύ.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Μετονομασία</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Ένταση ήχων θήκης</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Ρυθμίστε την ένταση των εφέ ήχων της φορτιζόμενης θήκης.</value>
   </data>
 </root>
