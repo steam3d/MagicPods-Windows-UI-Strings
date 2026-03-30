@@ -173,7 +173,7 @@
     <value>Automatické spuštění</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>Přehrát/pauza</value>
+    <value>Přehrát/Pozastavit</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Snížit hlasitost</value>
@@ -376,7 +376,7 @@
     <value>Použít</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>Automaticky začít přehrávat po připojení AirPodů. Pokud nejsou otevřeny žádné přehrávače Windows bude příkaz ignorovat.</value>
+    <value>Automaticky začít přehrávat po připojení AirPodů. Pokud nejsou otevřeny žádné přehrávače, Windows bude příkaz ignorovat.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>Přidejte AirPody do seznamu spárovaných Bluetooth zařízení ve Windows</value>
@@ -478,7 +478,7 @@
     <value>Přidat nový hlas</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Pro nejlepší zážitek, doporučujeme nastavit automatické spuštění aplikace. To můžete udělat ve Správci úloh v sekci Spouštěné aplikace.</value>
+    <value>Pro nejlepší zážitek doporučujeme nastavit automatické spuštění aplikace. To můžete udělat ve Správci úloh v sekci Spouštěné aplikace.</value>
   </data>
   <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
     <value>Tmavý</value>
@@ -1511,5 +1511,8 @@
   </data>
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
     <value>Změňte hlasitost efektů při nabíjení.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Nastaví režimy potlačení hluku, které můžete měnit když ovládání na sluchátkách je nastaveno na funkci “{0}”.</value>
   </data>
 </root>
