@@ -1608,4 +1608,19 @@
   <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
     <value>Executing the hotkey triggers the 'Transparency' state transition, contingent on "{0}" availability and firmware-level support for ambient bypass.</value>
   </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>Activate adaptive noise control</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey activates this mode if "{0}" is available in the headphone settings and the selected mode is supported.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>Activate wind cancellation</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>Pressing the hotkey activates this mode if "{0}" is available in the headphone settings and the selected mode is supported.</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>Acticate noise cancellation</value>
+  </data>
 </root>
