@@ -361,7 +361,7 @@
     <value>多重連線</value>
   </data>
   <data name="Headphones_State_MultipleConnection_Description.Text" xml:space="preserve">
-    <value>兩組或更多組耳機已連線，請保留剩翻一組連線</value>
+    <value>「已連接兩組或更多組耳機，請只保留一組連接。」</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
     <value>連線</value>
@@ -1001,7 +1001,7 @@
     <value>中</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
-    <value>高</value>
+    <value>「高」</value>
   </data>
   <data name="Headphones_Setting_Airoha_VoiceControl.Header" xml:space="preserve">
     <value>語音控制</value>
@@ -1678,5 +1678,35 @@
   </data>
   <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
     <value>重命名</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>「要測量你嘅心率，請戴上兩邊耳機，啟動感應器，並透過兼容嘅健身設備連接到「{0}」裝置。」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>「當感應器關閉時，佢無法啟動或傳輸數據。」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>「按住左邊耳機」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>「按住右邊耳機」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>「耳機噪音控制」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>「設定當耳機控制設為「{0}」功能時，你可以在哪些噪音控制模式之間切換。」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>「單耳使用時開啟降噪」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>「允許在只使用一邊耳機時開啟降噪模式。」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>「充電盒音量」</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>「調整充電盒音效嘅音量。」</value>
   </data>
 </root>
