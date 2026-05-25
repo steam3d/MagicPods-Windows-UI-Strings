@@ -1081,4 +1081,400 @@
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>আরও জানুন</value>
   </data>
+  <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
+    <value>লাইসেন্স কী কিনুন</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
+    <value>লাইসেন্স কী পাওয়া যায়নি</value>
+  </data>
+  <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
+    <value>"{1}" এর অধীনে থাকা "{0}" পেজে গিয়ে একটি নতুন লাইসেন্স কী কিনুন অথবা বিদ্যমান কী প্রবেশ করান</value>
+  </data>
+  <data name="Support_Setting_License.Header" xml:space="preserve">
+    <value>লাইসেন্স</value>
+  </data>
+  <data name="Support_Setting_License.HintLink" xml:space="preserve">
+    <value>লাইসেন্স কী কিনুন</value>
+  </data>
+  <data name="Support_Setting_License_Button.Content" xml:space="preserve">
+    <value>কী প্রবেশ করান</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
+    <value>লাইসেন্স</value>
+  </data>
+  <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
+    <value>সংরক্ষণ করুন</value>
+  </data>
+  <data name="License_ProductKey_Header.Text" xml:space="preserve">
+    <value>প্রোডাক্ট কী</value>
+  </data>
+  <data name="License_LicenseKey_Header.Text" xml:space="preserve">
+    <value>লাইসেন্স কী</value>
+  </data>
+  <data name="License_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>এখানে লাইসেন্স কী পেস্ট করুন</value>
+  </data>
+  <data name="License_KeyNotValid.Text" xml:space="preserve">
+    <value>লাইসেন্স কীটি বৈধ নয়। অনুগ্রহ করে আবার চেষ্টা করুন অথবা অন্য একটি লাইসেন্স কী ব্যবহার করুন।</value>
+  </data>
+  <data name="Support_Setting_License.Description" xml:space="preserve">
+    <value>অ্যাপ্লিকেশনটি পুনরায় ইনস্টল করার পর লাইসেন্স কীটি আবার প্রবেশ করাতে হবে</value>
+  </data>
+  <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
+    <value>নয়েজ কন্ট্রোল</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
+    <value>আপনি অন্যদের সঙ্গে কথা বলা শুরু করলে মিডিয়ার ভলিউম কমায় এবং পটভূমির শব্দ হ্রাস করে।</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
+    <value>ব্যক্তিগতকৃত ভলিউম</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Description" xml:space="preserve">
+    <value>আপনার আশেপাশের পরিবেশ অনুযায়ী মিডিয়ার ভলিউম সামঞ্জস্য করে।</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Left.Header" xml:space="preserve">
+    <value>বাম AirPod-এ ডাবল ট্যাপ করুন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Right.Header" xml:space="preserve">
+    <value>ডান AirPod-এ ডাবল ট্যাপ করুন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_Siri.Text" xml:space="preserve">
+    <value>Siri</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
+    <value>পরবর্তী ট্র্যাক</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>পূর্ববর্তী ট্র্যাক</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>ডিজিটাল ক্রাউন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>পেছন থেকে সামনে</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>সামনে থেকে পেছনে</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Header" xml:space="preserve">
+    <value>কল শেষ করুন / মিউট এবং আনমিউট করুন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_SinglePress.Text" xml:space="preserve">
+    <value>একবার চাপুন / দুবার চাপুন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic_Item_DobulePress.Text" xml:space="preserve">
+    <value>দুবার চাপুন / একবার চাপুন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
+    <value>মাইক্রোফোন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
+    <value>সক্রিয় AirPod-এর মাইক্রোফোন স্বয়ংক্রিয়ভাবে বাম থেকে ডানে পরিবর্তিত হতে পারে, অথবা একটি নির্দিষ্ট পাশে স্থির রাখা যেতে পারে।</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
+    <value>স্বয়ংক্রিয়</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Right.Text" xml:space="preserve">
+    <value>সবসময় ডান AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Left.Text" xml:space="preserve">
+    <value>সবসময় বাম AirPod</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
+    <value>আপনার AirPods-এ দুই বা তিনবার চাপার জন্য প্রয়োজনীয় গতি সমন্বয় করুন।</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>ডিফল্ট</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>সবচেয়ে ধীর</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>চেপে ধরে রাখার সময়কাল</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
+    <value>আপনার AirPods-এ চাপ দিয়ে ধরে রাখার জন্য প্রয়োজনীয় সময়কাল সমন্বয় করুন।</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>ডিফল্ট</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>সবচেয়ে কম</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>একটি AirPod দিয়ে নয়েজ ক্যানসেলেশন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Description" xml:space="preserve">
+    <value>শুধুমাত্র একটি AirPod কানে থাকলেও AirPods-কে নয়েজ ক্যানসেলেশন মোডে রাখা অনুমতি দিন।</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>টোনের ভলিউম</value>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Description" xml:space="preserve">
+    <value>AirPods-এ কোনো অডিও না চলার সময় বাজানো সাউন্ড ইফেক্টগুলোর ভলিউম সমন্বয় করে। "{0}" চালু থাকলে, এই ভলিউম প্রযোজ্য হবে না।</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
+    <value>হেডফোন পরিচালনা করুন</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ApplySettings.Description" xml:space="preserve">
+    <value>হেডফোন সংযুক্ত থাকলে নিচের অপশনগুলো প্রযোজ্য হবে।</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
+    <value>লাইট থিম</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
+    <value>ডার্ক থিম</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font.Header" xml:space="preserve">
+    <value>ফন্ট</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
+    <value>ফন্টের আকার</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Color.ToolTipService.ToolTip" xml:space="preserve">
+    <value>টেক্সটের রং</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ব্যাটারি চার্জিং চলাকালীন টেক্সটের রং</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_ColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>লো ব্যাটারি অবস্থায় টেক্সটের রং</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
+    <value>লাইট থিম</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>ডার্ক থিম</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>আইকনের রং</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColor.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ইন্ডিকেটরের রং</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorCharging.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ব্যাটারি চার্জিং চলাকালীন ইন্ডিকেটরের রং</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IndicatorColorLowBattery.ToolTipService.ToolTip" xml:space="preserve">
+    <value>লো ব্যাটারি অবস্থায় ইন্ডিকেটরের রং</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_Font_NotFound.PlaceholderText" xml:space="preserve">
+    <value>ফন্ট পাওয়া যায়নি</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_Header.Header" xml:space="preserve">
+    <value>ব্লুটুথ</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Header" xml:space="preserve">
+    <value>ব্লুটুথ নিয়ন্ত্রণ</value>
+  </data>
+  <data name="Hotkeys_Bluetooth_BluetoothControl_Setting.Description" xml:space="preserve">
+    <value>হটকি চাপলে ব্লুটুথ চালু বা বন্ধ হয়।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>নয়েজ কন্ট্রোল</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
+    <value>হটকি চাপলে হেডফোন সেটিংসে "{0}" উপলব্ধ থাকলে নয়েজ ক্যানসেলেশন মোডগুলোর মধ্যে পরিবর্তন করা যাবে।</value>
+  </data>
+  <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
+    <value>সাউন্ড আউটপুট নিয়ন্ত্রণ</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
+    <value>ভয়েসওভার</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Header" xml:space="preserve">
+    <value>পড়া এড়িয়ে যান</value>
+  </data>
+  <data name="Hotkeys_VoiceOver_SkipReading_Setting.Description" xml:space="preserve">
+    <value>হটকি চাপলে বর্তমান বিজ্ঞপ্তি পড়া এড়িয়ে যায়।</value>
+  </data>
+  <data name="Hotkeys_Devices_ConnectDisconnect_Setting.Header" xml:space="preserve">
+    <value>সংযোগ করুন / সংযোগ বিচ্ছিন্ন করুন</value>
+  </data>
+  <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
+    <value>স্ট্রিমিং ডিভাইসসমূহ</value>
+  </data>
+  <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
+    <value>নামের মাধ্যমে অনুসন্ধান করুন</value>
+  </data>
+  <data name="Hotkeys_Devices_EmptyList_Header.Header" xml:space="preserve">
+    <value>ডিভাইস দেখানোর জন্য ব্লুটুথ চালু করুন, হেডফোন লোড হওয়া পর্যন্ত অপেক্ষা করুন</value>
+  </data>
+  <data name="Menu_Item7.Content" xml:space="preserve">
+    <value>হটকি</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
+    <value>হ্যান্ডসফ্রি মাধ্যমে চার্জের স্তর</value>
+  </data>
+  <data name="Headphones_Setting_HfpBattery.Description" xml:space="preserve">
+    <value>যদি হেডফোনের চার্জ প্রদর্শিত না হয়, এই অপশনটি ব্যবহার করুন। পরিবর্তন কার্যকর করতে হেডফোন পুনরায় সংযোগ করুন। ভয়েস যোগাযোগ উপলব্ধ থাকবে না।</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_SingleBattery.Header" xml:space="preserve">
+    <value>একক ব্যাটারি আইকন</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Header" xml:space="preserve">
+    <value>সাউন্ড আউটপুট হেডফোনে পরিবর্তন করুন</value>
+  </data>
+  <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
+    <value>সংযোগের পরে সাউন্ড আউটপুট জোরপূর্বক হেডফোনে পরিবর্তন করুন। "{0}" সক্রিয় থাকলে এই অপশনটি প্রযোজ্য হবে না।</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
+    <value>সাউন্ড আউটপুট পরিবর্তন প্রদর্শন করুন</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Description" xml:space="preserve">
+    <value>অডিও আউটপুট কম্পিউটারের স্পিকার-এ পরিবর্তিত হলে আইকনটি স্বচ্ছ হয়ে যায়।</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange_Opacity.Header" xml:space="preserve">
+    <value>অস্বচ্ছতা</value>
+  </data>
+  <data name="Preferences_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>পুনরায় চালু করা প্রয়োজন</value>
+  </data>
+  <data name="Headphones_Setting_Airoha_EQ_Item_POP.Text" xml:space="preserve">
+    <value>পপ</value>
+  </data>
+  <data name="Support_Buttons_Website.Content" xml:space="preserve">
+    <value>ওয়েবসাইট</value>
+  </data>
+  <data name="Battery_Left.Title" xml:space="preserve">
+    <value>বাম</value>
+  </data>
+  <data name="Battery_Right.Title" xml:space="preserve">
+    <value>ডান</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>কনভার্সেশন অ্যাওয়ারনেস ভলিউম</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Description" xml:space="preserve">
+    <value>ফিচারটি সক্রিয় থাকাকালীন ভলিউম নির্বাচিত মাত্রায় কমিয়ে দেওয়া হবে।</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
+    <value>ইয়ার ডিটেকশন ভলিউম</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
+    <value>ফিচারটি সক্রিয় থাকাকালীন ভলিউম নির্বাচিত মাত্রায় কমিয়ে দেওয়া হবে।</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Header" xml:space="preserve">
+    <value>ডিফল্ট হেডফোন ভলিউম</value>
+  </data>
+  <data name="Headphones_Setting_DefaultAudioSinkVolume.Description" xml:space="preserve">
+    <value>সংযোগের পরে নির্বাচিত ভলিউম প্রয়োগ করা হবে।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Header" xml:space="preserve">
+    <value>বন্ধ সক্রিয় করুন</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
+    <value>হটকি চাপলে এই মোডটি সক্রিয় হবে, যদি হেডফোন সেটিংসে "{0}" উপলব্ধ থাকে এবং মোডটি সমর্থিত হয়।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Header" xml:space="preserve">
+    <value>ট্রান্সপারেন্সি সক্রিয় করুন</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Transparency_Setting.Description" xml:space="preserve">
+    <value>হটকি চাপলে এই মোডটি সক্রিয় হবে, যদি হেডফোন সেটিংসে "{0}" উপলব্ধ থাকে এবং মোডটি সমর্থিত হয়।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Header" xml:space="preserve">
+    <value>অ্যাডাপ্টিভ সক্রিয় করুন</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_Adaptive_Setting.Description" xml:space="preserve">
+    <value>হটকি চাপলে এই মোডটি সক্রিয় হবে, যদি হেডফোন সেটিংসে "{0}" উপলব্ধ থাকে এবং মোডটি সমর্থিত হয়।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Header" xml:space="preserve">
+    <value>উইন্ড ক্যানসেলেশন সক্রিয় করুন</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_WindCancellation_Setting.Description" xml:space="preserve">
+    <value>হটকি চাপলে এই মোডটি সক্রিয় হবে, যদি হেডফোন সেটিংসে "{0}" উপলব্ধ থাকে এবং মোডটি সমর্থিত হয়।</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Header" xml:space="preserve">
+    <value>নয়েজ ক্যানসেলেশন সক্রিয় করুন</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Set_NoiseCancellation_Setting.Description" xml:space="preserve">
+    <value>হটকি চাপলে এই মোডটি সক্রিয় হবে, যদি হেডফোন সেটিংসে "{0}" উপলব্ধ থাকে এবং মোডটি সমর্থিত হয়।</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
+    <value>হটকি দিয়ে পর্যায়ক্রমে পরিবর্তন করুন</value>
+  </data>
+  <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
+    <value>নির্বাচিত নয়েজ কন্ট্রোল মোডগুলোর মধ্যে পরিবর্তন করতে "{0}" হটকি চাপুন।</value>
+  </data>
+  <data name="Headphones_Setting_AppleH2ChipNotice.Description" xml:space="preserve">
+    <value>H2 চিপসহ নির্দিষ্ট কিছু ফাংশনের আচরণ</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>হার্ট রেট সেন্সর সক্রিয় করুন</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>আপনার হার্ট রেট পরিমাপ করতে উভয় ইয়ারবাড পরুন, সেন্সর সক্রিয় করুন এবং সামঞ্জস্যপূর্ণ ফিটনেস যন্ত্রের মাধ্যমে "{0}" ডিভাইসের সাথে সংযুক্ত করুন।</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>সক্রিয় করুন</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>হার্ট রেট সেন্সর</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>সেন্সর বন্ধ থাকলে এটি সক্রিয় করা বা ডেটা প্রেরণ করা যাবে না।</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>হেডফোনের নাম পরিবর্তন করুন</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>পরবর্তীবার হেডফোন পেয়ার করার সময় নতুন নামটি ব্যবহার করা হবে।</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>বাম ইয়ারবাড চেপে ধরে রাখুন</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>ডান ইয়ারবাড চেপে ধরে রাখুন</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>নয়েজ কন্ট্রোল</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>ভলিউম বাড়ান</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>ভলিউম কমান</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>হেডফোন থেকে নয়েজ নিয়ন্ত্রণ</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>হেডফোন কন্ট্রোলটি যখন "{0}" ফাংশনে সেট করা থাকে, তখন আপনি যে নয়েজ কন্ট্রোল মোডগুলোর মধ্যে পরিবর্তন করতে পারবেন সেগুলো সেট করুন।</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>একটি ইয়ারবাড দিয়েও নয়েজ ক্যান্সেলেশন</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>শুধুমাত্র একটি ইয়ারবাড ব্যবহার করার সময়ও নয়েজ ক্যান্সেলেশন চালু করার অনুমতি দিন।</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>নাম পরিবর্তন করুন</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>সংরক্ষণ করুন</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>রিসেট করুন</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>একটি নাম লিখুন</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>নামটিতে অন্তত একটি অক্ষর থাকতে হবে।</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>নামটি খুব দীর্ঘ।</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>পুনঃনামকরণ করুন</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>সংরক্ষণ করুন</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>কেস সাউন্ডের ভলিউম</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>চার্জিং কেসের সাউন্ড ইফেক্টগুলোর ভলিউম সমন্বয় করুন।</value>
+  </data>
 </root>
