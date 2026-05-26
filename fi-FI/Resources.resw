@@ -587,7 +587,7 @@
     <value>Ominaisuus ”VoiceOver-ilmoitus” on pois päältä, ei pääsyä ilmoituksiin. Avaa ”Tietosuoja ja ilmoitukset”, salli ilmoitusten käyttö ja ota sitten ”VoiceOver-ilmoitus” käyttöön.</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Parhaan käyttökokemuksen saavuttamiseksi suosittelemme, että otat käynnistyksen käyttöön. Voit tehdä tämän Tehtävienhallinnan Käynnistys-välilehdeltä.</value>
+    <value>Parhaan käyttökokemuksen saavuttamiseksi suosittelemme, että otat automaattisen käynnistyksen käyttöön. Voit tehdä tämän Tehtävienhallinnan ”Käynnistys”-välilehdeltä.</value>
   </data>
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Käytä järjestelmän teemaa</value>
@@ -1439,5 +1439,74 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>Lue lisää</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>Ota sykesensori käyttöön</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>Mitataksesi sykkeesi, käytä molempia nappikuulokkeita, ota sensori käyttöön ja yhdistä laitteeseen ”{0}” yhteensopivan kuntolaitteen kautta.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>Aktivoi</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>Sykesensori</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>Kun sensori on kytketty pois päältä, sitä ei voi aktivoida eikä se voi lähettää tietoja.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>Nimeä kuulokkeet uudelleen</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>Uutta nimeä käytetään, kun kuulokkeet yhdistetään seuraavan kerran.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Paina ja pidä painettuna vasenta nappikuuloketta</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Paina ja pidä painettuna oikeaa nappikuuloketta</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Lisää äänenvoimakkuutta</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Vähennä äänenvoimakkuutta</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Kuulokkeiden melunhallinta</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Aseta melunhallintatilat, joiden välillä voit vaihdella, kun kuulokkeiden ohjaus on asetettu toimintoon ”{0}”.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Melunvaimennus yhdellä nappikuulokkeella</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Salli melunvaimennuksen ottaminen käyttöön, kun vain yksi nappikuuloke on käytössä.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Nimeä uudelleen</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Nollaa</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Syötä nimi</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Nimessä on oltava vähintään yksi merkki.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>Nimi on liian pitkä.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Nimeä uudelleen</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Kotelon äänien voimakkuus</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Säädä latauskotelon äänitehosteiden äänenvoimakkuutta.</value>
   </data>
 </root>
