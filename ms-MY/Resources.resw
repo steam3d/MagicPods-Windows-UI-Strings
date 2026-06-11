@@ -1411,4 +1411,64 @@
   <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
     <value>Press and hold the left earbud</value>
   </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
+    <value>Mod Gelap</value>
+  </data>
+  <data name="Hotkeys_Headphones_NoiseControl_Setting.Header" xml:space="preserve">
+    <value>Kawalan Hingar</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Tekan lama fon telinga sebelah kanan</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Kawalan Hingar</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Naikkan kelantangan</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Turunkan kelantangan</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>Kawalan hingar fon telinga</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>Apabila kawalan fon telinga ditetapkan kepada fungsi '{0}', mod kawalan hingar yang hendak ditukar boleh ditetapkan.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
+    <value>Pembatalan hingar fon telinga sebelah</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>Benarkan pembatalan hingar diaktifkan apabila hanya menggunakan fon telinga sebelah.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>Namakan semula</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Simpan</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Set semula</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>Masukkan nama</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>Nama mesti mempunyai sekurang-kurangnya 1 aksara.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>Nama melebihi had aksara.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>Namakan semula</value>
+  </data>
+  <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Simpan</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>Kelantangan bunyi kes pengecas</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>Laraskan kelantangan bunyi kes pengecas.</value>
+  </data>
 </root>
