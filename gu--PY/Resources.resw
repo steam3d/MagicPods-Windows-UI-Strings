@@ -62,7 +62,7 @@
     <value>બહાર નીકળો</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0} ની જગ્યાએ સંખ્યા આવશે.</value>
+    <value>{0}% બેટરી બાકી છે. તમારા હેડફોનને ચાર્જ કરો.</value>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
     <value>ચેતવણી</value>
@@ -92,7 +92,7 @@
     <value>સેટિંગ્સ રીસેટ કરો</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
-    <value>કાન શોધ</value>
+    <value>કાનમાં હોવાની ઓળખ</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
     <value>પ્લે/પૉઝ</value>
@@ -1220,7 +1220,7 @@
     <value>હેડફોન</value>
   </data>
   <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
-    <value>સ્ટ્રીમિંગ ડિવાઇ</value>
+    <value>સ્ટ્રીમિંગ ડિવાઇસો</value>
   </data>
   <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
     <value>નામ દ્વારા શોધો</value>
@@ -1244,7 +1244,7 @@
     <value>સાઉન્ડ આઉટપુટ હેડફોન પર સ્વિચ કરો</value>
   </data>
   <data name="Headphones_Setting_SwitchSoundOutputToHeadphones.Description" xml:space="preserve">
-    <value>કનેક્શન પછી સાઉન્ડ આઉટપુટ હેડફોન પર સ્વિચ કરવા દબાણ કરો. જો "{0}" સક્ષમ હોય તો આ વિકલ્પ લાગુ નહીં થાય.</value>
+    <value>કનેક્શન પછી સાઉન્ડ આઉટપુટને બળજબરીથી હેડફોન પર સ્વિચ કરે છે. જો "{0}" સક્ષમ હોય તો આ વિકલ્પ લાગુ નહીં પડે.</value>
   </data>
   <data name="Settings_SystemTray_Setting_DisplaySoundOutputChange.Header" xml:space="preserve">
     <value>સાઉન્ડ આઉટપુટ બદલાવ દર્શાવો</value>
@@ -1379,7 +1379,7 @@
     <value>આગલી વખતે હેડફોન જોડવામાં આવે ત્યારે નવું નામ વાપરવામાં આવશે.</value>
   </data>
   <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
-    <value>કાન શોધ</value>
+    <value>કાનમાં હોવાની ઓળખ</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
     <value>ડાબો ઇયરબડ દબાવી રાખો</value>
@@ -1397,7 +1397,7 @@
     <value>વૉલ્યુમ વધારો</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
-    <value>વૉલ્યુમ ઘટાડ</value>
+    <value>વૉલ્યુમ ઘટાડો</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
     <value>હેડફોનમાંથી અવાજ નિયંત્રણ</value>
@@ -1439,7 +1439,7 @@
     <value>નામ બદલો</value>
   </data>
   <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
-    <value>કાન શોધ</value>
+    <value>કાનમાં હોવાની ઓળખ</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
     <value>સાચવો</value>
