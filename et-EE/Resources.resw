@@ -265,4 +265,76 @@
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>Üldseaded</value>
   </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>Eksperimentaalsed funktsioonid</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>Tugi</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>Rakendus suletakse ja kõik funktsioonid deaktiveeritakse.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>Väljuda MagicPods?</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>Loobu</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>Helitugevus väheneb, kui eemaldate ühest kõrvast ühe AirPodsi, ning taastub, kui eemaldate mõlemad AirPods või panete need kõrva.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>Toetatud mängijate loend</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>AirPodside otsinguraadius</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>Kui akent ei ilmu, ava AirPods-e sisaldav karp ja libista liugurit sujuvalt paremale, kuni ilmub animatsioon.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
+    <value>Mis on otsinguraadius?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>Nõuanne</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>Ära määra väärtust, mis on suurem kui 65, kuna animatsioon võib ilmuda soovimatult.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>Kuva nupp „Ühenda”</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>Kuva või peida hüpikaknas nupp „Ühenda”. Nupu vajutamine ühendab AirPodsid.</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
+    <value>Automaatne ühendamine</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
+    <value>Ühendu automaatselt AirPodsiga, kui võtad parema või vasaku AirPodi karbist välja.</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>Automaatne esitus</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>Saada käsk „Esita” pärast kõrvaklappide ühendamist. Kui ühtegi pleierit pole avatud, ignoreerib Windows seda käsku.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>Kõik seaded lähtestatakse. Kas soovite jätkata?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>Jah, lähtesta sätted</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>Nõuanne</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Teie kasutusmustri põhjal soovitame määrata väärtuseks {0}</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Kandideeri</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Ignoreeri</value>
+  </data>
 </root>
