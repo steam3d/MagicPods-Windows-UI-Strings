@@ -274,4 +274,40 @@
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Low.Text" xml:space="preserve">
     <value>Ցածր</value>
   </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>Ավտոպլեյ</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>Ձայնային ականջակալները միացնելուց հետո ուղարկեք «Play» հրամանը։ Եթե որևէ նվագարկիչ բացված չէ, Windows-ը անտեսելու է հրամանը։</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>Բոլոր կարգավորումները կվերակայվեն. Ցանկանո՞ւմ եք շարունակել?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>Այո, զրոյացնել կարգավորումները</value>
+  </data>
+  <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
+    <value>ծայր</value>
+  </data>
+  <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
+    <value>Ձեր օգտագործման հիման վրա խորհուրդ ենք տալիս արժեքը սահմանել {0}</value>
+  </data>
+  <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
+    <value>Դիմել</value>
+  </data>
+  <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
+    <value>Անտեսել</value>
+  </data>
+  <data name="Notification_ConnectionError" xml:space="preserve">
+    <value>Ձայնային ականջակալներին միացումը ձախողվեց։ Փորձեք ձեռքով միացնել։</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
+    <value>Երբ ականջից հանում եք մեկ AirPods, նվագարկումը դադարում է և ձայնի մակարդակը նվազում է, իսկ երբ հանում եք երկուսն էլ, նվագարկումը դադարում է և ձայնի մակարդակը վերականգնվում է։</value>
+  </data>
+  <data name="Welcome_Text1.Text" xml:space="preserve">
+    <value>Ավելացրեք AirPods-ը Windows-ի Bluetooth սարքերի ցուցակին</value>
+  </data>
+  <data name="Welcome_Text2.Text" xml:space="preserve">
+    <value>MagicPods-ը աջակցում է AirPods-ների և Beats ականջակալների մեծամասնությանը։</value>
+  </data>
 </root>
