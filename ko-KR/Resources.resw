@@ -1499,4 +1499,70 @@
   <data name="Headphones_Setting_Beats_AncOneEarBud.Header" xml:space="preserve">
     <value>AIrPods 한 개 착용 시 노이즈 캔슬링</value>
   </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Header" xml:space="preserve">
+    <value>심박수 센서 활성화</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate.Description" xml:space="preserve">
+    <value>심박수를 측정하려면 양쪽 이어버드를 착용하고 센서를 활성화한 후, 호환되는 피트니스 기구를 통해 '{0}' 기기에 연결하세요.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_ActivateHeartRate_Button.Content" xml:space="preserve">
+    <value>활성화하기</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Header" xml:space="preserve">
+    <value>심박수 센서</value>
+  </data>
+  <data name="Headphones_Setting_Beats_HeartRate.Description" xml:space="preserve">
+    <value>센서가 꺼져 있으면 활성화하거나 데이터를 전송할 수 없습니다.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Header" xml:space="preserve">
+    <value>헤드폰 이름 변경하기</value>
+  </data>
+  <data name="Headphones_Setting_Beats_Rename.Description" xml:space="preserve">
+    <value>새 이름은 다음에 헤드폰을 페어링할 때 적용됩니다.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>왼쪽 이어버드를 길게 누르세요</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldRight.Header" xml:space="preserve">
+    <value>오른쪽 이어버드를 길게 누르세요</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>볼륨 올리기</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>볼륨을 내려주세요</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Header" xml:space="preserve">
+    <value>헤드폰 노이즈 제어</value>
+  </data>
+  <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
+    <value>헤드폰 제어가 '{0}' 기능으로 설정되어 있을 때 전환할 수 있는 노이즈 제어 모드를 설정하세요.</value>
+  </data>
+  <data name="Headphones_Setting_Beats_AncOneEarBud.Description" xml:space="preserve">
+    <value>한쪽 이어버드만 사용할 때 노이즈 캔슬링이 활성화되도록 허용하세요</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
+    <value>이름 변경하기</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>재설정하기</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
+    <value>이름을 입력하세요</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorEmptyText.Text" xml:space="preserve">
+    <value>이름에는 최소 한 글자가 포함되어야 합니다.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
+    <value>이름이 너무 깁니다.</value>
+  </data>
+  <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
+    <value>이름 변경하기</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
+    <value>케이스 알림음 크기</value>
+  </data>
+  <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
+    <value>충전 케이스 효과음 볼륨 조절.</value>
+  </data>
 </root>
