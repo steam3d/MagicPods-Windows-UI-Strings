@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,196 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Headphones_Setting_FastSearch.Header" xml:space="preserve">
+    <value>जलद सोद घेवप</value>
+  </data>
+  <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
+    <value>AirPods खातीर सोद वेळ उणो करता. भोंवतणी हेर कोणूच AirPods वापरना हाची खात्री जातकच ती चालू करात.</value>
+  </data>
+  <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
+    <value>स्टार्टअप करप</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
+    <value>स्टार्टअपाचेर चलचें</value>
+  </data>
+  <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
+    <value>Windows सुरू जातकच ऍप्लिकेशन सुरू करप सक्षम वा अक्षम करचें.</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
+    <value>गट धोरणान स्टार्टअप अक्षम केला, वा ह्या डिव्हायसाचेर समर्थीत ना.</value>
+  </data>
+  <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
+    <value>प्रणाली ट्रे चिन्न</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Header" xml:space="preserve">
+    <value>चिन्न लिपोवप</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_HideIcon.Description" xml:space="preserve">
+    <value>बदल लागू करपाक ऍप्लिकेशन परतून सुरू करात.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
+    <value>बॅटरी टक्केवारी दाखोवची</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
+    <value>जोडिल्ल्या हेडफोनांची सरासरी बॅटरी टक्केवारी दाखयता.</value>
+  </data>
+  <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
+    <value>शैली</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
+    <value>चिन्न</value>
+  </data>
+  <data name="Settings_SystemTray_Text4_menu2.Text" xml:space="preserve">
+    <value>लिखीत</value>
+  </data>
+  <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
+    <value>स्टार्टअप सक्षम करात</value>
+  </data>
+  <data name="Text_Exit" xml:space="preserve">
+    <value>प्रस्थान</value>
+  </data>
+  <data name="Text_Help" xml:space="preserve">
+    <value>आदार</value>
+  </data>
+  <data name="Text_No" xml:space="preserve">
+    <value>ना</value>
+  </data>
+  <data name="Text_Yes" xml:space="preserve">
+    <value>हय</value>
+  </data>
+  <data name="Menu_Item1.Content" xml:space="preserve">
+    <value>बॅटरीची म्हायती</value>
+  </data>
+  <data name="Menu_Item2.Content" xml:space="preserve">
+    <value>सामान्य सेटिंग्ज</value>
+  </data>
+  <data name="Menu_Item3.Content" xml:space="preserve">
+    <value>प्रायोगिक खाशेलपणां</value>
+  </data>
+  <data name="Menu_Close.Content" xml:space="preserve">
+    <value>प्रस्थान</value>
+  </data>
+  <data name="Menu_Item4.Content" xml:space="preserve">
+    <value>तेंको</value>
+  </data>
+  <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
+    <value>ऍप्लिकेशन बंद जातलो आनी सगळ्यो कार्यां अक्षम जातलीं.</value>
+  </data>
+  <data name="Menu_DialogClose.Title" xml:space="preserve">
+    <value>मॅजिकपॉड्सांतल्यान भायर सरप?</value>
+  </data>
+  <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
+    <value>प्रस्थान</value>
+  </data>
+  <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
+    <value>रद्द</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
+    <value>काना वयल्यान एक AirPods काडटना आवाज उणो जाता, वा दोनूय AirPods काडटना / घालतना परतून मेळटा.</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
+    <value>समर्थीत खेळगड्यांची वळेरी</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Header" xml:space="preserve">
+    <value>एअरपॉड्स सोद त्रिज्या</value>
+  </data>
+  <data name="Notification_LowBattery" xml:space="preserve">
+    <value>{0}% उरलां. तुमचे हेडफोन चार्ज करात.</value>
+  </data>
+  <data name="Notification_Warning" xml:space="preserve">
+    <value>शिटकावणी</value>
+  </data>
+  <data name="Settings_Popup_Header.Header" xml:space="preserve">
+    <value>पॉप-अप विंडो</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
+    <value>विंडो दाखोवप</value>
+  </data>
+  <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
+    <value>आयफोना प्रमाण पॉप-अप विंडो दाखोवची वा लिपोवची, जेन्ना तुमी केस उगडटात.</value>
+  </data>
+  <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
+    <value>जनेलाचो आकार</value>
+  </data>
+  <data name="Settings_SizeOptions_Small.Text" xml:space="preserve">
+    <value>ल्हान</value>
+  </data>
+  <data name="Settings_SizeOptions_Middle.Text" xml:space="preserve">
+    <value>मध्यम</value>
+  </data>
+  <data name="Settings_SizeOptions_Large.Text" xml:space="preserve">
+    <value>व्हड</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
+    <value>सेटिंग्ज रीसेट करात</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
+    <value>कान सोदून काडप</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
+    <value>खेळचें/विराम करचें</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
+    <value>आवाज उणो करचो</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
+    <value>दोनूय (व्हॉल्यूम उणो करप + वाजोवप/विराम करप)</value>
+  </data>
+  <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
+    <value>एक AirPod काडटना प्लेबॅक थांबता वा दोनूय काडटना थांबता.</value>
+  </data>
+  <data name="Settings_Other_Text1.Text" xml:space="preserve">
+    <value>हेर</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
+    <value>ऑडिओ सुप्तताय उणी</value>
+  </data>
+  <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
+    <value>प्रीमियर प्रो वा ऑडिशनांत काम करतना उपेगी पडटा. चालू केल्या उपरांत AirPods परतून जोडपाची गरज आसा. ताका लागून बॅटरी वापर वाडूंक शकता.</value>
+  </data>
+  <data name="Support_Buttons_Help.Content" xml:space="preserve">
+    <value>मदत मेळोवची</value>
+  </data>
+  <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
+    <value>अहवाल मुद्दो</value>
+  </data>
+  <data name="Preferences_Setting_DebugLog.Header" xml:space="preserve">
+    <value>लॉग डिबग करचो</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
+    <value>विंडो दिसना जाल्यार भितर AirPods आशिल्ली केस उगडात आनी एनिमेशन दिसना मेरेन स्लायडर उजवे वटेन सुळसुळीतपणान सरकयात.</value>
+  </data>
+  <data name="Settings_Popup_Setting_SearchRadius.HintLink" xml:space="preserve">
+    <value>सोद त्रिज्या म्हणल्यार कितें?</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
+    <value>टीप</value>
+  </data>
+  <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
+    <value>एनिमेशन चुकून दिसूं येता म्हणून 65 परस चड मोल सेट करूंक नाकात.</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Header" xml:space="preserve">
+    <value>"कनॅक्ट" बटण दाखोवचें</value>
+  </data>
+  <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
+    <value>पॉप-अप विंडोचेर "कनॅक्ट" बटण दाखोवचें वा लिपोवचें. बटण दामल्यार AirPods जोडटले.</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
+    <value>ऑटो कनॅक्ट करप</value>
+  </data>
+  <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
+    <value>जेन्ना तुमी उजवे वा डावे AirPods केसा भायर काडटात तेन्ना आपोआप AirPods कडेन जोडणी करात.</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
+    <value>ऑटो प्ले</value>
+  </data>
+  <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
+    <value>हेडफोन जोडल्या उपरांत "Play" आदेश धाडचो. उक्ते खेळगडे नात जाल्यार Windows आदेशा कडेन दुर्लक्ष करतले.</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
+    <value>सगळ्यो मांडावळी रीसेट जातल्यो. तुमकां फुडें वचपाचें आसा?</value>
+  </data>
+  <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
+    <value>हो, सेटिंग्ज रीसेट करात</value>
+  </data>
 </root>
