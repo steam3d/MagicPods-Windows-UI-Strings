@@ -377,7 +377,7 @@
     <value>Thêm giọng nói mới</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
-    <value>Để có trải nghiệm người dùng tốt nhất, chúng tôi khuyên bạn nên cho ứng dụng khởi động cùng WIndows. Bạn có thể làm điều này từ tab “Khởi động” trong Trình quản lý Tác vụ.</value>
+    <value>Để có trải nghiệm người dùng tốt nhất, chúng tôi khuyên bạn nên cho ứng dụng khởi động cùng Windows. Bạn có thể làm điều này từ tab “Khởi động” trong Trình quản lý Tác vụ.</value>
   </data>
   <data name="Headphones_State_SearchingError_Button.Content" xml:space="preserve">
     <value>Tìm kiếm vô hạn</value>
@@ -650,7 +650,7 @@
     <value>Khởi động lại ứng dụng để áp dụng thay đổi.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>HIện cửa sổ</value>
+    <value>Hiện cửa sổ</value>
   </data>
   <data name="Support_Setting_Discord.Header" xml:space="preserve">
     <value>Cộng đồng</value>
@@ -1473,5 +1473,8 @@
   </data>
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
     <value>Điều chỉnh âm lượng hiệu ứng âm thanh khi sạc vỏ tai nghe.</value>
+  </data>
+  <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
+    <value>Mã sản phẩm không trùng với mã sản phẩm trong mã kích hoạt. Xin vui lòng thử mã kích hoạt khác.</value>
   </data>
 </root>
