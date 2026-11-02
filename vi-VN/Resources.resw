@@ -101,7 +101,7 @@
     <value>Âm thanh</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
-    <value>Phát hiện tai nghe đeo trên tai</value>
+    <value>Phát hiện khi đeo tai nghe</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Giảm âm lượng</value>
@@ -114,13 +114,13 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
-    <value>Cảnh báo</value>
+    <value>Thông báo</value>
   </data>
   <data name="Settings_Popup_Header.Header" xml:space="preserve">
     <value>Cửa sổ pop-up</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Hiện pop-up khi kết nối tai nghe</value>
+    <value>Hiển pop-up khi mở tai nghe</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Hiện hoặc ẩn cửa sổ pop-up như trên iPhone khi bạn mở nắp hộp sạc.</value>
@@ -138,16 +138,16 @@
     <value>Lớn</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings.Content" xml:space="preserve">
-    <value>Thiết lập lại tất cả cài đặt</value>
+    <value>Cài đặt lại</value>
   </data>
   <data name="Headphones_Setting_EarDetection_PlayPause.Description" xml:space="preserve">
-    <value>Nội dung đang được phát lại sẽ dừng khi bạn ngắt kết nối hay bỏ một bên AirPod hoặc sẽ dừng hẳn khi bạn ngắt kết nối hay bỏ cả hai bên AirPods.</value>
+    <value>Nội dung đang được phát lại sẽ dừng khi bạn ngắt kết nối hay bỏ một bên AirPods hoặc sẽ dừng hẳn khi bạn ngắt kết nối hay bỏ cả hai bên AirPods.</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>Khác</value>
   </data>
   <data name="Headphones_Setting_LowAudioLatency.Header" xml:space="preserve">
-    <value>Giảm độ trễ âm thanh</value>
+    <value>Độ trễ âm thanh</value>
   </data>
   <data name="Support_Buttons_Help.Content" xml:space="preserve">
     <value>Nhận trợ giúp</value>
@@ -171,7 +171,7 @@
     <value>Bật hoặc tắt chức năng khởi động cùng Window.</value>
   </data>
   <data name="Headphones_Warn_Startup_Error.Message" xml:space="preserve">
-    <value>Khởi động cùng Windows bị tắt bởi group policy, hoặc nó không được hỗ trợ trên thiết bị này.</value>
+    <value>Khởi động cùng Windows bị tắt bởi group policy, hoặc  không được hỗ trợ trên thiết bị này.</value>
   </data>
   <data name="Settings_SystemTray_Header.Header" xml:space="preserve">
     <value>Biểu tượng trên thanh tác vụ</value>
