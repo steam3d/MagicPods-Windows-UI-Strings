@@ -1454,7 +1454,7 @@
     <value>שנה שם</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
-    <value>אתחול</value>
+    <value>איפוס</value>
   </data>
   <data name="Headphones_Setting_Rename_Input.PlaceholderText" xml:space="preserve">
     <value>הזן שם</value>
@@ -1476,5 +1476,8 @@
   </data>
   <data name="Headphones_Setting_Beats_PressAndHoldAnc.Description" xml:space="preserve">
     <value>הגדרת מצב ביטול הרעשים מאפשרת לך לעבור בין המצבים כאשר שליטה האוזניות מוגדרת על "{0}".</value>
+  </data>
+  <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
+    <value>מפתח המוצר אינו תואם למפתח המוצר שברשיון. נא לנסון מפתח רשיון אחר.</value>
   </data>
 </root>
