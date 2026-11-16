@@ -311,7 +311,7 @@
     <value>MagicPods-ը աջակցում է AirPods-ների և Beats ականջակալների մեծամասնությանը</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
-    <value>Ձեր AirPods-ի պատյանն հնարավորինս մոտեցրեք ձեր համակարգչին և բացեք այն.</value>
+    <value>Ձեր AirPods-ի պատյանն հնարավորինս մոտեցրեք ձեր համակարգչին և բացեք այն</value>
   </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>հաջորդ</value>
@@ -336,5 +336,35 @@
   </data>
   <data name="Settings_StyleOptions_Center.Text" xml:space="preserve">
     <value>Կենտրոն</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomLeft.Text" xml:space="preserve">
+    <value>Ներքևի ձախ անկյուն</value>
+  </data>
+  <data name="Settings_StyleOptions_BottomRight.Text" xml:space="preserve">
+    <value>Ստորին աջ անկյուն</value>
+  </data>
+  <data name="Settings_Audio_Header.Header" xml:space="preserve">
+    <value>Аհկпը</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
+    <value>Ուղղահեռ անցում ձայնի ելքի</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput.Description" xml:space="preserve">
+    <value>Փոխեք ձայնը AirPods-ից նորմալ բարձրախոսների, երբ երկու AirPods-երն էլ դուրս են ականջներից։</value>
+  </data>
+  <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
+    <value>Դիմումը հասանելի չէ կամ հեռացվել է</value>
+  </data>
+  <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
+    <value>Իմանալ ավելին</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
+    <value>VoiceOver ծանուցումներ</value>
+  </data>
+  <data name="Settings_VoiceOver_Setting_OnOff.Description" xml:space="preserve">
+    <value>Ծանուցումները հայտարարվում են, երբ կցվում են լսափողերը և համարվում աուդիո ելքային սարք։</value>
+  </data>
+  <data name="Settings_VoiceOver_Button_Configure.Content" xml:space="preserve">
+    <value>Կազմաձևել</value>
   </data>
 </root>
