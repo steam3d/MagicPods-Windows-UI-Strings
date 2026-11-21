@@ -75,7 +75,7 @@
     <value>أظهر النافذة</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
-    <value>إظهار أو إخفاء النافذة المنبثقة كما على الآيفون، عند فتح غطاء السماعات.</value>
+    <value>إظهار أو إخفاء النافذة المنبثقة كما تظهر على جهاز الآيفون، عند فتح غطاء السماعات.</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>حجم النافذة</value>
@@ -186,10 +186,10 @@
     <value>تشغيل تلقائي</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Description" xml:space="preserve">
-    <value>أرسل الأمر «تشغيل» بعد توصيل سماعات الرأس. إذا لم يكن هناك مشغلين آخرين، فسيتجاهل Windows الأمر.</value>
+    <value>أرسل الأمر «تشغيل» بعد توصيل سماعات الرأس. إذا لم يكن هناك مشغل وسائط نشط ، فسيتجاهل Windows الأمر.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Button_Reset.Content" xml:space="preserve">
-    <value>نعم، قم بأعادة الاعدادات</value>
+    <value>نعم، قم بأعادة ضبط الاعدادات</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>تلميح</value>
@@ -208,7 +208,7 @@
     <value>فشل الاتصال بسماعات الرأس. حاول الاتصال يدويًا.</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>ضف الايربودز الى قائمة اجهزة بلوتوث ويندوز</value>
+    <value>أضف الايربودز الى قائمة اجهزة بلوتوث الويندوز</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
     <value>يدعم ماجك بودز معظم أنواع الايربودز و سماعات بيتس</value>
@@ -279,16 +279,16 @@
     <value>يقلل من وقت البحث للايربودز. شغل الخيار عندما تكون متأكدا من عدم وجود أحد قريب يقوم بإستخدام الايربودز.</value>
   </data>
   <data name="Settings_Popup_Setting_SearchRadius.Description" xml:space="preserve">
-    <value>إذا لم تظهر النافذة ، فافتح الغطاء مع وجود الايربودز بالداخل وحرك شريط التمرير بسلاسة إلى اليمين حتى تظهر الرسوم المتحركة.</value>
+    <value>إذا لم تظهر النافذة ، قم بفتح الغطاء مع الابقاء على ال Airpods في الداخل وحرك شريط التمرير بسلاسة إلى اليمين حتى تظهر الرسوم المتحركة.</value>
   </data>
   <data name="Settings_ShowConnectButton_Setting.Description" xml:space="preserve">
     <value>إظهار أو إخفاء الزر «اتصال» في النافذة المنبثقة. سيؤدي الضغط على الزر إلى توصيل AirPods.</value>
   </data>
   <data name="Preferences_Buttons_ResetSettings_Flyout_Text_ConfirmReset.Text" xml:space="preserve">
-    <value>جميع الاعدادات سوف تعاد، هل تريد التكملة؟</value>
+    <value>جميع الاعدادات سوف يتم إعادة ضبطها ، هل تريد الاستمرار ؟</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Both.Description" xml:space="preserve">
-    <value>يتوقف التشغيل مؤقتًا وينخفض مستوى الصوت عندما تزيل ايربودز واحد من أذنك ، أو يتوقف ويستعيد مستوى الصوت عند إزالة كل من AirPods.</value>
+    <value>يتوقف التشغيل مؤقتًا وينخفض مستوى الصوت عندما تزيل ايربودز واحد من أذنك ، أو يتوقف ويستعيد مستوى الصوت عند إزالة كليهما</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>للحصول على أفضل تجربة للمستخدم ، نوصي بتمكين بدء التشغيل.</value>
@@ -364,7 +364,7 @@
     <value>انقر للمزيد</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Description" xml:space="preserve">
-    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى دورات عبر مخرجات الصوت.</value>
+    <value>يؤدي الضغط على مفتاح التشغيل السريع إلى التبديل عبر مخرجات الصوت.</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput.Header" xml:space="preserve">
     <value>التبديل التلقائي لمخرج الصوت</value>
@@ -1046,7 +1046,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_ConversationAwareness.Description" xml:space="preserve">
-    <value>يخفض صوت التشغيل و صوت الخلفيه في حال بداءت في التحدث مع اشخاص اخرين.</value>
+    <value>يخفض صوت التشغيل و صوت الخلفيه في حال البدء بالتحدث مع اشخاص اخرين.</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
@@ -1086,7 +1086,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition.Header" xml:space="preserve">
-    <value>الماكيرفون</value>
+    <value>المايكروفون</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl.Header" xml:space="preserve">
@@ -1153,7 +1153,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
-    <value>حجم النغمة</value>
+    <value>مستوى صوت النغمة</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_ApplySettings.Header" xml:space="preserve">
@@ -1222,10 +1222,10 @@
     <value>المظهر الداكن</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
-    <value>ضوء السمة</value>
+    <value>المظهر الفاتح</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_LightTheme.Header" xml:space="preserve">
-    <value>ضوة السمه</value>
+    <value>المظهر الفاتح</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Description" xml:space="preserve">
     <value>يؤدي الضغط على مفتاح التشغيل السريع إلى دورات عبر مخرجات الصوت.</value>
@@ -1360,7 +1360,7 @@
     <value>مستوى صوت التنبيه للمحادثة</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Header" xml:space="preserve">
-    <value>مؤشر كشف الأذن</value>
+    <value>مؤشر اكتشاف الأذن</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Volume.Description" xml:space="preserve">
     <value>سيتم خفض مستوى الصوت إلى مستوى الصوت المحدد عند تفعيل الميزة.</value>
@@ -1435,10 +1435,10 @@
     <value>اكتشاف الأذن</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>احفظ</value>
+    <value>حفظ</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
-    <value>يلغي</value>
+    <value>إلغاء</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.PrimaryButtonText" xml:space="preserve">
     <value>انقر للمزيد</value>
@@ -1510,7 +1510,7 @@
     <value>إعادة التسمية</value>
   </data>
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
-    <value>مستوى صوت أصوات العلبة</value>
+    <value>مستوى الصوت الخاص بأصوات العلبة</value>
   </data>
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
     <value>اضبط مستوى صوت مؤثرات العلبة أثناء الشحن.</value>
