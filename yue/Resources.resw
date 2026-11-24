@@ -58,35 +58,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Settings_ReportIssues_Button1.Content" xml:space="preserve">
-    <value>幫助</value>
-  </data>
-  <data name="Settings_ReportIssues_Button3.Content" xml:space="preserve">
-    <value>Debug日誌</value>
-  </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
     <value>啟動</value>
-  </data>
-  <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>設置</value>
-    <comment>Not used</comment>
-  </data>
-  <data name="Settings_Startup_Text2.Header" xml:space="preserve">
-    <value>開機時啓動</value>
-  </data>
-  <data name="Settings_Startup_Text2_description.Text" xml:space="preserve">
-    <value>閣下可以喺任務管理器中開啓關閉此選項。</value>
-  </data>
-  <data name="Settings_SystemTray_Text1.Text" xml:space="preserve">
-    <value>任務欄圖標</value>
-    <comment>Changed</comment>
-  </data>
-  <data name="Settings_SystemTray_Text2.Header" xml:space="preserve">
-    <value>隱藏圖標</value>
-    <comment>Changed</comment>
-  </data>
-  <data name="Settings_SystemTray_Text2_description.Text" xml:space="preserve">
-    <value>重啓程式以應用更改。</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
     <value>耳朵檢測</value>
@@ -112,46 +85,13 @@
   <data name="Headphones_Setting_LowAudioLatency.Description" xml:space="preserve">
     <value>在使用Premiere Pro或Audition時實用。需要在打開後重新連接Airpods。可能提高電力消耗。</value>
   </data>
-  <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>冇搵到AirPods. 請保證AirPods已連接並請重啓app.</value>
-  </data>
-  <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>閣下的電腦唔支持低電量藍牙</value>
-  </data>
   <data name="Notification_LowBattery" xml:space="preserve">
     <value>AirPods電量餘下 {0}%。請儘快充電.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
-  <data name="Settings_Popup_Text1.Text" xml:space="preserve">
-    <value>彈窗設置</value>
-  </data>
-  <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>當打開蓋時顯示或隱藏iPhone風格彈窗.</value>
-  </data>
-  <data name="Settings_Popup_Text2.Header" xml:space="preserve">
-    <value>顯示彈窗</value>
-  </data>
-  <data name="Settings_Popup_Text4.Header" xml:space="preserve">
-    <value>窗口大小</value>
-  </data>
-  <data name="Settings_Popup_Text4_menu1.Text" xml:space="preserve">
-    <value>細</value>
-  </data>
-  <data name="Settings_Popup_Text4_menu2.Text" xml:space="preserve">
-    <value>中</value>
-  </data>
-  <data name="Settings_Popup_Text4_menu3.Text" xml:space="preserve">
-    <value>大</value>
-  </data>
-  <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>重置設定</value>
-  </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>其他</value>
     <comment>Not used now</comment>
-  </data>
-  <data name="Settings_ReportIssues_Button2.Content" xml:space="preserve">
-    <value>反映問題</value>
   </data>
   <data name="Headphones_Setting_FastSearch.Description" xml:space="preserve">
     <value>減少Airpods搜尋時間。僅當確保身邊冇其他人使用Airpods時打開。</value>
@@ -162,17 +102,6 @@
   <data name="Notification_Warning" xml:space="preserve">
     <value>警告</value>
   </data>
-  <data name="Settings_SystemTray_Text3.Header" xml:space="preserve">
-    <value>顯示電量百分比</value>
-    <comment>Changed</comment>
-  </data>
-  <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>將顯示你嘅左右耳機嘅平均電量。</value>
-    <comment>Changed</comment>
-  </data>
-  <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>電池圖標</value>
-  </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>圖標</value>
   </data>
@@ -182,35 +111,11 @@
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
     <value>提示</value>
   </data>
-  <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>若打開充電盒且耳機在內，而動畫視窗沒有顯示時，請將調整滑桿往右調整，直到動畫可正常顯示。</value>
-  </data>
-  <data name="Settings_Popup_Button1.Content" xml:space="preserve">
-    <value>咩係搜尋半徑？</value>
-  </data>
   <data name="Welcome_Button1.Content" xml:space="preserve">
     <value>下一步</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>請將 AirPods 充電盒盡可能地靠近您的電腦並打開</value>
-  </data>
-  <data name="Settings_Popup_Text6_menu3.Text" xml:space="preserve">
-    <value>畫面中央</value>
-  </data>
-  <data name="Settings_Popup_Text6_menu4.Text" xml:space="preserve">
-    <value>左下角</value>
-  </data>
-  <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
-    <value>關閉</value>
-  </data>
-  <data name="Settings_Popup_Text6.Header" xml:space="preserve">
-    <value>視窗位置</value>
-  </data>
-  <data name="Settings_Popup_Text6_menu1.Text" xml:space="preserve">
-    <value>左上角</value>
-  </data>
-  <data name="Settings_Popup_Text6_menu2.Text" xml:space="preserve">
-    <value>右上角</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Content" xml:space="preserve">
     <value>啟用開機啟動</value>
@@ -222,17 +127,11 @@
     <value>實驗功能</value>
     <comment>Not used now</comment>
   </data>
-  <data name="Settings_Connection_Text3_description.Text" xml:space="preserve">
-    <value>顯示或隱藏在提示動畫視窗的「連線」按鈕。點選佢將會與 AirPods 連線。</value>
-  </data>
   <data name="Headphones_Setting_AutoConnect.Header" xml:space="preserve">
     <value>自動連線</value>
   </data>
   <data name="Headphones_Setting_AutoConnect.Description" xml:space="preserve">
     <value>當其中一只AirPods 從充電盒取出個陣自動連線。</value>
-  </data>
-  <data name="Settings_Connection_Text3.Header" xml:space="preserve">
-    <value>顯示「連線」按鈕</value>
   </data>
   <data name="Headphones_Setting_AutoPlay.Header" xml:space="preserve">
     <value>自動播放</value>
@@ -243,12 +142,6 @@
   <data name="Settings_Popup_Tip2_SubtitleText" xml:space="preserve">
     <value>根據您噶使用情況，我們建議將值設定為 {0}</value>
     <comment>{0} will be replaced with a number</comment>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
-    <value>所有設定值將被設定為預設值，您確定要繼續嗎？</value>
-  </data>
-  <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
-    <value>係，回復預設值</value>
   </data>
   <data name="Settings_Popup_Tip2.ActionButtonContent" xml:space="preserve">
     <value>應用</value>
@@ -299,30 +192,14 @@
   <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>支援的播放器清單</value>
   </data>
-  <data name="Settings_Popup_Text5.Header" xml:space="preserve">
-    <value>AirPods 搜尋半徑</value>
-  </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
     <value>添加AirPods 到 Windows 藍牙裝置清單</value>
   </data>
   <data name="Headphones_State_Searching_Header.Text" xml:space="preserve">
     <value>正在搜尋 AirPods</value>
   </data>
-  <data name="Settings_Popup_Text6_menu5.Text" xml:space="preserve">
-    <value>右下角</value>
-  </data>
-  <data name="Settings_Audio_Text1.Text" xml:space="preserve">
-    <value>音效</value>
-  </data>
-  <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
-    <value>搜尋半徑：電腦搜尋打開咗 AirPods 充電盒噶掃描範圍。</value>
-  </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>請唔好將值設定超過 65，咁可能會令動畫提示視窗意外顯示。</value>
-  </data>
-  <data name="Headphones_Settings_AutoPlay_Warning.Text" xml:space="preserve">
-    <value>如果冇開啟任何播放器，Windows 將會忽略呢條指令。</value>
-    <comment>Deprecated</comment>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
     <value>忽略</value>
@@ -387,12 +264,6 @@
   <data name="Battery_Charge.Title" xml:space="preserve">
     <value>已充電</value>
   </data>
-  <data name="Support_Button_Hide.Content" xml:space="preserve">
-    <value>隱藏</value>
-  </data>
-  <data name="Support_Button_Download.Text" xml:space="preserve">
-    <value>下載</value>
-  </data>
   <data name="Support_Button_Translate.Content" xml:space="preserve">
     <value>翻譯</value>
   </data>
@@ -441,27 +312,6 @@
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Header.Text" xml:space="preserve">
     <value>冇配對咗噶耳機</value>
   </data>
-  <data name="Notification_ConnectionOrDisconnectionBusy_description" xml:space="preserve">
-    <value>有其他耳機連線緊或中斷連線，請等待目前噶動作完成後再試一次</value>
-    <comment>Was used in 2.0.5.0 and less</comment>
-  </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Show_All.Content" xml:space="preserve">
-    <value>顯示所有應用程式</value>
-  </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Select_All.Header" xml:space="preserve">
-    <value>全部啟用旁白通知</value>
-  </data>
-  <data name="Notification_ConnectionCanceled" xml:space="preserve">
-    <value>連線已取消</value>
-    <comment>Was used in 2.0.5.0 and less</comment>
-  </data>
-  <data name="Configure_VoiceOver_Choose_Apps_Description.Text" xml:space="preserve">
-    <value>唔係列表中的所有應用程式都可以發送通知，某些應用程式可能唔係列表中。</value>
-  </data>
-  <data name="Notification_ConnectionCanceled_description" xml:space="preserve">
-    <value>您已經連線咗其他 AirPods ，請先中斷連線。</value>
-    <comment>Was used in 2.0.5.0 and less</comment>
-  </data>
   <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
     <value>淺色</value>
   </data>
@@ -471,50 +321,14 @@
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>使用系統嘅主題</value>
   </data>
-  <data name="Settings_Popup_Theme.Header" xml:space="preserve">
-    <value>佈景主題</value>
-  </data>
-  <data name="Settings_AppSettings_Language.Header" xml:space="preserve">
-    <value>語言</value>
-  </data>
   <data name="Settings_AppSettings_Language_DefaultSystem.Text" xml:space="preserve">
     <value>使用系統語言</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput_Item_AudioEndpointRemoved.PlaceholderText" xml:space="preserve">
     <value>裝置無法使用或已被移除</value>
   </data>
-  <data name="Settings_Audio_Button1.Content" xml:space="preserve">
-    <value>更多資訊</value>
-  </data>
-  <data name="Settings_Audio_Text4.Header" xml:space="preserve">
-    <value>旁白通知</value>
-  </data>
-  <data name="Settings_Audio_Text4_description.Text" xml:space="preserve">
-    <value>同耳機連線噶時候並且將佢設為音效輸出裝置時會自動朗讀通知。</value>
-  </data>
-  <data name="Settings_Audio_Text4_Button1.Content" xml:space="preserve">
-    <value>設定</value>
-  </data>
-  <data name="Configure_VoiceOver_Page_Header.Text" xml:space="preserve">
-    <value>旁白設定</value>
-  </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice.Header" xml:space="preserve">
-    <value>選擇語音</value>
-  </data>
-  <data name="Configure_VoiceOver_Choose_Announcer_Voice_Description.Text" xml:space="preserve">
-    <value>只可以朗讀一種語音。</value>
-  </data>
   <data name="Configure_VoiceOver_Choose_Announcer_Voice_No_Selected.PlaceholderText" xml:space="preserve">
     <value>冇可以用噶語音或未選擇</value>
-  </data>
-  <data name="Configure_VoiceOver_Sample_Text.Text" xml:space="preserve">
-    <value>試聽選擇噶語音</value>
-  </data>
-  <data name="Configure_VoiceOver_Sample_Text_Speak_Button.Content" xml:space="preserve">
-    <value>朗讀</value>
-  </data>
-  <data name="Configure_VoiceOver_Choose_Apps.Text" xml:space="preserve">
-    <value>選擇想要使用旁白通知噶應用程式</value>
   </data>
   <data name="Menu_Item5.Content" xml:space="preserve">
     <value>耳機</value>
@@ -531,26 +345,8 @@
   <data name="Headphones_Setting_ConnectDisconnectHotkey.Header" xml:space="preserve">
     <value>連線快捷鍵</value>
   </data>
-  <data name="Support_DeveloperApps.Text" xml:space="preserve">
-    <value>開發者噶其他應用程式</value>
-  </data>
-  <data name="Support_MagicSelect_Description.Text" xml:space="preserve">
-    <value>從任何圖片中複製文字</value>
-  </data>
-  <data name="Support_YAD_Description.Text" xml:space="preserve">
-    <value>係危險噶冒險遊戲中奔跑、跳躍和閃避</value>
-  </data>
-  <data name="Support_Weblate_Description.Text" xml:space="preserve">
-    <value>翻譯、編輯或新增語言</value>
-  </data>
   <data name="Configure_VoiceOver_AppsFilter.PlaceholderText" xml:space="preserve">
     <value>搜尋應用程式</value>
-  </data>
-  <data name="Settings_AppSettings.Text" xml:space="preserve">
-    <value>應用程式設定</value>
-  </data>
-  <data name="Settings_Popup_Button_HeadphonesCapability.Content" xml:space="preserve">
-    <value>Airpods噶支援列表</value>
   </data>
   <data name="Headphones_Image_ChangeImage.Text" xml:space="preserve">
     <value>更變圖片</value>
@@ -560,9 +356,6 @@
   </data>
   <data name="Dialog_NotificationsDenied_PrivacyAndNotifications" xml:space="preserve">
     <value>隱私權與通知</value>
-  </data>
-  <data name="Configure_VoiceOver_Add_Voice_Help_Button.Content" xml:space="preserve">
-    <value>新增語音</value>
   </data>
   <data name="Headphones_Warn_Startup_DisabledByUser.Message" xml:space="preserve">
     <value>為咗最佳使用者體驗，我們建議您啟用開機時啟動。您可以係工作管理員中的「開機」頁面啟用。</value>
@@ -575,9 +368,6 @@
   </data>
   <data name="Headphones_State_SearchingError_Description.Text" xml:space="preserve">
     <value>請按照教程嚟解決問題。</value>
-  </data>
-  <data name="Settings_AppSettings_Theme.Header" xml:space="preserve">
-    <value>佈景主題</value>
   </data>
   <data name="Headphones_HelpMessage_NoPairedHeadphones_Button.Content" xml:space="preserve">
     <value>點樣配對耳機</value>
@@ -637,41 +427,11 @@
   <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
     <value>實驗功能</value>
   </data>
-  <data name="Settings_AudioStreaming_Description.Text" xml:space="preserve">
-    <value>從藍牙裝置串流音訊到您的電腦，將電腦作為藍牙揚聲器使用。</value>
-  </data>
-  <data name="Settings_AudioStreaming_Header.Text" xml:space="preserve">
-    <value>音訊串流</value>
-  </data>
-  <data name="Settings_AudioStreaming_Add_Device_Help_Button.Content" xml:space="preserve">
-    <value>新增裝置</value>
-  </data>
-  <data name="Settings_AudioStreaming_AutoMute.Header" xml:space="preserve">
-    <value>自動靜音</value>
-  </data>
-  <data name="Settings_AudioStreaming_AutoMute_Description.Text" xml:space="preserve">
-    <value>音效裝置變更為電腦揚聲器噶時候，將串流裝置靜音。</value>
-  </data>
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
     <value>連線到串流裝置失敗，請確定串流裝置的藍牙開啟咗。</value>
   </data>
   <data name="Settings_AudioStreaming_Devices.PlaceholderText" xml:space="preserve">
     <value>冇配對好的裝置，或藍牙功能已關閉</value>
-  </data>
-  <data name="Settings_AudioStreaming_Devices.Header" xml:space="preserve">
-    <value>串流裝置</value>
-  </data>
-  <data name="Settings_SoundOutput_Header.Text" xml:space="preserve">
-    <value>音效輸出</value>
-  </data>
-  <data name="Settings_SoundOutput_Description.Text" xml:space="preserve">
-    <value>當音效輸出裝置改變噶時候顯示提示視窗。</value>
-  </data>
-  <data name="Settings_Popup_Text6_menu6.Text" xml:space="preserve">
-    <value>頂部置中</value>
-  </data>
-  <data name="Settings_Popup_Text6_menu7.Text" xml:space="preserve">
-    <value>底部置中</value>
   </data>
   <data name="Support_Setting_Weblate.Header" xml:space="preserve">
     <value>翻譯應用程式</value>
@@ -735,9 +495,6 @@
   </data>
   <data name="Support_Buttons_ReportIssue.Content" xml:space="preserve">
     <value>報告問題</value>
-  </data>
-  <data name="Support_Buttons_OpenLog.Content" xml:space="preserve">
-    <value>偵錯日誌</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>在啟動時運行</value>
