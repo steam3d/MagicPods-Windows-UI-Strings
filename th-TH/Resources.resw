@@ -68,7 +68,7 @@
     <value>หน้าต่างป๊อปอัพ</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>เปิดหน้าข้อมูล</value>
+    <value>แสดงหน้าต่าง</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>ขนาดหน้าต่าง</value>
@@ -397,7 +397,7 @@
     <value>ความไวในการตอบสนองต่อเสียง</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>แสดงแบตเตอรี่ AirPods</value>
+    <value>แสดงเปอร์เซ็นต์แบตเตอรี่</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Setting_EarDetection_DecreaseVolume.Description" xml:space="preserve">
@@ -491,7 +491,7 @@
     <value>เพื่อประสบการณ์การใช้งานที่ดีที่สุด เราขอแนะนําให้คุณเปิดใช้งานการเริ่มต้นระบบ</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
-    <value>เริ่มต้นระบบ</value>
+    <value>เริ่มระบบ</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
     <value>แตะหรือคลิก ที่นี่ เพื่อปรับแต่ง</value>
@@ -620,7 +620,7 @@
     <value>อุปกรณ์สตรีมมิ่ง</value>
   </data>
   <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
-    <value>เสียงออก</value>
+    <value>เอาต์พุตเสียง</value>
   </data>
   <data name="Settings_StyleOptions_TopCenter.Text" xml:space="preserve">
     <value>กลางบน</value>
@@ -731,7 +731,7 @@
     <value>การควบคุมเสียงรบกวน (ANC/Off/Tran.)</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
-    <value>ปกติ</value>
+    <value>กลาง</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>ช้า</value>
@@ -891,7 +891,7 @@
     <value>รูปแบบเดิมๆ</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
-    <value>ตัดรายละเอียดเสียงลมเข้ามา</value>
+    <value>การตัดเสียงลม</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>เสียงรอบข้าง</value>
@@ -1065,7 +1065,7 @@
     <value>สิริ</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
-    <value>เล่น หรือ หยุด</value>
+    <value>เล่น/หยุดชั่วคราว</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
     <value>เพลงถัดไป</value>
@@ -1119,7 +1119,7 @@
     <value>โหมดรับเสียง</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
-    <value>ตัดเสียงรบกวนรอบข้าง</value>
+    <value>การตัดเสียงลม</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>โหมดตัดเสียง</value>

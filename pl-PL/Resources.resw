@@ -123,7 +123,7 @@
     <value>Zmniejsza czas wyszukiwania AirPods'ów. Włącz tylko gdy nikt w pobliżu nie używa innych AirPods'ów.</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>Uruchamianie</value>
+    <value>Automatyczne uruchamianie</value>
   </data>
   <data name="Preferences_Setting_Startup.Description" xml:space="preserve">
     <value>Włączenie lub wyłączenie uruchamiania aplikacji przy starcie systemu Windows.</value>
@@ -146,7 +146,7 @@
     <value>Wymaga ponownego uruchomienia aplikacji.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Pokazuj stan naładowania AirPods-ów</value>
+    <value>Pokazuj procent baterii</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
@@ -223,7 +223,7 @@
     <value>Jaki jest promień wyszukiwania?</value>
   </data>
   <data name="Settings_Popup_Tip1.Title" xml:space="preserve">
-    <value>Wskazówki</value>
+    <value>Wskazówka</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
     <value>Nie ustawiaj wartości powyżej 65 jeśli wyskakujące okienko pojawia się przypadkowo.</value>
@@ -1062,7 +1062,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
-    <value>Wstrzymaj/Wznów odtwarzanie</value>
+    <value>Wznów/Wstrzymaj</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
@@ -1110,7 +1110,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>Szybkość naciśnięcia</value>
+    <value>Prędkość naciśnięcia</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
@@ -1303,7 +1303,7 @@
     <value>Uruchom ponownie aplikację, by zatwierdzić zmiany.</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
-    <value>Restart</value>
+    <value>Uruchom ponownie</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>Anuluj</value>
@@ -1414,7 +1414,7 @@
     <value>Wykrywanie ucha</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
-    <value>Asystent</value>
+    <value>Asystent głosowy</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
     <value>Sterowanie hałasem</value>

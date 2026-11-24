@@ -84,7 +84,7 @@
     <value>متوسط</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>استارت آپ</value>
+    <value>راه‌اندازی خودکار</value>
   </data>
   <data name="Settings_Other_Text1.Text" xml:space="preserve">
     <value>دیگر</value>
@@ -225,7 +225,7 @@
     <value>برای اعمال، برنامه را مجددا راه اندازی کنید.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>نمایش شارژ AirPods روی لوگو</value>
+    <value>نمایش درصد باتری</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
@@ -353,7 +353,7 @@
     <value>هیچ صدایی انتخاب نشده است و یا فعال نیست</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
-    <value>راه اندازی (Startup)</value>
+    <value>راه‌اندازی خودکار</value>
   </data>
   <data name="Configure_VoiceOver_Icon_ChooseApps_ShowAll_Help.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>همه برنامه های موجود در لیست نمی توانند اعلان ارسال کنند، ممکن است برخی از برنامه ها در لیست نباشند.</value>
@@ -416,7 +416,7 @@
     <value>هنگامی که AirPods متصل می شود و به عنوان دستگاه خروجی صدا تنظیم می شود، VoiceOver اعلان ها را اعلام می کند.</value>
   </data>
   <data name="Text_Restart" xml:space="preserve">
-    <value>راه اندازی دوباره نرم افزار</value>
+    <value>راه‌اندازی مجدد</value>
   </data>
   <data name="App_Error.Title" xml:space="preserve">
     <value>یک خطای غیر منتظره رخ داده است</value>
@@ -587,7 +587,7 @@
     <value>ترجمه سریع متن با استفاده از یک کلید ویژه</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>نمایش صفحه</value>
+    <value>نمایش پنجره</value>
   </data>
   <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
     <value>بیشتر بدانید</value>
@@ -614,7 +614,7 @@
     <value>ریزپردازنده هنوز پشتیبانی نشده است</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
-    <value>نویز کنسلیشن</value>
+    <value>حذف نویز</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation_Item_Off.Text" xml:space="preserve">
     <value>خاموش</value>
@@ -650,7 +650,7 @@
     <value>قسمت کنترل لمسی AirPod چپ را فشار داده و نگه دارید</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
-    <value>کمک کننده سخنگو</value>
+    <value>دستیار صوتی</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressAndHold_Item_AncTran.Text" xml:space="preserve">
     <value>نویز کنترل (نویز کنسلینگ/شفاف سازی)</value>
@@ -716,7 +716,7 @@
     <value>در صورت تغییر خروجی صدا، صفحه اعلان را نشان بده.</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
-    <value>نشان دادن میزان باتری باقی مانده</value>
+    <value>نمایش درصد باتری</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>کارکرد (voice communication) هدفون شما در دسترس نخواهد بود. هدفون را به صورت دستی غیر فعال نکنید. برای اعمال تغییرات برنامه را مجددا راه اندازی کنید.</value>
@@ -821,10 +821,10 @@
     <value>خاموش</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation.Header" xml:space="preserve">
-    <value>نویز کنسلیشن</value>
+    <value>حذف نویز</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_WindCancellation.Text" xml:space="preserve">
-    <value>کنسل کردن نویز باد</value>
+    <value>کاهش صدای باد</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_AmbientSound.Text" xml:space="preserve">
     <value>صدای محیط</value>
@@ -930,7 +930,7 @@
     <value>راه اندازی توسط خط مشی گروه غیرفعال شده است یا در این دستگاه پشتیبانی نمی شود.</value>
   </data>
   <data name="Headphones_Setting_Sony_NoiseCancellation_Item_NoiseCancellation.Text" xml:space="preserve">
-    <value>نویز کنسلیشن</value>
+    <value>حذف نویز</value>
   </data>
   <data name="Headphones_Setting_Sony_FocusOnVoice.Description" xml:space="preserve">
     <value>صدای مردم شنیده می شود و سر و صدای محیط سرکوب می شود.</value>
@@ -945,7 +945,7 @@
     <value>ویژگی های آزمایشی</value>
   </data>
   <data name="Headphones_Setting_Airoha_NoiseCancellation.Header" xml:space="preserve">
-    <value>نویز کنسلیشن</value>
+    <value>حذف نویز</value>
   </data>
   <data name="Support_About_ApplicationSetting_MagicPodsPlugin.Description" xml:space="preserve">
     <value>توضیحات پلاگین مجیک پادز: پشتیبانی، درباره نرم افزار، تنظیمات</value>
@@ -954,10 +954,10 @@
     <value>کلید فعالسازی برنامه یافت نشد</value>
   </data>
   <data name="Support_Setting_License.Header" xml:space="preserve">
-    <value>لایسنس</value>
+    <value>مجوز</value>
   </data>
   <data name="Support_Setting_License.HintLink" xml:space="preserve">
-    <value>دکمه خرید</value>
+    <value>خرید کلید</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
     <value>ذخیره</value>
@@ -975,7 +975,7 @@
     <value>وارد کردن کلید لایسنس</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.Title" xml:space="preserve">
-    <value>لایسنس برنامه</value>
+    <value>مجوز</value>
   </data>
   <data name="License_ProductKey_Header.Text" xml:space="preserve">
     <value>کد محصول</value>
@@ -984,7 +984,7 @@
     <value>کلید لایسنس</value>
   </data>
   <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
-    <value>خرید لایسنس</value>
+    <value>خرید کلید</value>
   </data>
   <data name="Support_Setting_License.Description" xml:space="preserve">
     <value>لایسنس برنامه باید پس از نصب مجدد برنامه دوباره وارد شود ( حتما آن را در جایی یادداشت کنید )</value>
@@ -1010,7 +1010,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
-    <value>نویز کنسلیشن</value>
+    <value>حذف نویز</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_Off.Text" xml:space="preserve">
@@ -1052,10 +1052,10 @@
     <value>شفاف سازی</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
-    <value>کنسل کردن نویز باد</value>
+    <value>کاهش صدای باد</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
-    <value>نویز کنسلیشن</value>
+    <value>حذف نویز</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
     <value>بیشتر بدانید</value>
@@ -1076,7 +1076,7 @@
     <value>برنامه را برای اعمال تغییرات ریستارت کنید.</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
-    <value>ریستارت</value>
+    <value>راه‌اندازی مجدد</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>انصراف</value>
@@ -1109,7 +1109,7 @@
     <value>وصل کردن/قطع کردن</value>
   </data>
   <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
-    <value>قطع کردن</value>
+    <value>قطع اتصال</value>
   </data>
   <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
     <value>دستگاه های پخش کننده</value>
@@ -1175,7 +1175,7 @@
     <value>سیری</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
-    <value>پخش/توقف</value>
+    <value>پخش/مکث</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
     <value>ترک بعدی</value>
@@ -1208,7 +1208,7 @@
     <value>همیشه ایرپاد راست</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>سرعت فشار دادن</value>
+    <value>سرعت فشردن</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
     <value>پیش فرض</value>
@@ -1379,7 +1379,7 @@
     <value>تشخیص گوش</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
-    <value>کمک کننده سخنگو</value>
+    <value>دستیار صوتی</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
     <value>کنترل نویز</value>
@@ -1484,7 +1484,7 @@
     <value>گوشی سمت چپ را فشار دهید و نگه دارید</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
-    <value>کمک کننده سخنگو</value>
+    <value>دستیار صوتی</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
     <value>کنترل نویز</value>

@@ -63,7 +63,7 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>ウィンドウを表示</value>
+    <value>ウィンドウを表示する</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>ケースを開いたときにiPhoneに表示されるようなポップアップを表示または非表示にします。</value>
@@ -180,7 +180,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>システムトレイのアイコンにAirPodsのバッテリー残量を表示</value>
+    <value>バッテリー残量（%）を表示</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
@@ -326,7 +326,7 @@
     <value>デバイスが使用できない、または削除されました</value>
   </data>
   <data name="Headphones_Setting_FakeHeadphonesWarning_Button.Content" xml:space="preserve">
-    <value>詳しく知る</value>
+    <value>詳しくはこちら</value>
   </data>
   <data name="Settings_VoiceOver_Setting_OnOff.Header" xml:space="preserve">
     <value>VoiceOver 通知</value>
@@ -653,7 +653,7 @@
     <value>初期設定に戻す</value>
   </data>
   <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
-    <value>詳しく知る</value>
+    <value>詳しくはこちら</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
     <value>サウンド出力切り替えホットキー</value>
@@ -671,7 +671,7 @@
     <value>ホットキーを押してサウンド出力を切り替える。</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
-    <value>バッテリーのパーセンテージを表示する</value>
+    <value>バッテリー残量（%）を表示</value>
   </data>
   <data name="SettingsItem_Experimental.Hint" xml:space="preserve">
     <value>試験的な機能</value>
@@ -722,7 +722,7 @@
     <value>右AirPodsの感度</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
-    <value>押下スピード</value>
+    <value>押すときの間隔</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Description" xml:space="preserve">
     <value>AirPodsを2回または3回押すときの間隔を調整。</value>
@@ -1114,7 +1114,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>プレス速度</value>
+    <value>押すときの間隔</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
@@ -1269,7 +1269,7 @@
     <value>キャンセル</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
-    <value>再起動する</value>
+    <value>再起動</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>サウンド出力の制御</value>
@@ -1299,7 +1299,7 @@
     <value>ウェブサイト</value>
   </data>
   <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
-    <value>接続を切断</value>
+    <value>切断</value>
   </data>
   <data name="Hotkeys_Devices_Search_Input.PlaceholderText" xml:space="preserve">
     <value>名前で検索</value>
@@ -1344,7 +1344,7 @@
     <value>ノイズキャンセリング</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
-    <value>詳しく知る</value>
+    <value>詳しくはこちら</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
     <value>外部音取り込み</value>
@@ -1410,7 +1410,7 @@
     <value>h2チップの特定の機能の動作</value>
   </data>
   <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
-    <value>耳の探知</value>
+    <value>自動耳装着検出</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>音声アシスタント</value>

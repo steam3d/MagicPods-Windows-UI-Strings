@@ -193,7 +193,7 @@
     <value>重启程序以应用更改。</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>显示剩余电量</value>
+    <value>显示电池电量</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>显示已连接耳机的平均剩余电量。</value>
@@ -478,7 +478,7 @@
     <value>连接</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
-    <value>启动选项</value>
+    <value>自启动</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>为获得最佳用户体验，我们建议您启用自动启动。</value>
@@ -814,7 +814,7 @@
     <value>加速</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
-    <value>中等</value>
+    <value>中</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>慢点</value>
@@ -829,7 +829,7 @@
     <value>较短</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
-    <value>适中</value>
+    <value>中</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Longer.Text" xml:space="preserve">
     <value>更长</value>
@@ -1464,7 +1464,7 @@
     <value>如果耳机设置中有“{0}”选项且该模式被支持，那么按下热键就会激活这种模式。</value>
   </data>
   <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
-    <value>人耳检测</value>
+    <value>入耳检测</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>语音助手</value>
@@ -1482,7 +1482,7 @@
     <value>取消</value>
   </data>
   <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
-    <value>人耳检测</value>
+    <value>入耳检测</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
     <value>保存</value>

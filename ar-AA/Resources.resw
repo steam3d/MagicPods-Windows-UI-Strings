@@ -72,7 +72,7 @@
     <value>نافذة منبثقة</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>أظهر النافذة</value>
+    <value>إظهار النافذة</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>إظهار أو إخفاء النافذة المنبثقة كما تظهر على جهاز الآيفون، عند فتح غطاء السماعات.</value>
@@ -96,7 +96,7 @@
     <value>اكتشاف الأذن</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>تشغيل/ايقاف</value>
+    <value>تشغيل/إيقاف مؤقت</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>كلاهما (خفض الصوت + تشغيل/توقيف)</value>
@@ -126,7 +126,7 @@
     <value>الوضع الليلي</value>
   </data>
   <data name="Text_Connect" xml:space="preserve">
-    <value>ربط</value>
+    <value>اتصال</value>
   </data>
   <data name="Slider_TextOff" xml:space="preserve">
     <value>إيقاف</value>
@@ -141,11 +141,11 @@
     <value>مفيد عند العمل مع برنامج «Premiere Pro» او «Audition». يحتاج لإعادة ربط السماعات بعد تشغيله. قد يزيد من إستهلاك البطارية.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>أظهر نسبة شحن البطارية</value>
+    <value>إظهار نسبة شحن البطارية</value>
     <comment>Changed</comment>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>بدء</value>
+    <value>بدء التشغيل</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>فعل عند بدء التشغيل</value>
@@ -270,7 +270,7 @@
     <value>خروج</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
-    <value>الغاء</value>
+    <value>إلغاء</value>
   </data>
   <data name="Menu_Item4.Content" xml:space="preserve">
     <value>الدعم</value>
@@ -343,7 +343,7 @@
     <value>اعد تشغيل البرنامج لتطبيق التغييرات.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>اظهر النافذة</value>
+    <value>إظهار النافذة</value>
   </data>
   <data name="Headphones_Setting_SwitchAudioOutput_Item_Disabled.Text" xml:space="preserve">
     <value>إيقاف</value>
@@ -551,7 +551,7 @@
     <value>إعادة تشغيل التطبيق قد يساعدك</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
-    <value>اظهر نسبة البطارية</value>
+    <value>إظهار نسبة شحن البطارية</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>لن تكون وظيفة التحدث الحر (الاتصال الصوتي) لسماعة الرأس متاحة. لا تقم بتعطيل السماعة يدويًا. أعد تشغيل البرنامج لتطبيق التغييرات.</value>
@@ -755,7 +755,7 @@
     <value>أكثر سرعة</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
-    <value>متو سط</value>
+    <value>متوسط</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>أبطأ</value>
@@ -776,7 +776,7 @@
     <value>ضبط السرعة المطلوبة بالضغط مرتين أو ثلاث مرات على AirPod اليسرى و اليمنى.</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
-    <value>اقصر</value>
+    <value>أقصر</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
     <value>متوسط</value>
@@ -872,7 +872,7 @@
     <value>أغلق</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>الغاء</value>
+    <value>إلغاء</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>إذهب إلى بدء التشغيل</value>
@@ -963,10 +963,10 @@
     <value>ادخل المفتاح</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
-    <value>احفظ</value>
+    <value>حفظ</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
-    <value>الغاء</value>
+    <value>إلغاء</value>
   </data>
   <data name="License_ProductKey_Header.Text" xml:space="preserve">
     <value>مفتاح الترخيص</value>
@@ -1062,7 +1062,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
-    <value>تشغيل/وقف</value>
+    <value>تشغيل/إيقاف مؤقت</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
@@ -1171,7 +1171,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
-    <value>قصير</value>
+    <value>أقصر</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition.Description" xml:space="preserve">
@@ -1312,7 +1312,7 @@
     <value>إعادة تشغيل</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
-    <value>الغاء</value>
+    <value>إلغاء</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Setting.Description" xml:space="preserve">
     <value>يؤدي الضغط على مفتاح التشغيل السريع إلى الانتقال عبر أوضاع إلغاء الضوضاء إذا كان «{0}» متاحًا في إعدادات سماعة الرأس.</value>
@@ -1426,10 +1426,10 @@
     <value>أصوات العلبة</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>احفظ</value>
+    <value>حفظ</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
-    <value>الغاء</value>
+    <value>إلغاء</value>
   </data>
   <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
     <value>اكتشاف الأذن</value>

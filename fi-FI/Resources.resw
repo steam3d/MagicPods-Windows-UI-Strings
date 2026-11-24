@@ -182,7 +182,7 @@
     <value>Käynnistä sovellus uudelleen ottaaksesi muutokset käyttöön.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Näytä akunvaraus kuvakkeessa</value>
+    <value>Näytä akun varaustaso</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
@@ -738,7 +738,7 @@
     <value>Nopeampi</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>Keskitaso</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>Hitaampi</value>
@@ -753,7 +753,7 @@
     <value>Lyhyempi</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>Keskitaso</value>
   </data>
   <data name="Headphones_Setting_Airoha_EMP.Header" xml:space="preserve">
     <value>Parannettu multipoint yhteys</value>
@@ -774,7 +774,7 @@
     <value>Matala</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Medium.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>Keskitaso</value>
   </data>
   <data name="Headphones_Setting_Airoha_WindNoiseReduction_Sensitivity_Item_Hight.Text" xml:space="preserve">
     <value>Korkea</value>
@@ -1027,7 +1027,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
-    <value>Toista/Pysäytä</value>
+    <value>Toista/keskeytä</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
@@ -1201,7 +1201,7 @@
     <value>Pikanäppäimet</value>
   </data>
   <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
-    <value>Äänen ulostulo</value>
+    <value>Äänilähtö</value>
   </data>
   <data name="Headphones_Setting_HfpBattery.Header" xml:space="preserve">
     <value>Akun tila Handsfreen kautta</value>
@@ -1216,7 +1216,7 @@
     <value>Pikanäppäintä painaminen vaihtaa vastamelun tilaa jos ”{0}” on saatavilla kuulokkeiden asetuksissa.</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>Painallusten nopeus</value>
+    <value>Painamisnopeus</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
     <value>Vaalea teema</value>
@@ -1432,7 +1432,7 @@
     <value>Tallenna</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
-    <value>Kumoa</value>
+    <value>Peruuta</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.PrimaryButtonText" xml:space="preserve">
     <value>Lue lisää</value>

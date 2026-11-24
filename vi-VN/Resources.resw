@@ -68,7 +68,7 @@
     <value>Giảm thời gian tìm kiếm AirPods. Bật chức năng này lên nếu bạn chắc chắn rằng không ai xung quanh bạn đang sử dụng AirPods.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Hiển thị phần trăm pin còn lại</value>
+    <value>Hiển thị phần trăm pin</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
@@ -230,7 +230,7 @@
     <value>Thoát</value>
   </data>
   <data name="Menu_DialogClose.CloseButtonText" xml:space="preserve">
-    <value>Huỷ</value>
+    <value>Hủy</value>
   </data>
   <data name="Headphones_Setting_EarDetection.HintLink" xml:space="preserve">
     <value>Danh sách các thiết bị được hỗ trợ</value>
@@ -650,7 +650,7 @@
     <value>Khởi động lại ứng dụng để áp dụng thay đổi.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Hiện cửa sổ</value>
+    <value>Hiển thị cửa sổ</value>
   </data>
   <data name="Support_Setting_Discord.Header" xml:space="preserve">
     <value>Cộng đồng</value>
@@ -758,10 +758,10 @@
     <value>Nhanh</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>Chậm</value>
+    <value>Chậm hơn</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
-    <value>Tốc độ chạm</value>
+    <value>Tốc độ nhấn</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
     <value>Thời gian giữ thân tai nghe</value>
@@ -890,7 +890,7 @@
     <value>Khởi động bị vô hiệu hóa bởi chính sách nhóm</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>Huỷ</value>
+    <value>Hủy</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
     <value>Đi tới Startup</value>
@@ -982,7 +982,7 @@
     <value>Bản quyền</value>
   </data>
   <data name="Support_Setting_License.HintLink" xml:space="preserve">
-    <value>Mua khoá</value>
+    <value>Mua khoá bản quyền</value>
   </data>
   <data name="Headphones_HelpMessage_License_Description.Text" xml:space="preserve">
     <value>mua hoặc nhập mã tồn tại trong trang “{0}” và “{1}”</value>
@@ -1019,7 +1019,7 @@
     <value>Lưu</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
-    <value>Huỷ</value>
+    <value>Hủy</value>
   </data>
   <data name="License_ProductKey_Header.Text" xml:space="preserve">
     <value>Mã sản phẩm</value>
@@ -1304,7 +1304,7 @@
     <value>Thích ứng</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_WindCancellation.Content" xml:space="preserve">
-    <value>Giảm tiếng gió</value>
+    <value>Khử tiếng gió</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>Khử tiếng ồn</value>
@@ -1373,7 +1373,7 @@
     <value>.Nhấn “{0}” để chuyển đổi giữa các chế độ khử tiếng ồn đã chọn.</value>
   </data>
   <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
-    <value>Phát hiện tai</value>
+    <value>Phát hiện khi đeo tai nghe</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>Trợ lý giọng nói</value>
@@ -1388,16 +1388,16 @@
     <value>Lưu</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.CloseButtonText" xml:space="preserve">
-    <value>Huỷ</value>
+    <value>Hủy</value>
   </data>
   <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
-    <value>Phát hiện tai nghe đeo trên tai</value>
+    <value>Phát hiện khi đeo tai nghe</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
     <value>Lưu</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.CloseButtonText" xml:space="preserve">
-    <value>Huỷ bỏ</value>
+    <value>Hủy</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.PrimaryButtonText" xml:space="preserve">
     <value>Tìm hiểu thêm</value>

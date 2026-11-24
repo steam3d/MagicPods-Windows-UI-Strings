@@ -93,13 +93,13 @@
     <value>निकास</value>
   </data>
   <data name="Headphones_Setting_EarDetection.Header" xml:space="preserve">
-    <value>कान जाच</value>
+    <value>कान की ऑटोमैटिक पहचान</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_Both.Text" xml:space="preserve">
     <value>दोनों (आवाज़ कम करें + बजाना/रोकना)</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>बजाना/रोकना</value>
+    <value>चलाएँ/रोकें</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>आवाज़ कम करें</value>
@@ -118,7 +118,7 @@
     <value>तेज खोज</value>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>चालू करे</value>
+    <value>स्टार्टअप</value>
   </data>
   <data name="Preferences_Setting_Startup.Header" xml:space="preserve">
     <value>स्टार्टाप पर शुरू हो</value>
@@ -179,13 +179,13 @@
     <value>नहीं</value>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
-    <value>एग्ज़िट</value>
+    <value>निकास</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
     <value>MagicPods से बाहर निकलें?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
-    <value>एग्ज़िट</value>
+    <value>निकास</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
     <value>बैटरी आइकन</value>
@@ -473,7 +473,7 @@
     <value>चित्र बदलो</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>आइकन पर एयरपॉड्स चार्ज दिखाएं</value>
+    <value>बैटरी प्रतिशत दिखाएं</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
@@ -656,7 +656,7 @@
     <value>हॉटकी के साथ पाठ का त्वरित अनुवाद करें</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>खिड़की दिखाएंं</value>
+    <value>विंडो दिखाएं</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
     <value>बैटरी प्रतिशत दिखाएं</value>
@@ -668,7 +668,7 @@
     <value>हेडफ़ोन का हैंड्स-फ़्री फ़ंक्शन (आवाज़ संचार) उपलब्ध नहीं होगा। हैंड्स-फ़्री को मैन्युअल रूप से बऺद न करें। परिवर्तनों को लागू करने के लिए एप्लिकेशन को पुनरारंभ करें।</value>
   </data>
   <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
-    <value>और जाने</value>
+    <value>और जानें</value>
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
     <value>प्रारंभिक व्यवस्था को लागू करें</value>
@@ -866,7 +866,7 @@
     <value>सेटिंग्स सेव करें</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
-    <value>बंद करना</value>
+    <value>बंद करें</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
     <value>स्टार्टअप समूह नीति द्वारा अक्षम है, या इस डिवाइस पर समर्थित नहीं है।</value>
@@ -1109,7 +1109,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>स्पीड दबाएं</value>
+    <value>दबाने की गति</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
@@ -1315,7 +1315,7 @@
     <value>परिवर्तन लागू करने के लिए एप्लिकेशन को पुनः आरंभ करें।</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
-    <value>पुनः आरंभ</value>
+    <value>पुनर्प्रारंभ</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>रद्द करना</value>
@@ -1414,7 +1414,7 @@
     <value>यदि हेडफ़ोन सेटिंग्स में “{0}” उपलब्ध है और यह मोड समर्थित है, तो हॉटकी दबाने पर यह मोड सक्रिय हो जाएगा।</value>
   </data>
   <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
-    <value>कान का पता लगना</value>
+    <value>कान की ऑटोमैटिक पहचान</value>
   </data>
   <data name="Headphones_Setting_Beats_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>आवाज सहायक</value>
@@ -1432,7 +1432,7 @@
     <value>रद्द करना</value>
   </data>
   <data name="Headphones_Setting_Airoha_EarDetection.Header" xml:space="preserve">
-    <value>कान जाच</value>
+    <value>कान की ऑटोमैटिक पहचान</value>
   </data>
   <data name="Headphones_Setting_ColorPickerButton_ContentDialog.PrimaryButtonText" xml:space="preserve">
     <value>संरक्षित करें</value>

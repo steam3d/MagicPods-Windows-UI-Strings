@@ -190,7 +190,7 @@
     <comment>Not used</comment>
   </data>
   <data name="Headphones_Warn_Startup.Title" xml:space="preserve">
-    <value>启动项</value>
+    <value>啟動</value>
   </data>
   <data name="Settings_Startup_Text2.Header" xml:space="preserve">
     <value>开机自动运行</value>
@@ -348,7 +348,7 @@
     <value>显示弹窗</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>展示弹窗</value>
+    <value>顯示視窗</value>
   </data>
   <data name="Settings_CustomizePopup_Setting_Size.Header" xml:space="preserve">
     <value>弹窗大小</value>
@@ -384,7 +384,7 @@
     <value>隐藏图标</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>显示电量百分比</value>
+    <value>顯示電池百分比</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>当您打开充电仓，是否像在iPhone上一样显示或隐藏弹窗。</value>
@@ -576,7 +576,7 @@
     <value>为获得最佳用户体验，我们建议您启用自动启动。</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
-    <value>启动选项</value>
+    <value>啟動</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
     <value>轻点此处来个性化配置</value>
@@ -597,7 +597,7 @@
     <value>一键快速翻译文字</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>显示窗口</value>
+    <value>顯示視窗</value>
   </data>
   <data name="Preferences_Setting_ResetSettings.Header" xml:space="preserve">
     <value>重置回默认设置</value>
@@ -706,7 +706,7 @@
     <value>耳机断掉连接后暂停播放。</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Header.Text" xml:space="preserve">
-    <value>显示电池电量</value>
+    <value>顯示電池百分比</value>
   </data>
   <data name="Headphones_Settings_HfpBattery_Description.Text" xml:space="preserve">
     <value>耳机的免提功能（语音通信）将无法用。请勿手动关掉免提。重新启动应用程序后更改生效。</value>
@@ -724,7 +724,7 @@
     <value>正在连接</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
-    <value>断掉连接</value>
+    <value>斷線</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
     <value>正在断掉连接</value>
@@ -797,7 +797,7 @@
     <value>串流设备</value>
   </data>
   <data name="Settings_SoundOutput_Header.Header" xml:space="preserve">
-    <value>音频输出</value>
+    <value>聲音輸出</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Description" xml:space="preserve">
     <value>当音频输出设备变更时，弹窗提示。</value>
@@ -897,7 +897,7 @@
     <value>活动的 AirPod 麦克风可以自动从左到右改变，或固定在一侧。</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>慢点</value>
+    <value>較慢</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
     <value>按住持续时间</value>
@@ -918,7 +918,7 @@
     <value>右侧AirPod 灵敏度</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
-    <value>按压速度</value>
+    <value>按壓速度</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
     <value>更快</value>
@@ -927,7 +927,7 @@
     <value>中等</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>慢</value>
+    <value>較慢</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
     <value>长按</value>
@@ -1143,7 +1143,7 @@
     <value>Siri</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
-    <value>播放/暂停</value>
+    <value>播放/暫停</value>
   </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_NextTrack.Text" xml:space="preserve">
     <value>下一曲目</value>
@@ -1182,7 +1182,7 @@
     <value>总是离开AirPod</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>压机速度</value>
+    <value>按壓速度</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
     <value>调整按 AirPods 两到三下所需的速度。</value>
@@ -1233,7 +1233,7 @@
     <value>噪音控制</value>
   </data>
   <data name="Hotkeys_SoundOutput_Header.Header" xml:space="preserve">
-    <value>声音输出</value>
+    <value>聲音輸出</value>
   </data>
   <data name="Hotkeys_SoundOutput_SoundOutputControl_Setting.Header" xml:space="preserve">
     <value>声音输出控制</value>
@@ -1257,7 +1257,7 @@
     <value>连接</value>
   </data>
   <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
-    <value>断开</value>
+    <value>斷線</value>
   </data>
   <data name="Hotkeys_Devices_Headphones_CheckBox.Content" xml:space="preserve">
     <value>耳机</value>
@@ -1554,7 +1554,7 @@
     <value>單耳使用時嘛會使降噪。</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.Title" xml:space="preserve">
-    <value>重命名</value>
+    <value>改名</value>
   </data>
   <data name="Headphones_Setting_Rename_ContentDialog.SecondaryButtonText" xml:space="preserve">
     <value>恢復預設</value>

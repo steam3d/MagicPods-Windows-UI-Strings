@@ -102,7 +102,7 @@
     <value>Стартиране</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Показване на заряд върху иконата</value>
+    <value>Показване на процент на батерията</value>
     <comment>Changed</comment>
   </data>
   <data name="Menu_Close.Content" xml:space="preserve">
@@ -137,7 +137,7 @@
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Покажи прозорец</value>
+    <value>Покажи прозореца</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Покажи или скрий изскачащ прозорец като на iPhone при отваряне на кутийката.</value>
@@ -385,7 +385,7 @@
     <value>Настройки на приложението</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_StartupApps.Content" xml:space="preserve">
-    <value>Включване при старт</value>
+    <value>Стартиране</value>
   </data>
   <data name="Headphones_State_Disconnected_Header.Text" xml:space="preserve">
     <value>Цъкни или кликни тук за персонализиране</value>
@@ -403,7 +403,7 @@
     <value>Свързване</value>
   </data>
   <data name="Text_Disconnect" xml:space="preserve">
-    <value>Разкачи</value>
+    <value>Прекъснете връзката</value>
   </data>
   <data name="Text_Disconnecting" xml:space="preserve">
     <value>Разкачане</value>
@@ -783,7 +783,7 @@
     <value>Променя времето, нужно за задържане на лява AirPod и дясна AirPod.</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Shorter.Text" xml:space="preserve">
-    <value>По-късо</value>
+    <value>По-кратко</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress_Item_Medium.Text" xml:space="preserve">
     <value>Средно</value>
@@ -1059,7 +1059,7 @@
     <value>Озвучаване</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>Натисни скорост</value>
+    <value>Скорост на натискане</value>
   </data>
   <data name="Headphones_Setting_Aap_MicrophonePosition_Item_Auto.Text" xml:space="preserve">
     <value>Автоматично</value>
@@ -1104,7 +1104,7 @@
     <value>Научи повече</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Content" xml:space="preserve">
-    <value>Изкл.</value>
+    <value>Изключено</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Transparency.Content" xml:space="preserve">
     <value>Прозрачност</value>
@@ -1122,7 +1122,7 @@
     <value>Рестартирайте приложението, за да приложите промените.</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
-    <value>Рестартирайте</value>
+    <value>Рестартирай</value>
   </data>
   <data name="Preferences_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>Отказ</value>
@@ -1230,7 +1230,7 @@
     <value>По подразбиране</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
-    <value>По-кратъко</value>
+    <value>По-кратко</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
     <value>Най-кратко</value>
@@ -1476,7 +1476,7 @@
     <value>Името е прекалено дълго.</value>
   </data>
   <data name="Headphones_Setting_Rename_Button.Content" xml:space="preserve">
-    <value>Преиненувай</value>
+    <value>Преименувай</value>
   </data>
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Header" xml:space="preserve">
     <value>Силата на звука на кутийката</value>

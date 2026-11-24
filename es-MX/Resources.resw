@@ -193,7 +193,7 @@
     <value>Reiniciar la aplicacion para aplicar los cambios.</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Mostrar porcentaje de batería</value>
+    <value>Mostrar el porcentaje de batería</value>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Description" xml:space="preserve">
     <value>Muestra el porcentaje medio de batería de los auriculares conectados.</value>
@@ -671,7 +671,7 @@
     <value>Mostrar ventana</value>
   </data>
   <data name="SettingsItem_Experimental.HintLink" xml:space="preserve">
-    <value>Saber más</value>
+    <value>Más información</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
     <value>cambia la salida de sonido con tecla de acceso rápido</value>
@@ -809,7 +809,7 @@
     <value>Sensibilidad del AirPod derecho</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
-    <value>Presione velocidad</value>
+    <value>Velocidad de presionado</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
     <value>Rápido</value>
@@ -818,7 +818,7 @@
     <value>Medio</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>Lento</value>
+    <value>Más lento</value>
   </data>
   <data name="Headphones_Setting_Airoha_LongPress.Header" xml:space="preserve">
     <value>Pulsación larga</value>
@@ -985,7 +985,7 @@
     <value>Licencia</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Save.PrimaryButtonText" xml:space="preserve">
-    <value>Salvar</value>
+    <value>Guardar</value>
   </data>
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
     <value>Cancelar</value>
@@ -1184,7 +1184,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
-    <value>Mas lento</value>
+    <value>Más lento</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
@@ -1200,7 +1200,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
-    <value>Predeterminado</value>
+    <value>Por defecto</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHoldDuration.Description" xml:space="preserve">
@@ -1438,7 +1438,7 @@
     <value>Activar cancelación de viento</value>
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
-    <value>Aprende mas</value>
+    <value>Más información</value>
   </data>
   <data name="Headphones_Setting_Beats_EarDetection.Header" xml:space="preserve">
     <value>Detección de oido</value>
@@ -1468,10 +1468,10 @@
     <value>Cancelar</value>
   </data>
   <data name="Preferences_Setting_Startup_ContentDialog_DisabledByPolicy.PrimaryButtonText" xml:space="preserve">
-    <value>Aprende mas</value>
+    <value>Más información</value>
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
-    <value>Aprende mas</value>
+    <value>Más información</value>
   </data>
   <data name="Hotkeys_Headphones_NoiseControl_Set_Off_Setting.Description" xml:space="preserve">
     <value>Al presionar la tecla de acceso rápido se activa este modo si "{0}" está disponible en la configuración de los auriculares y el modo es compatible.</value>

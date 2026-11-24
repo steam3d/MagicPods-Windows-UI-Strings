@@ -78,7 +78,7 @@
     <value>Jendela Pop-up</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Tampilkan Jendela</value>
+    <value>Tampilkan jendela</value>
   </data>
   <data name="Settings_Popup_Setting_ShowPopup.Description" xml:space="preserve">
     <value>Tampilkan atau sembunyikan jendela pop-up seperti di iPhone, saat Anda membuka casing.</value>
@@ -99,7 +99,7 @@
     <value>Reset Pengaturan</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_PlayPause.Text" xml:space="preserve">
-    <value>Mainkan/Jeda</value>
+    <value>Putar/Jeda</value>
   </data>
   <data name="Headphones_Setting_EarDetection_Item_DecreaseVolume.Text" xml:space="preserve">
     <value>Kurangi Volume</value>
@@ -140,7 +140,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_ShowBattery.Header" xml:space="preserve">
-    <value>Tampilkan ikon AirPods saat pengisian daya</value>
+    <value>Tampilkan persentase baterai</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle.Header" xml:space="preserve">
@@ -647,13 +647,13 @@
     <value>Sensitivitas AirPod kanan</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed.Header" xml:space="preserve">
-    <value>Tekan kecepatan</value>
+    <value>Kecepatan tekan</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Faster.Text" xml:space="preserve">
     <value>Lebih cepat</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Medium.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>Sedang</value>
   </data>
   <data name="Headphones_Setting_Airoha_PressSpeed_Item_Slower.Text" xml:space="preserve">
     <value>Lebih lambat</value>
@@ -843,7 +843,7 @@
     <value>Fungsi Handsfree (komunikasi suara) pada headphone tidak akan tersedia. Jangan nonaktifkan Handsfree secara manual. Restart aplikasi untuk menerapkan perubahan.</value>
   </data>
   <data name="Settings_SoundOutput_Setting_ShowPopup.Header" xml:space="preserve">
-    <value>Tunjukkan jendela aplikasi</value>
+    <value>Tampilkan jendela</value>
   </data>
   <data name="Settings_SoundOutput_Setting_SwitchHotkey.Header" xml:space="preserve">
     <value>Ganti hotkey output suara</value>
@@ -1065,7 +1065,7 @@
     <value>Batal</value>
   </data>
   <data name="Headphones_HelpMessage_License_Button_BuyKey.Content" xml:space="preserve">
-    <value>Tombol pembelian</value>
+    <value>Beli kode lisensi</value>
   </data>
   <data name="Headphones_HelpMessage_License_Header.Text" xml:space="preserve">
     <value>Kode lisensi tidak ditemukan</value>
@@ -1128,7 +1128,7 @@
     <value>Tekan sekali/Tekan dua kali</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
-    <value>Kecepatan Tekan</value>
+    <value>Kecepatan tekan</value>
   </data>
   <data name="Headphones_Setting_Aap_PressSpeed.Description" xml:space="preserve">
     <value>Mengubah kecepatan yang dibutuhkan untuk menekan dua atau tiga kali pada AirPods anda.</value>
@@ -1206,7 +1206,7 @@
     <value>Menghubungkan / Memutuskan</value>
   </data>
   <data name="Hotkeys_Devices_Disconnect_Setting.Header" xml:space="preserve">
-    <value>Memutuskan</value>
+    <value>Putuskan</value>
   </data>
   <data name="Hotkeys_Devices_StreamingDevices_CheckBox.Content" xml:space="preserve">
     <value>Perangkat streaming</value>
@@ -1224,10 +1224,10 @@
     <value>Ikon baterai tunggal</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_LightTheme.Header" xml:space="preserve">
-    <value>Mode terang</value>
+    <value>Tema terang</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_DarkTheme.Header" xml:space="preserve">
-    <value>Mode gelap</value>
+    <value>Tema gelap</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_FontSize.Header" xml:space="preserve">
     <value>Ukuran huruf</value>
@@ -1248,7 +1248,7 @@
     <value>Tema terang</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Analog_DarkTheme.Header" xml:space="preserve">
-    <value>Tema Gelap</value>
+    <value>Tema gelap</value>
   </data>
   <data name="Settings_SystemTray_Setting_BatteryStyle_Digital_IconColor.ToolTipService.ToolTip" xml:space="preserve">
     <value>Warna ikon</value>
