@@ -691,6 +691,10 @@
     <value>Izslēgts</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
+    <value>Trokšņu kontrole no austiņām</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>Trokšņu novēršana</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
@@ -717,6 +721,18 @@
   <data name="Hotkeys_Devices_Connect_Setting.Header" xml:space="preserve">
     <value>Savienot</value>
   </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>Digital Crown</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>No aizmugures uz priekšu</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>No priekšpuses uz aizmuguri</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
   <data name="Hotkeys_Headphones_Header.Header" xml:space="preserve">
     <value>Austiņas</value>
   </data>
@@ -731,6 +747,9 @@
   </data>
   <data name="Battery_Right.Title" xml:space="preserve">
     <value>Labais</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>Samazināt skaļumu runāšanas laikā</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Text" xml:space="preserve">
     <value>Izslēgts</value>
@@ -857,5 +876,32 @@
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Adaptive.Text" xml:space="preserve">
     <value>Adaptīvā</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Izslēgts klausīšanās režīms</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Ieslēgts</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Izslēgts</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Labās puses turēšana nospiestā stāvoklī</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Kreisās puses turēšana nospiestā stāvoklī</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Balss asistents</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Palielināt skaļumu</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Samazināt skaļumu</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Optimizēts uzlādes ierobežojums</value>
   </data>
 </root>

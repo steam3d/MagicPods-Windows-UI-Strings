@@ -1515,6 +1515,18 @@
   <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
     <value>La clave de producto no coincide con la clave de licencia. Pruebe con una clave de licencia diferente.</value>
   </data>
+  <data name="Headphones_Setting_Aap_AdaptiveNoise.Header" xml:space="preserve">
+    <value>Modo adaptativo</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Mostrar modo Desactivado</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Activado</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Desactivado</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>Mantén presionado el auricular derecho</value>
   </data>
@@ -1535,5 +1547,35 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>Ecualizador</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQLow.Header" xml:space="preserve">
+    <value>Graves</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQMid.Header" xml:space="preserve">
+    <value>Medios</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQHigh.Header" xml:space="preserve">
+    <value>Agudos</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Límite de carga optimizado</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Pausa al dormirse</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipe.Header" xml:space="preserve">
+    <value>Control de volumen por deslizamiento</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength.Header" xml:space="preserve">
+    <value>Longitud del deslizamiento</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Default.Text" xml:space="preserve">
+    <value>Por omisión</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longer.Text" xml:space="preserve">
+    <value>Largo</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longest.Text" xml:space="preserve">
+    <value>Más largo</value>
   </data>
 </root>

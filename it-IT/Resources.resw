@@ -1512,6 +1512,18 @@
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
     <value>Regola il volume degli effetti sonori della custodia di ricarica.</value>
   </data>
+  <data name="Headphones_Setting_Aap_AdaptiveNoise.Header" xml:space="preserve">
+    <value>Modalità adattiva</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Modalità di ascolto disattivata</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Attivata</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Disattivata</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>Premi e mantieni la cuffia destra</value>
   </data>
@@ -1532,5 +1544,35 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>Equalizzatore</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQLow.Header" xml:space="preserve">
+    <value>Bassi</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQMid.Header" xml:space="preserve">
+    <value>Medi</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQHigh.Header" xml:space="preserve">
+    <value>Alti</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Limite di carica ottimizzato</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Pausa all’addormentamento</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipe.Header" xml:space="preserve">
+    <value>Regolazione del volume con scorrimento</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength.Header" xml:space="preserve">
+    <value>Lunghezza dello scorrimento</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Default.Text" xml:space="preserve">
+    <value>Predefinito</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longer.Text" xml:space="preserve">
+    <value>Lungo</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longest.Text" xml:space="preserve">
+    <value>Più lungo</value>
   </data>
 </root>

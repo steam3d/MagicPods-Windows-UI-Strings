@@ -1567,6 +1567,18 @@
   <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
     <value>Ключ продукта не совпадает с ключом продукта в лицензионном ключе. Попробуйте использовать другой лицензионный ключ.</value>
   </data>
+  <data name="Headphones_Setting_Aap_AdaptiveNoise.Header" xml:space="preserve">
+    <value>Адаптивный режим</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Режим прослушивания: выкл.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Включён</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Выключен</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>Нажатие и удержание правого наушника</value>
   </data>
@@ -1587,5 +1599,35 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>Эквалайзер</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQLow.Header" xml:space="preserve">
+    <value>Низкие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQMid.Header" xml:space="preserve">
+    <value>Средние</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQHigh.Header" xml:space="preserve">
+    <value>Высокие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Оптимизированный лимит зарядки</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Пауза при засыпании</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipe.Header" xml:space="preserve">
+    <value>Регулировка громкости смахиванием</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength.Header" xml:space="preserve">
+    <value>Длина смахивания</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Default.Text" xml:space="preserve">
+    <value>По умолчанию</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longer.Text" xml:space="preserve">
+    <value>Длиннее</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longest.Text" xml:space="preserve">
+    <value>Очень длинно</value>
   </data>
 </root>

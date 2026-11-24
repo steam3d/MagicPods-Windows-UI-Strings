@@ -1565,6 +1565,15 @@
   <data name="Headphones_Setting_Rename_ContentDialog_ErrorLongText.Text" xml:space="preserve">
     <value>De naam is te lang.</value>
   </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Luistermodus 'Uit'</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Ingeschakeld</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Uitgeschakeld</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>Druk en houd het rechter oordopje vast</value>
   </data>
@@ -1585,5 +1594,11 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>Toonregelaar</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Geoptimaliseerde oplaadlimiet</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Pauzeren bij inslapen</value>
   </data>
 </root>

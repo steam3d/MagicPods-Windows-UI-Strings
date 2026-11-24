@@ -1389,13 +1389,40 @@
   <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
     <value>Beszélgetésérzékelés hangereje</value>
   </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Kikapcsolt hallgatási mód</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Engedélyezve</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Letiltva</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Jobb oldali nyomva tartás</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Bal oldali nyomva tartás</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>Hangasszisztens</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
     <value>Zajkezelés</value>
   </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Hangerő növelése</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Hangerő csökkentése</value>
+  </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>Ekvalizer</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Optimalizált töltési korlát</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Szüneteltetés elalváskor</value>
   </data>
 </root>

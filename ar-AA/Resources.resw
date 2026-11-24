@@ -1518,6 +1518,18 @@
   <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
     <value>مفتاح المنتج لا يطابق مفتاح المنتج الموجود في مفتاح الترخيص. يرجى تجربة مفتاح ترخيص مختلف.</value>
   </data>
+  <data name="Headphones_Setting_Aap_AdaptiveNoise.Header" xml:space="preserve">
+    <value>الوضع التكيفي</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>وضع الاستماع المتوقف</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>مُفعّل</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>معطّل</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>اضغط مع الاستمرار على سماعة الأذن اليمنى</value>
   </data>
@@ -1538,5 +1550,29 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>المعادل</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQLow.Header" xml:space="preserve">
+    <value>منخفض</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQMid.Header" xml:space="preserve">
+    <value>متوسط</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQHigh.Header" xml:space="preserve">
+    <value>مرتفع</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipe.Header" xml:space="preserve">
+    <value>تمرير مستوى الصوت</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength.Header" xml:space="preserve">
+    <value>طول التمرير</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Default.Text" xml:space="preserve">
+    <value>الافتراضي</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longer.Text" xml:space="preserve">
+    <value>اطول</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longest.Text" xml:space="preserve">
+    <value>الأطول</value>
   </data>
 </root>

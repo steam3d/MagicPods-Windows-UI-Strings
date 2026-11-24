@@ -1477,6 +1477,15 @@
   <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
     <value>Mã sản phẩm không trùng với mã sản phẩm trong mã kích hoạt. Xin vui lòng thử mã kích hoạt khác.</value>
   </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Chế độ nghe tắt</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Bật</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Tắt</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>Ấn và giữ tai nghe phải</value>
   </data>
@@ -1497,5 +1506,11 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>Bộ chỉnh âm</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Giới hạn sạc được tối ưu hóa</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Tạm dừng khi ngủ</value>
   </data>
 </root>

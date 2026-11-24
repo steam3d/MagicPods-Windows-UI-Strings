@@ -1124,6 +1124,9 @@
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>โหมดตัดเสียง</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>ลดระดับเสียงขณะพูด</value>
+  </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Text" xml:space="preserve">
     <value>ปิด</value>
   </data>
@@ -1322,13 +1325,40 @@
   <data name="Support_Buttons_Website.Content" xml:space="preserve">
     <value>เว็บไซต์</value>
   </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>โหมดการฟังปิด</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>เปิดใช้งาน</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>ปิดใช้งาน</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
+    <value>กดด้านขวาค้างไว้</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>กดด้านซ้ายค้างไว้</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
     <value>ผู้ช่วยส่วนตัว</value>
   </data>
   <data name="Headphones_Setting_Aap_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
     <value>ควบคุมเสียงรบกวน</value>
   </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>เพิ่มระดับเสียง</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>ลดระดับเสียง</value>
+  </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>อีควอไลเซอร์</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>ขีดจำกัดการชาร์จที่ปรับให้เหมาะสม</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>หยุดชั่วคราวเมื่อหลับ</value>
   </data>
 </root>

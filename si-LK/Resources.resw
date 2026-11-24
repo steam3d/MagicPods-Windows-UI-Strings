@@ -403,6 +403,58 @@
   <data name="Headphones_Warn_Startup_Button_EnableStartup.Message" xml:space="preserve">
     <value>හොඳම පරිශීලක අත්දැකීම සඳහා, ඔබ ආරම්භය සබල කරන ලෙස අපි නිර්දේශ කරමු.</value>
   </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Header" xml:space="preserve">
+    <value>Digital Crown</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_BackToFront.Text" xml:space="preserve">
+    <value>පසුපස සිට ඉදිරියට</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_FrontToBack.Text" xml:space="preserve">
+    <value>ඉදිරිපස සිට පසුපසට</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed.Header" xml:space="preserve">
+    <value>එබීමේ වේගය</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Default.Text" xml:space="preserve">
+    <value>පෙරනිමි</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slower.Text" xml:space="preserve">
+    <value>වඩා සෙමින්</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PressSpeed_Item_Slowest.Text" xml:space="preserve">
+    <value>සෙමින්ම</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration.Header" xml:space="preserve">
+    <value>ඔබාගෙන සිටීමේ කාලය</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Default.Text" xml:space="preserve">
+    <value>පෙරනිමි</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shorter.Text" xml:space="preserve">
+    <value>වඩා කෙටි</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldDuration_Item_Shortest.Text" xml:space="preserve">
+    <value>කෙටිම</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_AncOneAirPod.Header" xml:space="preserve">
+    <value>එක් ඉයර්බඩ් එකක් සමඟ ශබ්ද අවලංගු කිරීම</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_TuneVolume.Header" xml:space="preserve">
+    <value>නාද හඬ මට්ටම</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
   <data name="Hotkeys_VoiceOver_Header.Header" xml:space="preserve">
     <value>කථනය</value>
   </data>
@@ -469,6 +521,10 @@
   <data name="Headphones_Setting_Aap_NoiseControl_Item_NoiseCancellation.Text" xml:space="preserve">
     <value>ශබ්ද අහෝසි කිරීම</value>
   </data>
+  <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
+    <value>හෙඩ්ෆෝන් වෙතින් ශබ්ද පාලනය</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
   <data name="Headphones_Setting_Aap_CycleBetween_Item_NoiseCancellation.Content" xml:space="preserve">
     <value>ශබ්ද අහෝසි කිරීම</value>
   </data>
@@ -501,6 +557,9 @@
   </data>
   <data name="Headphones_Setting_AppleH2ChipNotice_Button.Content" xml:space="preserve">
     <value>තවත් හදාරන්න</value>
+  </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness_Volume.Header" xml:space="preserve">
+    <value>කතා කරන විට හඬ අඩු කරන්න</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey_Item_Off.Text" xml:space="preserve">
     <value>අක්රියයි</value>
@@ -541,6 +600,14 @@
   <data name="Support_Setting_License_ContentDialog_Cancel.SecondaryButtonText" xml:space="preserve">
     <value>වසන්න</value>
   </data>
+  <data name="Headphones_Setting_Aap_ConversationAwareness.Header" xml:space="preserve">
+    <value>සංවාද හඳුනාගැනීම</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
+  <data name="Headphones_Setting_Aap_PersonalisedVolume.Header" xml:space="preserve">
+    <value>පුද්ගලීකරණය කළ හඬ මට්ටම</value>
+    <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
+  </data>
   <data name="Headphones_Setting_Aap_DoubleTap_Item_PlayPause.Text" xml:space="preserve">
     <value>වාදනය / විරාමය</value>
   </data>
@@ -567,5 +634,59 @@
   </data>
   <data name="Headphones_Warn_Startup_Button_LearnMore.Content" xml:space="preserve">
     <value>තවත් හදාරන්න</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AdaptiveNoise.Header" xml:space="preserve">
+    <value>අනුවර්තී ප්‍රකාරය</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>අක්‍රිය සවන්දීමේ ප්‍රකාරය</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>සක්‍රිය</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>අක්‍රිය</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
+    <value>දකුණු පස ඔබාගෙන සිටීම</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>වම් පස ඔබාගෙන සිටීම</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>හඬ සහායක</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>හඬ වැඩි කරන්න</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>හඬ අඩු කරන්න</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
+    <value>සමකරනය</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQLow.Header" xml:space="preserve">
+    <value>අඩු</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQMid.Header" xml:space="preserve">
+    <value>මධ්‍ය</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQHigh.Header" xml:space="preserve">
+    <value>ඉහළ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipe.Header" xml:space="preserve">
+    <value>හඬ මට්ටම ස්වයිප් කිරීම</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength.Header" xml:space="preserve">
+    <value>ස්වයිප් දිග</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Default.Text" xml:space="preserve">
+    <value>පෙරනිමි</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longer.Text" xml:space="preserve">
+    <value>වඩා දිගු</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longest.Text" xml:space="preserve">
+    <value>දිගම</value>
   </data>
 </root>

@@ -1473,6 +1473,15 @@
   <data name="Headphones_Setting_Beats_CaseSoundsVolume.Description" xml:space="preserve">
     <value>Ajustează volumul efectelor de sunet ale carcasei de incărcare.</value>
   </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Modul de ascultare Oprit</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Activat</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Dezactivat</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>Țineți apasată casca dreaptă</value>
   </data>
@@ -1493,5 +1502,11 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>Egalizator</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Limită de încărcare optimizată</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Pauză la adormire</value>
   </data>
 </root>

@@ -1514,6 +1514,15 @@
   <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
     <value>プロダクトキーがライセンスキーに記載されているプロダクトキーと一致しません。別のライセンスキーをお試しください。</value>
   </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>“オフ”のリスニングモード</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>有効</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>無効</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>右のイヤホンを長押し</value>
   </data>
@@ -1534,5 +1543,11 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>イコライザ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>充電上限の最適化</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>入眠時に一時停止</value>
   </data>
 </root>

@@ -1512,6 +1512,15 @@
   <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
     <value>Tuoteavain ei täsmää lisenssiavaimen tuoteavainta. Ole hyvä, ja kokeile toista lisenssiavainta.</value>
   </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Kuuntelutila pois</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Käytössä</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Pois käytöstä</value>
+  </data>
   <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
     <value>Paina ja pidä painettuna oikeaa nappikuuloketta</value>
   </data>
@@ -1532,5 +1541,11 @@
   </data>
   <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
     <value>Taajuuskorjain</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Optimoitu latausraja</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Tauko nukahtaessa</value>
   </data>
 </root>
