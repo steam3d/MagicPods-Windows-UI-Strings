@@ -1074,7 +1074,7 @@
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Header" xml:space="preserve">
-    <value>Cycle between</value>
+    <value>Noise control from headphones</value>
     <comment>Use the same translation as on iPhone in the AirPods settings section</comment>
   </data>
   <data name="Headphones_Setting_Aap_CycleBetween.Description" xml:space="preserve">
@@ -1447,7 +1447,7 @@
     <value>Pressing the hotkey activates this mode if "{0}" is available in the headphone settings and the mode is supported.</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Header" xml:space="preserve">
-    <value>Cycle between with the hotkey</value>
+    <value>Noise control with the hotkey</value>
   </data>
   <data name="Headphones_Setting_CycleBetweenHotkey.Description" xml:space="preserve">
     <value>Press the "{0}" hotkey to cycle between the selected noise control modes.</value>
@@ -1704,4 +1704,4 @@
   <data name="Headphones_Setting_Aap_EndCallMuteMic.Description" xml:space="preserve">
     <value>Customize press actions during calls.</value>
   </data>
-</root>
+</root>
