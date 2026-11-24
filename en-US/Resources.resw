@@ -1578,4 +1578,130 @@
   <data name="License_ProductKeyMismatch.Text" xml:space="preserve">
     <value>The product key does not match the product key in the license key. Please try a different license key.</value>
   </data>
+  <data name="Headphones_Setting_Aap_AdaptiveNoise.Header" xml:space="preserve">
+    <value>Adaptive listening mode</value>
+  </data>
+  <data name="Headphones_Setting_Aap_AdaptiveNoise.Description" xml:space="preserve">
+    <value>The higher the level, the less background noise you hear.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode.Header" xml:space="preserve">
+    <value>Off listening mode</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode.Description" xml:space="preserve">
+    <value>Allows you to switch to Off mode.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Enabled.Text" xml:space="preserve">
+    <value>Enabled</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_Disabled.Text" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OffMode_Item_DoNotChange.Text" xml:space="preserve">
+    <value>Don't change</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldRight.Header" xml:space="preserve">
+    <value>Press and hold the right earbud</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldRight.Description" xml:space="preserve">
+    <value>Sets the action performed when pressing and holding.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldLeft.Header" xml:space="preserve">
+    <value>Press and hold the left earbud</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHoldLeft.Description" xml:space="preserve">
+    <value>Sets the action performed when pressing and holding.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VoiceAssistant.Text" xml:space="preserve">
+    <value>Voice assistant</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_NoiseControl.Text" xml:space="preserve">
+    <value>Noise control</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeUp.Text" xml:space="preserve">
+    <value>Volume up</value>
+  </data>
+  <data name="Headphones_Setting_Aap_PressAndHold_Item_VolumeDown.Text" xml:space="preserve">
+    <value>Volume down</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQ.Header" xml:space="preserve">
+    <value>Equalizer</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQLow.Header" xml:space="preserve">
+    <value>Low</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQMid.Header" xml:space="preserve">
+    <value>Mid</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EQHigh.Header" xml:space="preserve">
+    <value>High</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Header" xml:space="preserve">
+    <value>Optimized charge limit</value>
+  </data>
+  <data name="Headphones_Setting_Aap_OptimizedCharge.Description" xml:space="preserve">
+    <value>Helps reduce battery wear by limiting how much the battery charges.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Header" xml:space="preserve">
+    <value>Pause when asleep</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SleepDetection.Description" xml:space="preserve">
+    <value>Automatically pauses audio when you fall asleep.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipe.Header" xml:space="preserve">
+    <value>Volume swipe</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipe.Description" xml:space="preserve">
+    <value>Adjust the volume by swiping up or down on the touch control.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength.Header" xml:space="preserve">
+    <value>Swipe length</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength.Description" xml:space="preserve">
+    <value>Adjust how far you need to swipe to change the volume.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Default.Text" xml:space="preserve">
+    <value>Default</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longer.Text" xml:space="preserve">
+    <value>Longer</value>
+  </data>
+  <data name="Headphones_Setting_Aap_VolumeSwipeLength_Item_Longest.Text" xml:space="preserve">
+    <value>Longest</value>
+  </data>
+  <data name="Headphones_Setting_Aap_KeyIRK.Header" xml:space="preserve">
+    <value>IRK key</value>
+  </data>
+  <data name="Headphones_Setting_Aap_KeyIRK.Description" xml:space="preserve">
+    <value>If you're unsure what this key is for, keep it private and don't share it.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_KeyENC.Header" xml:space="preserve">
+    <value>ENC key</value>
+  </data>
+  <data name="Headphones_Setting_Aap_KeyENC.Description" xml:space="preserve">
+    <value>If you're unsure what this key is for, keep it private and don't share it.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_Key_Button_Copy.Content" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown_Item_DoNotChange.Text" xml:space="preserve">
+    <value>Don't Change</value>
+  </data>
+  <data name="Headphones_Setting_Aap_MicrophonePosition_Item_DoNotChange.Text" xml:space="preserve">
+    <value>Don't Change</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Item_DoNotChange.Text" xml:space="preserve">
+    <value>Don't Change</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Description" xml:space="preserve">
+    <value>Choose which direction to turn the Digital Crown to increase volume.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Right.Description" xml:space="preserve">
+    <value>Sets the action performed when double-tapping.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DoubleTap_Left.Description" xml:space="preserve">
+    <value>Sets the action performed when double-tapping.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_EndCallMuteMic.Description" xml:space="preserve">
+    <value>Customize press actions during calls.</value>
+  </data>
 </root>
