@@ -890,4 +890,25 @@
   <data name="Notification_AudioStreaming_DeviceConnectionError" xml:space="preserve">
     <value>传流之器联结无功，请验其蓝牙之设已张否。</value>
   </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_PlayPause.Text" xml:space="preserve">
+    <value>播放/暂停</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_PreviousTrack.Text" xml:space="preserve">
+    <value>上一曲</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_NextTrack.Text" xml:space="preserve">
+    <value>下一曲</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_ModeOff.Text" xml:space="preserve">
+    <value>閉</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_ModeTransparency.Text" xml:space="preserve">
+    <value>通透模式</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_ModeAdaptive.Text" xml:space="preserve">
+    <value>自适应模式</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_ModeNoiseCancellation.Text" xml:space="preserve">
+    <value>降噪</value>
+  </data>
 </root>
