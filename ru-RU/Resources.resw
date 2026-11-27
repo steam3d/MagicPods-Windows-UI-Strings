@@ -1675,4 +1675,58 @@
   <data name="Headphones_Setting_Aap_SteamControl_Item_ModeNoiseCancellation.Text" xml:space="preserve">
     <value>Шумоподавление</value>
   </data>
+  <data name="Headphones_Setting_Aap_KeyIRK.Header" xml:space="preserve">
+    <value>IRK ключ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_KeyENC.Header" xml:space="preserve">
+    <value>ENC ключ</value>
+  </data>
+  <data name="Headphones_Setting_Aap_Key_Button_Copy.Content" xml:space="preserve">
+    <value>Копировать</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl.Header" xml:space="preserve">
+    <value>Переназначить управление</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl.Description" xml:space="preserve">
+    <value>Включите, чтобы назначить новые действия для левого и правого наушников.</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl_Left_Single.Header" xml:space="preserve">
+    <value>Левый: одиночное нажатие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl_Left_Double.Header" xml:space="preserve">
+    <value>Левый: двойное нажатие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl_Left_Triple.Header" xml:space="preserve">
+    <value>Левый: тройное нажатие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl_Left_Long.Header" xml:space="preserve">
+    <value>Левый: длительное нажатие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl_Right_Single.Header" xml:space="preserve">
+    <value>Правый: одиночное нажатие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl_Right_Double.Header" xml:space="preserve">
+    <value>Правый: двойное нажатие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl_Right_Triple.Header" xml:space="preserve">
+    <value>Правый: тройное нажатие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_StemControl_Right_Long.Header" xml:space="preserve">
+    <value>Правый: длительное нажатие</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_None.Text" xml:space="preserve">
+    <value>Без действия</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_Stop.Text" xml:space="preserve">
+    <value>Стоп</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_MuteAudio.Text" xml:space="preserve">
+    <value>Выключить звук</value>
+  </data>
+  <data name="Headphones_Setting_Aap_SteamControl_Item_MuteMicrophone.Text" xml:space="preserve">
+    <value>Выключить микрофон</value>
+  </data>
+  <data name="Headphones_Setting_Aap_DigitalCrown.Description" xml:space="preserve">
+    <value>Выберите направление вращения Digital Crown для увеличения громкости.</value>
+  </data>
 </root>
